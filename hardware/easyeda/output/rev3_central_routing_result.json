@@ -1,0 +1,3428 @@
+{
+  "status": "partial",
+  "operation": "all",
+  "rules": {
+    "default": {
+      "clearanceMm": 0.3,
+      "edgeClearanceMm": 0.75,
+      "minTrackWidthMm": 0.3,
+      "preferredTrackWidthMm": 0.4,
+      "via": {
+        "minDiameterMm": 0.6,
+        "preferredDiameterMm": 0.6,
+        "minDrillMm": 0.3,
+        "preferredDrillMm": 0.3
+      },
+      "allowedLayers": [
+        "TOP"
+      ]
+    },
+    "nets": [
+      {
+        "net": "3V3_A",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "3V3_IN",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT3",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT4",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT5",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT6",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT7",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT8",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_BUF",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_DIRECT",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_HIGH",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_SUM",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT3",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT4",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT5",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT6",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT7",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT8",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_BUF",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_DIRECT",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_HIGH",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_SUM",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT3",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT4",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT5",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT6",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT7",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT8",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_BUF",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_DIRECT",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_HIGH",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_SUM",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "GND",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PA1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PA2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PA3",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PC0",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PC1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PC2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "REF_MID",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "REF_RAW",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "VBIAS",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      }
+    ]
+  },
+  "copper": {
+    "tracks": [
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 36.1011,
+            "y": 43.1801
+          },
+          {
+            "x": 37.601101,
+            "y": 43.1801
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 37.601101,
+            "y": 43.1801
+          },
+          {
+            "x": 38.601101,
+            "y": 44.1801
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 38.601101,
+            "y": 44.1801
+          },
+          {
+            "x": 38.8621,
+            "y": 44.1801
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 38.8621,
+            "y": 44.1801
+          },
+          {
+            "x": 39.2621,
+            "y": 44.1801
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 39.2621,
+            "y": 44.1801
+          },
+          {
+            "x": 40.8621,
+            "y": 42.5801
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 40.8621,
+            "y": 42.5801
+          },
+          {
+            "x": 40.8621,
+            "y": 39.2451
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 40.8601,
+            "y": 39.2431
+          },
+          {
+            "x": 40.8601,
+            "y": 36.5261
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 40.8601,
+            "y": 36.5261
+          },
+          {
+            "x": 40.5291,
+            "y": 36.1951
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 36.1011,
+            "y": 45.7201
+          },
+          {
+            "x": 39.201101,
+            "y": 45.7201
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 39.201101,
+            "y": 45.7201
+          },
+          {
+            "x": 40.378101,
+            "y": 46.8971
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 40.378101,
+            "y": 46.8971
+          },
+          {
+            "x": 41.9101,
+            "y": 46.8971
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 41.9101,
+            "y": 46.8971
+          },
+          {
+            "x": 43.1621,
+            "y": 46.8971
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 43.1621,
+            "y": 46.8971
+          },
+          {
+            "x": 44.9741,
+            "y": 45.0851
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 41.9101,
+            "y": 46.8971
+          },
+          {
+            "x": 43.6721,
+            "y": 48.6591
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 43.6721,
+            "y": 48.6591
+          },
+          {
+            "x": 43.6721,
+            "y": 50.8001
+          }
+        ]
+      },
+      {
+        "net": "VBIAS",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 24.892,
+            "y": 43.5771
+          },
+          {
+            "x": 24.9,
+            "y": 43.6
+          }
+        ]
+      },
+      {
+        "net": "VBIAS",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 24.9,
+            "y": 43.6
+          },
+          {
+            "x": 26.6,
+            "y": 41.9
+          }
+        ]
+      },
+      {
+        "net": "VBIAS",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 26.6,
+            "y": 41.9
+          },
+          {
+            "x": 30.7,
+            "y": 41.9
+          }
+        ]
+      },
+      {
+        "net": "VBIAS",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 30.7,
+            "y": 41.9
+          },
+          {
+            "x": 30.7011,
+            "y": 41.9101
+          }
+        ]
+      },
+      {
+        "net": "VBIAS",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 30.7,
+            "y": 41.9
+          },
+          {
+            "x": 30.7,
+            "y": 40.6
+          }
+        ]
+      },
+      {
+        "net": "VBIAS",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 30.7,
+            "y": 40.6
+          },
+          {
+            "x": 30.7011,
+            "y": 40.6401
+          }
+        ]
+      }
+    ],
+    "vias": [],
+    "zones": []
+  },
+  "diagnostics": [
+    {
+      "code": "HYBRID_ROUTE_MODE_SELECTED",
+      "severity": "info",
+      "message": "Hybrid routing selected hybrid.",
+      "details": {
+        "mode": "hybrid",
+        "fallback": false,
+        "krtNets": [
+          "CH2_SUM",
+          "CH3_SUM",
+          "VBIAS"
+        ],
+        "easyedaNets": [
+          "CH2_SUM",
+          "CH3_SUM",
+          "VBIAS"
+        ]
+      }
+    },
+    {
+      "code": "HYBRID_ROUTE_MODE_SELECTED",
+      "severity": "info",
+      "message": "Hybrid routing selected hybrid.",
+      "details": {
+        "mode": "hybrid",
+        "fallback": false
+      }
+    },
+    {
+      "code": "KRT_RECONCILIATION_SUMMARY_MERGED",
+      "severity": "info",
+      "message": "Consumed KRT's authoritative merged reconciliation summary.",
+      "details": {
+        "count": 2,
+        "path": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-4ca031ca\\krt\\native-auto-post-easy\\remaining\\main\\ordinary-01\\krt-remaining-summary.json"
+      }
+    },
+    {
+      "code": "KRT_MULTIPOINT_INCOMPLETE",
+      "severity": "error",
+      "message": "KRT left one or more multi-point pads disconnected.",
+      "details": [
+        {
+          "net_name": "VBIAS",
+          "failed_pads": [
+            {
+              "component_ref": "R23",
+              "pad_number": "?",
+              "x": 41.6721,
+              "y": 50.8001
+            },
+            {
+              "component_ref": "R35",
+              "pad_number": "?",
+              "x": 38.8621,
+              "y": 42.1801
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "KRT_PAD_PAIRS_OPEN",
+      "severity": "error",
+      "message": "KRT's final pad-pair report contains open nets.",
+      "details": [
+        {
+          "net": "VBIAS",
+          "pairs_connected": 2,
+          "pairs_total": 4,
+          "outcome": "open",
+          "open_subtype": "partial"
+        }
+      ]
+    },
+    {
+      "code": "KRT_RECONCILIATION_SUMMARY_MERGED",
+      "severity": "info",
+      "message": "Consumed KRT's authoritative merged reconciliation summary.",
+      "details": {
+        "count": 2,
+        "path": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-4ca031ca\\krt\\native-auto-post-easy\\remaining\\main-fallback\\original-via-avoid\\krt-remaining-summary.json"
+      }
+    },
+    {
+      "code": "KRT_MULTIPOINT_INCOMPLETE",
+      "severity": "warning",
+      "message": "KRT left one or more multi-point pads disconnected.",
+      "details": [
+        {
+          "net_name": "VBIAS",
+          "failed_pads": [
+            {
+              "component_ref": "R23",
+              "pad_number": "?",
+              "x": 41.6721,
+              "y": 50.8001
+            },
+            {
+              "component_ref": "R35",
+              "pad_number": "?",
+              "x": 38.8621,
+              "y": 42.1801
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "KRT_PAD_PAIRS_OPEN",
+      "severity": "warning",
+      "message": "KRT's final pad-pair report contains open nets.",
+      "details": [
+        {
+          "net": "VBIAS",
+          "pairs_connected": 2,
+          "pairs_total": 4,
+          "outcome": "open",
+          "open_subtype": "partial"
+        }
+      ]
+    },
+    {
+      "code": "KRT_STAGE_CANDIDATE_REJECTED",
+      "severity": "warning",
+      "message": "A KRT stage artifact was retained for diagnosis but the workflow rolled back to its previous checkpoint because a full-board safety invariant regressed.",
+      "details": {
+        "tag": "05-main-fallback-original",
+        "outputExists": true,
+        "hardDamage": [],
+        "ruleErrors": [],
+        "impedance": [],
+        "beforeOpenNets": [
+          "VBIAS"
+        ],
+        "afterOpenNets": [
+          "VBIAS"
+        ],
+        "beforeDrcViolations": 0,
+        "afterDrcViolations": 0,
+        "connectivityNonRegressing": true,
+        "connectivityImproved": false,
+        "effectiveConnectivityImproved": false,
+        "allowWeightedTradeoff": true,
+        "connectivityTradeoff": {
+          "evidenceComplete": true,
+          "hardConnectivityNonRegressing": true,
+          "weightedConnectivityImproved": false,
+          "baselinePriorityOpenPenalty": 16,
+          "candidatePriorityOpenPenalty": 16,
+          "baselineOpenNetCount": 1,
+          "candidateOpenNetCount": 1,
+          "baselineComponentExcess": 2,
+          "candidateComponentExcess": 2,
+          "newlyOpenedNets": [],
+          "newlyOpenedHardNets": [],
+          "newlyClosedNets": []
+        },
+        "requireConnectivityImprovement": true,
+        "shortsNonRegressing": true,
+        "drcNonRegressing": true,
+        "gate": "ordinary"
+      }
+    },
+    {
+      "code": "KRT_RECONCILIATION_SUMMARY_MERGED",
+      "severity": "info",
+      "message": "Consumed KRT's authoritative merged reconciliation summary.",
+      "details": {
+        "count": 2,
+        "path": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-4ca031ca\\krt\\native-auto-post-easy\\remaining\\repair\\01-open-ordinary-01\\krt-remaining-summary.json"
+      }
+    },
+    {
+      "code": "KRT_MULTIPOINT_INCOMPLETE",
+      "severity": "warning",
+      "message": "KRT left one or more multi-point pads disconnected.",
+      "details": [
+        {
+          "net_name": "VBIAS",
+          "failed_pads": [
+            {
+              "component_ref": "R23",
+              "pad_number": "?",
+              "x": 41.6721,
+              "y": 50.8001
+            },
+            {
+              "component_ref": "R35",
+              "pad_number": "?",
+              "x": 38.8621,
+              "y": 42.1801
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "KRT_PAD_PAIRS_OPEN",
+      "severity": "warning",
+      "message": "KRT's final pad-pair report contains open nets.",
+      "details": [
+        {
+          "net": "VBIAS",
+          "pairs_connected": 2,
+          "pairs_total": 4,
+          "outcome": "open",
+          "open_subtype": "partial"
+        }
+      ]
+    },
+    {
+      "code": "KRT_REPAIR_CANDIDATE_REJECTED",
+      "severity": "warning",
+      "message": "A targeted repair candidate was retained as an artifact but not applied because it did not improve its target or regressed a full-board safety gate.",
+      "details": {
+        "kind": "open",
+        "nets": [
+          "VBIAS"
+        ],
+        "blockerVictims": [],
+        "beforeOpenNets": [
+          "VBIAS"
+        ],
+        "afterOpenNets": [
+          "VBIAS"
+        ],
+        "beforeDrcViolations": 0,
+        "afterDrcViolations": 0,
+        "detourBounded": true,
+        "protectedDamage": false,
+        "protectionRestored": true,
+        "strictlyImproved": false
+      }
+    },
+    {
+      "code": "ROUTING_CANDIDATE_AUDITED",
+      "severity": "info",
+      "message": "Selected hybrid after semantic candidate audit.",
+      "details": {
+        "selected": {
+          "label": "hybrid",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 16,
+          "openNetCount": 1,
+          "connectivityComponentCount": 5,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 34.980683614925006,
+          "score": [
+            0,
+            0,
+            16,
+            1,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            34.980683614925006,
+            0
+          ]
+        },
+        "attempted": {
+          "label": "hybrid",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 16,
+          "openNetCount": 1,
+          "connectivityComponentCount": 5,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 34.980683614925006,
+          "score": [
+            0,
+            0,
+            16,
+            1,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            34.980683614925006,
+            0
+          ]
+        },
+        "baseline": {
+          "label": "pre-route-checkpoint",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 48,
+          "openNetCount": 3,
+          "connectivityComponentCount": 13,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 0,
+          "score": [
+            0,
+            0,
+            48,
+            3,
+            13,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1
+          ]
+        }
+      }
+    }
+  ],
+  "metrics": {
+    "elapsedMs": 16408.779300000053,
+    "routedNetCount": 2,
+    "openNetCount": 1,
+    "openNets": [
+      "VBIAS"
+    ],
+    "connectivityComponentCount": 5,
+    "viaCount": 0,
+    "trackLengthMm": 34.980683614925006,
+    "backend": "hybrid",
+    "details": {
+      "artifactsDirectory": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-4ca031ca\\krt\\native-auto-post-easy\\remaining",
+      "runtime": {
+        "version": "0.21.3",
+        "source": "cache",
+        "cacheDirectory": "C:\\Users\\kagas\\AppData\\Local\\eda-copilot\\router"
+      },
+      "policy": "native-auto",
+      "workflowMode": "post-easy",
+      "preRouteConnectivity": {
+        "openNets": [
+          "CH2_SUM",
+          "CH3_SUM",
+          "VBIAS"
+        ],
+        "componentsByNet": {
+          "CH2_SUM": 4,
+          "CH3_SUM": 4,
+          "VBIAS": 5
+        },
+        "connectivityComponentCount": 13
+      },
+      "initialConnectivity": {
+        "openNets": [
+          "VBIAS"
+        ],
+        "componentsByNet": {
+          "CH2_SUM": 1,
+          "CH3_SUM": 1,
+          "VBIAS": 5
+        },
+        "connectivityComponentCount": 7
+      },
+      "finalConnectivity": {
+        "openNets": [
+          "VBIAS"
+        ],
+        "componentsByNet": {
+          "CH2_SUM": 1,
+          "CH3_SUM": 1,
+          "VBIAS": 3
+        },
+        "connectivityComponentCount": 5
+      },
+      "protectedNets": [],
+      "specialBatches": [],
+      "specialConstraintsDeferred": false,
+      "deferredSpecialNets": [],
+      "verifiedSpecialNets": [],
+      "ordinaryFallbackSpecialNets": [],
+      "rejectedSpecialNets": [],
+      "critical": [],
+      "early": [],
+      "main": [
+        {
+          "routed_single": [],
+          "failed_single": [],
+          "open_single": [],
+          "failed_multipoint": [
+            {
+              "net_name": "VBIAS",
+              "failed_pads": [
+                {
+                  "component_ref": "R23",
+                  "pad_number": "?",
+                  "x": 41.6721,
+                  "y": 50.8001
+                },
+                {
+                  "component_ref": "R35",
+                  "pad_number": "?",
+                  "x": 38.8621,
+                  "y": 42.1801
+                }
+              ]
+            }
+          ],
+          "multipoint_nets": 1,
+          "multipoint_pads_connected": 3,
+          "multipoint_pads_total": 5,
+          "multipoint_edges_routed": 0,
+          "multipoint_edges_failed": 2,
+          "ripup_success_pairs": [],
+          "rerouted_pairs": [],
+          "single_ended_target_swaps": [],
+          "layer_swaps": 0,
+          "successful": 0,
+          "failed": 1,
+          "total_time": 0.15,
+          "total_iterations": 898087,
+          "total_vias": 0,
+          "cleanup_disconnected": [],
+          "min_clearance_used": 0.3,
+          "stacked_copper": [
+            {
+              "category": "stacked-copper",
+              "net": "PC0",
+              "layer": "F.Cu",
+              "x": 30.48,
+              "y": 52.308,
+              "detail": "2 duplicate segments stacked on (30.480, 52.308)-(30.566, 52.394)",
+              "size": 0.12162236636408408
+            },
+            {
+              "category": "stacked-copper",
+              "net": "PC1",
+              "layer": "F.Cu",
+              "x": 37.957,
+              "y": 50.419,
+              "detail": "2 duplicate segments stacked on (37.957, 50.419)-(38.000, 50.400)",
+              "size": 0.04701063709417129
+            },
+            {
+              "category": "stacked-copper",
+              "net": "3V3_A",
+              "layer": "F.Cu",
+              "x": 30.5,
+              "y": 44.7,
+              "detail": "2 duplicate segments stacked on (30.500, 44.700)-(30.700, 44.500)",
+              "size": 0.2828427124746205
+            },
+            {
+              "category": "stacked-copper",
+              "net": "3V3_A",
+              "layer": "F.Cu",
+              "x": 30.7,
+              "y": 44.5,
+              "detail": "2 duplicate segments stacked on (30.700, 44.500)-(30.800, 44.600)",
+              "size": 0.1414213562373115
+            },
+            {
+              "category": "stacked-copper",
+              "net": "3V3_A",
+              "layer": "F.Cu",
+              "x": 44.975,
+              "y": 41.125,
+              "detail": "2 duplicate segments stacked on (44.975, 41.125)-(45.000, 41.100)",
+              "size": 0.035355339059325364
+            }
+          ],
+          "oracle_check": "disabled",
+          "pad_pairs_connected": 70,
+          "pad_pairs_total": 72,
+          "pad_pairs_open": [
+            {
+              "net": "VBIAS",
+              "pairs_connected": 2,
+              "pairs_total": 4,
+              "outcome": "open",
+              "open_subtype": "partial"
+            }
+          ],
+          "scope": "reconciliation-subset",
+          "board_scoped_keys": [
+            "stacked_copper",
+            "min_clearance_used"
+          ],
+          "env_knobs": {
+            "KICAD_BARE_PAD_ESCAPE": "0",
+            "KICAD_DYNAMIC_ITERATIONS": "0",
+            "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+            "KICAD_FINALIZE_RIP": "1",
+            "KICAD_IMPEDANCE_NECKDOWN": "1",
+            "KICAD_NET_RESCUE": "0",
+            "KICAD_PLANE_FINALIZE": "0",
+            "KICAD_RESCUE_CAP_MOVE": "0",
+            "KICAD_RIP_PREEXISTING": "1",
+            "KICAD_TERMINAL_ESCALATION": "0"
+          },
+          "blockers": [
+            {
+              "net": "VBIAS",
+              "stage": "phase3",
+              "blocked_by": [
+                {
+                  "net": "PC1",
+                  "blocked_count": 499,
+                  "unique_cells": 499,
+                  "track_cells": 499,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "PC2",
+                  "blocked_count": 221,
+                  "unique_cells": 221,
+                  "track_cells": 221,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "PC0",
+                  "blocked_count": 156,
+                  "unique_cells": 156,
+                  "track_cells": 156,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "CH2_ATT8",
+                  "blocked_count": 150,
+                  "unique_cells": 150,
+                  "track_cells": 150,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "CH2_SUM",
+                  "blocked_count": 132,
+                  "unique_cells": 132,
+                  "track_cells": 132,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "CH1_ATT1",
+                  "blocked_count": 131,
+                  "unique_cells": 131,
+                  "track_cells": 131,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "REF_MID",
+                  "blocked_count": 110,
+                  "unique_cells": 110,
+                  "track_cells": 110,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "CH3_ATT4",
+                  "blocked_count": 103,
+                  "unique_cells": 103,
+                  "track_cells": 103,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "CH3_ATT8",
+                  "blocked_count": 103,
+                  "unique_cells": 103,
+                  "track_cells": 103,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "PA3",
+                  "blocked_count": 98,
+                  "unique_cells": 98,
+                  "track_cells": 98,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                }
+              ],
+              "more": 20
+            },
+            {
+              "net": "VBIAS",
+              "stage": "preexisting",
+              "blocked_by": [
+                {
+                  "net": "3V3_A",
+                  "preexisting": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "recovery": [
+        {
+          "routed_single": [],
+          "failed_single": [],
+          "open_single": [],
+          "failed_multipoint": [
+            {
+              "net_name": "VBIAS",
+              "failed_pads": [
+                {
+                  "component_ref": "R23",
+                  "pad_number": "?",
+                  "x": 41.6721,
+                  "y": 50.8001
+                },
+                {
+                  "component_ref": "R35",
+                  "pad_number": "?",
+                  "x": 38.8621,
+                  "y": 42.1801
+                }
+              ]
+            }
+          ],
+          "multipoint_nets": 1,
+          "multipoint_pads_connected": 3,
+          "multipoint_pads_total": 5,
+          "multipoint_edges_routed": 0,
+          "multipoint_edges_failed": 2,
+          "ripup_success_pairs": [],
+          "rerouted_pairs": [],
+          "single_ended_target_swaps": [],
+          "layer_swaps": 0,
+          "successful": 0,
+          "failed": 1,
+          "total_time": 0.16,
+          "total_iterations": 900026,
+          "total_vias": 0,
+          "cleanup_disconnected": [],
+          "min_clearance_used": 0.3,
+          "rescue": {
+            "attempted": 1,
+            "recovered": [],
+            "improved": [],
+            "unchanged": [
+              "VBIAS"
+            ],
+            "pads_reconnected": 0,
+            "widths": {},
+            "time": 0.01
+          },
+          "stacked_copper": [
+            {
+              "category": "stacked-copper",
+              "net": "PC0",
+              "layer": "F.Cu",
+              "x": 30.48,
+              "y": 52.308,
+              "detail": "2 duplicate segments stacked on (30.480, 52.308)-(30.566, 52.394)",
+              "size": 0.12162236636408408
+            },
+            {
+              "category": "stacked-copper",
+              "net": "PC1",
+              "layer": "F.Cu",
+              "x": 37.957,
+              "y": 50.419,
+              "detail": "2 duplicate segments stacked on (37.957, 50.419)-(38.000, 50.400)",
+              "size": 0.04701063709417129
+            },
+            {
+              "category": "stacked-copper",
+              "net": "3V3_A",
+              "layer": "F.Cu",
+              "x": 30.5,
+              "y": 44.7,
+              "detail": "2 duplicate segments stacked on (30.500, 44.700)-(30.700, 44.500)",
+              "size": 0.2828427124746205
+            },
+            {
+              "category": "stacked-copper",
+              "net": "3V3_A",
+              "layer": "F.Cu",
+              "x": 30.7,
+              "y": 44.5,
+              "detail": "2 duplicate segments stacked on (30.700, 44.500)-(30.800, 44.600)",
+              "size": 0.1414213562373115
+            },
+            {
+              "category": "stacked-copper",
+              "net": "3V3_A",
+              "layer": "F.Cu",
+              "x": 44.975,
+              "y": 41.125,
+              "detail": "2 duplicate segments stacked on (44.975, 41.125)-(45.000, 41.100)",
+              "size": 0.035355339059325364
+            }
+          ],
+          "oracle_check": "disabled",
+          "pad_pairs_connected": 70,
+          "pad_pairs_total": 72,
+          "pad_pairs_open": [
+            {
+              "net": "VBIAS",
+              "pairs_connected": 2,
+              "pairs_total": 4,
+              "outcome": "open",
+              "open_subtype": "partial"
+            }
+          ],
+          "scope": "reconciliation-subset",
+          "board_scoped_keys": [
+            "stacked_copper",
+            "min_clearance_used"
+          ],
+          "env_knobs": {
+            "KICAD_BARE_PAD_ESCAPE": "0",
+            "KICAD_DYNAMIC_ITERATIONS": "0",
+            "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+            "KICAD_FINALIZE_RIP": "1",
+            "KICAD_IMPEDANCE_NECKDOWN": "1",
+            "KICAD_NET_RESCUE": "1",
+            "KICAD_PLANE_FINALIZE": "0",
+            "KICAD_RESCUE_CAP_MOVE": "0",
+            "KICAD_RIP_PREEXISTING": "1",
+            "KICAD_TERMINAL_ESCALATION": "0"
+          },
+          "blockers": [
+            {
+              "net": "VBIAS",
+              "stage": "phase3",
+              "blocked_by": [
+                {
+                  "net": "PC1",
+                  "blocked_count": 499,
+                  "unique_cells": 499,
+                  "track_cells": 499,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "PC2",
+                  "blocked_count": 221,
+                  "unique_cells": 221,
+                  "track_cells": 221,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "PC0",
+                  "blocked_count": 156,
+                  "unique_cells": 156,
+                  "track_cells": 156,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "CH2_ATT8",
+                  "blocked_count": 150,
+                  "unique_cells": 150,
+                  "track_cells": 150,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "CH2_SUM",
+                  "blocked_count": 132,
+                  "unique_cells": 132,
+                  "track_cells": 132,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "CH1_ATT1",
+                  "blocked_count": 131,
+                  "unique_cells": 131,
+                  "track_cells": 131,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "REF_MID",
+                  "blocked_count": 110,
+                  "unique_cells": 110,
+                  "track_cells": 110,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "CH3_ATT4",
+                  "blocked_count": 103,
+                  "unique_cells": 103,
+                  "track_cells": 103,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "CH3_ATT8",
+                  "blocked_count": 103,
+                  "unique_cells": 103,
+                  "track_cells": 103,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                },
+                {
+                  "net": "PA3",
+                  "blocked_count": 98,
+                  "unique_cells": 98,
+                  "track_cells": 98,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                }
+              ],
+              "more": 20
+            },
+            {
+              "net": "VBIAS",
+              "stage": "preexisting",
+              "blocked_by": [
+                {
+                  "net": "3V3_A",
+                  "preexisting": true
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "impedance": {
+        "stackupPresent": true,
+        "verifiedNets": [],
+        "reports": [],
+        "planeFillFieldSolverVerificationRequired": false
+      },
+      "repairs": [
+        {
+          "kind": "open",
+          "accepted": false,
+          "status": "completed",
+          "elapsedMs": 3062.4576000003144,
+          "beforeOpenNets": [
+            "VBIAS"
+          ],
+          "afterOpenNets": [
+            "VBIAS"
+          ],
+          "beforeDrcViolations": 0,
+          "afterDrcViolations": 0,
+          "summary": {
+            "routed_single": [],
+            "failed_single": [],
+            "open_single": [],
+            "failed_multipoint": [
+              {
+                "net_name": "VBIAS",
+                "failed_pads": [
+                  {
+                    "component_ref": "R23",
+                    "pad_number": "?",
+                    "x": 41.6721,
+                    "y": 50.8001
+                  },
+                  {
+                    "component_ref": "R35",
+                    "pad_number": "?",
+                    "x": 38.8621,
+                    "y": 42.1801
+                  }
+                ]
+              }
+            ],
+            "multipoint_nets": 1,
+            "multipoint_pads_connected": 3,
+            "multipoint_pads_total": 5,
+            "multipoint_edges_routed": 0,
+            "multipoint_edges_failed": 2,
+            "ripup_success_pairs": [],
+            "rerouted_pairs": [],
+            "single_ended_target_swaps": [],
+            "layer_swaps": 0,
+            "successful": 0,
+            "failed": 1,
+            "total_time": 0.15,
+            "total_iterations": 900026,
+            "total_vias": 0,
+            "cleanup_disconnected": [],
+            "min_clearance_used": 0.3,
+            "stacked_copper": [
+              {
+                "category": "stacked-copper",
+                "net": "PC0",
+                "layer": "F.Cu",
+                "x": 30.48,
+                "y": 52.308,
+                "detail": "2 duplicate segments stacked on (30.480, 52.308)-(30.566, 52.394)",
+                "size": 0.12162236636408408
+              },
+              {
+                "category": "stacked-copper",
+                "net": "PC1",
+                "layer": "F.Cu",
+                "x": 37.957,
+                "y": 50.419,
+                "detail": "2 duplicate segments stacked on (37.957, 50.419)-(38.000, 50.400)",
+                "size": 0.04701063709417129
+              },
+              {
+                "category": "stacked-copper",
+                "net": "3V3_A",
+                "layer": "F.Cu",
+                "x": 30.5,
+                "y": 44.7,
+                "detail": "2 duplicate segments stacked on (30.500, 44.700)-(30.700, 44.500)",
+                "size": 0.2828427124746205
+              },
+              {
+                "category": "stacked-copper",
+                "net": "3V3_A",
+                "layer": "F.Cu",
+                "x": 30.7,
+                "y": 44.5,
+                "detail": "2 duplicate segments stacked on (30.700, 44.500)-(30.800, 44.600)",
+                "size": 0.1414213562373115
+              },
+              {
+                "category": "stacked-copper",
+                "net": "3V3_A",
+                "layer": "F.Cu",
+                "x": 44.975,
+                "y": 41.125,
+                "detail": "2 duplicate segments stacked on (44.975, 41.125)-(45.000, 41.100)",
+                "size": 0.035355339059325364
+              }
+            ],
+            "oracle_check": "disabled",
+            "pad_pairs_connected": 70,
+            "pad_pairs_total": 72,
+            "pad_pairs_open": [
+              {
+                "net": "VBIAS",
+                "pairs_connected": 2,
+                "pairs_total": 4,
+                "outcome": "open",
+                "open_subtype": "partial"
+              }
+            ],
+            "scope": "reconciliation-subset",
+            "board_scoped_keys": [
+              "stacked_copper",
+              "min_clearance_used"
+            ],
+            "env_knobs": {
+              "KICAD_BARE_PAD_ESCAPE": "0",
+              "KICAD_DYNAMIC_ITERATIONS": "0",
+              "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+              "KICAD_FINALIZE_RIP": "1",
+              "KICAD_IMPEDANCE_NECKDOWN": "1",
+              "KICAD_NET_RESCUE": "0",
+              "KICAD_PLANE_FINALIZE": "0",
+              "KICAD_RESCUE_CAP_MOVE": "0",
+              "KICAD_RIP_PREEXISTING": "1",
+              "KICAD_TERMINAL_ESCALATION": "0"
+            },
+            "blockers": [
+              {
+                "net": "VBIAS",
+                "stage": "phase3",
+                "blocked_by": [
+                  {
+                    "net": "PC1",
+                    "blocked_count": 499,
+                    "unique_cells": 499,
+                    "track_cells": 499,
+                    "via_cells": 0,
+                    "near_target_cells": 0,
+                    "near_source_cells": 0
+                  },
+                  {
+                    "net": "PC2",
+                    "blocked_count": 221,
+                    "unique_cells": 221,
+                    "track_cells": 221,
+                    "via_cells": 0,
+                    "near_target_cells": 0,
+                    "near_source_cells": 0
+                  },
+                  {
+                    "net": "PC0",
+                    "blocked_count": 156,
+                    "unique_cells": 156,
+                    "track_cells": 156,
+                    "via_cells": 0,
+                    "near_target_cells": 0,
+                    "near_source_cells": 0
+                  },
+                  {
+                    "net": "CH2_ATT8",
+                    "blocked_count": 150,
+                    "unique_cells": 150,
+                    "track_cells": 150,
+                    "via_cells": 0,
+                    "near_target_cells": 0,
+                    "near_source_cells": 0
+                  },
+                  {
+                    "net": "CH2_SUM",
+                    "blocked_count": 132,
+                    "unique_cells": 132,
+                    "track_cells": 132,
+                    "via_cells": 0,
+                    "near_target_cells": 0,
+                    "near_source_cells": 0
+                  },
+                  {
+                    "net": "CH1_ATT1",
+                    "blocked_count": 131,
+                    "unique_cells": 131,
+                    "track_cells": 131,
+                    "via_cells": 0,
+                    "near_target_cells": 0,
+                    "near_source_cells": 0
+                  },
+                  {
+                    "net": "REF_MID",
+                    "blocked_count": 110,
+                    "unique_cells": 110,
+                    "track_cells": 110,
+                    "via_cells": 0,
+                    "near_target_cells": 0,
+                    "near_source_cells": 0
+                  },
+                  {
+                    "net": "CH3_ATT4",
+                    "blocked_count": 103,
+                    "unique_cells": 103,
+                    "track_cells": 103,
+                    "via_cells": 0,
+                    "near_target_cells": 0,
+                    "near_source_cells": 0
+                  },
+                  {
+                    "net": "CH3_ATT8",
+                    "blocked_count": 103,
+                    "unique_cells": 103,
+                    "track_cells": 103,
+                    "via_cells": 0,
+                    "near_target_cells": 0,
+                    "near_source_cells": 0
+                  },
+                  {
+                    "net": "PA3",
+                    "blocked_count": 98,
+                    "unique_cells": 98,
+                    "track_cells": 98,
+                    "via_cells": 0,
+                    "near_target_cells": 0,
+                    "near_source_cells": 0
+                  }
+                ],
+                "more": 20
+              },
+              {
+                "net": "VBIAS",
+                "stage": "preexisting",
+                "blocked_by": [
+                  {
+                    "net": "3V3_A",
+                    "preexisting": true
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "repairBudgetMs": 15000,
+      "repairElapsedMs": 4556.270699999761,
+      "phaseTimings": {
+        "fanoutMs": 0,
+        "specialMs": 0,
+        "mainMs": 3087.8254999998026,
+        "rescueMs": 3114.4230999997817,
+        "targetedRepairMs": 4556.270699999761,
+        "auditMs": 3143.364700000733
+      },
+      "routingSubprocessCount": 2,
+      "expensiveRescueCount": 1,
+      "ordinaryRouteBatchCount": 1,
+      "ordinaryRouteBatchLimit": 32,
+      "finalConnectivityAuditMs": 371.3363000000827,
+      "finalDrc": {
+        "drcViolationCount": 0,
+        "shortViolationCount": 0,
+        "byType": {},
+        "contactsByType": {},
+        "fingerprintCount": 0,
+        "fingerprintSamples": [],
+        "shortFingerprintSamples": []
+      },
+      "stageGateElapsedMs": 1848.2427000002936,
+      "fanout": [],
+      "hybrid": {
+        "mode": "hybrid",
+        "krtNets": [
+          "CH2_SUM",
+          "CH3_SUM",
+          "VBIAS"
+        ],
+        "easyedaNets": [
+          "CH2_SUM",
+          "CH3_SUM",
+          "VBIAS"
+        ],
+        "reasons": {
+          "CH2_SUM": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH3_SUM": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "VBIAS": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ]
+        },
+        "stages": {
+          "easyedaBulk": {
+            "status": "complete",
+            "metrics": {
+              "elapsedMs": 436.37999999988824,
+              "routedNetCount": 3,
+              "openNetCount": 0,
+              "openNets": [],
+              "connectivityComponentCount": 3,
+              "trackLengthMm": 54.83884780310177,
+              "viaCount": 3,
+              "details": {
+                "progress": 1,
+                "routability": 1,
+                "connectivityEvidence": "easyeda-wasm-routability",
+                "routeNets": [
+                  "CH2_SUM",
+                  "CH3_SUM",
+                  "VBIAS"
+                ]
+              }
+            }
+          },
+          "krtPostEasy": {
+            "status": "partial",
+            "metrics": {
+              "elapsedMs": 13990.85850000009,
+              "routedNetCount": 2,
+              "openNetCount": 1,
+              "openNets": [
+                "VBIAS"
+              ],
+              "connectivityComponentCount": 5,
+              "viaCount": 0,
+              "trackLengthMm": 34.980683614925006,
+              "backend": "krt",
+              "details": {
+                "artifactsDirectory": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-4ca031ca\\krt\\native-auto-post-easy\\remaining",
+                "runtime": {
+                  "version": "0.21.3",
+                  "source": "cache",
+                  "cacheDirectory": "C:\\Users\\kagas\\AppData\\Local\\eda-copilot\\router"
+                },
+                "policy": "native-auto",
+                "workflowMode": "post-easy",
+                "preRouteConnectivity": {
+                  "openNets": [
+                    "CH2_SUM",
+                    "CH3_SUM",
+                    "VBIAS"
+                  ],
+                  "componentsByNet": {
+                    "CH2_SUM": 4,
+                    "CH3_SUM": 4,
+                    "VBIAS": 5
+                  },
+                  "connectivityComponentCount": 13
+                },
+                "initialConnectivity": {
+                  "openNets": [
+                    "VBIAS"
+                  ],
+                  "componentsByNet": {
+                    "CH2_SUM": 1,
+                    "CH3_SUM": 1,
+                    "VBIAS": 5
+                  },
+                  "connectivityComponentCount": 7
+                },
+                "finalConnectivity": {
+                  "openNets": [
+                    "VBIAS"
+                  ],
+                  "componentsByNet": {
+                    "CH2_SUM": 1,
+                    "CH3_SUM": 1,
+                    "VBIAS": 3
+                  },
+                  "connectivityComponentCount": 5
+                },
+                "protectedNets": [],
+                "specialBatches": [],
+                "specialConstraintsDeferred": false,
+                "deferredSpecialNets": [],
+                "verifiedSpecialNets": [],
+                "ordinaryFallbackSpecialNets": [],
+                "rejectedSpecialNets": [],
+                "critical": [],
+                "early": [],
+                "main": [
+                  {
+                    "routed_single": [],
+                    "failed_single": [],
+                    "open_single": [],
+                    "failed_multipoint": [
+                      {
+                        "net_name": "VBIAS",
+                        "failed_pads": [
+                          {
+                            "component_ref": "R23",
+                            "pad_number": "?",
+                            "x": 41.6721,
+                            "y": 50.8001
+                          },
+                          {
+                            "component_ref": "R35",
+                            "pad_number": "?",
+                            "x": 38.8621,
+                            "y": 42.1801
+                          }
+                        ]
+                      }
+                    ],
+                    "multipoint_nets": 1,
+                    "multipoint_pads_connected": 3,
+                    "multipoint_pads_total": 5,
+                    "multipoint_edges_routed": 0,
+                    "multipoint_edges_failed": 2,
+                    "ripup_success_pairs": [],
+                    "rerouted_pairs": [],
+                    "single_ended_target_swaps": [],
+                    "layer_swaps": 0,
+                    "successful": 0,
+                    "failed": 1,
+                    "total_time": 0.15,
+                    "total_iterations": 898087,
+                    "total_vias": 0,
+                    "cleanup_disconnected": [],
+                    "min_clearance_used": 0.3,
+                    "stacked_copper": [
+                      {
+                        "category": "stacked-copper",
+                        "net": "PC0",
+                        "layer": "F.Cu",
+                        "x": 30.48,
+                        "y": 52.308,
+                        "detail": "2 duplicate segments stacked on (30.480, 52.308)-(30.566, 52.394)",
+                        "size": 0.12162236636408408
+                      },
+                      {
+                        "category": "stacked-copper",
+                        "net": "PC1",
+                        "layer": "F.Cu",
+                        "x": 37.957,
+                        "y": 50.419,
+                        "detail": "2 duplicate segments stacked on (37.957, 50.419)-(38.000, 50.400)",
+                        "size": 0.04701063709417129
+                      },
+                      {
+                        "category": "stacked-copper",
+                        "net": "3V3_A",
+                        "layer": "F.Cu",
+                        "x": 30.5,
+                        "y": 44.7,
+                        "detail": "2 duplicate segments stacked on (30.500, 44.700)-(30.700, 44.500)",
+                        "size": 0.2828427124746205
+                      },
+                      {
+                        "category": "stacked-copper",
+                        "net": "3V3_A",
+                        "layer": "F.Cu",
+                        "x": 30.7,
+                        "y": 44.5,
+                        "detail": "2 duplicate segments stacked on (30.700, 44.500)-(30.800, 44.600)",
+                        "size": 0.1414213562373115
+                      },
+                      {
+                        "category": "stacked-copper",
+                        "net": "3V3_A",
+                        "layer": "F.Cu",
+                        "x": 44.975,
+                        "y": 41.125,
+                        "detail": "2 duplicate segments stacked on (44.975, 41.125)-(45.000, 41.100)",
+                        "size": 0.035355339059325364
+                      }
+                    ],
+                    "oracle_check": "disabled",
+                    "pad_pairs_connected": 70,
+                    "pad_pairs_total": 72,
+                    "pad_pairs_open": [
+                      {
+                        "net": "VBIAS",
+                        "pairs_connected": 2,
+                        "pairs_total": 4,
+                        "outcome": "open",
+                        "open_subtype": "partial"
+                      }
+                    ],
+                    "scope": "reconciliation-subset",
+                    "board_scoped_keys": [
+                      "stacked_copper",
+                      "min_clearance_used"
+                    ],
+                    "env_knobs": {
+                      "KICAD_BARE_PAD_ESCAPE": "0",
+                      "KICAD_DYNAMIC_ITERATIONS": "0",
+                      "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+                      "KICAD_FINALIZE_RIP": "1",
+                      "KICAD_IMPEDANCE_NECKDOWN": "1",
+                      "KICAD_NET_RESCUE": "0",
+                      "KICAD_PLANE_FINALIZE": "0",
+                      "KICAD_RESCUE_CAP_MOVE": "0",
+                      "KICAD_RIP_PREEXISTING": "1",
+                      "KICAD_TERMINAL_ESCALATION": "0"
+                    },
+                    "blockers": [
+                      {
+                        "net": "VBIAS",
+                        "stage": "phase3",
+                        "blocked_by": [
+                          {
+                            "net": "PC1",
+                            "blocked_count": 499,
+                            "unique_cells": 499,
+                            "track_cells": 499,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "PC2",
+                            "blocked_count": 221,
+                            "unique_cells": 221,
+                            "track_cells": 221,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "PC0",
+                            "blocked_count": 156,
+                            "unique_cells": 156,
+                            "track_cells": 156,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "CH2_ATT8",
+                            "blocked_count": 150,
+                            "unique_cells": 150,
+                            "track_cells": 150,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "CH2_SUM",
+                            "blocked_count": 132,
+                            "unique_cells": 132,
+                            "track_cells": 132,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "CH1_ATT1",
+                            "blocked_count": 131,
+                            "unique_cells": 131,
+                            "track_cells": 131,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "REF_MID",
+                            "blocked_count": 110,
+                            "unique_cells": 110,
+                            "track_cells": 110,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "CH3_ATT4",
+                            "blocked_count": 103,
+                            "unique_cells": 103,
+                            "track_cells": 103,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "CH3_ATT8",
+                            "blocked_count": 103,
+                            "unique_cells": 103,
+                            "track_cells": 103,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "PA3",
+                            "blocked_count": 98,
+                            "unique_cells": 98,
+                            "track_cells": 98,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          }
+                        ],
+                        "more": 20
+                      },
+                      {
+                        "net": "VBIAS",
+                        "stage": "preexisting",
+                        "blocked_by": [
+                          {
+                            "net": "3V3_A",
+                            "preexisting": true
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "recovery": [
+                  {
+                    "routed_single": [],
+                    "failed_single": [],
+                    "open_single": [],
+                    "failed_multipoint": [
+                      {
+                        "net_name": "VBIAS",
+                        "failed_pads": [
+                          {
+                            "component_ref": "R23",
+                            "pad_number": "?",
+                            "x": 41.6721,
+                            "y": 50.8001
+                          },
+                          {
+                            "component_ref": "R35",
+                            "pad_number": "?",
+                            "x": 38.8621,
+                            "y": 42.1801
+                          }
+                        ]
+                      }
+                    ],
+                    "multipoint_nets": 1,
+                    "multipoint_pads_connected": 3,
+                    "multipoint_pads_total": 5,
+                    "multipoint_edges_routed": 0,
+                    "multipoint_edges_failed": 2,
+                    "ripup_success_pairs": [],
+                    "rerouted_pairs": [],
+                    "single_ended_target_swaps": [],
+                    "layer_swaps": 0,
+                    "successful": 0,
+                    "failed": 1,
+                    "total_time": 0.16,
+                    "total_iterations": 900026,
+                    "total_vias": 0,
+                    "cleanup_disconnected": [],
+                    "min_clearance_used": 0.3,
+                    "rescue": {
+                      "attempted": 1,
+                      "recovered": [],
+                      "improved": [],
+                      "unchanged": [
+                        "VBIAS"
+                      ],
+                      "pads_reconnected": 0,
+                      "widths": {},
+                      "time": 0.01
+                    },
+                    "stacked_copper": [
+                      {
+                        "category": "stacked-copper",
+                        "net": "PC0",
+                        "layer": "F.Cu",
+                        "x": 30.48,
+                        "y": 52.308,
+                        "detail": "2 duplicate segments stacked on (30.480, 52.308)-(30.566, 52.394)",
+                        "size": 0.12162236636408408
+                      },
+                      {
+                        "category": "stacked-copper",
+                        "net": "PC1",
+                        "layer": "F.Cu",
+                        "x": 37.957,
+                        "y": 50.419,
+                        "detail": "2 duplicate segments stacked on (37.957, 50.419)-(38.000, 50.400)",
+                        "size": 0.04701063709417129
+                      },
+                      {
+                        "category": "stacked-copper",
+                        "net": "3V3_A",
+                        "layer": "F.Cu",
+                        "x": 30.5,
+                        "y": 44.7,
+                        "detail": "2 duplicate segments stacked on (30.500, 44.700)-(30.700, 44.500)",
+                        "size": 0.2828427124746205
+                      },
+                      {
+                        "category": "stacked-copper",
+                        "net": "3V3_A",
+                        "layer": "F.Cu",
+                        "x": 30.7,
+                        "y": 44.5,
+                        "detail": "2 duplicate segments stacked on (30.700, 44.500)-(30.800, 44.600)",
+                        "size": 0.1414213562373115
+                      },
+                      {
+                        "category": "stacked-copper",
+                        "net": "3V3_A",
+                        "layer": "F.Cu",
+                        "x": 44.975,
+                        "y": 41.125,
+                        "detail": "2 duplicate segments stacked on (44.975, 41.125)-(45.000, 41.100)",
+                        "size": 0.035355339059325364
+                      }
+                    ],
+                    "oracle_check": "disabled",
+                    "pad_pairs_connected": 70,
+                    "pad_pairs_total": 72,
+                    "pad_pairs_open": [
+                      {
+                        "net": "VBIAS",
+                        "pairs_connected": 2,
+                        "pairs_total": 4,
+                        "outcome": "open",
+                        "open_subtype": "partial"
+                      }
+                    ],
+                    "scope": "reconciliation-subset",
+                    "board_scoped_keys": [
+                      "stacked_copper",
+                      "min_clearance_used"
+                    ],
+                    "env_knobs": {
+                      "KICAD_BARE_PAD_ESCAPE": "0",
+                      "KICAD_DYNAMIC_ITERATIONS": "0",
+                      "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+                      "KICAD_FINALIZE_RIP": "1",
+                      "KICAD_IMPEDANCE_NECKDOWN": "1",
+                      "KICAD_NET_RESCUE": "1",
+                      "KICAD_PLANE_FINALIZE": "0",
+                      "KICAD_RESCUE_CAP_MOVE": "0",
+                      "KICAD_RIP_PREEXISTING": "1",
+                      "KICAD_TERMINAL_ESCALATION": "0"
+                    },
+                    "blockers": [
+                      {
+                        "net": "VBIAS",
+                        "stage": "phase3",
+                        "blocked_by": [
+                          {
+                            "net": "PC1",
+                            "blocked_count": 499,
+                            "unique_cells": 499,
+                            "track_cells": 499,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "PC2",
+                            "blocked_count": 221,
+                            "unique_cells": 221,
+                            "track_cells": 221,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "PC0",
+                            "blocked_count": 156,
+                            "unique_cells": 156,
+                            "track_cells": 156,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "CH2_ATT8",
+                            "blocked_count": 150,
+                            "unique_cells": 150,
+                            "track_cells": 150,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "CH2_SUM",
+                            "blocked_count": 132,
+                            "unique_cells": 132,
+                            "track_cells": 132,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "CH1_ATT1",
+                            "blocked_count": 131,
+                            "unique_cells": 131,
+                            "track_cells": 131,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "REF_MID",
+                            "blocked_count": 110,
+                            "unique_cells": 110,
+                            "track_cells": 110,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "CH3_ATT4",
+                            "blocked_count": 103,
+                            "unique_cells": 103,
+                            "track_cells": 103,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "CH3_ATT8",
+                            "blocked_count": 103,
+                            "unique_cells": 103,
+                            "track_cells": 103,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          },
+                          {
+                            "net": "PA3",
+                            "blocked_count": 98,
+                            "unique_cells": 98,
+                            "track_cells": 98,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          }
+                        ],
+                        "more": 20
+                      },
+                      {
+                        "net": "VBIAS",
+                        "stage": "preexisting",
+                        "blocked_by": [
+                          {
+                            "net": "3V3_A",
+                            "preexisting": true
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "impedance": {
+                  "stackupPresent": true,
+                  "verifiedNets": [],
+                  "reports": [],
+                  "planeFillFieldSolverVerificationRequired": false
+                },
+                "repairs": [
+                  {
+                    "kind": "open",
+                    "accepted": false,
+                    "status": "completed",
+                    "elapsedMs": 3062.4576000003144,
+                    "beforeOpenNets": [
+                      "VBIAS"
+                    ],
+                    "afterOpenNets": [
+                      "VBIAS"
+                    ],
+                    "beforeDrcViolations": 0,
+                    "afterDrcViolations": 0,
+                    "summary": {
+                      "routed_single": [],
+                      "failed_single": [],
+                      "open_single": [],
+                      "failed_multipoint": [
+                        {
+                          "net_name": "VBIAS",
+                          "failed_pads": [
+                            {
+                              "component_ref": "R23",
+                              "pad_number": "?",
+                              "x": 41.6721,
+                              "y": 50.8001
+                            },
+                            {
+                              "component_ref": "R35",
+                              "pad_number": "?",
+                              "x": 38.8621,
+                              "y": 42.1801
+                            }
+                          ]
+                        }
+                      ],
+                      "multipoint_nets": 1,
+                      "multipoint_pads_connected": 3,
+                      "multipoint_pads_total": 5,
+                      "multipoint_edges_routed": 0,
+                      "multipoint_edges_failed": 2,
+                      "ripup_success_pairs": [],
+                      "rerouted_pairs": [],
+                      "single_ended_target_swaps": [],
+                      "layer_swaps": 0,
+                      "successful": 0,
+                      "failed": 1,
+                      "total_time": 0.15,
+                      "total_iterations": 900026,
+                      "total_vias": 0,
+                      "cleanup_disconnected": [],
+                      "min_clearance_used": 0.3,
+                      "stacked_copper": [
+                        {
+                          "category": "stacked-copper",
+                          "net": "PC0",
+                          "layer": "F.Cu",
+                          "x": 30.48,
+                          "y": 52.308,
+                          "detail": "2 duplicate segments stacked on (30.480, 52.308)-(30.566, 52.394)",
+                          "size": 0.12162236636408408
+                        },
+                        {
+                          "category": "stacked-copper",
+                          "net": "PC1",
+                          "layer": "F.Cu",
+                          "x": 37.957,
+                          "y": 50.419,
+                          "detail": "2 duplicate segments stacked on (37.957, 50.419)-(38.000, 50.400)",
+                          "size": 0.04701063709417129
+                        },
+                        {
+                          "category": "stacked-copper",
+                          "net": "3V3_A",
+                          "layer": "F.Cu",
+                          "x": 30.5,
+                          "y": 44.7,
+                          "detail": "2 duplicate segments stacked on (30.500, 44.700)-(30.700, 44.500)",
+                          "size": 0.2828427124746205
+                        },
+                        {
+                          "category": "stacked-copper",
+                          "net": "3V3_A",
+                          "layer": "F.Cu",
+                          "x": 30.7,
+                          "y": 44.5,
+                          "detail": "2 duplicate segments stacked on (30.700, 44.500)-(30.800, 44.600)",
+                          "size": 0.1414213562373115
+                        },
+                        {
+                          "category": "stacked-copper",
+                          "net": "3V3_A",
+                          "layer": "F.Cu",
+                          "x": 44.975,
+                          "y": 41.125,
+                          "detail": "2 duplicate segments stacked on (44.975, 41.125)-(45.000, 41.100)",
+                          "size": 0.035355339059325364
+                        }
+                      ],
+                      "oracle_check": "disabled",
+                      "pad_pairs_connected": 70,
+                      "pad_pairs_total": 72,
+                      "pad_pairs_open": [
+                        {
+                          "net": "VBIAS",
+                          "pairs_connected": 2,
+                          "pairs_total": 4,
+                          "outcome": "open",
+                          "open_subtype": "partial"
+                        }
+                      ],
+                      "scope": "reconciliation-subset",
+                      "board_scoped_keys": [
+                        "stacked_copper",
+                        "min_clearance_used"
+                      ],
+                      "env_knobs": {
+                        "KICAD_BARE_PAD_ESCAPE": "0",
+                        "KICAD_DYNAMIC_ITERATIONS": "0",
+                        "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+                        "KICAD_FINALIZE_RIP": "1",
+                        "KICAD_IMPEDANCE_NECKDOWN": "1",
+                        "KICAD_NET_RESCUE": "0",
+                        "KICAD_PLANE_FINALIZE": "0",
+                        "KICAD_RESCUE_CAP_MOVE": "0",
+                        "KICAD_RIP_PREEXISTING": "1",
+                        "KICAD_TERMINAL_ESCALATION": "0"
+                      },
+                      "blockers": [
+                        {
+                          "net": "VBIAS",
+                          "stage": "phase3",
+                          "blocked_by": [
+                            {
+                              "net": "PC1",
+                              "blocked_count": 499,
+                              "unique_cells": 499,
+                              "track_cells": 499,
+                              "via_cells": 0,
+                              "near_target_cells": 0,
+                              "near_source_cells": 0
+                            },
+                            {
+                              "net": "PC2",
+                              "blocked_count": 221,
+                              "unique_cells": 221,
+                              "track_cells": 221,
+                              "via_cells": 0,
+                              "near_target_cells": 0,
+                              "near_source_cells": 0
+                            },
+                            {
+                              "net": "PC0",
+                              "blocked_count": 156,
+                              "unique_cells": 156,
+                              "track_cells": 156,
+                              "via_cells": 0,
+                              "near_target_cells": 0,
+                              "near_source_cells": 0
+                            },
+                            {
+                              "net": "CH2_ATT8",
+                              "blocked_count": 150,
+                              "unique_cells": 150,
+                              "track_cells": 150,
+                              "via_cells": 0,
+                              "near_target_cells": 0,
+                              "near_source_cells": 0
+                            },
+                            {
+                              "net": "CH2_SUM",
+                              "blocked_count": 132,
+                              "unique_cells": 132,
+                              "track_cells": 132,
+                              "via_cells": 0,
+                              "near_target_cells": 0,
+                              "near_source_cells": 0
+                            },
+                            {
+                              "net": "CH1_ATT1",
+                              "blocked_count": 131,
+                              "unique_cells": 131,
+                              "track_cells": 131,
+                              "via_cells": 0,
+                              "near_target_cells": 0,
+                              "near_source_cells": 0
+                            },
+                            {
+                              "net": "REF_MID",
+                              "blocked_count": 110,
+                              "unique_cells": 110,
+                              "track_cells": 110,
+                              "via_cells": 0,
+                              "near_target_cells": 0,
+                              "near_source_cells": 0
+                            },
+                            {
+                              "net": "CH3_ATT4",
+                              "blocked_count": 103,
+                              "unique_cells": 103,
+                              "track_cells": 103,
+                              "via_cells": 0,
+                              "near_target_cells": 0,
+                              "near_source_cells": 0
+                            },
+                            {
+                              "net": "CH3_ATT8",
+                              "blocked_count": 103,
+                              "unique_cells": 103,
+                              "track_cells": 103,
+                              "via_cells": 0,
+                              "near_target_cells": 0,
+                              "near_source_cells": 0
+                            },
+                            {
+                              "net": "PA3",
+                              "blocked_count": 98,
+                              "unique_cells": 98,
+                              "track_cells": 98,
+                              "via_cells": 0,
+                              "near_target_cells": 0,
+                              "near_source_cells": 0
+                            }
+                          ],
+                          "more": 20
+                        },
+                        {
+                          "net": "VBIAS",
+                          "stage": "preexisting",
+                          "blocked_by": [
+                            {
+                              "net": "3V3_A",
+                              "preexisting": true
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "repairBudgetMs": 15000,
+                "repairElapsedMs": 4556.270699999761,
+                "phaseTimings": {
+                  "fanoutMs": 0,
+                  "specialMs": 0,
+                  "mainMs": 3087.8254999998026,
+                  "rescueMs": 3114.4230999997817,
+                  "targetedRepairMs": 4556.270699999761,
+                  "auditMs": 3143.364700000733
+                },
+                "routingSubprocessCount": 2,
+                "expensiveRescueCount": 1,
+                "ordinaryRouteBatchCount": 1,
+                "ordinaryRouteBatchLimit": 32,
+                "finalConnectivityAuditMs": 371.3363000000827,
+                "finalDrc": {
+                  "drcViolationCount": 0,
+                  "shortViolationCount": 0,
+                  "byType": {},
+                  "contactsByType": {},
+                  "fingerprintCount": 0,
+                  "fingerprintSamples": [],
+                  "shortFingerprintSamples": []
+                },
+                "stageGateElapsedMs": 1848.2427000002936,
+                "fanout": []
+              }
+            }
+          }
+        },
+        "provisionalKrtCustody": {
+          "nets": [
+            "CH2_SUM",
+            "CH3_SUM",
+            "VBIAS"
+          ],
+          "removed": {
+            "tracks": 7,
+            "vias": 3,
+            "zones": 0
+          },
+          "restoredIncoming": {
+            "tracks": 0,
+            "vias": 0,
+            "zones": 0
+          },
+          "retainedCompliantNets": [
+            "CH2_SUM",
+            "CH3_SUM"
+          ]
+        }
+      },
+      "hybridInput": {
+        "openNets": [
+          "CH2_SUM",
+          "CH3_SUM",
+          "VBIAS"
+        ],
+        "connectivityComponentCount": 13
+      },
+      "copperPlanning": {
+        "compactPlans": 0,
+        "compactReady": 0,
+        "planeZones": 0,
+        "stitchingVias": 0
+      },
+      "planePlanning": {
+        "compactPlans": 0,
+        "compactReady": 0,
+        "planeZones": 0,
+        "stitchingVias": 0
+      },
+      "routePlan": {
+        "schemaVersion": 1,
+        "scopeNets": [
+          "CH2_SUM",
+          "CH3_SUM",
+          "VBIAS"
+        ],
+        "netPolicies": [
+          {
+            "net": "CH2_SUM",
+            "priority": "high",
+            "viaPreference": "forbid",
+            "priorityWeight": 16,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH3_SUM",
+            "priority": "high",
+            "viaPreference": "forbid",
+            "priorityWeight": 16,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "VBIAS",
+            "priority": "high",
+            "viaPreference": "forbid",
+            "priorityWeight": 16,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          }
+        ],
+        "fanout": {
+          "enabled": false,
+          "targets": []
+        },
+        "groups": [],
+        "mainNets": [
+          "CH2_SUM",
+          "CH3_SUM",
+          "VBIAS"
+        ]
+      },
+      "candidateAudit": {
+        "selected": {
+          "label": "hybrid",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 16,
+          "openNetCount": 1,
+          "connectivityComponentCount": 5,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 34.980683614925006,
+          "score": [
+            0,
+            0,
+            16,
+            1,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            34.980683614925006,
+            0
+          ]
+        },
+        "attempted": {
+          "label": "hybrid",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 16,
+          "openNetCount": 1,
+          "connectivityComponentCount": 5,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 34.980683614925006,
+          "score": [
+            0,
+            0,
+            16,
+            1,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            34.980683614925006,
+            0
+          ]
+        },
+        "baseline": {
+          "label": "pre-route-checkpoint",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 48,
+          "openNetCount": 3,
+          "connectivityComponentCount": 13,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 0,
+          "score": [
+            0,
+            0,
+            48,
+            3,
+            13,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1
+          ]
+        }
+      }
+    },
+    "candidateCount": 1
+  },
+  "requiresNativeVerification": true
+}

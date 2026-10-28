@@ -1,0 +1,184 @@
+{
+  "passed": false,
+  "total": 13,
+  "counts": {
+    "Connection Error": 12,
+    "Netlist Error": 1
+  },
+  "violations": [
+    {
+      "rule": "Connection Error",
+      "objType": "TH Pad",
+      "ruleName": "Common",
+      "net": "CH2_HIGH",
+      "x": 2410,
+      "y": -2885,
+      "objs": [
+        "8c674fec0aa274aee2"
+      ],
+      "message": "(CH2_HIGH): J4_1 is disconnected from other objects of the same network",
+      "globalIndex": "err10"
+    },
+    {
+      "rule": "Connection Error",
+      "objType": "SMD Pad",
+      "ruleName": "Common",
+      "net": "CH2_HIGH",
+      "x": 2374.37,
+      "y": -2500,
+      "objs": [
+        "3511b76adb8a0356e2"
+      ],
+      "message": "(CH2_HIGH): R14_1 is disconnected from other objects of the same network",
+      "globalIndex": "err9"
+    },
+    {
+      "rule": "Connection Error",
+      "objType": "SMD Pad",
+      "ruleName": "Common",
+      "net": "CH3_ATT8",
+      "x": 1679.37,
+      "y": -1530,
+      "objs": [
+        "8db05fb0222d31efe2"
+      ],
+      "message": "(CH3_ATT8): R34_1 is disconnected from other objects of the same network",
+      "globalIndex": "err11"
+    },
+    {
+      "rule": "Connection Error",
+      "objType": "SMD Pad",
+      "ruleName": "Common",
+      "net": "CH3_ATT8",
+      "x": 2135.63,
+      "y": -1720,
+      "objs": [
+        "3ebdb296c219d4d3e3"
+      ],
+      "message": "(CH3_ATT8): R33_2 is disconnected from other objects of the same network",
+      "globalIndex": "err12"
+    },
+    {
+      "rule": "Connection Error",
+      "objType": "SMD Pad",
+      "ruleName": "Common",
+      "net": "CH3_SUM",
+      "x": 1491.3,
+      "y": -1645,
+      "objs": [
+        "cc77e6e605bb1b56e11"
+      ],
+      "message": "(CH3_SUM): U1_12 is disconnected from other objects of the same network",
+      "globalIndex": "err3"
+    },
+    {
+      "rule": "Connection Error",
+      "objType": "SMD Pad",
+      "ruleName": "Common",
+      "net": "CH3_SUM",
+      "x": 1600.63,
+      "y": -1530,
+      "objs": [
+        "8db05fb0222d31efe3"
+      ],
+      "message": "(CH3_SUM): R34_2 is disconnected from other objects of the same network",
+      "globalIndex": "err4"
+    },
+    {
+      "rule": "Connection Error",
+      "objType": "SMD Pad",
+      "ruleName": "Common",
+      "net": "GND",
+      "x": 1297.6,
+      "y": -1251.34,
+      "objs": [
+        "a762feee64631991e2"
+      ],
+      "message": "(GND): D9_1 is disconnected from other objects of the same network",
+      "globalIndex": "err1"
+    },
+    {
+      "rule": "Connection Error",
+      "objType": "SMD Pad",
+      "ruleName": "Common",
+      "net": "GND",
+      "x": 1278.66,
+      "y": -1377.6,
+      "objs": [
+        "afa5f2eb77877e39e2"
+      ],
+      "message": "(GND): D8_1 is disconnected from other objects of the same network",
+      "globalIndex": "err2"
+    },
+    {
+      "rule": "Connection Error",
+      "objType": "TH Pad",
+      "ruleName": "Common",
+      "net": "PC0",
+      "x": 1185,
+      "y": -2065,
+      "objs": [
+        "0b472f0af35dcfe0e7"
+      ],
+      "message": "(PC0): J10_1 is disconnected from other objects of the same network",
+      "globalIndex": "err5"
+    },
+    {
+      "rule": "Connection Error",
+      "objType": "SMD Pad",
+      "ruleName": "Common",
+      "net": "PC0",
+      "x": 1300,
+      "y": -2004.37,
+      "objs": [
+        "9255a66f8feecf93e3"
+      ],
+      "message": "(PC0): R12_2 is disconnected from other objects of the same network",
+      "globalIndex": "err6"
+    },
+    {
+      "rule": "Connection Error",
+      "objType": "SMD Pad",
+      "ruleName": "Common",
+      "net": "PC2",
+      "x": 1335,
+      "y": -1168.66,
+      "objs": [
+        "a762feee64631991e4"
+      ],
+      "message": "(PC2): D9_3 is disconnected from other objects of the same network",
+      "globalIndex": "err7"
+    },
+    {
+      "rule": "Connection Error",
+      "objType": "SMD Pad",
+      "ruleName": "Common",
+      "net": "PC2",
+      "x": 1490,
+      "y": -1385.63,
+      "objs": [
+        "995437a20f638b7be3"
+      ],
+      "message": "(PC2): R36_2 is disconnected from other objects of the same network",
+      "globalIndex": "err8"
+    },
+    {
+      "rule": "Netlist Error",
+      "objType": "Netlist Error",
+      "ruleName": "Import Changes",
+      "objs": [
+        "err0"
+      ],
+      "message": "PCB and schematic netlist does not match. You can click on the rule name \"Import Changes\" to view the difference.",
+      "globalIndex": "err0"
+    }
+  ],
+  "binding": {
+    "boardName": "analog_front_end_schematic_2",
+    "hint": "Netlist Error is often a stale Board binding — verify the schematic UUID matches the open schematic; if not, run `easyeda board rebind --schematic <uuid> --pcb <uuid>`.",
+    "pcbName": "PCB1",
+    "pcbUuid": "920cad72d3d6143e",
+    "schematicName": "analog_front_end_schematic",
+    "schematicUuid": "240b9c508235f5e1"
+  }
+}

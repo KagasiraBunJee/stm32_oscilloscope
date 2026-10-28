@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "meta": {
+    "project": "58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c",
+    "doc": "52caa9452ee66dee",
+    "name": "Split grouped STM32 header into six local signal-ground pairs"
+  },
+  "defaults": {
+    "retry": 0,
+    "continueOnError": false
+  },
+  "steps": [
+    {
+      "id": "target_delete",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "remove_replaced_headers",
+      "action": "pcb.component.delete",
+      "payload": {
+        "primitiveIds": [
+          "24e872f0ce233efc",
+          "eedebb4fa7559444"
+        ]
+      }
+    },
+    {
+      "id": "target_tracks",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "remove_old_header_leaves",
+      "action": "pcb.route.delete",
+      "payload": {
+        "primitiveIds": [
+          "03e1ccaef0b98091",
+          "674c8c052f0f93ee",
+          "ba636fe477bf336f",
+          "f37ae054f0a9bf53",
+          "01a55c5e2ba1a1ec",
+          "4a4a05bfed9c50a0",
+          "524d57d104ff3c00",
+          "8a9e9b9adfffd7a8",
+          "0ac4530faa04357c",
+          "3b71366c6a3f3341",
+          "01b3cd3131781528",
+          "4b2a49fc87d23d3f",
+          "bc797b2a5c876bd1",
+          "be2b2339744946bb",
+          "49802fd74530e6b2",
+          "85ddfcfb75c2f538",
+          "ffc6b9f1feb79cc9",
+          "9e6128c6359c27bc"
+        ],
+        "kind": "track"
+      }
+    },
+    {
+      "id": "target_0",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "header_0",
+      "action": "pcb.add_component",
+      "payload": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "e6f86ef4b986480caa66b42a71c1b786",
+        "x": 1840,
+        "y": -1315,
+        "rotation": 270,
+        "layer": 1,
+        "designator": "J9",
+        "uniqueId": "osc_split_j9_20260907",
+        "nets": {
+          "1": "PA1",
+          "2": "GND"
+        }
+      },
+      "capture": {
+        "h0": "$.primitiveId"
+      },
+      "assert": {
+        "$.assignedNets": "==2",
+        "$.unmatchedPads": "len==0"
+      }
+    },
+    {
+      "id": "target_1",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "header_1",
+      "action": "pcb.add_component",
+      "payload": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "e6f86ef4b986480caa66b42a71c1b786",
+        "x": 1525,
+        "y": -2420,
+        "rotation": 0,
+        "layer": 1,
+        "designator": "J10",
+        "uniqueId": "osc_split_j10_20260907",
+        "nets": {
+          "1": "PC0",
+          "2": "GND"
+        }
+      },
+      "capture": {
+        "h1": "$.primitiveId"
+      },
+      "assert": {
+        "$.assignedNets": "==2",
+        "$.unmatchedPads": "len==0"
+      }
+    },
+    {
+      "id": "target_2",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "header_2",
+      "action": "pcb.add_component",
+      "payload": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "e6f86ef4b986480caa66b42a71c1b786",
+        "x": 1140,
+        "y": -3120,
+        "rotation": 270,
+        "layer": 1,
+        "designator": "J11",
+        "uniqueId": "osc_split_j11_20260907",
+        "nets": {
+          "1": "PA2",
+          "2": "GND"
+        }
+      },
+      "capture": {
+        "h2": "$.primitiveId"
+      },
+      "assert": {
+        "$.assignedNets": "==2",
+        "$.unmatchedPads": "len==0"
+      }
+    },
+    {
+      "id": "target_3",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "header_3",
+      "action": "pcb.add_component",
+      "payload": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "e6f86ef4b986480caa66b42a71c1b786",
+        "x": 2030,
+        "y": -2185,
+        "rotation": 90,
+        "layer": 1,
+        "designator": "J12",
+        "uniqueId": "osc_split_j12_20260907",
+        "nets": {
+          "1": "PC1",
+          "2": "GND"
+        }
+      },
+      "capture": {
+        "h3": "$.primitiveId"
+      },
+      "assert": {
+        "$.assignedNets": "==2",
+        "$.unmatchedPads": "len==0"
+      }
+    },
+    {
+      "id": "target_4",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "header_4",
+      "action": "pcb.add_component",
+      "payload": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "e6f86ef4b986480caa66b42a71c1b786",
+        "x": 1435,
+        "y": -3360,
+        "rotation": 90,
+        "layer": 1,
+        "designator": "J13",
+        "uniqueId": "osc_split_j13_20260907",
+        "nets": {
+          "1": "PA3",
+          "2": "GND"
+        }
+      },
+      "capture": {
+        "h4": "$.primitiveId"
+      },
+      "assert": {
+        "$.assignedNets": "==2",
+        "$.unmatchedPads": "len==0"
+      }
+    },
+    {
+      "id": "target_5",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "header_5",
+      "action": "pcb.add_component",
+      "payload": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "e6f86ef4b986480caa66b42a71c1b786",
+        "x": 2390,
+        "y": -1990,
+        "rotation": 270,
+        "layer": 1,
+        "designator": "J14",
+        "uniqueId": "osc_split_j14_20260907",
+        "nets": {
+          "1": "PC2",
+          "2": "GND"
+        }
+      },
+      "capture": {
+        "h5": "$.primitiveId"
+      },
+      "assert": {
+        "$.assignedNets": "==2",
+        "$.unmatchedPads": "len==0"
+      }
+    },
+    {
+      "id": "save",
+      "action": "pcb.save",
+      "assert": {
+        "$.saved": "true"
+      }
+    }
+  ]
+}

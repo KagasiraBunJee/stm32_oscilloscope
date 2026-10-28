@@ -1,0 +1,3396 @@
+{
+  "version": 1,
+  "meta": {
+    "name": "hardware/easyeda/output/top_remaining_best.json",
+    "project": "58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c",
+    "doc": "52caa9452ee66dee"
+  },
+  "defaults": {
+    "retry": 0,
+    "continueOnError": false
+  },
+  "steps": [
+    {
+      "id": "target_baseline",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "baseline",
+      "action": "pcb.line.list",
+      "assert": {
+        "$.count": "==114"
+      }
+    },
+    {
+      "id": "target_0",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_0",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH3_ATT3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1405,
+        "startY": -3144.4,
+        "endX": 1399.4,
+        "endY": -3144.4
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_1",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_1",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH3_ATT3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1399.4,
+        "startY": -3144.4,
+        "endX": 1315,
+        "endY": -3060
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_2",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_2",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH3_ATT3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1315,
+        "startY": -3060,
+        "endX": 1315,
+        "endY": -3035
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_3",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_3",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH3_ATT3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1315,
+        "startY": -3035,
+        "endX": 1225,
+        "endY": -2945
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_4",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_4",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH3_ATT3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1225,
+        "startY": -2945,
+        "endX": 1205.6,
+        "endY": -2945
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_5",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_5",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH2_SUM",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1595.6,
+        "startY": -1800,
+        "endX": 1635,
+        "endY": -1760.6
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_6",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_6",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH2_SUM",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1635,
+        "startY": -1760.6,
+        "endX": 1635,
+        "endY": -1755
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_7",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_7",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH2_SUM",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1635,
+        "startY": -1755,
+        "endX": 1642.5,
+        "endY": -1747.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_8",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_8",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH2_SUM",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1642.5,
+        "startY": -1747.5,
+        "endX": 1732.5,
+        "endY": -1747.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_9",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_9",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH2_SUM",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1732.5,
+        "startY": -1747.5,
+        "endX": 1776.3,
+        "endY": -1703.7
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_10",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_10",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH2_SUM",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1776.3,
+        "startY": -1703.7,
+        "endX": 1776.3,
+        "endY": -1680
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_11",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_11",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 916.3,
+        "startY": -2260,
+        "endX": 916.3,
+        "endY": -2283.7
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_12",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_12",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 916.3,
+        "startY": -2283.7,
+        "endX": 835,
+        "endY": -2365
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_13",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_13",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 835,
+        "startY": -2365,
+        "endX": 805,
+        "endY": -2365
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_14",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_14",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 805,
+        "startY": -2365,
+        "endX": 805,
+        "endY": -2515
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_15",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_15",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 805,
+        "startY": -2515,
+        "endX": 840,
+        "endY": -2550
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_16",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_16",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 840,
+        "startY": -2550,
+        "endX": 840,
+        "endY": -2990
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_17",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_17",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 840,
+        "startY": -2990,
+        "endX": 925.5999999999999,
+        "endY": -3075.6
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_18",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_18",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 925.5999999999999,
+        "startY": -3075.6,
+        "endX": 1270,
+        "endY": -3075.6
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_19",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_19",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2362.2,
+        "startY": -3010.2,
+        "endX": 2334.5,
+        "endY": -2982.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_20",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_20",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2334.5,
+        "startY": -2982.5,
+        "endX": 2097.5,
+        "endY": -2982.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_21",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_21",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2097.5,
+        "startY": -2982.5,
+        "endX": 2082.5,
+        "endY": -2997.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_22",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_22",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2082.5,
+        "startY": -2997.5,
+        "endX": 1782.5,
+        "endY": -2997.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_23",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_23",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1782.5,
+        "startY": -2997.5,
+        "endX": 1595,
+        "endY": -3185
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_24",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_24",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1595,
+        "startY": -3185,
+        "endX": 1360,
+        "endY": -3185
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_25",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_25",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1360,
+        "startY": -3185,
+        "endX": 1360,
+        "endY": -3160
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_26",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_26",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1360,
+        "startY": -3160,
+        "endX": 1275.6,
+        "endY": -3075.6
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_27",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_27",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1275.6,
+        "startY": -3075.6,
+        "endX": 1270,
+        "endY": -3075.6
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_28",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_28",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "REF_RAW",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1273.7,
+        "startY": -1720,
+        "endX": 1296.2,
+        "endY": -1697.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_29",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_29",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "REF_RAW",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1296.2,
+        "startY": -1697.5,
+        "endX": 1325,
+        "endY": -1697.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_30",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_30",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "REF_RAW",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1325,
+        "startY": -1697.5,
+        "endX": 1324.4,
+        "endY": -1696.9
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_31",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_31",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "REF_RAW",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1324.4,
+        "startY": -1696.9,
+        "endX": 1324.4,
+        "endY": -1535
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_32",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_32",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC0",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1270,
+        "startY": -2079.4,
+        "endX": 1320.6,
+        "endY": -2130
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_33",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_33",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC0",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1320.6,
+        "startY": -2130,
+        "endX": 1520,
+        "endY": -2130
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_34",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_34",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC0",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1520,
+        "startY": -2130,
+        "endX": 1580.6,
+        "endY": -2190.6
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_35",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_35",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC0",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1580.6,
+        "startY": -2190.6,
+        "endX": 1585,
+        "endY": -2190.6
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_36",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_36",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC0",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2462.2,
+        "startY": -2910.2,
+        "endX": 2462.2,
+        "endY": -2702.2
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_37",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_37",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC0",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2462.2,
+        "startY": -2702.2,
+        "endX": 1945,
+        "endY": -2185
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_38",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_38",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC0",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1945,
+        "startY": -2185,
+        "endX": 1855,
+        "endY": -2185
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_39",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_39",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC0",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1855,
+        "startY": -2185,
+        "endX": 1845,
+        "endY": -2195
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_40",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_40",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC0",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1845,
+        "startY": -2195,
+        "endX": 1845,
+        "endY": -2958.7
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_41",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_41",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC0",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1845,
+        "startY": -2195,
+        "endX": 1775,
+        "endY": -2125
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_42",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_42",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC0",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1775,
+        "startY": -2125,
+        "endX": 1775,
+        "endY": -2075
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_43",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_43",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC0",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1775,
+        "startY": -2075,
+        "endX": 1685,
+        "endY": -2075
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_44",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_44",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC0",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1685,
+        "startY": -2075,
+        "endX": 1585,
+        "endY": -2175
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_45",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_45",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC0",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1585,
+        "startY": -2175,
+        "endX": 1585,
+        "endY": -2190.6
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_46",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_46",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1303.1,
+        "startY": -1590.6,
+        "endX": 1292.5,
+        "endY": -1580
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_47",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_47",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1292.5,
+        "startY": -1580,
+        "endX": 1285,
+        "endY": -1580
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_48",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_48",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1285,
+        "startY": -1580,
+        "endX": 1285,
+        "endY": -1485
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_49",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_49",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1285,
+        "startY": -1485,
+        "endX": 1280,
+        "endY": -1480
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_50",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_50",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1280,
+        "startY": -1480,
+        "endX": 1280,
+        "endY": -1385.6
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_51",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_51",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1280,
+        "startY": -1385.6,
+        "endX": 1229.4,
+        "endY": -1335
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_52",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_52",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1540,
+        "startY": -1290.6,
+        "endX": 1530.6,
+        "endY": -1300
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_53",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_53",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1530.6,
+        "startY": -1300,
+        "endX": 1285,
+        "endY": -1300
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_54",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_54",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1285,
+        "startY": -1300,
+        "endX": 1275.6,
+        "endY": -1290.6
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_55",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_55",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1275.6,
+        "startY": -1290.6,
+        "endX": 1273.8,
+        "endY": -1290.6
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_56",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_56",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1870,
+        "startY": -1590.6,
+        "endX": 1864.4,
+        "endY": -1585
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_57",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_57",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1864.4,
+        "startY": -1585,
+        "endX": 1550,
+        "endY": -1585
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_58",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_58",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1550,
+        "startY": -1585,
+        "endX": 1550,
+        "endY": -1547.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_59",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_59",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1550,
+        "startY": -1547.5,
+        "endX": 1500,
+        "endY": -1497.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_60",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_60",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1500,
+        "startY": -1497.5,
+        "endX": 1482.5,
+        "endY": -1497.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_61",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_61",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1482.5,
+        "startY": -1497.5,
+        "endX": 1482.5,
+        "endY": -1345
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_62",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_62",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1482.5,
+        "startY": -1345,
+        "endX": 1536.9,
+        "endY": -1290.6
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_63",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_63",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "VBIAS",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1536.9,
+        "startY": -1290.6,
+        "endX": 1540,
+        "endY": -1290.6
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_64",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_64",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH2_ATT8",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1674.4,
+        "startY": -1800,
+        "endX": 1640,
+        "endY": -1834.4
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_65",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_65",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH2_ATT8",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1640,
+        "startY": -1834.4,
+        "endX": 1640,
+        "endY": -1950
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_66",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_66",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH2_ATT8",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1640,
+        "startY": -1950,
+        "endX": 1550,
+        "endY": -1950
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_67",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_67",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH2_ATT8",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1550,
+        "startY": -1950,
+        "endX": 1475,
+        "endY": -2025
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_68",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_68",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH2_ATT8",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1475,
+        "startY": -2025,
+        "endX": 1475,
+        "endY": -2090.6
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_69",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_69",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH1_SUM",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1273.7,
+        "startY": -1820,
+        "endX": 1225,
+        "endY": -1820
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_70",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_70",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH1_SUM",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1225,
+        "startY": -1820,
+        "endX": 1195,
+        "endY": -1850
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_71",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_71",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH1_SUM",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1195,
+        "startY": -1850,
+        "endX": 1105,
+        "endY": -1850
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_72",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_72",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH1_SUM",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1105,
+        "startY": -1850,
+        "endX": 1035,
+        "endY": -1780
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_73",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_73",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH1_SUM",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1035,
+        "startY": -1780,
+        "endX": 1035,
+        "endY": -1567.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_74",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_74",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH1_SUM",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1035,
+        "startY": -1567.5,
+        "endX": 1042.5,
+        "endY": -1560
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_75",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_75",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH1_SUM",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1042.5,
+        "startY": -1560,
+        "endX": 1156.3,
+        "endY": -1560
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_76",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_76",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2462.2,
+        "startY": -3110.2,
+        "endX": 2509.5,
+        "endY": -3157.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_77",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_77",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2509.5,
+        "startY": -3157.5,
+        "endX": 2515,
+        "endY": -3157.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_78",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_78",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2515,
+        "startY": -3157.5,
+        "endX": 2515,
+        "endY": -3262.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_79",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_79",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2515,
+        "startY": -3262.5,
+        "endX": 2513.8,
+        "endY": -3261.3
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_80",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_80",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2513.8,
+        "startY": -3261.3,
+        "endX": 1810,
+        "endY": -3261.3
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_81",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_81",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2462.2,
+        "startY": -3110.2,
+        "endX": 2509.8999999999996,
+        "endY": -3062.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_82",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_82",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2509.8999999999996,
+        "startY": -3062.5,
+        "endX": 2515,
+        "endY": -3062.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_83",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_83",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2515,
+        "startY": -3062.5,
+        "endX": 2515,
+        "endY": -2110
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_84",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_84",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2515,
+        "startY": -2110,
+        "endX": 2475,
+        "endY": -2070
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_85",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_85",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2475,
+        "startY": -2070,
+        "endX": 2475,
+        "endY": -1990
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_86",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_86",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2475,
+        "startY": -1990,
+        "endX": 2514.4,
+        "endY": -1950.6
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_87",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_87",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PC2",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2514.4,
+        "startY": -1950.6,
+        "endX": 2520,
+        "endY": -1950.6
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_88",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_88",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 880,
+        "startY": -3426.3,
+        "endX": 923.8000000000002,
+        "endY": -3382.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_89",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_89",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 923.8000000000002,
+        "startY": -3382.5,
+        "endX": 947.5,
+        "endY": -3382.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_90",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_90",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 947.5,
+        "startY": -3382.5,
+        "endX": 961.3,
+        "endY": -3368.7
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_91",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_91",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 961.3,
+        "startY": -3368.7,
+        "endX": 961.3,
+        "endY": -3345
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_92",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_92",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 189.4,
+        "startY": -3065,
+        "endX": 262.5,
+        "endY": -3138.1
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_93",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_93",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 262.5,
+        "startY": -3138.1,
+        "endX": 262.5,
+        "endY": -3262.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_94",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_94",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 262.5,
+        "startY": -3262.5,
+        "endX": 426.3000000000002,
+        "endY": -3426.3
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_95",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_95",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 426.3000000000002,
+        "startY": -3426.3,
+        "endX": 550.7,
+        "endY": -3426.3
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_96",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_96",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2362.2,
+        "startY": -3110.2,
+        "endX": 2037.3000000000002,
+        "endY": -3110.2
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_97",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_97",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 2037.3000000000002,
+        "startY": -3110.2,
+        "endX": 1925,
+        "endY": -3222.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_98",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_98",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1925,
+        "startY": -3222.5,
+        "endX": 1352.5,
+        "endY": -3222.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_99",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_99",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1352.5,
+        "startY": -3222.5,
+        "endX": 1235.6,
+        "endY": -3339.4
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_100",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_100",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "PA3",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1235.6,
+        "startY": -3339.4,
+        "endX": 1235.6,
+        "endY": -3345
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_101",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_101",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "REF_MID",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1240.6,
+        "startY": -1435,
+        "endX": 1190,
+        "endY": -1384.4
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_102",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_102",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "REF_MID",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1190,
+        "startY": -1384.4,
+        "endX": 1190,
+        "endY": -1220
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_103",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_103",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "REF_MID",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1190,
+        "startY": -1220,
+        "endX": 1180,
+        "endY": -1210
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_104",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_104",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "REF_MID",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1180,
+        "startY": -1210,
+        "endX": 1179.4,
+        "endY": -1210
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_105",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_105",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH3_SUM",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1486.3,
+        "startY": -1720,
+        "endX": 1463.8,
+        "endY": -1697.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_106",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_106",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH3_SUM",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1463.8,
+        "startY": -1697.5,
+        "endX": 1435,
+        "endY": -1697.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_107",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_107",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH3_SUM",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1435,
+        "startY": -1697.5,
+        "endX": 1435,
+        "endY": -1581.3
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_108",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_108",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "CH3_SUM",
+        "layer": 1,
+        "lineWidth": 10,
+        "startX": 1435,
+        "startY": -1581.3,
+        "endX": 1475,
+        "endY": -1541.3
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_109",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_109",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 2202.4,
+        "startY": -3021.3,
+        "endX": 2161.2000000000003,
+        "endY": -3062.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_110",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_110",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 2161.2000000000003,
+        "startY": -3062.5,
+        "endX": 2050,
+        "endY": -3062.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_111",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_111",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 2050,
+        "startY": -3062.5,
+        "endX": 2028.8000000000002,
+        "endY": -3041.3
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_112",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_112",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 2028.8000000000002,
+        "startY": -3041.3,
+        "endX": 1882.4,
+        "endY": -3041.3
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_113",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_113",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 1437.6,
+        "startY": -1458.7,
+        "endX": 1437.6,
+        "endY": -1544.9
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_114",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_114",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 1437.6,
+        "startY": -1544.9,
+        "endX": 1365,
+        "endY": -1617.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_115",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_115",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 1365,
+        "startY": -1617.5,
+        "endX": 1365,
+        "endY": -1717.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_116",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_116",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 1365,
+        "startY": -1717.5,
+        "endX": 1312.5,
+        "endY": -1770
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_117",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_117",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 1312.5,
+        "startY": -1770,
+        "endX": 1273.7,
+        "endY": -1770
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_118",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_118",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 624.4,
+        "startY": -3020,
+        "endX": 624.4,
+        "endY": -3006.9
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_119",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_119",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 624.4,
+        "startY": -3006.9,
+        "endX": 292.5,
+        "endY": -2675
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_120",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_120",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 292.5,
+        "startY": -2675,
+        "endX": 220,
+        "endY": -2675
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_121",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_121",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 220,
+        "startY": -2675,
+        "endX": 220,
+        "endY": -2465
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_122",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_122",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 220,
+        "startY": -2465,
+        "endX": 330,
+        "endY": -2355
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_123",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_123",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 330,
+        "startY": -2355,
+        "endX": 330,
+        "endY": -1917.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_124",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_124",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 330,
+        "startY": -1917.5,
+        "endX": 220,
+        "endY": -1807.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_125",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_125",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 220,
+        "startY": -1807.5,
+        "endX": 220,
+        "endY": -1597.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_126",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_126",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 220,
+        "startY": -1597.5,
+        "endX": 330,
+        "endY": -1597.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_127",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_127",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 330,
+        "startY": -1597.5,
+        "endX": 792.5,
+        "endY": -2060
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_128",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_128",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 792.5,
+        "startY": -2060,
+        "endX": 792.5,
+        "endY": -2255
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_129",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_129",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 792.5,
+        "startY": -2255,
+        "endX": 833.7,
+        "endY": -2296.2
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_130",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_130",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 833.7,
+        "startY": -2296.2,
+        "endX": 833.7,
+        "endY": -2297.4
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_131",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_131",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 330,
+        "startY": -1597.5,
+        "endX": 220,
+        "endY": -1487.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_132",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_132",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 220,
+        "startY": -1487.5,
+        "endX": 220,
+        "endY": -732.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_133",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_133",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 220,
+        "startY": -732.5,
+        "endX": 487.5,
+        "endY": -732.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_134",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_134",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 487.5,
+        "startY": -732.5,
+        "endX": 697.5,
+        "endY": -942.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_135",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_135",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 697.5,
+        "startY": -942.5,
+        "endX": 830,
+        "endY": -942.5
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_136",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_136",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 830,
+        "startY": -942.5,
+        "endX": 967.5,
+        "endY": -1080
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_137",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_137",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 967.5,
+        "startY": -1080,
+        "endX": 967.5,
+        "endY": -1140
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_138",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_138",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 967.5,
+        "startY": -1140,
+        "endX": 1059.4,
+        "endY": -1231.9
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "target_139",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "track_139",
+      "action": "pcb.line.create",
+      "payload": {
+        "net": "3V3_A",
+        "layer": 1,
+        "lineWidth": 16,
+        "startX": 1059.4,
+        "startY": -1231.9,
+        "endX": 1059.4,
+        "endY": -1330
+      },
+      "assert": {
+        "$.primitiveId": "exists"
+      }
+    },
+    {
+      "id": "save",
+      "action": "pcb.save",
+      "assert": {
+        "$.saved": "true"
+      }
+    }
+  ]
+}

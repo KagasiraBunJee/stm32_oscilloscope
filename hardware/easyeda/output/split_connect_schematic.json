@@ -1,0 +1,64 @@
+{
+  "connections": [
+    {
+      "pin": "J9:1",
+      "kind": "netport",
+      "net": "PA1"
+    },
+    {
+      "pin": "J9:2",
+      "kind": "gnd",
+      "net": "GND"
+    },
+    {
+      "pin": "J10:1",
+      "kind": "netport",
+      "net": "PC0"
+    },
+    {
+      "pin": "J10:2",
+      "kind": "gnd",
+      "net": "GND"
+    },
+    {
+      "pin": "J11:1",
+      "kind": "netport",
+      "net": "PA2"
+    },
+    {
+      "pin": "J11:2",
+      "kind": "gnd",
+      "net": "GND"
+    },
+    {
+      "pin": "J12:1",
+      "kind": "netport",
+      "net": "PC1"
+    },
+    {
+      "pin": "J12:2",
+      "kind": "gnd",
+      "net": "GND"
+    },
+    {
+      "pin": "J13:1",
+      "kind": "netport",
+      "net": "PA3"
+    },
+    {
+      "pin": "J13:2",
+      "kind": "gnd",
+      "net": "GND"
+    },
+    {
+      "pin": "J14:1",
+      "kind": "netport",
+      "net": "PC2"
+    },
+    {
+      "pin": "J14:2",
+      "kind": "gnd",
+      "net": "GND"
+    }
+  ]
+}

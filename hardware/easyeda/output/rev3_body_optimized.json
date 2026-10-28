@@ -1,0 +1,515 @@
+{
+  "metrics": {
+    "cost": 10866.21861562147,
+    "crossings": 1,
+    "length": 17908.53113861405,
+    "violations": 0,
+    "criticalPenalty": 8433.536124532347
+  },
+  "placements": [
+    {
+      "designator": "C1",
+      "primitiveId": "3fe6fb53688b601f",
+      "x": 640,
+      "y": -2975,
+      "rotation": 180
+    },
+    {
+      "designator": "C2",
+      "primitiveId": "41465063135245e8",
+      "x": 1075,
+      "y": -2160,
+      "rotation": 270
+    },
+    {
+      "designator": "C3",
+      "primitiveId": "88d046d63ddcb33b",
+      "x": 1490,
+      "y": -2970,
+      "rotation": 180
+    },
+    {
+      "designator": "C4",
+      "primitiveId": "985cf77a3e174528",
+      "x": 1740,
+      "y": -2270,
+      "rotation": 0
+    },
+    {
+      "designator": "C5",
+      "primitiveId": "6c9251d214e68df1",
+      "x": 645,
+      "y": -575,
+      "rotation": 180
+    },
+    {
+      "designator": "C6",
+      "primitiveId": "41e7fb94c1120e67",
+      "x": 1185,
+      "y": -995,
+      "rotation": 180
+    },
+    {
+      "designator": "C7",
+      "primitiveId": "9673eca50a19f800",
+      "x": 320,
+      "y": -880,
+      "rotation": 180
+    },
+    {
+      "designator": "C8",
+      "primitiveId": "aa4ddfd0af7666e7",
+      "x": 1085,
+      "y": -1750,
+      "rotation": 90
+    },
+    {
+      "designator": "C9",
+      "primitiveId": "cc6587dacfb9be24",
+      "x": 1060,
+      "y": -1600,
+      "rotation": 180
+    },
+    {
+      "designator": "D1",
+      "primitiveId": "6b3cd0ff85158555",
+      "x": 1295,
+      "y": -2875,
+      "rotation": 90
+    },
+    {
+      "designator": "D2",
+      "primitiveId": "7e58c2b8b715d5fc",
+      "x": 860,
+      "y": -1750,
+      "rotation": 180
+    },
+    {
+      "designator": "D3",
+      "primitiveId": "b30f0fa6563a8dcc",
+      "x": 1290,
+      "y": -2300,
+      "rotation": 90
+    },
+    {
+      "designator": "D4",
+      "primitiveId": "5c4cc2c3163edf40",
+      "x": 1430,
+      "y": -2675,
+      "rotation": 270
+    },
+    {
+      "designator": "D5",
+      "primitiveId": "475970e7df9592dc",
+      "x": 1650,
+      "y": -1805,
+      "rotation": 180
+    },
+    {
+      "designator": "D6",
+      "primitiveId": "9d29fa963f019064",
+      "x": 1975,
+      "y": -1655,
+      "rotation": 90
+    },
+    {
+      "designator": "D7",
+      "primitiveId": "9c4b3674f3dfdb44",
+      "x": 470,
+      "y": -700,
+      "rotation": 270
+    },
+    {
+      "designator": "D8",
+      "primitiveId": "c2a5a17e9ea68ec3",
+      "x": 1650,
+      "y": -1545,
+      "rotation": 90
+    },
+    {
+      "designator": "D9",
+      "primitiveId": "470e08c14b4bb1da",
+      "x": 1495,
+      "y": -1260,
+      "rotation": 180
+    },
+    {
+      "designator": "FB1",
+      "primitiveId": "14637aaac5ee594b",
+      "x": 525,
+      "y": -1065,
+      "rotation": 270
+    },
+    {
+      "designator": "J1",
+      "primitiveId": "a5b5cb6b7bce9ba7",
+      "x": 690,
+      "y": -3340,
+      "rotation": 180
+    },
+    {
+      "designator": "J2",
+      "primitiveId": "b619b47071755d12",
+      "x": 905,
+      "y": -2575,
+      "rotation": 90
+    },
+    {
+      "designator": "J3",
+      "primitiveId": "2f19fff2c7533de4",
+      "x": 1830,
+      "y": -3085,
+      "rotation": 180
+    },
+    {
+      "designator": "J4",
+      "primitiveId": "26fa539fdada1e5a",
+      "x": 2100,
+      "y": -2035,
+      "rotation": 270
+    },
+    {
+      "designator": "J5",
+      "primitiveId": "3a0c6b745d96a6c5",
+      "x": 805,
+      "y": -780,
+      "rotation": 0
+    },
+    {
+      "designator": "J6",
+      "primitiveId": "6f8becf865f59256",
+      "x": 1845,
+      "y": -445,
+      "rotation": 0
+    },
+    {
+      "designator": "J7",
+      "primitiveId": "c9109d4377593ed8",
+      "x": 635,
+      "y": -1200,
+      "rotation": 90
+    },
+    {
+      "designator": "J9",
+      "primitiveId": "fd8c15c4a647aef8",
+      "x": 465,
+      "y": -3130,
+      "rotation": 180
+    },
+    {
+      "designator": "J10",
+      "primitiveId": "e4b1ab4bd71f8e04",
+      "x": 1235,
+      "y": -2515,
+      "rotation": 90
+    },
+    {
+      "designator": "J11",
+      "primitiveId": "f0e2d775132f024b",
+      "x": 1535,
+      "y": -3165,
+      "rotation": 270
+    },
+    {
+      "designator": "J12",
+      "primitiveId": "92fb598d5857897b",
+      "x": 1475,
+      "y": -2150,
+      "rotation": 180
+    },
+    {
+      "designator": "J13",
+      "primitiveId": "bba46f47ba25b6b2",
+      "x": 605,
+      "y": -865,
+      "rotation": 0
+    },
+    {
+      "designator": "J14",
+      "primitiveId": "f211d998b4b36a71",
+      "x": 1235,
+      "y": -815,
+      "rotation": 90
+    },
+    {
+      "designator": "R1",
+      "primitiveId": "f34b8bc872089128",
+      "x": 495,
+      "y": -3365,
+      "rotation": 180
+    },
+    {
+      "designator": "R2",
+      "primitiveId": "27af85b3ae2b7f90",
+      "x": 720,
+      "y": -2710,
+      "rotation": 270
+    },
+    {
+      "designator": "R3",
+      "primitiveId": "1794224bac2e73e9",
+      "x": 400,
+      "y": -2835,
+      "rotation": 90
+    },
+    {
+      "designator": "R4",
+      "primitiveId": "435197655830458a",
+      "x": 290,
+      "y": -2695,
+      "rotation": 90
+    },
+    {
+      "designator": "R5",
+      "primitiveId": "9676ef46e6b9c02b",
+      "x": 425,
+      "y": -2515,
+      "rotation": 90
+    },
+    {
+      "designator": "R6",
+      "primitiveId": "18f5fa1ea61a6428",
+      "x": 585,
+      "y": -2450,
+      "rotation": 90
+    },
+    {
+      "designator": "R7",
+      "primitiveId": "3a671e311d653e60",
+      "x": 715,
+      "y": -2250,
+      "rotation": 90
+    },
+    {
+      "designator": "R8",
+      "primitiveId": "4dc0cc1c7b8b4b7d",
+      "x": 720,
+      "y": -2060,
+      "rotation": 90
+    },
+    {
+      "designator": "R9",
+      "primitiveId": "620c69ede4fae6d5",
+      "x": 735,
+      "y": -1920,
+      "rotation": 0
+    },
+    {
+      "designator": "R10",
+      "primitiveId": "caca72093b41f9c2",
+      "x": 905,
+      "y": -1890,
+      "rotation": 180
+    },
+    {
+      "designator": "R11",
+      "primitiveId": "78bab1ef1f24cbcf",
+      "x": 980,
+      "y": -1755,
+      "rotation": 90
+    },
+    {
+      "designator": "R12",
+      "primitiveId": "686bb22057b02ecf",
+      "x": 1200,
+      "y": -2020,
+      "rotation": 270
+    },
+    {
+      "designator": "R13",
+      "primitiveId": "f3db999f78e91232",
+      "x": 1700,
+      "y": -3230,
+      "rotation": 270
+    },
+    {
+      "designator": "R14",
+      "primitiveId": "bc4aa1bc6ca2c49f",
+      "x": 2250,
+      "y": -2240,
+      "rotation": 0
+    },
+    {
+      "designator": "R15",
+      "primitiveId": "b6d5014e33bdec80",
+      "x": 2305,
+      "y": -2355,
+      "rotation": 0
+    },
+    {
+      "designator": "R16",
+      "primitiveId": "3f68e0d1d7bb36a0",
+      "x": 2480,
+      "y": -2300,
+      "rotation": 0
+    },
+    {
+      "designator": "R17",
+      "primitiveId": "441af440fcc235ba",
+      "x": 2475,
+      "y": -2440,
+      "rotation": 0
+    },
+    {
+      "designator": "R18",
+      "primitiveId": "978f9f2b1602e550",
+      "x": 2385,
+      "y": -2675,
+      "rotation": 270
+    },
+    {
+      "designator": "R19",
+      "primitiveId": "ef823f38c0c6162d",
+      "x": 2195,
+      "y": -2705,
+      "rotation": 180
+    },
+    {
+      "designator": "R20",
+      "primitiveId": "e1747681053e856b",
+      "x": 2185,
+      "y": -2560,
+      "rotation": 90
+    },
+    {
+      "designator": "R21",
+      "primitiveId": "ea443eb206b013b3",
+      "x": 2060,
+      "y": -2255,
+      "rotation": 180
+    },
+    {
+      "designator": "R22",
+      "primitiveId": "06868362c141780e",
+      "x": 1810,
+      "y": -1775,
+      "rotation": 180
+    },
+    {
+      "designator": "R23",
+      "primitiveId": "d7a3ad1cd7aee558",
+      "x": 1680,
+      "y": -1665,
+      "rotation": 180
+    },
+    {
+      "designator": "R24",
+      "primitiveId": "8bcff45c214b325b",
+      "x": 1455,
+      "y": -1985,
+      "rotation": 0
+    },
+    {
+      "designator": "R25",
+      "primitiveId": "3a97335f2800f4f6",
+      "x": 655,
+      "y": -730,
+      "rotation": 180
+    },
+    {
+      "designator": "R26",
+      "primitiveId": "7cfe685bf0c6fd43",
+      "x": 1995,
+      "y": -360,
+      "rotation": 180
+    },
+    {
+      "designator": "R27",
+      "primitiveId": "37f0d351b7065dc0",
+      "x": 1675,
+      "y": -360,
+      "rotation": 180
+    },
+    {
+      "designator": "R28",
+      "primitiveId": "ddafee9ea11ff99c",
+      "x": 1510,
+      "y": -460,
+      "rotation": 0
+    },
+    {
+      "designator": "R29",
+      "primitiveId": "5ccb67dbc72d3899",
+      "x": 1650,
+      "y": -500,
+      "rotation": 270
+    },
+    {
+      "designator": "R30",
+      "primitiveId": "06b8cdfd776b2210",
+      "x": 2120,
+      "y": -595,
+      "rotation": 270
+    },
+    {
+      "designator": "R31",
+      "primitiveId": "c212afe9874aa97b",
+      "x": 2010,
+      "y": -640,
+      "rotation": 270
+    },
+    {
+      "designator": "R32",
+      "primitiveId": "759db64b23ae30b2",
+      "x": 1865,
+      "y": -835,
+      "rotation": 270
+    },
+    {
+      "designator": "R33",
+      "primitiveId": "9438b3d807cdaa2b",
+      "x": 1895,
+      "y": -1080,
+      "rotation": 270
+    },
+    {
+      "designator": "R34",
+      "primitiveId": "c2d3e70c1ff5f797",
+      "x": 1635,
+      "y": -1425,
+      "rotation": 180
+    },
+    {
+      "designator": "R35",
+      "primitiveId": "772b7983cb0fb382",
+      "x": 1530,
+      "y": -1700,
+      "rotation": 270
+    },
+    {
+      "designator": "R36",
+      "primitiveId": "729b236a0da6c827",
+      "x": 1460,
+      "y": -1515,
+      "rotation": 0
+    },
+    {
+      "designator": "R37",
+      "primitiveId": "0765c547ed599725",
+      "x": 765,
+      "y": -1410,
+      "rotation": 90
+    },
+    {
+      "designator": "R38",
+      "primitiveId": "cc0bed3fe572419d",
+      "x": 1045,
+      "y": -1490,
+      "rotation": 180
+    },
+    {
+      "designator": "R39",
+      "primitiveId": "2b5ca411d877aa3f",
+      "x": 910,
+      "y": -1455,
+      "rotation": 90
+    },
+    {
+      "designator": "U1",
+      "primitiveId": "f046becd981c5c63",
+      "x": 1315,
+      "y": -1750,
+      "rotation": 0
+    }
+  ]
+}

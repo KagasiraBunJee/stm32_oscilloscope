@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "meta": {
+    "project": "58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c",
+    "doc": "30968987fbc1647d",
+    "name": "Create distributed STM32 signal-ground connectors"
+  },
+  "defaults": {
+    "retry": 0,
+    "continueOnError": false
+  },
+  "steps": [
+    {
+      "id": "label0",
+      "action": "schematic.component.modify",
+      "payload": {
+        "primitiveId": "4fe9bfaf68752e70",
+        "patch": {
+          "designator": "J9",
+          "name": "PA1 / GND",
+          "uniqueId": "osc_split_j9_20260907"
+        }
+      }
+    },
+    {
+      "id": "place1",
+      "action": "schematic.component.place",
+      "payload": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "e6f86ef4b986480caa66b42a71c1b786",
+        "x": 1280,
+        "y": -2820
+      },
+      "capture": {
+        "p1": "$.primitiveId"
+      }
+    },
+    {
+      "id": "label1",
+      "action": "schematic.component.modify",
+      "payload": {
+        "primitiveId": "${p1}",
+        "patch": {
+          "designator": "J10",
+          "name": "PC0 / GND",
+          "uniqueId": "osc_split_j10_20260907"
+        }
+      }
+    },
+    {
+      "id": "place2",
+      "action": "schematic.component.place",
+      "payload": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "e6f86ef4b986480caa66b42a71c1b786",
+        "x": 1440,
+        "y": -2820
+      },
+      "capture": {
+        "p2": "$.primitiveId"
+      }
+    },
+    {
+      "id": "label2",
+      "action": "schematic.component.modify",
+      "payload": {
+        "primitiveId": "${p2}",
+        "patch": {
+          "designator": "J11",
+          "name": "PA2 / GND",
+          "uniqueId": "osc_split_j11_20260907"
+        }
+      }
+    },
+    {
+      "id": "place3",
+      "action": "schematic.component.place",
+      "payload": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "e6f86ef4b986480caa66b42a71c1b786",
+        "x": 1120,
+        "y": -3000
+      },
+      "capture": {
+        "p3": "$.primitiveId"
+      }
+    },
+    {
+      "id": "label3",
+      "action": "schematic.component.modify",
+      "payload": {
+        "primitiveId": "${p3}",
+        "patch": {
+          "designator": "J12",
+          "name": "PC1 / GND",
+          "uniqueId": "osc_split_j12_20260907"
+        }
+      }
+    },
+    {
+      "id": "place4",
+      "action": "schematic.component.place",
+      "payload": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "e6f86ef4b986480caa66b42a71c1b786",
+        "x": 1280,
+        "y": -3000
+      },
+      "capture": {
+        "p4": "$.primitiveId"
+      }
+    },
+    {
+      "id": "label4",
+      "action": "schematic.component.modify",
+      "payload": {
+        "primitiveId": "${p4}",
+        "patch": {
+          "designator": "J13",
+          "name": "PA3 / GND",
+          "uniqueId": "osc_split_j13_20260907"
+        }
+      }
+    },
+    {
+      "id": "place5",
+      "action": "schematic.component.place",
+      "payload": {
+        "libraryUuid": "0819f05c4eef4c71ace90d822a990e87",
+        "uuid": "e6f86ef4b986480caa66b42a71c1b786",
+        "x": 1440,
+        "y": -3000
+      },
+      "capture": {
+        "p5": "$.primitiveId"
+      }
+    },
+    {
+      "id": "label5",
+      "action": "schematic.component.modify",
+      "payload": {
+        "primitiveId": "${p5}",
+        "patch": {
+          "designator": "J14",
+          "name": "PC2 / GND",
+          "uniqueId": "osc_split_j14_20260907"
+        }
+      }
+    },
+    {
+      "id": "save",
+      "action": "schematic.save"
+    }
+  ]
+}

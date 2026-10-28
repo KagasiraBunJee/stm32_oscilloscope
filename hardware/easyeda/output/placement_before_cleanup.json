@@ -1,0 +1,3277 @@
+{
+  "components": [
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 889.7637500000001,
+        "maxY": -366.14175,
+        "minX": 763.77955,
+        "minY": -421.25985000000003
+      },
+      "designator": "C1",
+      "layer": 1,
+      "locked": false,
+      "name": "1nF",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "PA1",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "5c283d56ae923d89e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 787.4,
+          "y": -393.7
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "5c283d56ae923d89e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 866.1,
+          "y": -393.7
+        }
+      ],
+      "primitiveId": "5c283d56ae923d89",
+      "rotation": 0,
+      "uniqueId": "gge42",
+      "x": 826.7717,
+      "y": -393.7008
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 2543.30705,
+        "maxY": -405.51185000000004,
+        "minX": 2417.32285,
+        "minY": -460.62995
+      },
+      "designator": "C2",
+      "layer": 1,
+      "locked": false,
+      "name": "1nF",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "PC0",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "31a26ac39c3fc56ae2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 2440.9,
+          "y": -433.1
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "31a26ac39c3fc56ae3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 2519.7,
+          "y": -433.1
+        }
+      ],
+      "primitiveId": "31a26ac39c3fc56a",
+      "rotation": 0,
+      "uniqueId": "gge188",
+      "x": 2480.315,
+      "y": -433.07090000000005
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 889.7637500000001,
+        "maxY": -1232.2834500000001,
+        "minX": 763.77955,
+        "minY": -1287.40155
+      },
+      "designator": "C3",
+      "layer": 1,
+      "locked": false,
+      "name": "1nF",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "PA2",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "67461a8567181062e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 787.4,
+          "y": -1259.8
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "67461a8567181062e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 866.1,
+          "y": -1259.8
+        }
+      ],
+      "primitiveId": "67461a8567181062",
+      "rotation": 0,
+      "uniqueId": "gge241",
+      "x": 826.7717,
+      "y": -1259.8425
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 2543.30705,
+        "maxY": -1271.6535500000002,
+        "minX": 2417.32285,
+        "minY": -1326.7716500000004
+      },
+      "designator": "C4",
+      "layer": 1,
+      "locked": false,
+      "name": "1nF",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "PC1",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "e434dc54e65e706be2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 2440.9,
+          "y": -1299.2
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "e434dc54e65e706be3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 2519.7,
+          "y": -1299.2
+        }
+      ],
+      "primitiveId": "e434dc54e65e706b",
+      "rotation": 0,
+      "uniqueId": "gge387",
+      "x": 2480.315,
+      "y": -1299.2126000000003
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 889.7637500000001,
+        "maxY": -2098.42525,
+        "minX": 763.77955,
+        "minY": -2153.5433500000004
+      },
+      "designator": "C5",
+      "layer": 1,
+      "locked": false,
+      "name": "1nF",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "PA3",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "c2d6f50f7049d8b4e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 787.4,
+          "y": -2126
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "c2d6f50f7049d8b4e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 866.1,
+          "y": -2126
+        }
+      ],
+      "primitiveId": "c2d6f50f7049d8b4",
+      "rotation": 0,
+      "uniqueId": "gge440",
+      "x": 826.7717,
+      "y": -2125.9843
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 2543.30705,
+        "maxY": -2137.7952499999997,
+        "minX": 2417.32285,
+        "minY": -2192.91335
+      },
+      "designator": "C6",
+      "layer": 1,
+      "locked": false,
+      "name": "1nF",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "PC2",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "3c2efe2e2f18516fe2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 2440.9,
+          "y": -2165.4
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "3c2efe2e2f18516fe3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 2519.7,
+          "y": -2165.4
+        }
+      ],
+      "primitiveId": "3c2efe2e2f18516f",
+      "rotation": 0,
+      "uniqueId": "gge586",
+      "x": 2480.315,
+      "y": -2165.3543
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 889.7637500000001,
+        "maxY": -3082.67715,
+        "minX": 763.77955,
+        "minY": -3137.7952499999997
+      },
+      "designator": "C7",
+      "layer": 1,
+      "locked": false,
+      "name": "10uF",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "3V3_A",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "36493ec33c564e8ce2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 787.4,
+          "y": -3110.2
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "36493ec33c564e8ce3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 866.1,
+          "y": -3110.2
+        }
+      ],
+      "primitiveId": "36493ec33c564e8c",
+      "rotation": 0,
+      "uniqueId": "gge657",
+      "x": 826.7717,
+      "y": -3110.2362
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 2031.49595,
+        "maxY": -1468.5039499999998,
+        "minX": 1905.5117500000001,
+        "minY": -1523.6220500000002
+      },
+      "designator": "C8",
+      "layer": 1,
+      "locked": false,
+      "name": "100nF",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "3V3_A",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "bdb6f9ef3dc0962fe2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1929.1,
+          "y": -1496.1
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "bdb6f9ef3dc0962fe3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 2007.9,
+          "y": -1496.1
+        }
+      ],
+      "primitiveId": "bdb6f9ef3dc0962f",
+      "rotation": 0,
+      "uniqueId": "gge667",
+      "x": 1968.5039000000002,
+      "y": -1496.063
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1874.01565,
+        "maxY": -3043.3070500000003,
+        "minX": 1748.03145,
+        "minY": -3098.42515
+      },
+      "designator": "C9",
+      "layer": 1,
+      "locked": false,
+      "name": "100nF",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "REF_RAW",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "ee3a0835ceec95dee2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1771.7,
+          "y": -3070.9
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "ee3a0835ceec95dee3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1850.4,
+          "y": -3070.9
+        }
+      ],
+      "primitiveId": "ee3a0835ceec95de",
+      "rotation": 0,
+      "uniqueId": "gge707",
+      "x": 1811.0236,
+      "y": -3070.8661
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1113.1889999999999,
+        "maxY": -330.70865,
+        "minX": 1012.7953,
+        "minY": -456.69295000000005
+      },
+      "designator": "D1",
+      "layer": 1,
+      "locked": false,
+      "name": "BAT54S",
+      "pads": [
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "0cdaa62e1f8a5f00e2",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1025.6,
+          "y": -435
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "3V3_A",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "0cdaa62e1f8a5f00e3",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1100.4,
+          "y": -435
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "PA1",
+          "padNumber": "3",
+          "padType": 0,
+          "primitiveId": "0cdaa62e1f8a5f00e4",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1063,
+          "y": -352.4
+        }
+      ],
+      "primitiveId": "0cdaa62e1f8a5f00",
+      "rotation": 0,
+      "uniqueId": "gge55",
+      "x": 1062.9921,
+      "y": -393.7008
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1743.1102999999998,
+        "maxY": -606.2991499999999,
+        "minX": 1642.7166,
+        "minY": -732.28345
+      },
+      "designator": "D2",
+      "layer": 1,
+      "locked": false,
+      "name": "BAS70-04",
+      "pads": [
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "9f803228607c076ee2",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1655.5,
+          "y": -710.6
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "3V3_A",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "9f803228607c076ee3",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1730.3,
+          "y": -710.6
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "CH1_SUM",
+          "padNumber": "3",
+          "padType": 0,
+          "primitiveId": "9f803228607c076ee4",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1692.9,
+          "y": -628
+        }
+      ],
+      "primitiveId": "9f803228607c076e",
+      "rotation": 0,
+      "uniqueId": "gge168",
+      "x": 1692.9134,
+      "y": -669.2913
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 2451.7717,
+        "maxY": -645.6692499999999,
+        "minX": 2351.378,
+        "minY": -771.65355
+      },
+      "designator": "D3",
+      "layer": 1,
+      "locked": false,
+      "name": "BAT54S",
+      "pads": [
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "edb2a57781514ee3e2",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 2364.2,
+          "y": -750
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "3V3_A",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "edb2a57781514ee3e3",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 2439,
+          "y": -750
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "PC0",
+          "padNumber": "3",
+          "padType": 0,
+          "primitiveId": "edb2a57781514ee3e4",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 2401.6,
+          "y": -667.3
+        }
+      ],
+      "primitiveId": "edb2a57781514ee3",
+      "rotation": 0,
+      "uniqueId": "gge201",
+      "x": 2401.5748,
+      "y": -708.6614
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1113.1889999999999,
+        "maxY": -1196.85035,
+        "minX": 1012.7953,
+        "minY": -1322.83465
+      },
+      "designator": "D4",
+      "layer": 1,
+      "locked": false,
+      "name": "BAT54S",
+      "pads": [
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "405f3af65e8f9044e2",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1025.6,
+          "y": -1301.2
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "3V3_A",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "405f3af65e8f9044e3",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1100.4,
+          "y": -1301.2
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "PA2",
+          "padNumber": "3",
+          "padType": 0,
+          "primitiveId": "405f3af65e8f9044e4",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1063,
+          "y": -1218.5
+        }
+      ],
+      "primitiveId": "405f3af65e8f9044",
+      "rotation": 0,
+      "uniqueId": "gge254",
+      "x": 1062.9921,
+      "y": -1259.8425
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1743.1102999999998,
+        "maxY": -1472.44095,
+        "minX": 1642.7166,
+        "minY": -1598.42525
+      },
+      "designator": "D5",
+      "layer": 1,
+      "locked": false,
+      "name": "BAS70-04",
+      "pads": [
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "4b09470a0659866be2",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1655.5,
+          "y": -1576.8
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "3V3_A",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "4b09470a0659866be3",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1730.3,
+          "y": -1576.8
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "CH2_SUM",
+          "padNumber": "3",
+          "padType": 0,
+          "primitiveId": "4b09470a0659866be4",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1692.9,
+          "y": -1494.1
+        }
+      ],
+      "primitiveId": "4b09470a0659866b",
+      "rotation": 0,
+      "uniqueId": "gge367",
+      "x": 1692.9134,
+      "y": -1535.4331
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 2451.7717,
+        "maxY": -1511.81095,
+        "minX": 2351.378,
+        "minY": -1637.7952500000001
+      },
+      "designator": "D6",
+      "layer": 1,
+      "locked": false,
+      "name": "BAT54S",
+      "pads": [
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "34c819217b322878e2",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 2364.2,
+          "y": -1616.1
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "3V3_A",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "34c819217b322878e3",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 2439,
+          "y": -1616.1
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "PC1",
+          "padNumber": "3",
+          "padType": 0,
+          "primitiveId": "34c819217b322878e4",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 2401.6,
+          "y": -1533.5
+        }
+      ],
+      "primitiveId": "34c819217b322878",
+      "rotation": 0,
+      "uniqueId": "gge400",
+      "x": 2401.5748,
+      "y": -1574.8031
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1113.1889999999999,
+        "maxY": -2062.99215,
+        "minX": 1012.7953,
+        "minY": -2188.97645
+      },
+      "designator": "D7",
+      "layer": 1,
+      "locked": false,
+      "name": "BAT54S",
+      "pads": [
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "f32ff7d7391e65b2e2",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1025.6,
+          "y": -2167.3
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "3V3_A",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "f32ff7d7391e65b2e3",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1100.4,
+          "y": -2167.3
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "PA3",
+          "padNumber": "3",
+          "padType": 0,
+          "primitiveId": "f32ff7d7391e65b2e4",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1063,
+          "y": -2084.6
+        }
+      ],
+      "primitiveId": "f32ff7d7391e65b2",
+      "rotation": 0,
+      "uniqueId": "gge453",
+      "x": 1062.9921,
+      "y": -2125.9843
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1743.1102999999998,
+        "maxY": -2338.58265,
+        "minX": 1642.7166,
+        "minY": -2464.56695
+      },
+      "designator": "D8",
+      "layer": 1,
+      "locked": false,
+      "name": "BAS70-04",
+      "pads": [
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "414c3b006aa9746fe2",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1655.5,
+          "y": -2442.9
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "3V3_A",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "414c3b006aa9746fe3",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1730.3,
+          "y": -2442.9
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "CH3_SUM",
+          "padNumber": "3",
+          "padType": 0,
+          "primitiveId": "414c3b006aa9746fe4",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 1692.9,
+          "y": -2360.2
+        }
+      ],
+      "primitiveId": "414c3b006aa9746f",
+      "rotation": 0,
+      "uniqueId": "gge566",
+      "x": 1692.9134,
+      "y": -2401.5748
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 2451.7717,
+        "maxY": -2377.95275,
+        "minX": 2351.378,
+        "minY": -2503.93705
+      },
+      "designator": "D9",
+      "layer": 1,
+      "locked": false,
+      "name": "BAT54S",
+      "pads": [
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "0d03f9ce8e3297a0e2",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 2364.2,
+          "y": -2482.3
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "3V3_A",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "0d03f9ce8e3297a0e3",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 2439,
+          "y": -2482.3
+        },
+        {
+          "height": 43.3,
+          "layer": 1,
+          "net": "PC2",
+          "padNumber": "3",
+          "padType": 0,
+          "primitiveId": "0d03f9ce8e3297a0e4",
+          "rotation": 0,
+          "width": 25.6,
+          "x": 2401.6,
+          "y": -2399.6
+        }
+      ],
+      "primitiveId": "0d03f9ce8e3297a0",
+      "rotation": 0,
+      "uniqueId": "gge599",
+      "x": 2401.5748,
+      "y": -2440.9449
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 653.54335,
+        "maxY": -3082.67715,
+        "minX": 527.55905,
+        "minY": -3137.7952499999997
+      },
+      "designator": "FB1",
+      "layer": 1,
+      "locked": false,
+      "name": "Ferrite 600R@100MHz",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "3V3_IN",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "49e8292796916a33e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 551.2,
+          "y": -3110.2
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "3V3_A",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "49e8292796916a33e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 629.9,
+          "y": -3110.2
+        }
+      ],
+      "primitiveId": "49e8292796916a33",
+      "rotation": 0,
+      "uniqueId": "gge647",
+      "x": 590.5512,
+      "y": -3110.2362
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 311.02365,
+        "maxY": -358.26775,
+        "minX": 240.15755,
+        "minY": -529.13385
+      },
+      "designator": "J1",
+      "layer": 1,
+      "locked": false,
+      "name": "CH1 DIRECT 0-3.3V",
+      "pads": [
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "CH1_DIRECT",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "e3c55716468d0f42e2",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 275.6,
+          "y": -393.7
+        },
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "GND",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "e3c55716468d0f42e3",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 275.6,
+          "y": -493.7
+        }
+      ],
+      "primitiveId": "e3c55716468d0f42",
+      "rotation": 0,
+      "uniqueId": "gge12",
+      "x": 275.5906,
+      "y": -393.7008
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 311.02365,
+        "maxY": -751.96855,
+        "minX": 240.15755,
+        "minY": -922.83465
+      },
+      "designator": "J2",
+      "layer": 1,
+      "locked": false,
+      "name": "CH1 HIGH +/-15V",
+      "pads": [
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "CH1_HIGH",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "2bddbfaba5c37bb2e2",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 275.6,
+          "y": -787.4
+        },
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "GND",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "2bddbfaba5c37bb2e3",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 275.6,
+          "y": -887.4
+        }
+      ],
+      "primitiveId": "2bddbfaba5c37bb2",
+      "rotation": 0,
+      "uniqueId": "gge22",
+      "x": 275.5906,
+      "y": -787.4016
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 311.02365,
+        "maxY": -1224.40945,
+        "minX": 240.15755,
+        "minY": -1395.27555
+      },
+      "designator": "J3",
+      "layer": 1,
+      "locked": false,
+      "name": "CH2 DIRECT 0-3.3V",
+      "pads": [
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "CH2_DIRECT",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "82faf7bca405b553e2",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 275.6,
+          "y": -1259.8
+        },
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "GND",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "82faf7bca405b553e3",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 275.6,
+          "y": -1359.8
+        }
+      ],
+      "primitiveId": "82faf7bca405b553",
+      "rotation": 0,
+      "uniqueId": "gge211",
+      "x": 275.5906,
+      "y": -1259.8425
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 311.02365,
+        "maxY": -1618.11025,
+        "minX": 240.15755,
+        "minY": -1788.9763500000001
+      },
+      "designator": "J4",
+      "layer": 1,
+      "locked": false,
+      "name": "CH2 HIGH +/-15V",
+      "pads": [
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "CH2_HIGH",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "033b39bc90301d96e2",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 275.6,
+          "y": -1653.5
+        },
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "GND",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "033b39bc90301d96e3",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 275.6,
+          "y": -1753.5
+        }
+      ],
+      "primitiveId": "033b39bc90301d96",
+      "rotation": 0,
+      "uniqueId": "gge221",
+      "x": 275.5906,
+      "y": -1653.5433
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 311.02365,
+        "maxY": -2090.55125,
+        "minX": 240.15755,
+        "minY": -2261.41735
+      },
+      "designator": "J5",
+      "layer": 1,
+      "locked": false,
+      "name": "CH3 DIRECT 0-3.3V",
+      "pads": [
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "CH3_DIRECT",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "163e7f6479c1fe97e2",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 275.6,
+          "y": -2126
+        },
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "GND",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "163e7f6479c1fe97e3",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 275.6,
+          "y": -2226
+        }
+      ],
+      "primitiveId": "163e7f6479c1fe97",
+      "rotation": 0,
+      "uniqueId": "gge410",
+      "x": 275.5906,
+      "y": -2125.9843
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 311.02365,
+        "maxY": -2484.25195,
+        "minX": 240.15755,
+        "minY": -2655.11805
+      },
+      "designator": "J6",
+      "layer": 1,
+      "locked": false,
+      "name": "CH3 HIGH +/-15V",
+      "pads": [
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "CH3_HIGH",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "279817ad0b63468ee2",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 275.6,
+          "y": -2519.7
+        },
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "GND",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "279817ad0b63468ee3",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 275.6,
+          "y": -2619.7
+        }
+      ],
+      "primitiveId": "279817ad0b63468e",
+      "rotation": 0,
+      "uniqueId": "gge420",
+      "x": 275.5906,
+      "y": -2519.685
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 350.39365000000004,
+        "maxY": -3074.80315,
+        "minX": 279.52755,
+        "minY": -3245.66925
+      },
+      "designator": "J7",
+      "layer": 1,
+      "locked": false,
+      "name": "POWER 3.3V",
+      "pads": [
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "3V3_IN",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "f8814f5436e8c6e6e2",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 315,
+          "y": -3110.2
+        },
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "GND",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "f8814f5436e8c6e6e3",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 315,
+          "y": -3210.2
+        }
+      ],
+      "primitiveId": "f8814f5436e8c6e6",
+      "rotation": 0,
+      "uniqueId": "gge609",
+      "x": 314.9606,
+      "y": -3110.2362
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 2497.63775,
+        "maxY": -2874.80315,
+        "minX": 2326.7716499999997,
+        "minY": -3245.66925
+      },
+      "designator": "J8",
+      "layer": 1,
+      "locked": false,
+      "name": "STM32 OUTPUTS",
+      "pads": [
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "PA1",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "24e872f0ce233efce2",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 2362.2,
+          "y": -2910.2
+        },
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "PC0",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "24e872f0ce233efce3",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 2462.2,
+          "y": -2910.2
+        },
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "PA2",
+          "padNumber": "3",
+          "padType": 0,
+          "primitiveId": "24e872f0ce233efce4",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 2362.2,
+          "y": -3010.2
+        },
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "PC1",
+          "padNumber": "4",
+          "padType": 0,
+          "primitiveId": "24e872f0ce233efce5",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 2462.2,
+          "y": -3010.2
+        },
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "PA3",
+          "padNumber": "5",
+          "padType": 0,
+          "primitiveId": "24e872f0ce233efce6",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 2362.2,
+          "y": -3110.2
+        },
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "PC2",
+          "padNumber": "6",
+          "padType": 0,
+          "primitiveId": "24e872f0ce233efce7",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 2462.2,
+          "y": -3110.2
+        },
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "GND",
+          "padNumber": "7",
+          "padType": 0,
+          "primitiveId": "24e872f0ce233efce8",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 2362.2,
+          "y": -3210.2
+        },
+        {
+          "height": 70.9,
+          "layer": 12,
+          "net": "GND",
+          "padNumber": "8",
+          "padType": 0,
+          "primitiveId": "24e872f0ce233efce9",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 2462.2,
+          "y": -3210.2
+        }
+      ],
+      "primitiveId": "24e872f0ce233efc",
+      "rotation": 0,
+      "uniqueId": "gge637",
+      "x": 2362.2047,
+      "y": -2910.2362
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 653.54335,
+        "maxY": -366.14175,
+        "minX": 527.55905,
+        "minY": -421.25985000000003
+      },
+      "designator": "R1",
+      "layer": 1,
+      "locked": false,
+      "name": "100R",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_DIRECT",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "3cce67256d07342be2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 551.2,
+          "y": -393.7
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "PA1",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "3cce67256d07342be3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 629.9,
+          "y": -393.7
+        }
+      ],
+      "primitiveId": "3cce67256d07342b",
+      "rotation": 0,
+      "uniqueId": "gge32",
+      "x": 590.5512,
+      "y": -393.7008
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 653.54335,
+        "maxY": -681.10235,
+        "minX": 527.55905,
+        "minY": -736.22045
+      },
+      "designator": "R2",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_HIGH",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "3aed60458cf7032ce2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 551.2,
+          "y": -708.7
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_ATT1",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "3aed60458cf7032ce3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 629.9,
+          "y": -708.7
+        }
+      ],
+      "primitiveId": "3aed60458cf7032c",
+      "rotation": 0,
+      "uniqueId": "gge65",
+      "x": 590.5512,
+      "y": -708.6614
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 889.76385,
+        "maxY": -681.10235,
+        "minX": 763.77955,
+        "minY": -736.22045
+      },
+      "designator": "R3",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_ATT1",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "849cc950ff5df345e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 787.4,
+          "y": -708.7
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_ATT2",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "849cc950ff5df345e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 866.1,
+          "y": -708.7
+        }
+      ],
+      "primitiveId": "849cc950ff5df345",
+      "rotation": 0,
+      "uniqueId": "gge75",
+      "x": 826.7717,
+      "y": -708.6614
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1125.98425,
+        "maxY": -681.10235,
+        "minX": 999.9999499999999,
+        "minY": -736.22045
+      },
+      "designator": "R4",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_ATT2",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "ea79b7eba4fc83a9e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1023.6,
+          "y": -708.7
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_ATT3",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "ea79b7eba4fc83a9e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1102.4,
+          "y": -708.7
+        }
+      ],
+      "primitiveId": "ea79b7eba4fc83a9",
+      "rotation": 0,
+      "uniqueId": "gge85",
+      "x": 1062.9921,
+      "y": -708.6614
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1362.2047500000003,
+        "maxY": -681.10235,
+        "minX": 1236.2204500000003,
+        "minY": -736.22045
+      },
+      "designator": "R5",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_ATT3",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "59599d3c41c8d63ee2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1259.8,
+          "y": -708.7
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_ATT4",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "59599d3c41c8d63ee3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1338.6,
+          "y": -708.7
+        }
+      ],
+      "primitiveId": "59599d3c41c8d63e",
+      "rotation": 0,
+      "uniqueId": "gge95",
+      "x": 1299.2126000000003,
+      "y": -708.6614
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1598.42525,
+        "maxY": -681.10235,
+        "minX": 1472.44095,
+        "minY": -736.22045
+      },
+      "designator": "R6",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_ATT4",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "7c6b8d5d7db1b073e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1496.1,
+          "y": -708.7
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_ATT5",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "7c6b8d5d7db1b073e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1574.8,
+          "y": -708.7
+        }
+      ],
+      "primitiveId": "7c6b8d5d7db1b073",
+      "rotation": 0,
+      "uniqueId": "gge105",
+      "x": 1535.4331,
+      "y": -708.6614
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 653.54335,
+        "maxY": -877.95275,
+        "minX": 527.55905,
+        "minY": -933.0708500000001
+      },
+      "designator": "R7",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_ATT5",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "c6828052a6ba8f2ce2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 551.2,
+          "y": -905.5
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_ATT6",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "c6828052a6ba8f2ce3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 629.9,
+          "y": -905.5
+        }
+      ],
+      "primitiveId": "c6828052a6ba8f2c",
+      "rotation": 0,
+      "uniqueId": "gge115",
+      "x": 590.5512,
+      "y": -905.5118
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 889.76385,
+        "maxY": -877.95275,
+        "minX": 763.77955,
+        "minY": -933.0708500000001
+      },
+      "designator": "R8",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_ATT6",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "c55394ebac9174b3e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 787.4,
+          "y": -905.5
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_ATT7",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "c55394ebac9174b3e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 866.1,
+          "y": -905.5
+        }
+      ],
+      "primitiveId": "c55394ebac9174b3",
+      "rotation": 0,
+      "uniqueId": "gge125",
+      "x": 826.7717,
+      "y": -905.5118
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1125.98425,
+        "maxY": -877.95275,
+        "minX": 999.9999499999999,
+        "minY": -933.0708500000001
+      },
+      "designator": "R9",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_ATT7",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "5c1bef2749a9706fe2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1023.6,
+          "y": -905.5
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_ATT8",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "5c1bef2749a9706fe3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1102.4,
+          "y": -905.5
+        }
+      ],
+      "primitiveId": "5c1bef2749a9706f",
+      "rotation": 0,
+      "uniqueId": "gge135",
+      "x": 1062.9921,
+      "y": -905.5118
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1362.2047500000003,
+        "maxY": -877.95275,
+        "minX": 1236.2204500000003,
+        "minY": -933.0708500000001
+      },
+      "designator": "R10",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_ATT8",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "790bfec30fa8a8fae2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1259.8,
+          "y": -905.5
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_SUM",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "790bfec30fa8a8fae3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1338.6,
+          "y": -905.5
+        }
+      ],
+      "primitiveId": "790bfec30fa8a8fa",
+      "rotation": 0,
+      "uniqueId": "gge145",
+      "x": 1299.2126000000003,
+      "y": -905.5118
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1716.53545,
+        "maxY": -877.95275,
+        "minX": 1590.55115,
+        "minY": -933.0708500000001
+      },
+      "designator": "R11",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_SUM",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "0d546e859c3b12a9e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1614.2,
+          "y": -905.5
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "VBIAS",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "0d546e859c3b12a9e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1692.9,
+          "y": -905.5
+        }
+      ],
+      "primitiveId": "0d546e859c3b12a9",
+      "rotation": 0,
+      "uniqueId": "gge155",
+      "x": 1653.5433,
+      "y": -905.5118
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 2307.08665,
+        "maxY": -405.51185000000004,
+        "minX": 2181.10235,
+        "minY": -460.62995
+      },
+      "designator": "R12",
+      "layer": 1,
+      "locked": false,
+      "name": "33R",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH1_BUF",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "7413e84851e73663e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 2204.7,
+          "y": -433.1
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "PC0",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "7413e84851e73663e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 2283.5,
+          "y": -433.1
+        }
+      ],
+      "primitiveId": "7413e84851e73663",
+      "rotation": 0,
+      "uniqueId": "gge178",
+      "x": 2244.0945,
+      "y": -433.07090000000005
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 653.54335,
+        "maxY": -1232.2834500000001,
+        "minX": 527.55905,
+        "minY": -1287.40155
+      },
+      "designator": "R13",
+      "layer": 1,
+      "locked": false,
+      "name": "100R",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_DIRECT",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "d9645f7e1dbe4076e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 551.2,
+          "y": -1259.8
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "PA2",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "d9645f7e1dbe4076e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 629.9,
+          "y": -1259.8
+        }
+      ],
+      "primitiveId": "d9645f7e1dbe4076",
+      "rotation": 0,
+      "uniqueId": "gge231",
+      "x": 590.5512,
+      "y": -1259.8425
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 653.54335,
+        "maxY": -1547.2440499999998,
+        "minX": 527.55905,
+        "minY": -1602.3621500000002
+      },
+      "designator": "R14",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_HIGH",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "8452b4a721224849e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 551.2,
+          "y": -1574.8
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_ATT1",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "8452b4a721224849e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 629.9,
+          "y": -1574.8
+        }
+      ],
+      "primitiveId": "8452b4a721224849",
+      "rotation": 0,
+      "uniqueId": "gge264",
+      "x": 590.5512,
+      "y": -1574.8031
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 889.76385,
+        "maxY": -1547.2440499999998,
+        "minX": 763.77955,
+        "minY": -1602.3621500000002
+      },
+      "designator": "R15",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_ATT1",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "16e651c676dae858e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 787.4,
+          "y": -1574.8
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_ATT2",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "16e651c676dae858e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 866.1,
+          "y": -1574.8
+        }
+      ],
+      "primitiveId": "16e651c676dae858",
+      "rotation": 0,
+      "uniqueId": "gge274",
+      "x": 826.7717,
+      "y": -1574.8031
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1125.98425,
+        "maxY": -1547.2440499999998,
+        "minX": 999.9999499999999,
+        "minY": -1602.3621500000002
+      },
+      "designator": "R16",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_ATT2",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "8145ede36b7c1539e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1023.6,
+          "y": -1574.8
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_ATT3",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "8145ede36b7c1539e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1102.4,
+          "y": -1574.8
+        }
+      ],
+      "primitiveId": "8145ede36b7c1539",
+      "rotation": 0,
+      "uniqueId": "gge284",
+      "x": 1062.9921,
+      "y": -1574.8031
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1362.2047500000003,
+        "maxY": -1547.2440499999998,
+        "minX": 1236.2204500000003,
+        "minY": -1602.3621500000002
+      },
+      "designator": "R17",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_ATT3",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "d51a61d1ad94f374e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1259.8,
+          "y": -1574.8
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_ATT4",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "d51a61d1ad94f374e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1338.6,
+          "y": -1574.8
+        }
+      ],
+      "primitiveId": "d51a61d1ad94f374",
+      "rotation": 0,
+      "uniqueId": "gge294",
+      "x": 1299.2126000000003,
+      "y": -1574.8031
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1598.42525,
+        "maxY": -1547.2440499999998,
+        "minX": 1472.44095,
+        "minY": -1602.3621500000002
+      },
+      "designator": "R18",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_ATT4",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "ddc310ec5b093dc7e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1496.1,
+          "y": -1574.8
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_ATT5",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "ddc310ec5b093dc7e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1574.8,
+          "y": -1574.8
+        }
+      ],
+      "primitiveId": "ddc310ec5b093dc7",
+      "rotation": 0,
+      "uniqueId": "gge304",
+      "x": 1535.4331,
+      "y": -1574.8031
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 653.54335,
+        "maxY": -1744.0944499999998,
+        "minX": 527.55905,
+        "minY": -1799.21255
+      },
+      "designator": "R19",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_ATT5",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "0c4f2d0801ff6a3be2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 551.2,
+          "y": -1771.7
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_ATT6",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "0c4f2d0801ff6a3be3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 629.9,
+          "y": -1771.7
+        }
+      ],
+      "primitiveId": "0c4f2d0801ff6a3b",
+      "rotation": 0,
+      "uniqueId": "gge314",
+      "x": 590.5512,
+      "y": -1771.6535
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 889.76385,
+        "maxY": -1744.0944499999998,
+        "minX": 763.77955,
+        "minY": -1799.21255
+      },
+      "designator": "R20",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_ATT6",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "8091e6a38fca6427e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 787.4,
+          "y": -1771.7
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_ATT7",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "8091e6a38fca6427e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 866.1,
+          "y": -1771.7
+        }
+      ],
+      "primitiveId": "8091e6a38fca6427",
+      "rotation": 0,
+      "uniqueId": "gge324",
+      "x": 826.7717,
+      "y": -1771.6535
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1125.98425,
+        "maxY": -1744.0944499999998,
+        "minX": 999.9999499999999,
+        "minY": -1799.21255
+      },
+      "designator": "R21",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_ATT7",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "d53ef29beaa161a1e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1023.6,
+          "y": -1771.7
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_ATT8",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "d53ef29beaa161a1e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1102.4,
+          "y": -1771.7
+        }
+      ],
+      "primitiveId": "d53ef29beaa161a1",
+      "rotation": 0,
+      "uniqueId": "gge334",
+      "x": 1062.9921,
+      "y": -1771.6535
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1362.2047500000003,
+        "maxY": -1744.0944499999998,
+        "minX": 1236.2204500000003,
+        "minY": -1799.21255
+      },
+      "designator": "R22",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_ATT8",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "7fa06966d03f9b46e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1259.8,
+          "y": -1771.7
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_SUM",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "7fa06966d03f9b46e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1338.6,
+          "y": -1771.7
+        }
+      ],
+      "primitiveId": "7fa06966d03f9b46",
+      "rotation": 0,
+      "uniqueId": "gge344",
+      "x": 1299.2126000000003,
+      "y": -1771.6535
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1716.53545,
+        "maxY": -1744.0944499999998,
+        "minX": 1590.55115,
+        "minY": -1799.21255
+      },
+      "designator": "R23",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_SUM",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "16fdfa6f91c13478e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1614.2,
+          "y": -1771.7
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "VBIAS",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "16fdfa6f91c13478e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1692.9,
+          "y": -1771.7
+        }
+      ],
+      "primitiveId": "16fdfa6f91c13478",
+      "rotation": 0,
+      "uniqueId": "gge354",
+      "x": 1653.5433,
+      "y": -1771.6535
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 2307.08665,
+        "maxY": -1271.6535500000002,
+        "minX": 2181.10235,
+        "minY": -1326.7716500000004
+      },
+      "designator": "R24",
+      "layer": 1,
+      "locked": false,
+      "name": "33R",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH2_BUF",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "bdfb7da0d5590c4ae2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 2204.7,
+          "y": -1299.2
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "PC1",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "bdfb7da0d5590c4ae3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 2283.5,
+          "y": -1299.2
+        }
+      ],
+      "primitiveId": "bdfb7da0d5590c4a",
+      "rotation": 0,
+      "uniqueId": "gge377",
+      "x": 2244.0945,
+      "y": -1299.2126000000003
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 653.54335,
+        "maxY": -2098.42525,
+        "minX": 527.55905,
+        "minY": -2153.5433500000004
+      },
+      "designator": "R25",
+      "layer": 1,
+      "locked": false,
+      "name": "100R",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_DIRECT",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "0eb46449af6972dde2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 551.2,
+          "y": -2126
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "PA3",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "0eb46449af6972dde3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 629.9,
+          "y": -2126
+        }
+      ],
+      "primitiveId": "0eb46449af6972dd",
+      "rotation": 0,
+      "uniqueId": "gge430",
+      "x": 590.5512,
+      "y": -2125.9843
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 653.54335,
+        "maxY": -2413.38585,
+        "minX": 527.55905,
+        "minY": -2468.5039500000003
+      },
+      "designator": "R26",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_HIGH",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "d39c198b98468c0fe2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 551.2,
+          "y": -2440.9
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_ATT1",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "d39c198b98468c0fe3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 629.9,
+          "y": -2440.9
+        }
+      ],
+      "primitiveId": "d39c198b98468c0f",
+      "rotation": 0,
+      "uniqueId": "gge463",
+      "x": 590.5512,
+      "y": -2440.9449
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 889.76385,
+        "maxY": -2413.38585,
+        "minX": 763.77955,
+        "minY": -2468.5039500000003
+      },
+      "designator": "R27",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_ATT1",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "c6fd959f5a4313dbe2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 787.4,
+          "y": -2440.9
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_ATT2",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "c6fd959f5a4313dbe3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 866.1,
+          "y": -2440.9
+        }
+      ],
+      "primitiveId": "c6fd959f5a4313db",
+      "rotation": 0,
+      "uniqueId": "gge473",
+      "x": 826.7717,
+      "y": -2440.9449
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1125.98425,
+        "maxY": -2413.38585,
+        "minX": 999.9999499999999,
+        "minY": -2468.5039500000003
+      },
+      "designator": "R28",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_ATT2",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "3f3338cfed6f6961e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1023.6,
+          "y": -2440.9
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_ATT3",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "3f3338cfed6f6961e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1102.4,
+          "y": -2440.9
+        }
+      ],
+      "primitiveId": "3f3338cfed6f6961",
+      "rotation": 0,
+      "uniqueId": "gge483",
+      "x": 1062.9921,
+      "y": -2440.9449
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1362.2047500000003,
+        "maxY": -2413.38585,
+        "minX": 1236.2204500000003,
+        "minY": -2468.5039500000003
+      },
+      "designator": "R29",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_ATT3",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "62d9630d34d89a93e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1259.8,
+          "y": -2440.9
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_ATT4",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "62d9630d34d89a93e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1338.6,
+          "y": -2440.9
+        }
+      ],
+      "primitiveId": "62d9630d34d89a93",
+      "rotation": 0,
+      "uniqueId": "gge493",
+      "x": 1299.2126000000003,
+      "y": -2440.9449
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1598.42525,
+        "maxY": -2413.38585,
+        "minX": 1472.44095,
+        "minY": -2468.5039500000003
+      },
+      "designator": "R30",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_ATT4",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "3b28ef0d1d2e7862e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1496.1,
+          "y": -2440.9
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_ATT5",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "3b28ef0d1d2e7862e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1574.8,
+          "y": -2440.9
+        }
+      ],
+      "primitiveId": "3b28ef0d1d2e7862",
+      "rotation": 0,
+      "uniqueId": "gge503",
+      "x": 1535.4331,
+      "y": -2440.9449
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 653.54335,
+        "maxY": -2610.2362500000004,
+        "minX": 527.55905,
+        "minY": -2665.35435
+      },
+      "designator": "R31",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_ATT5",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "23c90bdd10b5febde2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 551.2,
+          "y": -2637.8
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_ATT6",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "23c90bdd10b5febde3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 629.9,
+          "y": -2637.8
+        }
+      ],
+      "primitiveId": "23c90bdd10b5febd",
+      "rotation": 0,
+      "uniqueId": "gge513",
+      "x": 590.5512,
+      "y": -2637.7953
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 889.76385,
+        "maxY": -2610.2362500000004,
+        "minX": 763.77955,
+        "minY": -2665.35435
+      },
+      "designator": "R32",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_ATT6",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "2b1876692d710c49e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 787.4,
+          "y": -2637.8
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_ATT7",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "2b1876692d710c49e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 866.1,
+          "y": -2637.8
+        }
+      ],
+      "primitiveId": "2b1876692d710c49",
+      "rotation": 0,
+      "uniqueId": "gge523",
+      "x": 826.7717,
+      "y": -2637.7953
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1125.98425,
+        "maxY": -2610.2362500000004,
+        "minX": 999.9999499999999,
+        "minY": -2665.35435
+      },
+      "designator": "R33",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_ATT7",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "1170054e32081e08e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1023.6,
+          "y": -2637.8
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_ATT8",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "1170054e32081e08e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1102.4,
+          "y": -2637.8
+        }
+      ],
+      "primitiveId": "1170054e32081e08",
+      "rotation": 0,
+      "uniqueId": "gge533",
+      "x": 1062.9921,
+      "y": -2637.7953
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1362.2047500000003,
+        "maxY": -2610.2362500000004,
+        "minX": 1236.2204500000003,
+        "minY": -2665.35435
+      },
+      "designator": "R34",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_ATT8",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "6bd92dbcf2dbc35de2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1259.8,
+          "y": -2637.8
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_SUM",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "6bd92dbcf2dbc35de3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1338.6,
+          "y": -2637.8
+        }
+      ],
+      "primitiveId": "6bd92dbcf2dbc35d",
+      "rotation": 0,
+      "uniqueId": "gge543",
+      "x": 1299.2126000000003,
+      "y": -2637.7953
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1716.53545,
+        "maxY": -2610.2362500000004,
+        "minX": 1590.55115,
+        "minY": -2665.35435
+      },
+      "designator": "R35",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_SUM",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "26ff03a1be03c0fde2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1614.2,
+          "y": -2637.8
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "VBIAS",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "26ff03a1be03c0fde3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1692.9,
+          "y": -2637.8
+        }
+      ],
+      "primitiveId": "26ff03a1be03c0fd",
+      "rotation": 0,
+      "uniqueId": "gge553",
+      "x": 1653.5433,
+      "y": -2637.7953
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 2307.08665,
+        "maxY": -2137.7952499999997,
+        "minX": 2181.10235,
+        "minY": -2192.91335
+      },
+      "designator": "R36",
+      "layer": 1,
+      "locked": false,
+      "name": "33R",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "CH3_BUF",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "c568bcf502c896aee2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 2204.7,
+          "y": -2165.4
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "PC2",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "c568bcf502c896aee3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 2283.5,
+          "y": -2165.4
+        }
+      ],
+      "primitiveId": "c568bcf502c896ae",
+      "rotation": 0,
+      "uniqueId": "gge576",
+      "x": 2244.0945,
+      "y": -2165.3543
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1165.35435,
+        "maxY": -3043.3070500000003,
+        "minX": 1039.37005,
+        "minY": -3098.42515
+      },
+      "designator": "R37",
+      "layer": 1,
+      "locked": false,
+      "name": "40k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "3V3_A",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "46e723cce4ba25dee2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1063,
+          "y": -3070.9
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "REF_MID",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "46e723cce4ba25dee3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1141.7,
+          "y": -3070.9
+        }
+      ],
+      "primitiveId": "46e723cce4ba25de",
+      "rotation": 0,
+      "uniqueId": "gge677",
+      "x": 1102.3622,
+      "y": -3070.8661
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1401.57485,
+        "maxY": -3043.3070500000003,
+        "minX": 1275.59055,
+        "minY": -3098.42515
+      },
+      "designator": "R38",
+      "layer": 1,
+      "locked": false,
+      "name": "40k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "REF_MID",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "e43005cc6d5677a0e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1299.2,
+          "y": -3070.9
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "REF_RAW",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "e43005cc6d5677a0e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1378,
+          "y": -3070.9
+        }
+      ],
+      "primitiveId": "e43005cc6d5677a0",
+      "rotation": 0,
+      "uniqueId": "gge687",
+      "x": 1338.5827,
+      "y": -3070.8661
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 1637.7952500000001,
+        "maxY": -3043.3070500000003,
+        "minX": 1511.81095,
+        "minY": -3098.42515
+      },
+      "designator": "R39",
+      "layer": 1,
+      "locked": false,
+      "name": "100k",
+      "pads": [
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "REF_RAW",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "35dca09c1af758f8e2",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1535.4,
+          "y": -3070.9
+        },
+        {
+          "height": 55.1,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "35dca09c1af758f8e3",
+          "rotation": 0,
+          "width": 47.2,
+          "x": 1614.2,
+          "y": -3070.9
+        }
+      ],
+      "primitiveId": "35dca09c1af758f8",
+      "rotation": 0,
+      "uniqueId": "gge697",
+      "x": 1574.8031,
+      "y": -3070.8661
+    },
+    {
+      "addIntoBom": true,
+      "bbox": {
+        "maxX": 2171.73225,
+        "maxY": -1648.1889999999999,
+        "minX": 1888.26775,
+        "minY": -1971.8110000000001
+      },
+      "designator": "U1",
+      "layer": 1,
+      "locked": false,
+      "name": "TLV9064IDR",
+      "pads": [
+        {
+          "height": 23.6,
+          "layer": 1,
+          "net": "VBIAS",
+          "padNumber": "1",
+          "padType": 0,
+          "primitiveId": "2c71308e02ed0ad6e2",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 1923.7,
+          "y": -1660
+        },
+        {
+          "height": 23.6,
+          "layer": 1,
+          "net": "VBIAS",
+          "padNumber": "2",
+          "padType": 0,
+          "primitiveId": "2c71308e02ed0ad6e3",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 1923.7,
+          "y": -1710
+        },
+        {
+          "height": 23.6,
+          "layer": 1,
+          "net": "REF_RAW",
+          "padNumber": "3",
+          "padType": 0,
+          "primitiveId": "2c71308e02ed0ad6e4",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 1923.7,
+          "y": -1760
+        },
+        {
+          "height": 23.6,
+          "layer": 1,
+          "net": "3V3_A",
+          "padNumber": "4",
+          "padType": 0,
+          "primitiveId": "2c71308e02ed0ad6e5",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 1923.7,
+          "y": -1810
+        },
+        {
+          "height": 23.6,
+          "layer": 1,
+          "net": "CH1_SUM",
+          "padNumber": "5",
+          "padType": 0,
+          "primitiveId": "2c71308e02ed0ad6e6",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 1923.7,
+          "y": -1860
+        },
+        {
+          "height": 23.6,
+          "layer": 1,
+          "net": "CH1_BUF",
+          "padNumber": "6",
+          "padType": 0,
+          "primitiveId": "2c71308e02ed0ad6e7",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 1923.7,
+          "y": -1910
+        },
+        {
+          "height": 23.6,
+          "layer": 1,
+          "net": "CH1_BUF",
+          "padNumber": "7",
+          "padType": 0,
+          "primitiveId": "2c71308e02ed0ad6e8",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 1923.7,
+          "y": -1960
+        },
+        {
+          "height": 23.6,
+          "layer": 1,
+          "net": "CH3_BUF",
+          "padNumber": "14",
+          "padType": 0,
+          "primitiveId": "2c71308e02ed0ad6e9",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 2136.3,
+          "y": -1660
+        },
+        {
+          "height": 23.6,
+          "layer": 1,
+          "net": "CH3_BUF",
+          "padNumber": "13",
+          "padType": 0,
+          "primitiveId": "2c71308e02ed0ad6e10",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 2136.3,
+          "y": -1710
+        },
+        {
+          "height": 23.6,
+          "layer": 1,
+          "net": "CH3_SUM",
+          "padNumber": "12",
+          "padType": 0,
+          "primitiveId": "2c71308e02ed0ad6e11",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 2136.3,
+          "y": -1760
+        },
+        {
+          "height": 23.6,
+          "layer": 1,
+          "net": "GND",
+          "padNumber": "11",
+          "padType": 0,
+          "primitiveId": "2c71308e02ed0ad6e12",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 2136.3,
+          "y": -1810
+        },
+        {
+          "height": 23.6,
+          "layer": 1,
+          "net": "CH2_SUM",
+          "padNumber": "10",
+          "padType": 0,
+          "primitiveId": "2c71308e02ed0ad6e13",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 2136.3,
+          "y": -1860
+        },
+        {
+          "height": 23.6,
+          "layer": 1,
+          "net": "CH2_BUF",
+          "padNumber": "9",
+          "padType": 0,
+          "primitiveId": "2c71308e02ed0ad6e14",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 2136.3,
+          "y": -1910
+        },
+        {
+          "height": 23.6,
+          "layer": 1,
+          "net": "CH2_BUF",
+          "padNumber": "8",
+          "padType": 0,
+          "primitiveId": "2c71308e02ed0ad6e15",
+          "rotation": 0,
+          "width": 70.9,
+          "x": 2136.3,
+          "y": -1960
+        }
+      ],
+      "primitiveId": "2c71308e02ed0ad6",
+      "rotation": 0,
+      "uniqueId": "gge753",
+      "x": 2030,
+      "y": -1810
+    }
+  ],
+  "count": 67
+}

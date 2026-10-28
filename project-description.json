@@ -1,0 +1,288 @@
+{
+  "name": "oscilloscope",
+  "configurations": [
+    {
+      "name": "Debug",
+      "type": "Executable",
+      "output_filename": "oscilloscope",
+      "mcu": "STM32F407ZET6",
+      "toolchain_type": "GCC",
+      "toolchain_prefix": "",
+      "sources": [
+        {
+          "path": "Core/Src/syscall.c"
+        },
+        {
+          "path": "Core/Src/sysmem.c"
+        },
+        {
+          "path": "Core/Src/main.c"
+        },
+        {
+          "path": "Core/Src/board.c"
+        },
+        {
+          "path": "Core/Src/startup_stm32f407xx.S"
+        },
+        {
+          "path": "App/Src/oscilloscope_app.c"
+        },
+        {
+          "path": "App/Src/test_image.c"
+        },
+        {
+          "path": "Components/ILI9341/Src/ili9341.c"
+        },
+        {
+          "path": "Components/XPT2046/Src/xpt2046.c"
+        },
+        {
+          "path": "Services/Src/lcd_bus_stm32f407.c"
+        },
+        {
+          "path": "Services/Src/touch_bus_stm32f407.c"
+        }
+      ],
+      "tools": [
+        {
+          "type": "c_assembler",
+          "flags": [
+            "-fdata-sections",
+            "-ffunction-sections",
+            "-std=gnu11",
+            "-Wl,--gc-sections",
+            "-Wno-comment",
+            "-fstack-usage",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "-Wno-unused-parameter",
+            "-O0",
+            "-g3",
+            "-ggdb",
+            "-ICore/Inc",
+            "-IApp/Inc",
+            "-IComponents/ILI9341/Inc",
+            "-IComponents/XPT2046/Inc",
+            "-IServices/Inc",
+            "-DRTE_DEVICE_STARTUP_STM32F4XX",
+            "-DDEBUG",
+            "-x",
+            "assembler-with-cpp",
+            "-MMD",
+            "-MP"
+          ]
+        },
+        {
+          "type": "c_compiler",
+          "flags": [
+            "-fdata-sections",
+            "-ffunction-sections",
+            "-std=gnu11",
+            "-Wl,--gc-sections",
+            "-Wno-comment",
+            "-fstack-usage",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "-Wno-unused-parameter",
+            "-O0",
+            "-g3",
+            "-ggdb",
+            "-ICore/Inc",
+            "-IApp/Inc",
+            "-IComponents/ILI9341/Inc",
+            "-IComponents/XPT2046/Inc",
+            "-IServices/Inc",
+            "-DRTE_DEVICE_STARTUP_STM32F4XX",
+            "-DDEBUG"
+          ]
+        },
+        {
+          "type": "cpp_compiler",
+          "flags": [
+            "-fdata-sections",
+            "-ffunction-sections",
+            "-std=gnu11",
+            "-Wl,--gc-sections",
+            "-Wno-comment",
+            "-fstack-usage",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "-Wno-unused-parameter",
+            "-O0",
+            "-g3",
+            "-ggdb",
+            "-ICore/Inc",
+            "-IApp/Inc",
+            "-IComponents/ILI9341/Inc",
+            "-IComponents/XPT2046/Inc",
+            "-IServices/Inc",
+            "-DRTE_DEVICE_STARTUP_STM32F4XX",
+            "-DDEBUG",
+            "-fno-rtti",
+            "-fno-exceptions",
+            "-fno-threadsafe-statics"
+          ]
+        },
+        {
+          "type": "c_linker",
+          "flags": [
+            "-Tstm32f407xe_flash.ld",
+            "-Wl,-Map=oscilloscope.map",
+            "-u",
+            "_printf_float",
+            "--specs=nosys.specs",
+            "-Wl,--start-group",
+            "-lc",
+            "-lm",
+            "-lstdc++",
+            "-lsupc++",
+            "-Wl,--end-group",
+            "-Wl,-z,max-page-size=8",
+            "-Wl,--print-memory-usage"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Release",
+      "type": "Executable",
+      "output_filename": "oscilloscope",
+      "mcu": "STM32F407ZET6",
+      "toolchain_type": "GCC",
+      "toolchain_prefix": "",
+      "sources": [
+        {
+          "path": "Core/Src/syscall.c"
+        },
+        {
+          "path": "Core/Src/sysmem.c"
+        },
+        {
+          "path": "Core/Src/main.c"
+        },
+        {
+          "path": "Core/Src/board.c"
+        },
+        {
+          "path": "Core/Src/startup_stm32f407xx.S"
+        },
+        {
+          "path": "App/Src/oscilloscope_app.c"
+        },
+        {
+          "path": "App/Src/test_image.c"
+        },
+        {
+          "path": "Components/ILI9341/Src/ili9341.c"
+        },
+        {
+          "path": "Components/XPT2046/Src/xpt2046.c"
+        },
+        {
+          "path": "Services/Src/lcd_bus_stm32f407.c"
+        },
+        {
+          "path": "Services/Src/touch_bus_stm32f407.c"
+        }
+      ],
+      "tools": [
+        {
+          "type": "c_assembler",
+          "flags": [
+            "-fdata-sections",
+            "-ffunction-sections",
+            "-std=gnu11",
+            "-Wl,--gc-sections",
+            "-Wno-comment",
+            "-fstack-usage",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "-Wno-unused-parameter",
+            "-Os",
+            "-ICore/Inc",
+            "-IApp/Inc",
+            "-IComponents/ILI9341/Inc",
+            "-IComponents/XPT2046/Inc",
+            "-IServices/Inc",
+            "-DRTE_DEVICE_STARTUP_STM32F4XX",
+            "-x",
+            "assembler-with-cpp",
+            "-MMD",
+            "-MP"
+          ]
+        },
+        {
+          "type": "c_compiler",
+          "flags": [
+            "-fdata-sections",
+            "-ffunction-sections",
+            "-std=gnu11",
+            "-Wl,--gc-sections",
+            "-Wno-comment",
+            "-fstack-usage",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "-Wno-unused-parameter",
+            "-Os",
+            "-ICore/Inc",
+            "-IApp/Inc",
+            "-IComponents/ILI9341/Inc",
+            "-IComponents/XPT2046/Inc",
+            "-IServices/Inc",
+            "-DRTE_DEVICE_STARTUP_STM32F4XX"
+          ]
+        },
+        {
+          "type": "cpp_compiler",
+          "flags": [
+            "-fdata-sections",
+            "-ffunction-sections",
+            "-std=gnu11",
+            "-Wl,--gc-sections",
+            "-Wno-comment",
+            "-fstack-usage",
+            "-Wall",
+            "-Wextra",
+            "-Wpedantic",
+            "-Wno-unused-parameter",
+            "-Os",
+            "-ICore/Inc",
+            "-IApp/Inc",
+            "-IComponents/ILI9341/Inc",
+            "-IComponents/XPT2046/Inc",
+            "-IServices/Inc",
+            "-DRTE_DEVICE_STARTUP_STM32F4XX",
+            "-fno-rtti",
+            "-fno-exceptions",
+            "-fno-threadsafe-statics"
+          ]
+        },
+        {
+          "type": "c_linker",
+          "flags": [
+            "-Tstm32f407xe_flash.ld",
+            "-Wl,-Map=oscilloscope.map",
+            "-u",
+            "_printf_float",
+            "--specs=nosys.specs",
+            "-Wl,--start-group",
+            "-lc",
+            "-lm",
+            "-lstdc++",
+            "-lsupc++",
+            "-Wl,--end-group",
+            "-Wl,-z,max-page-size=8",
+            "-Wl,--print-memory-usage"
+          ]
+        }
+      ]
+    }
+  ],
+  "source_ide": "Empty",
+  "path": "C:\\Users\\kagas\\AppData\\Local\\Temp\\stm32cube_for_vscode_empty_project_C6al2w"
+}

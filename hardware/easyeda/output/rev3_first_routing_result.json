@@ -1,0 +1,5807 @@
+{
+  "status": "partial",
+  "operation": "all",
+  "rules": {
+    "default": {
+      "clearanceMm": 0.3,
+      "edgeClearanceMm": 0.75,
+      "minTrackWidthMm": 0.3,
+      "preferredTrackWidthMm": 0.4,
+      "via": {
+        "minDiameterMm": 0.6,
+        "preferredDiameterMm": 0.6,
+        "minDrillMm": 0.3,
+        "preferredDrillMm": 0.3
+      },
+      "allowedLayers": [
+        "TOP"
+      ]
+    },
+    "nets": [
+      {
+        "net": "3V3_A",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.6,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "3V3_IN",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.6,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT3",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT4",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT5",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT6",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT7",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT8",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_BUF",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_DIRECT",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_HIGH",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_SUM",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT3",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT4",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT5",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT6",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT7",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT8",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_BUF",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_DIRECT",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_HIGH",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_SUM",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT3",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT4",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT5",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT6",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT7",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT8",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_BUF",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_DIRECT",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_HIGH",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_SUM",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "GND",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.6,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PA1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PA2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PA3",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PC0",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PC1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PC2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "REF_MID",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "REF_RAW",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "VBIAS",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      }
+    ]
+  },
+  "stackup": {
+    "effective": {
+      "boardThicknessMm": 1.6,
+      "fallbackCopperThicknessOz": 1,
+      "layers": [
+        {
+          "kind": "copper",
+          "layer": "TOP",
+          "thicknessMm": 0.03479
+        },
+        {
+          "kind": "dielectric",
+          "name": "dielectric 1",
+          "thicknessMm": 1.5304200000000001
+        },
+        {
+          "kind": "copper",
+          "layer": "BOTTOM",
+          "thicknessMm": 0.03479
+        }
+      ]
+    },
+    "applyRequested": true
+  },
+  "copper": {
+    "tracks": [
+      {
+        "id": "easyeda-wasm-track-0",
+        "net": "CH2_ATT2",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 59.5471,
+            "y": 59.8171
+          },
+          {
+            "x": 60.595099999999995,
+            "y": 59.8171
+          },
+          {
+            "x": 61.9921,
+            "y": 58.4201
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-1",
+        "net": "CH3_ATT3",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 39.3541,
+            "y": 11.683999999999997
+          },
+          {
+            "x": 41.8941,
+            "y": 11.683999999999997
+          },
+          {
+            "x": 41.9101,
+            "y": 11.699999999999996
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-2",
+        "net": "CH1_ATT7",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 18.288,
+            "y": 51.3241
+          },
+          {
+            "x": 18.288,
+            "y": 49.3871
+          },
+          {
+            "x": 17.669,
+            "y": 48.7681
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-3",
+        "net": "CH2_ATT6",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 54.7531,
+            "y": 68.7071
+          },
+          {
+            "x": 54.7531,
+            "y": 66.7701
+          },
+          {
+            "x": 55.4991,
+            "y": 66.0241
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-4",
+        "net": "CH1_ATT2",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 10.16,
+            "y": 71.0091
+          },
+          {
+            "x": 8.921999999999997,
+            "y": 71.0091
+          },
+          {
+            "x": 7.366,
+            "y": 69.4531
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-5",
+        "net": "CH3_ATT5",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 53.8481,
+            "y": 16.113
+          },
+          {
+            "x": 51.9111,
+            "y": 16.113
+          },
+          {
+            "x": 51.0541,
+            "y": 15.256
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-6",
+        "net": "CH3_DIRECT",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 17.637,
+            "y": 18.542
+          },
+          {
+            "x": 19.177,
+            "y": 18.542
+          },
+          {
+            "x": 20.447,
+            "y": 19.812
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-7",
+        "net": "CH1_ATT6",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 18.161,
+            "y": 56.1501
+          },
+          {
+            "x": 18.161,
+            "y": 53.4511
+          },
+          {
+            "x": 18.288,
+            "y": 53.3241
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-8",
+        "net": "CH2_ATT1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 58.1501,
+            "y": 56.8961
+          },
+          {
+            "x": 58.1501,
+            "y": 59.2141
+          },
+          {
+            "x": 57.5471,
+            "y": 59.8171
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-9",
+        "net": "CH1_ATT5",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 14.859000000000002,
+            "y": 61.2301
+          },
+          {
+            "x": 15.081000000000003,
+            "y": 61.2301
+          },
+          {
+            "x": 18.161,
+            "y": 58.1501
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-10",
+        "net": "CH2_DIRECT",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 46.4821,
+            "y": 78.3592
+          },
+          {
+            "x": 45.863099999999996,
+            "y": 78.3592
+          },
+          {
+            "x": 43.1801,
+            "y": 81.0422
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-11",
+        "net": "PA3",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 12.988,
+            "y": 17.78
+          },
+          {
+            "x": 14.138001270002537,
+            "y": 17.78
+          },
+          {
+            "x": 14.900001270002537,
+            "y": 18.542
+          },
+          {
+            "x": 15.637,
+            "y": 18.542
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-12",
+        "net": "PA3",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 14.900001270002537,
+            "y": 18.542
+          },
+          {
+            "x": 14.900001270002537,
+            "y": 21.16799872999746
+          },
+          {
+            "x": 14.097000000000001,
+            "y": 21.971
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-13",
+        "net": "PA3",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 15.637,
+            "y": 18.542
+          },
+          {
+            "x": 15.637,
+            "y": 16.54200000000001
+          },
+          {
+            "x": 17.383,
+            "y": 14.79600000000001
+          },
+          {
+            "x": 17.383,
+            "y": 14.605
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-14",
+        "net": "CH1_ATT3",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 7.366,
+            "y": 67.4531
+          },
+          {
+            "x": 8.222999999999999,
+            "y": 67.4531
+          },
+          {
+            "x": 10.795000000000002,
+            "y": 64.8811
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-15",
+        "net": "CH2_ATT3",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 63.9921,
+            "y": 58.4201
+          },
+          {
+            "x": 63.9921,
+            "y": 58.82010000000001
+          },
+          {
+            "x": 61.99210000000001,
+            "y": 60.820100000000004
+          },
+          {
+            "x": 61.99210000000001,
+            "y": 61.84909999999999
+          },
+          {
+            "x": 61.8651,
+            "y": 61.9761
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-16",
+        "net": "CH3_ATT6",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 51.0541,
+            "y": 17.256
+          },
+          {
+            "x": 50.3241,
+            "y": 17.256
+          },
+          {
+            "x": 47.3711,
+            "y": 20.209
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-17",
+        "net": "CH2_ATT5",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 60.5791,
+            "y": 68.9451
+          },
+          {
+            "x": 56.9911,
+            "y": 68.9451
+          },
+          {
+            "x": 56.7531,
+            "y": 68.7071
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-18",
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 36.1011,
+            "y": 45.7201
+          },
+          {
+            "x": 39.20110127000254,
+            "y": 45.7201
+          },
+          {
+            "x": 40.40110127000254,
+            "y": 46.920100000000005
+          },
+          {
+            "x": 41.88709999999999,
+            "y": 46.920100000000005
+          },
+          {
+            "x": 41.9101,
+            "y": 46.897099999999995
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-19",
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 41.9101,
+            "y": 46.897099999999995
+          },
+          {
+            "x": 42.36009872999746,
+            "y": 46.897099999999995
+          },
+          {
+            "x": 43.9101,
+            "y": 45.347098729997455
+          },
+          {
+            "x": 44.71210127000254,
+            "y": 45.347098729997455
+          },
+          {
+            "x": 44.9741,
+            "y": 45.0851
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-20",
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 43.9101,
+            "y": 45.347098729997455
+          },
+          {
+            "x": 43.9101,
+            "y": 42.5291
+          },
+          {
+            "x": 43.6721,
+            "y": 42.2911
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-21",
+        "net": "CH1_DIRECT",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 17.526,
+            "y": 84.8362
+          },
+          {
+            "x": 14.207999999999991,
+            "y": 84.8362
+          },
+          {
+            "x": 13.573,
+            "y": 85.4712
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-22",
+        "net": "CH1_ATT4",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 10.795000000000002,
+            "y": 62.8811
+          },
+          {
+            "x": 14.510000000000005,
+            "y": 62.8811
+          },
+          {
+            "x": 14.859000000000002,
+            "y": 63.2301
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-23",
+        "net": "CH3_ATT2",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 41.5451,
+            "y": 9.143999999999998
+          },
+          {
+            "x": 39.54509999999999,
+            "y": 9.143999999999998
+          },
+          {
+            "x": 37.3541,
+            "y": 11.334999999999987
+          },
+          {
+            "x": 37.3541,
+            "y": 11.683999999999997
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-24",
+        "net": "CH3_ATT7",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 47.3711,
+            "y": 22.209
+          },
+          {
+            "x": 47.3711,
+            "y": 25.670099999999998
+          },
+          {
+            "x": 48.1331,
+            "y": 26.4321
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-25",
+        "net": "CH1_ATT8",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 19.669,
+            "y": 48.7681
+          },
+          {
+            "x": 20.469,
+            "y": 49.5681
+          },
+          {
+            "x": 22.469,
+            "y": 49.5681
+          },
+          {
+            "x": 23.987,
+            "y": 48.0501
+          },
+          {
+            "x": 23.987,
+            "y": 48.0061
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-26",
+        "net": "3V3_IN",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 13.335,
+            "y": 26.0511
+          },
+          {
+            "x": 13.935000000000002,
+            "y": 26.0511
+          },
+          {
+            "x": 16.129,
+            "y": 28.2451
+          },
+          {
+            "x": 16.129,
+            "y": 30.4801
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-27",
+        "net": "CH1_HIGH",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 22.987,
+            "y": 65.4051
+          },
+          {
+            "x": 20.717000000000002,
+            "y": 65.4051
+          },
+          {
+            "x": 18.288,
+            "y": 67.8341
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-28",
+        "net": "CH3_HIGH",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 51.6731,
+            "y": 9.143999999999998
+          },
+          {
+            "x": 51.6731,
+            "y": 9.54399999999999
+          },
+          {
+            "x": 50.0731,
+            "y": 11.143999999999991
+          },
+          {
+            "x": 47.022100000000016,
+            "y": 11.143999999999991
+          },
+          {
+            "x": 46.8631,
+            "y": 11.303000000000004
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-29",
+        "net": "PC0",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 31.7161,
+            "y": 58.4201
+          },
+          {
+            "x": 31.7161,
+            "y": 57.17010127000254
+          },
+          {
+            "x": 30.56609872999746,
+            "y": 56.0201
+          },
+          {
+            "x": 30.56609872999746,
+            "y": 52.39409872999747
+          },
+          {
+            "x": 30.4801,
+            "y": 52.3081
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-30",
+        "net": "PC0",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 30.56609872999746,
+            "y": 54.02009999999999
+          },
+          {
+            "x": 27.461099999999995,
+            "y": 54.02009999999999
+          },
+          {
+            "x": 27.3051,
+            "y": 53.8641
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-31",
+        "net": "PC0",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 31.7161,
+            "y": 58.4201
+          },
+          {
+            "x": 31.7161,
+            "y": 59.27009872999746
+          },
+          {
+            "x": 32.86610127000254,
+            "y": 60.4201
+          },
+          {
+            "x": 32.86610127000254,
+            "y": 63.65409872999746
+          },
+          {
+            "x": 31.3691,
+            "y": 65.1511
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-32",
+        "net": "CH2_ATT4",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 63.8651,
+            "y": 61.9761
+          },
+          {
+            "x": 63.8651,
+            "y": 63.659099999999995
+          },
+          {
+            "x": 60.5791,
+            "y": 66.9451
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-33",
+        "net": "PA2",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 37.372099999999996,
+            "y": 67.9451
+          },
+          {
+            "x": 38.8461,
+            "y": 69.4191
+          },
+          {
+            "x": 38.8461,
+            "y": 75.4382
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-34",
+        "net": "PA2",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 38.8461,
+            "y": 75.4382
+          },
+          {
+            "x": 38.8461,
+            "y": 78.9782
+          },
+          {
+            "x": 38.9891,
+            "y": 79.1212
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-35",
+        "net": "PA2",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 38.9891,
+            "y": 79.1212
+          },
+          {
+            "x": 42.91009999999999,
+            "y": 83.0422
+          },
+          {
+            "x": 43.1801,
+            "y": 83.0422
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-36",
+        "net": "CH2_HIGH",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 53.3401,
+            "y": 51.6891
+          },
+          {
+            "x": 53.3401,
+            "y": 54.086099999999995
+          },
+          {
+            "x": 56.1501,
+            "y": 56.8961
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-37",
+        "net": "PC2",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 37.9731,
+            "y": 33.0541
+          },
+          {
+            "x": 37.9731,
+            "y": 38.3701
+          },
+          {
+            "x": 38.0841,
+            "y": 38.4811
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-38",
+        "net": "PC2",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 37.9731,
+            "y": 33.0541
+          },
+          {
+            "x": 37.523101270002535,
+            "y": 33.0541
+          },
+          {
+            "x": 31.0991,
+            "y": 26.630098729997464
+          },
+          {
+            "x": 31.0991,
+            "y": 25.2731
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-39",
+        "net": "PC2",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 31.0991,
+            "y": 25.2731
+          },
+          {
+            "x": 31.0991,
+            "y": 22.241
+          },
+          {
+            "x": 31.3691,
+            "y": 21.971
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-40",
+        "net": "CH3_ATT1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 49.6731,
+            "y": 9.143999999999998
+          },
+          {
+            "x": 43.5451,
+            "y": 9.143999999999998
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-46",
+        "net": "CH2_ATT7",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 55.4991,
+            "y": 64.0241
+          },
+          {
+            "x": 55.4991,
+            "y": 59.452099999999994
+          },
+          {
+            "x": 53.3241,
+            "y": 57.2771
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-47",
+        "net": "CH3_ATT8",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 48.1331,
+            "y": 28.4321
+          },
+          {
+            "x": 48.1331,
+            "y": 30.591099999999997
+          },
+          {
+            "x": 42.5291,
+            "y": 36.1951
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-48",
+        "net": "REF_MID",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 19.431,
+            "y": 34.8141
+          },
+          {
+            "x": 24.631000000000007,
+            "y": 34.8141
+          },
+          {
+            "x": 27.5431,
+            "y": 37.7262
+          },
+          {
+            "x": 27.5431,
+            "y": 37.8461
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-49",
+        "net": "CH1_ATT1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 18.288,
+            "y": 69.8341
+          },
+          {
+            "x": 15.113000000000003,
+            "y": 73.0091
+          },
+          {
+            "x": 10.16,
+            "y": 73.0091
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-50",
+        "net": "PA1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 31.843099999999996,
+            "y": 73.0251
+          },
+          {
+            "x": 19.79610000000001,
+            "y": 73.0251
+          },
+          {
+            "x": 17.256,
+            "y": 75.5652
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-51",
+        "net": "PA1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 17.256,
+            "y": 75.5652
+          },
+          {
+            "x": 17.256,
+            "y": 75.96520000000001
+          },
+          {
+            "x": 13.719000000000001,
+            "y": 79.5022
+          },
+          {
+            "x": 13.081,
+            "y": 79.5022
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-52",
+        "net": "PA1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 13.081,
+            "y": 79.5022
+          },
+          {
+            "x": 11.573,
+            "y": 81.0102
+          },
+          {
+            "x": 11.573,
+            "y": 85.4712
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-53",
+        "net": "CH3_ATT4",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 41.9101,
+            "y": 13.7
+          },
+          {
+            "x": 43.510099999999994,
+            "y": 15.299999999999994
+          },
+          {
+            "x": 47.51010000000001,
+            "y": 15.299999999999994
+          },
+          {
+            "x": 48.6971,
+            "y": 14.113
+          },
+          {
+            "x": 53.8481,
+            "y": 14.113
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-54",
+        "net": "CH2_ATT8",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 51.3241,
+            "y": 57.2771
+          },
+          {
+            "x": 46.9741,
+            "y": 52.927099999999996
+          },
+          {
+            "x": 46.9741,
+            "y": 45.0851
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-55",
+        "net": "CH1_BUF",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 30.7011,
+            "y": 46.9901
+          },
+          {
+            "x": 30.7011,
+            "y": 48.2601
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-56",
+        "net": "CH1_BUF",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 30.7011,
+            "y": 48.2601
+          },
+          {
+            "x": 30.7011,
+            "y": 50.08710000000001
+          },
+          {
+            "x": 30.4801,
+            "y": 50.3081
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-57",
+        "net": "CH2_BUF",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 36.1011,
+            "y": 46.9901
+          },
+          {
+            "x": 36.1011,
+            "y": 48.2601
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-58",
+        "net": "CH2_BUF",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 36.1011,
+            "y": 48.2601
+          },
+          {
+            "x": 36.1011,
+            "y": 50.275099999999995
+          },
+          {
+            "x": 35.9571,
+            "y": 50.4191
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-59",
+        "net": "CH3_BUF",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 36.1011,
+            "y": 40.6401
+          },
+          {
+            "x": 36.1011,
+            "y": 41.9101
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-60",
+        "net": "CH3_BUF",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 36.1011,
+            "y": 40.6401
+          },
+          {
+            "x": 36.1011,
+            "y": 38.4981
+          },
+          {
+            "x": 36.0841,
+            "y": 38.4811
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-61",
+        "net": "REF_RAW",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 30.7011,
+            "y": 43.180099999999996
+          },
+          {
+            "x": 31.401101270002542,
+            "y": 43.180099999999996
+          },
+          {
+            "x": 32.461101270002544,
+            "y": 42.120099999999994
+          },
+          {
+            "x": 32.461101270002544,
+            "y": 40.2401
+          },
+          {
+            "x": 32.06110127000254,
+            "y": 39.84009999999999
+          },
+          {
+            "x": 28.3431,
+            "y": 39.84009999999999
+          },
+          {
+            "x": 27.5431,
+            "y": 40.6401
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-62",
+        "net": "REF_RAW",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 27.5431,
+            "y": 40.6401
+          },
+          {
+            "x": 27.5431,
+            "y": 40.2401
+          },
+          {
+            "x": 25.543099999999995,
+            "y": 38.2401
+          },
+          {
+            "x": 25.5431,
+            "y": 37.8461
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-63",
+        "net": "REF_RAW",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 25.5431,
+            "y": 37.8461
+          },
+          {
+            "x": 23.224999999999998,
+            "y": 37.8461
+          },
+          {
+            "x": 23.114,
+            "y": 37.9571
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-64",
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 36.1011,
+            "y": 43.180099999999996
+          },
+          {
+            "x": 37.20110127000254,
+            "y": 43.180099999999996
+          },
+          {
+            "x": 38.20110127000254,
+            "y": 42.1801
+          },
+          {
+            "x": 38.8621,
+            "y": 42.1801
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-65",
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 38.8621,
+            "y": 42.1801
+          },
+          {
+            "x": 38.8621,
+            "y": 41.2411
+          },
+          {
+            "x": 40.8601,
+            "y": 39.2431
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-66",
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 40.8601,
+            "y": 39.2431
+          },
+          {
+            "x": 40.8601,
+            "y": 36.5261
+          },
+          {
+            "x": 40.5291,
+            "y": 36.1951
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-72",
+        "net": "CH1_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 30.7011,
+            "y": 45.7201
+          },
+          {
+            "x": 29.31509872999746,
+            "y": 45.7201
+          },
+          {
+            "x": 28.258098729997457,
+            "y": 46.777100000000004
+          },
+          {
+            "x": 26.092,
+            "y": 46.777100000000004
+          },
+          {
+            "x": 24.892,
+            "y": 45.5771
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-73",
+        "net": "CH1_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 24.892,
+            "y": 45.5771
+          },
+          {
+            "x": 21.921000000000006,
+            "y": 45.5771
+          },
+          {
+            "x": 21.844,
+            "y": 45.500099999999996
+          }
+        ]
+      },
+      {
+        "id": "easyeda-wasm-track-74",
+        "net": "CH1_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 21.844,
+            "y": 45.500099999999996
+          },
+          {
+            "x": 21.844,
+            "y": 47.8631
+          },
+          {
+            "x": 21.987,
+            "y": 48.0061
+          }
+        ]
+      }
+    ],
+    "vias": [],
+    "zones": [
+      {
+        "id": "plane:0:GND",
+        "net": "GND",
+        "layers": [
+          "TOP"
+        ],
+        "outline": {
+          "outer": [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 70.0001397002794,
+              "y": 0
+            },
+            {
+              "x": 70.0001397002794,
+              "y": 90.0001803403607
+            },
+            {
+              "x": 0,
+              "y": 90.0001803403607
+            }
+          ],
+          "holes": []
+        },
+        "priority": 0,
+        "clearanceMm": 0.3,
+        "minThicknessMm": 0.4,
+        "connection": "thermal",
+        "fill": {
+          "style": "solid"
+        },
+        "padConnection": {
+          "mode": "thermal",
+          "thermalGapMm": 0.3,
+          "spokeWidthMm": 0.6,
+          "spokeCount": 4
+        },
+        "removeIslandsBelowMm2": 1
+      }
+    ]
+  },
+  "diagnostics": [
+    {
+      "code": "KRT_GROUND_UNPLANNED",
+      "severity": "warning",
+      "message": "KRT excludes ground from maze routing, but no ground zone is present; these nets will not be routed or counted as open.",
+      "details": {
+        "hybridBackend": "krt",
+        "hybridStage": "krt-post-easy",
+        "originalDetails": {
+          "nets": [
+            {
+              "net": "GND",
+              "padCount": 33
+            }
+          ],
+          "remediation": "Declare plane(...), retain a verified existing ground zone, or explicitly ignoreNets(...)."
+        }
+      }
+    },
+    {
+      "code": "HYBRID_ROUTE_MODE_SELECTED",
+      "severity": "info",
+      "message": "Hybrid routing selected hybrid.",
+      "details": {
+        "mode": "hybrid",
+        "fallback": false,
+        "krtNets": [
+          "3V3_A",
+          "3V3_IN",
+          "CH1_ATT1",
+          "CH1_ATT2",
+          "CH1_ATT3",
+          "CH1_ATT4",
+          "CH1_ATT5",
+          "CH1_ATT6",
+          "CH1_ATT7",
+          "CH1_ATT8",
+          "CH1_BUF",
+          "CH1_DIRECT",
+          "CH1_HIGH",
+          "CH1_SUM",
+          "CH2_ATT1",
+          "CH2_ATT2",
+          "CH2_ATT3",
+          "CH2_ATT4",
+          "CH2_ATT5",
+          "CH2_ATT6",
+          "CH2_ATT7",
+          "CH2_ATT8",
+          "CH2_BUF",
+          "CH2_DIRECT",
+          "CH2_HIGH",
+          "CH2_SUM",
+          "CH3_ATT1",
+          "CH3_ATT2",
+          "CH3_ATT3",
+          "CH3_ATT4",
+          "CH3_ATT5",
+          "CH3_ATT6",
+          "CH3_ATT7",
+          "CH3_ATT8",
+          "CH3_BUF",
+          "CH3_DIRECT",
+          "CH3_HIGH",
+          "CH3_SUM",
+          "PA1",
+          "PA2",
+          "PA3",
+          "PC0",
+          "PC1",
+          "PC2",
+          "REF_MID",
+          "REF_RAW",
+          "VBIAS"
+        ],
+        "easyedaNets": [
+          "3V3_A",
+          "3V3_IN",
+          "CH1_ATT1",
+          "CH1_ATT2",
+          "CH1_ATT3",
+          "CH1_ATT4",
+          "CH1_ATT5",
+          "CH1_ATT6",
+          "CH1_ATT7",
+          "CH1_ATT8",
+          "CH1_BUF",
+          "CH1_DIRECT",
+          "CH1_HIGH",
+          "CH1_SUM",
+          "CH2_ATT1",
+          "CH2_ATT2",
+          "CH2_ATT3",
+          "CH2_ATT4",
+          "CH2_ATT5",
+          "CH2_ATT6",
+          "CH2_ATT7",
+          "CH2_ATT8",
+          "CH2_BUF",
+          "CH2_DIRECT",
+          "CH2_HIGH",
+          "CH2_SUM",
+          "CH3_ATT1",
+          "CH3_ATT2",
+          "CH3_ATT3",
+          "CH3_ATT4",
+          "CH3_ATT5",
+          "CH3_ATT6",
+          "CH3_ATT7",
+          "CH3_ATT8",
+          "CH3_BUF",
+          "CH3_DIRECT",
+          "CH3_HIGH",
+          "CH3_SUM",
+          "PA1",
+          "PA2",
+          "PA3",
+          "PC0",
+          "PC1",
+          "PC2",
+          "REF_MID",
+          "REF_RAW",
+          "VBIAS"
+        ]
+      }
+    },
+    {
+      "code": "KRT_GROUND_UNPLANNED",
+      "severity": "warning",
+      "message": "KRT excludes ground from maze routing, but no ground zone is present; these nets will not be routed or counted as open.",
+      "details": {
+        "hybridBackend": "krt",
+        "hybridStage": "krt-post-easy",
+        "originalDetails": {
+          "nets": [
+            {
+              "net": "GND",
+              "padCount": 33
+            }
+          ],
+          "remediation": "Declare plane(...), retain a verified existing ground zone, or explicitly ignoreNets(...)."
+        }
+      }
+    },
+    {
+      "code": "HYBRID_ROUTE_MODE_SELECTED",
+      "severity": "info",
+      "message": "Hybrid routing selected hybrid.",
+      "details": {
+        "mode": "hybrid",
+        "fallback": false
+      }
+    },
+    {
+      "code": "KRT_RECONCILIATION_SUMMARY_MERGED",
+      "severity": "info",
+      "message": "Consumed KRT's authoritative merged reconciliation summary.",
+      "details": {
+        "count": 2,
+        "path": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-87f0d16c\\krt\\native-auto-post-easy\\remaining\\main\\ordinary-01\\krt-remaining-summary.json"
+      }
+    },
+    {
+      "code": "KRT_MULTIPOINT_INCOMPLETE",
+      "severity": "warning",
+      "message": "KRT left one or more multi-point pads disconnected.",
+      "details": [
+        {
+          "net_name": "CH3_SUM",
+          "failed_pads": [
+            {
+              "component_ref": "R35",
+              "pad_number": "?",
+              "x": 38.8621,
+              "y": 42.1801
+            },
+            {
+              "component_ref": "U1",
+              "pad_number": "?",
+              "x": 36.1011,
+              "y": 43.1801
+            }
+          ]
+        },
+        {
+          "net_name": "3V3_A",
+          "failed_pads": [
+            {
+              "component_ref": "D9",
+              "pad_number": "?",
+              "x": 37.0231,
+              "y": 30.9541
+            },
+            {
+              "component_ref": "R37",
+              "pad_number": "?",
+              "x": 19.431,
+              "y": 36.8141
+            }
+          ]
+        },
+        {
+          "net_name": "CH2_SUM",
+          "failed_pads": [
+            {
+              "component_ref": "R23",
+              "pad_number": "?",
+              "x": 43.6721,
+              "y": 42.2911
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "KRT_PAD_PAIRS_OPEN",
+      "severity": "warning",
+      "message": "KRT's final pad-pair report contains open nets.",
+      "details": [
+        {
+          "net": "3V3_A",
+          "pairs_connected": 11,
+          "pairs_total": 13,
+          "outcome": "open",
+          "open_subtype": "partial"
+        },
+        {
+          "net": "CH2_SUM",
+          "pairs_connected": 2,
+          "pairs_total": 3,
+          "outcome": "open",
+          "open_subtype": "partial"
+        },
+        {
+          "net": "CH3_SUM",
+          "pairs_connected": 2,
+          "pairs_total": 3,
+          "outcome": "open",
+          "open_subtype": "partial"
+        }
+      ]
+    },
+    {
+      "code": "KRT_STAGE_CANDIDATE_REJECTED",
+      "severity": "warning",
+      "message": "A KRT stage artifact was retained for diagnosis but the workflow rolled back to its previous checkpoint because a full-board safety invariant regressed.",
+      "details": {
+        "tag": "05-main-01",
+        "outputExists": true,
+        "hardDamage": [],
+        "ruleErrors": [],
+        "impedance": [],
+        "beforeOpenNets": [
+          "3V3_A",
+          "PC1",
+          "VBIAS"
+        ],
+        "afterOpenNets": [
+          "3V3_A",
+          "CH2_SUM",
+          "CH3_SUM"
+        ],
+        "beforeDrcViolations": 0,
+        "afterDrcViolations": 0,
+        "connectivityNonRegressing": false,
+        "connectivityImproved": true,
+        "effectiveConnectivityImproved": true,
+        "allowWeightedTradeoff": true,
+        "connectivityTradeoff": {
+          "evidenceComplete": true,
+          "hardConnectivityNonRegressing": true,
+          "weightedConnectivityImproved": false,
+          "baselinePriorityOpenPenalty": 24,
+          "candidatePriorityOpenPenalty": 36,
+          "baselineOpenNetCount": 3,
+          "candidateOpenNetCount": 3,
+          "baselineComponentExcess": 20,
+          "candidateComponentExcess": 4,
+          "newlyOpenedNets": [
+            "CH2_SUM",
+            "CH3_SUM"
+          ],
+          "newlyOpenedHardNets": [],
+          "newlyClosedNets": [
+            "PC1",
+            "VBIAS"
+          ]
+        },
+        "requireConnectivityImprovement": false,
+        "shortsNonRegressing": true,
+        "drcNonRegressing": true,
+        "gate": "ordinary"
+      }
+    },
+    {
+      "code": "KRT_RECONCILIATION_SUMMARY_MERGED",
+      "severity": "info",
+      "message": "Consumed KRT's authoritative merged reconciliation summary.",
+      "details": {
+        "count": 2,
+        "path": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-87f0d16c\\krt\\native-auto-post-easy\\remaining\\main-fallback\\original-via-avoid\\krt-remaining-summary.json"
+      }
+    },
+    {
+      "code": "KRT_MULTIPOINT_INCOMPLETE",
+      "severity": "warning",
+      "message": "KRT left one or more multi-point pads disconnected.",
+      "details": [
+        {
+          "net_name": "3V3_A",
+          "failed_pads": [
+            {
+              "component_ref": "D9",
+              "pad_number": "?",
+              "x": 37.0231,
+              "y": 30.9541
+            },
+            {
+              "component_ref": "R37",
+              "pad_number": "?",
+              "x": 19.431,
+              "y": 36.8141
+            }
+          ]
+        },
+        {
+          "net_name": "CH3_SUM",
+          "failed_pads": [
+            {
+              "component_ref": "R35",
+              "pad_number": "?",
+              "x": 38.8621,
+              "y": 42.1801
+            },
+            {
+              "component_ref": "U1",
+              "pad_number": "?",
+              "x": 36.1011,
+              "y": 43.1801
+            }
+          ]
+        },
+        {
+          "net_name": "CH2_SUM",
+          "failed_pads": [
+            {
+              "component_ref": "R23",
+              "pad_number": "?",
+              "x": 43.6721,
+              "y": 42.2911
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "KRT_PAD_PAIRS_OPEN",
+      "severity": "warning",
+      "message": "KRT's final pad-pair report contains open nets.",
+      "details": [
+        {
+          "net": "3V3_A",
+          "pairs_connected": 11,
+          "pairs_total": 13,
+          "outcome": "open",
+          "open_subtype": "partial"
+        },
+        {
+          "net": "CH2_SUM",
+          "pairs_connected": 2,
+          "pairs_total": 3,
+          "outcome": "open",
+          "open_subtype": "partial"
+        },
+        {
+          "net": "CH3_SUM",
+          "pairs_connected": 2,
+          "pairs_total": 3,
+          "outcome": "open",
+          "open_subtype": "partial"
+        }
+      ]
+    },
+    {
+      "code": "KRT_STAGE_CANDIDATE_REJECTED",
+      "severity": "warning",
+      "message": "A KRT stage artifact was retained for diagnosis but the workflow rolled back to its previous checkpoint because a full-board safety invariant regressed.",
+      "details": {
+        "tag": "05-main-fallback-original",
+        "outputExists": true,
+        "hardDamage": [],
+        "ruleErrors": [],
+        "impedance": [],
+        "beforeOpenNets": [
+          "3V3_A",
+          "PC1",
+          "VBIAS"
+        ],
+        "afterOpenNets": [
+          "3V3_A",
+          "CH2_SUM",
+          "CH3_SUM"
+        ],
+        "beforeDrcViolations": 0,
+        "afterDrcViolations": 0,
+        "connectivityNonRegressing": false,
+        "connectivityImproved": true,
+        "effectiveConnectivityImproved": true,
+        "allowWeightedTradeoff": true,
+        "connectivityTradeoff": {
+          "evidenceComplete": true,
+          "hardConnectivityNonRegressing": true,
+          "weightedConnectivityImproved": false,
+          "baselinePriorityOpenPenalty": 24,
+          "candidatePriorityOpenPenalty": 36,
+          "baselineOpenNetCount": 3,
+          "candidateOpenNetCount": 3,
+          "baselineComponentExcess": 20,
+          "candidateComponentExcess": 4,
+          "newlyOpenedNets": [
+            "CH2_SUM",
+            "CH3_SUM"
+          ],
+          "newlyOpenedHardNets": [],
+          "newlyClosedNets": [
+            "PC1",
+            "VBIAS"
+          ]
+        },
+        "requireConnectivityImprovement": true,
+        "shortsNonRegressing": true,
+        "drcNonRegressing": true,
+        "gate": "ordinary"
+      }
+    },
+    {
+      "code": "KRT_RECONCILIATION_SUMMARY_MERGED",
+      "severity": "info",
+      "message": "Consumed KRT's authoritative merged reconciliation summary.",
+      "details": {
+        "count": 2,
+        "path": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-87f0d16c\\krt\\native-auto-post-easy\\remaining\\repair\\01-open-ordinary-01\\krt-remaining-summary.json"
+      }
+    },
+    {
+      "code": "KRT_MULTIPOINT_INCOMPLETE",
+      "severity": "warning",
+      "message": "KRT left one or more multi-point pads disconnected.",
+      "details": [
+        {
+          "net_name": "CH3_SUM",
+          "failed_pads": [
+            {
+              "component_ref": "R35",
+              "pad_number": "?",
+              "x": 38.8621,
+              "y": 42.1801
+            },
+            {
+              "component_ref": "U1",
+              "pad_number": "?",
+              "x": 36.1011,
+              "y": 43.1801
+            }
+          ]
+        },
+        {
+          "net_name": "3V3_A",
+          "failed_pads": [
+            {
+              "component_ref": "D9",
+              "pad_number": "?",
+              "x": 37.0231,
+              "y": 30.9541
+            },
+            {
+              "component_ref": "R37",
+              "pad_number": "?",
+              "x": 19.431,
+              "y": 36.8141
+            }
+          ]
+        },
+        {
+          "net_name": "CH2_SUM",
+          "failed_pads": [
+            {
+              "component_ref": "R23",
+              "pad_number": "?",
+              "x": 43.6721,
+              "y": 42.2911
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "KRT_PAD_PAIRS_OPEN",
+      "severity": "warning",
+      "message": "KRT's final pad-pair report contains open nets.",
+      "details": [
+        {
+          "net": "3V3_A",
+          "pairs_connected": 11,
+          "pairs_total": 13,
+          "outcome": "open",
+          "open_subtype": "partial"
+        },
+        {
+          "net": "CH2_SUM",
+          "pairs_connected": 2,
+          "pairs_total": 3,
+          "outcome": "open",
+          "open_subtype": "partial"
+        },
+        {
+          "net": "CH3_SUM",
+          "pairs_connected": 2,
+          "pairs_total": 3,
+          "outcome": "open",
+          "open_subtype": "partial"
+        }
+      ]
+    },
+    {
+      "code": "KRT_REPAIR_CANDIDATE_REJECTED",
+      "severity": "warning",
+      "message": "A targeted repair candidate was retained as an artifact but not applied because it did not improve its target or regressed a full-board safety gate.",
+      "details": {
+        "kind": "open",
+        "nets": [
+          "3V3_A",
+          "PC1",
+          "VBIAS"
+        ],
+        "blockerVictims": [],
+        "beforeOpenNets": [
+          "3V3_A",
+          "PC1",
+          "VBIAS"
+        ],
+        "afterOpenNets": [
+          "3V3_A",
+          "CH2_SUM",
+          "CH3_SUM"
+        ],
+        "beforeDrcViolations": 0,
+        "afterDrcViolations": 0,
+        "detourBounded": true,
+        "protectedDamage": false,
+        "protectionRestored": true,
+        "strictlyImproved": true
+      }
+    },
+    {
+      "code": "ROUTING_CANDIDATE_AUDITED",
+      "severity": "info",
+      "message": "Selected hybrid after semantic candidate audit.",
+      "details": {
+        "selected": {
+          "label": "hybrid",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 24,
+          "openNetCount": 3,
+          "connectivityComponentCount": 67,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 334.561060834639,
+          "score": [
+            0,
+            0,
+            24,
+            3,
+            67,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            334.561060834639,
+            0
+          ]
+        },
+        "attempted": {
+          "label": "hybrid",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 24,
+          "openNetCount": 3,
+          "connectivityComponentCount": 67,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 334.561060834639,
+          "score": [
+            0,
+            0,
+            24,
+            3,
+            67,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            334.561060834639,
+            0
+          ]
+        },
+        "baseline": {
+          "label": "pre-route-checkpoint",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 284,
+          "openNetCount": 47,
+          "connectivityComponentCount": 132,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 0,
+          "score": [
+            0,
+            0,
+            284,
+            47,
+            132,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1
+          ]
+        }
+      }
+    }
+  ],
+  "metrics": {
+    "elapsedMs": 36965.58059999999,
+    "routedNetCount": 44,
+    "openNetCount": 3,
+    "openNets": [
+      "3V3_A",
+      "PC1",
+      "VBIAS"
+    ],
+    "connectivityComponentCount": 67,
+    "viaCount": 0,
+    "trackLengthMm": 334.561060834639,
+    "backend": "hybrid",
+    "details": {
+      "artifactsDirectory": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-87f0d16c\\krt\\native-auto-post-easy\\remaining",
+      "runtime": {
+        "version": "0.21.3",
+        "source": "download",
+        "cacheDirectory": "C:\\Users\\kagas\\AppData\\Local\\eda-copilot\\router"
+      },
+      "policy": "native-auto",
+      "workflowMode": "post-easy",
+      "preRouteConnectivity": {
+        "openNets": [
+          "3V3_A",
+          "3V3_IN",
+          "CH1_ATT1",
+          "CH1_ATT2",
+          "CH1_ATT3",
+          "CH1_ATT4",
+          "CH1_ATT5",
+          "CH1_ATT6",
+          "CH1_ATT7",
+          "CH1_ATT8",
+          "CH1_BUF",
+          "CH1_DIRECT",
+          "CH1_HIGH",
+          "CH1_SUM",
+          "CH2_ATT1",
+          "CH2_ATT2",
+          "CH2_ATT3",
+          "CH2_ATT4",
+          "CH2_ATT5",
+          "CH2_ATT6",
+          "CH2_ATT7",
+          "CH2_ATT8",
+          "CH2_BUF",
+          "CH2_DIRECT",
+          "CH2_HIGH",
+          "CH2_SUM",
+          "CH3_ATT1",
+          "CH3_ATT2",
+          "CH3_ATT3",
+          "CH3_ATT4",
+          "CH3_ATT5",
+          "CH3_ATT6",
+          "CH3_ATT7",
+          "CH3_ATT8",
+          "CH3_BUF",
+          "CH3_DIRECT",
+          "CH3_HIGH",
+          "CH3_SUM",
+          "PA1",
+          "PA2",
+          "PA3",
+          "PC0",
+          "PC1",
+          "PC2",
+          "REF_MID",
+          "REF_RAW",
+          "VBIAS"
+        ],
+        "componentsByNet": {
+          "3V3_A": 14,
+          "3V3_IN": 2,
+          "CH1_ATT1": 2,
+          "CH1_ATT2": 2,
+          "CH1_ATT3": 2,
+          "CH1_ATT4": 2,
+          "CH1_ATT5": 2,
+          "CH1_ATT6": 2,
+          "CH1_ATT7": 2,
+          "CH1_ATT8": 2,
+          "CH1_BUF": 3,
+          "CH1_DIRECT": 2,
+          "CH1_HIGH": 2,
+          "CH1_SUM": 4,
+          "CH2_ATT1": 2,
+          "CH2_ATT2": 2,
+          "CH2_ATT3": 2,
+          "CH2_ATT4": 2,
+          "CH2_ATT5": 2,
+          "CH2_ATT6": 2,
+          "CH2_ATT7": 2,
+          "CH2_ATT8": 2,
+          "CH2_BUF": 3,
+          "CH2_DIRECT": 2,
+          "CH2_HIGH": 2,
+          "CH2_SUM": 4,
+          "CH3_ATT1": 2,
+          "CH3_ATT2": 2,
+          "CH3_ATT3": 2,
+          "CH3_ATT4": 2,
+          "CH3_ATT5": 2,
+          "CH3_ATT6": 2,
+          "CH3_ATT7": 2,
+          "CH3_ATT8": 2,
+          "CH3_BUF": 3,
+          "CH3_DIRECT": 2,
+          "CH3_HIGH": 2,
+          "CH3_SUM": 4,
+          "PA1": 4,
+          "PA2": 4,
+          "PA3": 4,
+          "PC0": 4,
+          "PC1": 4,
+          "PC2": 4,
+          "REF_MID": 2,
+          "REF_RAW": 4,
+          "VBIAS": 5
+        },
+        "connectivityComponentCount": 132
+      },
+      "initialConnectivity": {
+        "openNets": [
+          "3V3_A",
+          "PC1",
+          "VBIAS"
+        ],
+        "componentsByNet": {
+          "3V3_A": 14,
+          "3V3_IN": 1,
+          "CH1_ATT1": 1,
+          "CH1_ATT2": 1,
+          "CH1_ATT3": 1,
+          "CH1_ATT4": 1,
+          "CH1_ATT5": 1,
+          "CH1_ATT6": 1,
+          "CH1_ATT7": 1,
+          "CH1_ATT8": 1,
+          "CH1_BUF": 1,
+          "CH1_DIRECT": 1,
+          "CH1_HIGH": 1,
+          "CH1_SUM": 1,
+          "CH2_ATT1": 1,
+          "CH2_ATT2": 1,
+          "CH2_ATT3": 1,
+          "CH2_ATT4": 1,
+          "CH2_ATT5": 1,
+          "CH2_ATT6": 1,
+          "CH2_ATT7": 1,
+          "CH2_ATT8": 1,
+          "CH2_BUF": 1,
+          "CH2_DIRECT": 1,
+          "CH2_HIGH": 1,
+          "CH2_SUM": 1,
+          "CH3_ATT1": 1,
+          "CH3_ATT2": 1,
+          "CH3_ATT3": 1,
+          "CH3_ATT4": 1,
+          "CH3_ATT5": 1,
+          "CH3_ATT6": 1,
+          "CH3_ATT7": 1,
+          "CH3_ATT8": 1,
+          "CH3_BUF": 1,
+          "CH3_DIRECT": 1,
+          "CH3_HIGH": 1,
+          "CH3_SUM": 1,
+          "PA1": 1,
+          "PA2": 1,
+          "PA3": 1,
+          "PC0": 1,
+          "PC1": 4,
+          "PC2": 1,
+          "REF_MID": 1,
+          "REF_RAW": 1,
+          "VBIAS": 5
+        },
+        "connectivityComponentCount": 67
+      },
+      "finalConnectivity": {
+        "openNets": [
+          "3V3_A",
+          "PC1",
+          "VBIAS"
+        ],
+        "componentsByNet": {
+          "3V3_A": 14,
+          "3V3_IN": 1,
+          "CH1_ATT1": 1,
+          "CH1_ATT2": 1,
+          "CH1_ATT3": 1,
+          "CH1_ATT4": 1,
+          "CH1_ATT5": 1,
+          "CH1_ATT6": 1,
+          "CH1_ATT7": 1,
+          "CH1_ATT8": 1,
+          "CH1_BUF": 1,
+          "CH1_DIRECT": 1,
+          "CH1_HIGH": 1,
+          "CH1_SUM": 1,
+          "CH2_ATT1": 1,
+          "CH2_ATT2": 1,
+          "CH2_ATT3": 1,
+          "CH2_ATT4": 1,
+          "CH2_ATT5": 1,
+          "CH2_ATT6": 1,
+          "CH2_ATT7": 1,
+          "CH2_ATT8": 1,
+          "CH2_BUF": 1,
+          "CH2_DIRECT": 1,
+          "CH2_HIGH": 1,
+          "CH2_SUM": 1,
+          "CH3_ATT1": 1,
+          "CH3_ATT2": 1,
+          "CH3_ATT3": 1,
+          "CH3_ATT4": 1,
+          "CH3_ATT5": 1,
+          "CH3_ATT6": 1,
+          "CH3_ATT7": 1,
+          "CH3_ATT8": 1,
+          "CH3_BUF": 1,
+          "CH3_DIRECT": 1,
+          "CH3_HIGH": 1,
+          "CH3_SUM": 1,
+          "PA1": 1,
+          "PA2": 1,
+          "PA3": 1,
+          "PC0": 1,
+          "PC1": 4,
+          "PC2": 1,
+          "REF_MID": 1,
+          "REF_RAW": 1,
+          "VBIAS": 5
+        },
+        "connectivityComponentCount": 67
+      },
+      "protectedNets": [],
+      "specialBatches": [],
+      "specialConstraintsDeferred": false,
+      "deferredSpecialNets": [],
+      "verifiedSpecialNets": [],
+      "ordinaryFallbackSpecialNets": [],
+      "rejectedSpecialNets": [],
+      "critical": [],
+      "early": [],
+      "main": [
+        {
+          "routed_single": [],
+          "failed_single": [],
+          "open_single": [],
+          "failed_multipoint": [
+            {
+              "net_name": "CH3_SUM",
+              "failed_pads": [
+                {
+                  "component_ref": "R35",
+                  "pad_number": "?",
+                  "x": 38.8621,
+                  "y": 42.1801
+                },
+                {
+                  "component_ref": "U1",
+                  "pad_number": "?",
+                  "x": 36.1011,
+                  "y": 43.1801
+                }
+              ]
+            },
+            {
+              "net_name": "3V3_A",
+              "failed_pads": [
+                {
+                  "component_ref": "D9",
+                  "pad_number": "?",
+                  "x": 37.0231,
+                  "y": 30.9541
+                },
+                {
+                  "component_ref": "R37",
+                  "pad_number": "?",
+                  "x": 19.431,
+                  "y": 36.8141
+                }
+              ]
+            },
+            {
+              "net_name": "CH2_SUM",
+              "failed_pads": [
+                {
+                  "component_ref": "R23",
+                  "pad_number": "?",
+                  "x": 43.6721,
+                  "y": 42.2911
+                }
+              ]
+            }
+          ],
+          "multipoint_nets": 3,
+          "multipoint_pads_connected": 17,
+          "multipoint_pads_total": 22,
+          "multipoint_edges_routed": 2,
+          "multipoint_edges_failed": 4,
+          "ripup_success_pairs": [],
+          "rerouted_pairs": [],
+          "single_ended_target_swaps": [],
+          "layer_swaps": 0,
+          "successful": 0,
+          "failed": 3,
+          "total_time": 0.44,
+          "total_iterations": 452030,
+          "total_vias": 0,
+          "cleanup_disconnected": [],
+          "min_clearance_used": 0.3,
+          "oracle_check": "disabled",
+          "blockers": [
+            {
+              "net": "CH3_SUM",
+              "stage": "phase3",
+              "blocked_by": [
+                {
+                  "net": "CH2_SUM",
+                  "blocked_count": 4,
+                  "unique_cells": 4,
+                  "track_cells": 4,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                }
+              ]
+            },
+            {
+              "net": "CH3_SUM",
+              "stage": "preexisting",
+              "blocked_by": [
+                {
+                  "net": "VBIAS",
+                  "preexisting": true
+                },
+                {
+                  "net": "PC1",
+                  "preexisting": true
+                },
+                {
+                  "net": "CH3_ATT4",
+                  "preexisting": true
+                },
+                {
+                  "net": "CH3_ATT8",
+                  "preexisting": true
+                },
+                {
+                  "net": "PC2",
+                  "preexisting": true
+                },
+                {
+                  "net": "CH2_ATT8",
+                  "preexisting": true
+                }
+              ]
+            }
+          ],
+          "pad_pairs_connected": 81,
+          "pad_pairs_total": 85,
+          "pad_pairs_open": [
+            {
+              "net": "3V3_A",
+              "pairs_connected": 11,
+              "pairs_total": 13,
+              "outcome": "open",
+              "open_subtype": "partial"
+            },
+            {
+              "net": "CH2_SUM",
+              "pairs_connected": 2,
+              "pairs_total": 3,
+              "outcome": "open",
+              "open_subtype": "partial"
+            },
+            {
+              "net": "CH3_SUM",
+              "pairs_connected": 2,
+              "pairs_total": 3,
+              "outcome": "open",
+              "open_subtype": "partial"
+            }
+          ],
+          "scope": "reconciliation-subset",
+          "board_scoped_keys": [
+            "min_clearance_used"
+          ],
+          "env_knobs": {
+            "KICAD_BARE_PAD_ESCAPE": "0",
+            "KICAD_DYNAMIC_ITERATIONS": "0",
+            "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+            "KICAD_FINALIZE_RIP": "1",
+            "KICAD_IMPEDANCE_NECKDOWN": "1",
+            "KICAD_NET_RESCUE": "0",
+            "KICAD_PLANE_FINALIZE": "0",
+            "KICAD_RESCUE_CAP_MOVE": "0",
+            "KICAD_RIP_PREEXISTING": "1",
+            "KICAD_TERMINAL_ESCALATION": "0"
+          }
+        }
+      ],
+      "recovery": [
+        {
+          "routed_single": [],
+          "failed_single": [],
+          "open_single": [],
+          "failed_multipoint": [
+            {
+              "net_name": "3V3_A",
+              "failed_pads": [
+                {
+                  "component_ref": "D9",
+                  "pad_number": "?",
+                  "x": 37.0231,
+                  "y": 30.9541
+                },
+                {
+                  "component_ref": "R37",
+                  "pad_number": "?",
+                  "x": 19.431,
+                  "y": 36.8141
+                }
+              ]
+            },
+            {
+              "net_name": "CH3_SUM",
+              "failed_pads": [
+                {
+                  "component_ref": "R35",
+                  "pad_number": "?",
+                  "x": 38.8621,
+                  "y": 42.1801
+                },
+                {
+                  "component_ref": "U1",
+                  "pad_number": "?",
+                  "x": 36.1011,
+                  "y": 43.1801
+                }
+              ]
+            },
+            {
+              "net_name": "CH2_SUM",
+              "failed_pads": [
+                {
+                  "component_ref": "R23",
+                  "pad_number": "?",
+                  "x": 43.6721,
+                  "y": 42.2911
+                }
+              ]
+            }
+          ],
+          "multipoint_nets": 3,
+          "multipoint_pads_connected": 17,
+          "multipoint_pads_total": 22,
+          "multipoint_edges_routed": 2,
+          "multipoint_edges_failed": 4,
+          "ripup_success_pairs": [],
+          "rerouted_pairs": [],
+          "single_ended_target_swaps": [],
+          "layer_swaps": 0,
+          "successful": 0,
+          "failed": 3,
+          "total_time": 0.43,
+          "total_iterations": 452030,
+          "total_vias": 0,
+          "cleanup_disconnected": [],
+          "min_clearance_used": 0.3,
+          "rescue": {
+            "attempted": 3,
+            "recovered": [],
+            "improved": [],
+            "unchanged": [
+              "3V3_A",
+              "CH2_SUM",
+              "CH3_SUM"
+            ],
+            "pads_reconnected": 0,
+            "widths": {},
+            "time": 0.05
+          },
+          "oracle_check": "disabled",
+          "blockers": [
+            {
+              "net": "CH3_SUM",
+              "stage": "phase3",
+              "blocked_by": [
+                {
+                  "net": "CH2_SUM",
+                  "blocked_count": 4,
+                  "unique_cells": 4,
+                  "track_cells": 4,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                }
+              ]
+            },
+            {
+              "net": "CH3_SUM",
+              "stage": "preexisting",
+              "blocked_by": [
+                {
+                  "net": "VBIAS",
+                  "preexisting": true
+                },
+                {
+                  "net": "PC1",
+                  "preexisting": true
+                },
+                {
+                  "net": "CH3_ATT4",
+                  "preexisting": true
+                },
+                {
+                  "net": "CH3_ATT8",
+                  "preexisting": true
+                },
+                {
+                  "net": "PC2",
+                  "preexisting": true
+                },
+                {
+                  "net": "CH2_ATT8",
+                  "preexisting": true
+                }
+              ]
+            }
+          ],
+          "pad_pairs_connected": 81,
+          "pad_pairs_total": 85,
+          "pad_pairs_open": [
+            {
+              "net": "3V3_A",
+              "pairs_connected": 11,
+              "pairs_total": 13,
+              "outcome": "open",
+              "open_subtype": "partial"
+            },
+            {
+              "net": "CH2_SUM",
+              "pairs_connected": 2,
+              "pairs_total": 3,
+              "outcome": "open",
+              "open_subtype": "partial"
+            },
+            {
+              "net": "CH3_SUM",
+              "pairs_connected": 2,
+              "pairs_total": 3,
+              "outcome": "open",
+              "open_subtype": "partial"
+            }
+          ],
+          "scope": "reconciliation-subset",
+          "board_scoped_keys": [
+            "min_clearance_used"
+          ],
+          "env_knobs": {
+            "KICAD_BARE_PAD_ESCAPE": "0",
+            "KICAD_DYNAMIC_ITERATIONS": "0",
+            "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+            "KICAD_FINALIZE_RIP": "1",
+            "KICAD_IMPEDANCE_NECKDOWN": "1",
+            "KICAD_NET_RESCUE": "1",
+            "KICAD_PLANE_FINALIZE": "0",
+            "KICAD_RESCUE_CAP_MOVE": "0",
+            "KICAD_RIP_PREEXISTING": "1",
+            "KICAD_TERMINAL_ESCALATION": "0"
+          }
+        }
+      ],
+      "impedance": {
+        "stackupPresent": true,
+        "verifiedNets": [],
+        "reports": [],
+        "planeFillFieldSolverVerificationRequired": false
+      },
+      "repairs": [
+        {
+          "kind": "open",
+          "accepted": false,
+          "status": "completed",
+          "elapsedMs": 5080.585100000026,
+          "beforeOpenNets": [
+            "3V3_A",
+            "PC1",
+            "VBIAS"
+          ],
+          "afterOpenNets": [
+            "3V3_A",
+            "CH2_SUM",
+            "CH3_SUM"
+          ],
+          "beforeDrcViolations": 0,
+          "afterDrcViolations": 0,
+          "summary": {
+            "routed_single": [],
+            "failed_single": [],
+            "open_single": [],
+            "failed_multipoint": [
+              {
+                "net_name": "CH3_SUM",
+                "failed_pads": [
+                  {
+                    "component_ref": "R35",
+                    "pad_number": "?",
+                    "x": 38.8621,
+                    "y": 42.1801
+                  },
+                  {
+                    "component_ref": "U1",
+                    "pad_number": "?",
+                    "x": 36.1011,
+                    "y": 43.1801
+                  }
+                ]
+              },
+              {
+                "net_name": "3V3_A",
+                "failed_pads": [
+                  {
+                    "component_ref": "D9",
+                    "pad_number": "?",
+                    "x": 37.0231,
+                    "y": 30.9541
+                  },
+                  {
+                    "component_ref": "R37",
+                    "pad_number": "?",
+                    "x": 19.431,
+                    "y": 36.8141
+                  }
+                ]
+              },
+              {
+                "net_name": "CH2_SUM",
+                "failed_pads": [
+                  {
+                    "component_ref": "R23",
+                    "pad_number": "?",
+                    "x": 43.6721,
+                    "y": 42.2911
+                  }
+                ]
+              }
+            ],
+            "multipoint_nets": 3,
+            "multipoint_pads_connected": 17,
+            "multipoint_pads_total": 22,
+            "multipoint_edges_routed": 2,
+            "multipoint_edges_failed": 4,
+            "ripup_success_pairs": [],
+            "rerouted_pairs": [],
+            "single_ended_target_swaps": [],
+            "layer_swaps": 0,
+            "successful": 0,
+            "failed": 3,
+            "total_time": 0.42,
+            "total_iterations": 452030,
+            "total_vias": 0,
+            "cleanup_disconnected": [],
+            "min_clearance_used": 0.3,
+            "oracle_check": "disabled",
+            "blockers": [
+              {
+                "net": "CH3_SUM",
+                "stage": "phase3",
+                "blocked_by": [
+                  {
+                    "net": "CH2_SUM",
+                    "blocked_count": 4,
+                    "unique_cells": 4,
+                    "track_cells": 4,
+                    "via_cells": 0,
+                    "near_target_cells": 0,
+                    "near_source_cells": 0
+                  }
+                ]
+              },
+              {
+                "net": "CH3_SUM",
+                "stage": "preexisting",
+                "blocked_by": [
+                  {
+                    "net": "VBIAS",
+                    "preexisting": true
+                  },
+                  {
+                    "net": "PC1",
+                    "preexisting": true
+                  },
+                  {
+                    "net": "CH3_ATT4",
+                    "preexisting": true
+                  },
+                  {
+                    "net": "CH3_ATT8",
+                    "preexisting": true
+                  },
+                  {
+                    "net": "PC2",
+                    "preexisting": true
+                  },
+                  {
+                    "net": "CH2_ATT8",
+                    "preexisting": true
+                  }
+                ]
+              }
+            ],
+            "pad_pairs_connected": 81,
+            "pad_pairs_total": 85,
+            "pad_pairs_open": [
+              {
+                "net": "3V3_A",
+                "pairs_connected": 11,
+                "pairs_total": 13,
+                "outcome": "open",
+                "open_subtype": "partial"
+              },
+              {
+                "net": "CH2_SUM",
+                "pairs_connected": 2,
+                "pairs_total": 3,
+                "outcome": "open",
+                "open_subtype": "partial"
+              },
+              {
+                "net": "CH3_SUM",
+                "pairs_connected": 2,
+                "pairs_total": 3,
+                "outcome": "open",
+                "open_subtype": "partial"
+              }
+            ],
+            "scope": "reconciliation-subset",
+            "board_scoped_keys": [
+              "min_clearance_used"
+            ],
+            "env_knobs": {
+              "KICAD_BARE_PAD_ESCAPE": "0",
+              "KICAD_DYNAMIC_ITERATIONS": "0",
+              "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+              "KICAD_FINALIZE_RIP": "1",
+              "KICAD_IMPEDANCE_NECKDOWN": "1",
+              "KICAD_NET_RESCUE": "0",
+              "KICAD_PLANE_FINALIZE": "0",
+              "KICAD_RESCUE_CAP_MOVE": "0",
+              "KICAD_RIP_PREEXISTING": "1",
+              "KICAD_TERMINAL_ESCALATION": "0"
+            }
+          }
+        }
+      ],
+      "repairBudgetMs": 15000,
+      "repairElapsedMs": 6652.429100000067,
+      "phaseTimings": {
+        "fanoutMs": 0,
+        "specialMs": 0,
+        "mainMs": 5229.624600000214,
+        "rescueMs": 5306.804000000004,
+        "targetedRepairMs": 6652.429100000067,
+        "auditMs": 3225.3938999997918
+      },
+      "routingSubprocessCount": 2,
+      "expensiveRescueCount": 1,
+      "ordinaryRouteBatchCount": 1,
+      "ordinaryRouteBatchLimit": 32,
+      "finalConnectivityAuditMs": 373.8850000000093,
+      "finalDrc": {
+        "drcViolationCount": 0,
+        "shortViolationCount": 0,
+        "byType": {},
+        "contactsByType": {},
+        "fingerprintCount": 0,
+        "fingerprintSamples": [],
+        "shortFingerprintSamples": []
+      },
+      "stageGateElapsedMs": 1921.1752999997698,
+      "fanout": [],
+      "hybrid": {
+        "mode": "hybrid",
+        "krtNets": [
+          "3V3_A",
+          "3V3_IN",
+          "CH1_ATT1",
+          "CH1_ATT2",
+          "CH1_ATT3",
+          "CH1_ATT4",
+          "CH1_ATT5",
+          "CH1_ATT6",
+          "CH1_ATT7",
+          "CH1_ATT8",
+          "CH1_BUF",
+          "CH1_DIRECT",
+          "CH1_HIGH",
+          "CH1_SUM",
+          "CH2_ATT1",
+          "CH2_ATT2",
+          "CH2_ATT3",
+          "CH2_ATT4",
+          "CH2_ATT5",
+          "CH2_ATT6",
+          "CH2_ATT7",
+          "CH2_ATT8",
+          "CH2_BUF",
+          "CH2_DIRECT",
+          "CH2_HIGH",
+          "CH2_SUM",
+          "CH3_ATT1",
+          "CH3_ATT2",
+          "CH3_ATT3",
+          "CH3_ATT4",
+          "CH3_ATT5",
+          "CH3_ATT6",
+          "CH3_ATT7",
+          "CH3_ATT8",
+          "CH3_BUF",
+          "CH3_DIRECT",
+          "CH3_HIGH",
+          "CH3_SUM",
+          "PA1",
+          "PA2",
+          "PA3",
+          "PC0",
+          "PC1",
+          "PC2",
+          "REF_MID",
+          "REF_RAW",
+          "VBIAS"
+        ],
+        "easyedaNets": [
+          "3V3_A",
+          "3V3_IN",
+          "CH1_ATT1",
+          "CH1_ATT2",
+          "CH1_ATT3",
+          "CH1_ATT4",
+          "CH1_ATT5",
+          "CH1_ATT6",
+          "CH1_ATT7",
+          "CH1_ATT8",
+          "CH1_BUF",
+          "CH1_DIRECT",
+          "CH1_HIGH",
+          "CH1_SUM",
+          "CH2_ATT1",
+          "CH2_ATT2",
+          "CH2_ATT3",
+          "CH2_ATT4",
+          "CH2_ATT5",
+          "CH2_ATT6",
+          "CH2_ATT7",
+          "CH2_ATT8",
+          "CH2_BUF",
+          "CH2_DIRECT",
+          "CH2_HIGH",
+          "CH2_SUM",
+          "CH3_ATT1",
+          "CH3_ATT2",
+          "CH3_ATT3",
+          "CH3_ATT4",
+          "CH3_ATT5",
+          "CH3_ATT6",
+          "CH3_ATT7",
+          "CH3_ATT8",
+          "CH3_BUF",
+          "CH3_DIRECT",
+          "CH3_HIGH",
+          "CH3_SUM",
+          "PA1",
+          "PA2",
+          "PA3",
+          "PC0",
+          "PC1",
+          "PC2",
+          "REF_MID",
+          "REF_RAW",
+          "VBIAS"
+        ],
+        "reasons": {
+          "3V3_A": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "3V3_IN": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH1_ATT1": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH1_ATT2": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH1_ATT3": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH1_ATT4": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH1_ATT5": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH1_ATT6": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH1_ATT7": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH1_ATT8": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH1_BUF": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH1_DIRECT": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH1_HIGH": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH1_SUM": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH2_ATT1": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH2_ATT2": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH2_ATT3": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH2_ATT4": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH2_ATT5": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH2_ATT6": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH2_ATT7": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH2_ATT8": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH2_BUF": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH2_DIRECT": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH2_HIGH": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH2_SUM": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH3_ATT1": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH3_ATT2": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH3_ATT3": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH3_ATT4": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH3_ATT5": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH3_ATT6": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH3_ATT7": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH3_ATT8": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH3_BUF": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH3_DIRECT": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH3_HIGH": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH3_SUM": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "PA1": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "PA2": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "PA3": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "PC0": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "PC1": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "PC2": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "REF_MID": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "REF_RAW": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "VBIAS": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ]
+        },
+        "stages": {
+          "easyedaBulk": {
+            "status": "complete",
+            "metrics": {
+              "elapsedMs": 973.9026999999769,
+              "routedNetCount": 47,
+              "openNetCount": 0,
+              "openNets": [],
+              "connectivityComponentCount": 47,
+              "trackLengthMm": 497.18239543307584,
+              "viaCount": 9,
+              "details": {
+                "progress": 1,
+                "routability": 1,
+                "connectivityEvidence": "easyeda-wasm-routability",
+                "routeNets": [
+                  "3V3_A",
+                  "3V3_IN",
+                  "CH1_ATT1",
+                  "CH1_ATT2",
+                  "CH1_ATT3",
+                  "CH1_ATT4",
+                  "CH1_ATT5",
+                  "CH1_ATT6",
+                  "CH1_ATT7",
+                  "CH1_ATT8",
+                  "CH1_BUF",
+                  "CH1_DIRECT",
+                  "CH1_HIGH",
+                  "CH1_SUM",
+                  "CH2_ATT1",
+                  "CH2_ATT2",
+                  "CH2_ATT3",
+                  "CH2_ATT4",
+                  "CH2_ATT5",
+                  "CH2_ATT6",
+                  "CH2_ATT7",
+                  "CH2_ATT8",
+                  "CH2_BUF",
+                  "CH2_DIRECT",
+                  "CH2_HIGH",
+                  "CH2_SUM",
+                  "CH3_ATT1",
+                  "CH3_ATT2",
+                  "CH3_ATT3",
+                  "CH3_ATT4",
+                  "CH3_ATT5",
+                  "CH3_ATT6",
+                  "CH3_ATT7",
+                  "CH3_ATT8",
+                  "CH3_BUF",
+                  "CH3_DIRECT",
+                  "CH3_HIGH",
+                  "CH3_SUM",
+                  "PA1",
+                  "PA2",
+                  "PA3",
+                  "PC0",
+                  "PC1",
+                  "PC2",
+                  "REF_MID",
+                  "REF_RAW",
+                  "VBIAS"
+                ]
+              }
+            }
+          },
+          "krtPostEasy": {
+            "status": "partial",
+            "metrics": {
+              "elapsedMs": 20540.36959999986,
+              "routedNetCount": 44,
+              "openNetCount": 3,
+              "openNets": [
+                "3V3_A",
+                "PC1",
+                "VBIAS"
+              ],
+              "connectivityComponentCount": 67,
+              "viaCount": 0,
+              "trackLengthMm": 334.561060834639,
+              "backend": "krt",
+              "details": {
+                "artifactsDirectory": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-87f0d16c\\krt\\native-auto-post-easy\\remaining",
+                "runtime": {
+                  "version": "0.21.3",
+                  "source": "download",
+                  "cacheDirectory": "C:\\Users\\kagas\\AppData\\Local\\eda-copilot\\router"
+                },
+                "policy": "native-auto",
+                "workflowMode": "post-easy",
+                "preRouteConnectivity": {
+                  "openNets": [
+                    "3V3_A",
+                    "3V3_IN",
+                    "CH1_ATT1",
+                    "CH1_ATT2",
+                    "CH1_ATT3",
+                    "CH1_ATT4",
+                    "CH1_ATT5",
+                    "CH1_ATT6",
+                    "CH1_ATT7",
+                    "CH1_ATT8",
+                    "CH1_BUF",
+                    "CH1_DIRECT",
+                    "CH1_HIGH",
+                    "CH1_SUM",
+                    "CH2_ATT1",
+                    "CH2_ATT2",
+                    "CH2_ATT3",
+                    "CH2_ATT4",
+                    "CH2_ATT5",
+                    "CH2_ATT6",
+                    "CH2_ATT7",
+                    "CH2_ATT8",
+                    "CH2_BUF",
+                    "CH2_DIRECT",
+                    "CH2_HIGH",
+                    "CH2_SUM",
+                    "CH3_ATT1",
+                    "CH3_ATT2",
+                    "CH3_ATT3",
+                    "CH3_ATT4",
+                    "CH3_ATT5",
+                    "CH3_ATT6",
+                    "CH3_ATT7",
+                    "CH3_ATT8",
+                    "CH3_BUF",
+                    "CH3_DIRECT",
+                    "CH3_HIGH",
+                    "CH3_SUM",
+                    "PA1",
+                    "PA2",
+                    "PA3",
+                    "PC0",
+                    "PC1",
+                    "PC2",
+                    "REF_MID",
+                    "REF_RAW",
+                    "VBIAS"
+                  ],
+                  "componentsByNet": {
+                    "3V3_A": 14,
+                    "3V3_IN": 2,
+                    "CH1_ATT1": 2,
+                    "CH1_ATT2": 2,
+                    "CH1_ATT3": 2,
+                    "CH1_ATT4": 2,
+                    "CH1_ATT5": 2,
+                    "CH1_ATT6": 2,
+                    "CH1_ATT7": 2,
+                    "CH1_ATT8": 2,
+                    "CH1_BUF": 3,
+                    "CH1_DIRECT": 2,
+                    "CH1_HIGH": 2,
+                    "CH1_SUM": 4,
+                    "CH2_ATT1": 2,
+                    "CH2_ATT2": 2,
+                    "CH2_ATT3": 2,
+                    "CH2_ATT4": 2,
+                    "CH2_ATT5": 2,
+                    "CH2_ATT6": 2,
+                    "CH2_ATT7": 2,
+                    "CH2_ATT8": 2,
+                    "CH2_BUF": 3,
+                    "CH2_DIRECT": 2,
+                    "CH2_HIGH": 2,
+                    "CH2_SUM": 4,
+                    "CH3_ATT1": 2,
+                    "CH3_ATT2": 2,
+                    "CH3_ATT3": 2,
+                    "CH3_ATT4": 2,
+                    "CH3_ATT5": 2,
+                    "CH3_ATT6": 2,
+                    "CH3_ATT7": 2,
+                    "CH3_ATT8": 2,
+                    "CH3_BUF": 3,
+                    "CH3_DIRECT": 2,
+                    "CH3_HIGH": 2,
+                    "CH3_SUM": 4,
+                    "PA1": 4,
+                    "PA2": 4,
+                    "PA3": 4,
+                    "PC0": 4,
+                    "PC1": 4,
+                    "PC2": 4,
+                    "REF_MID": 2,
+                    "REF_RAW": 4,
+                    "VBIAS": 5
+                  },
+                  "connectivityComponentCount": 132
+                },
+                "initialConnectivity": {
+                  "openNets": [
+                    "3V3_A",
+                    "PC1",
+                    "VBIAS"
+                  ],
+                  "componentsByNet": {
+                    "3V3_A": 14,
+                    "3V3_IN": 1,
+                    "CH1_ATT1": 1,
+                    "CH1_ATT2": 1,
+                    "CH1_ATT3": 1,
+                    "CH1_ATT4": 1,
+                    "CH1_ATT5": 1,
+                    "CH1_ATT6": 1,
+                    "CH1_ATT7": 1,
+                    "CH1_ATT8": 1,
+                    "CH1_BUF": 1,
+                    "CH1_DIRECT": 1,
+                    "CH1_HIGH": 1,
+                    "CH1_SUM": 1,
+                    "CH2_ATT1": 1,
+                    "CH2_ATT2": 1,
+                    "CH2_ATT3": 1,
+                    "CH2_ATT4": 1,
+                    "CH2_ATT5": 1,
+                    "CH2_ATT6": 1,
+                    "CH2_ATT7": 1,
+                    "CH2_ATT8": 1,
+                    "CH2_BUF": 1,
+                    "CH2_DIRECT": 1,
+                    "CH2_HIGH": 1,
+                    "CH2_SUM": 1,
+                    "CH3_ATT1": 1,
+                    "CH3_ATT2": 1,
+                    "CH3_ATT3": 1,
+                    "CH3_ATT4": 1,
+                    "CH3_ATT5": 1,
+                    "CH3_ATT6": 1,
+                    "CH3_ATT7": 1,
+                    "CH3_ATT8": 1,
+                    "CH3_BUF": 1,
+                    "CH3_DIRECT": 1,
+                    "CH3_HIGH": 1,
+                    "CH3_SUM": 1,
+                    "PA1": 1,
+                    "PA2": 1,
+                    "PA3": 1,
+                    "PC0": 1,
+                    "PC1": 4,
+                    "PC2": 1,
+                    "REF_MID": 1,
+                    "REF_RAW": 1,
+                    "VBIAS": 5
+                  },
+                  "connectivityComponentCount": 67
+                },
+                "finalConnectivity": {
+                  "openNets": [
+                    "3V3_A",
+                    "PC1",
+                    "VBIAS"
+                  ],
+                  "componentsByNet": {
+                    "3V3_A": 14,
+                    "3V3_IN": 1,
+                    "CH1_ATT1": 1,
+                    "CH1_ATT2": 1,
+                    "CH1_ATT3": 1,
+                    "CH1_ATT4": 1,
+                    "CH1_ATT5": 1,
+                    "CH1_ATT6": 1,
+                    "CH1_ATT7": 1,
+                    "CH1_ATT8": 1,
+                    "CH1_BUF": 1,
+                    "CH1_DIRECT": 1,
+                    "CH1_HIGH": 1,
+                    "CH1_SUM": 1,
+                    "CH2_ATT1": 1,
+                    "CH2_ATT2": 1,
+                    "CH2_ATT3": 1,
+                    "CH2_ATT4": 1,
+                    "CH2_ATT5": 1,
+                    "CH2_ATT6": 1,
+                    "CH2_ATT7": 1,
+                    "CH2_ATT8": 1,
+                    "CH2_BUF": 1,
+                    "CH2_DIRECT": 1,
+                    "CH2_HIGH": 1,
+                    "CH2_SUM": 1,
+                    "CH3_ATT1": 1,
+                    "CH3_ATT2": 1,
+                    "CH3_ATT3": 1,
+                    "CH3_ATT4": 1,
+                    "CH3_ATT5": 1,
+                    "CH3_ATT6": 1,
+                    "CH3_ATT7": 1,
+                    "CH3_ATT8": 1,
+                    "CH3_BUF": 1,
+                    "CH3_DIRECT": 1,
+                    "CH3_HIGH": 1,
+                    "CH3_SUM": 1,
+                    "PA1": 1,
+                    "PA2": 1,
+                    "PA3": 1,
+                    "PC0": 1,
+                    "PC1": 4,
+                    "PC2": 1,
+                    "REF_MID": 1,
+                    "REF_RAW": 1,
+                    "VBIAS": 5
+                  },
+                  "connectivityComponentCount": 67
+                },
+                "protectedNets": [],
+                "specialBatches": [],
+                "specialConstraintsDeferred": false,
+                "deferredSpecialNets": [],
+                "verifiedSpecialNets": [],
+                "ordinaryFallbackSpecialNets": [],
+                "rejectedSpecialNets": [],
+                "critical": [],
+                "early": [],
+                "main": [
+                  {
+                    "routed_single": [],
+                    "failed_single": [],
+                    "open_single": [],
+                    "failed_multipoint": [
+                      {
+                        "net_name": "CH3_SUM",
+                        "failed_pads": [
+                          {
+                            "component_ref": "R35",
+                            "pad_number": "?",
+                            "x": 38.8621,
+                            "y": 42.1801
+                          },
+                          {
+                            "component_ref": "U1",
+                            "pad_number": "?",
+                            "x": 36.1011,
+                            "y": 43.1801
+                          }
+                        ]
+                      },
+                      {
+                        "net_name": "3V3_A",
+                        "failed_pads": [
+                          {
+                            "component_ref": "D9",
+                            "pad_number": "?",
+                            "x": 37.0231,
+                            "y": 30.9541
+                          },
+                          {
+                            "component_ref": "R37",
+                            "pad_number": "?",
+                            "x": 19.431,
+                            "y": 36.8141
+                          }
+                        ]
+                      },
+                      {
+                        "net_name": "CH2_SUM",
+                        "failed_pads": [
+                          {
+                            "component_ref": "R23",
+                            "pad_number": "?",
+                            "x": 43.6721,
+                            "y": 42.2911
+                          }
+                        ]
+                      }
+                    ],
+                    "multipoint_nets": 3,
+                    "multipoint_pads_connected": 17,
+                    "multipoint_pads_total": 22,
+                    "multipoint_edges_routed": 2,
+                    "multipoint_edges_failed": 4,
+                    "ripup_success_pairs": [],
+                    "rerouted_pairs": [],
+                    "single_ended_target_swaps": [],
+                    "layer_swaps": 0,
+                    "successful": 0,
+                    "failed": 3,
+                    "total_time": 0.44,
+                    "total_iterations": 452030,
+                    "total_vias": 0,
+                    "cleanup_disconnected": [],
+                    "min_clearance_used": 0.3,
+                    "oracle_check": "disabled",
+                    "blockers": [
+                      {
+                        "net": "CH3_SUM",
+                        "stage": "phase3",
+                        "blocked_by": [
+                          {
+                            "net": "CH2_SUM",
+                            "blocked_count": 4,
+                            "unique_cells": 4,
+                            "track_cells": 4,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          }
+                        ]
+                      },
+                      {
+                        "net": "CH3_SUM",
+                        "stage": "preexisting",
+                        "blocked_by": [
+                          {
+                            "net": "VBIAS",
+                            "preexisting": true
+                          },
+                          {
+                            "net": "PC1",
+                            "preexisting": true
+                          },
+                          {
+                            "net": "CH3_ATT4",
+                            "preexisting": true
+                          },
+                          {
+                            "net": "CH3_ATT8",
+                            "preexisting": true
+                          },
+                          {
+                            "net": "PC2",
+                            "preexisting": true
+                          },
+                          {
+                            "net": "CH2_ATT8",
+                            "preexisting": true
+                          }
+                        ]
+                      }
+                    ],
+                    "pad_pairs_connected": 81,
+                    "pad_pairs_total": 85,
+                    "pad_pairs_open": [
+                      {
+                        "net": "3V3_A",
+                        "pairs_connected": 11,
+                        "pairs_total": 13,
+                        "outcome": "open",
+                        "open_subtype": "partial"
+                      },
+                      {
+                        "net": "CH2_SUM",
+                        "pairs_connected": 2,
+                        "pairs_total": 3,
+                        "outcome": "open",
+                        "open_subtype": "partial"
+                      },
+                      {
+                        "net": "CH3_SUM",
+                        "pairs_connected": 2,
+                        "pairs_total": 3,
+                        "outcome": "open",
+                        "open_subtype": "partial"
+                      }
+                    ],
+                    "scope": "reconciliation-subset",
+                    "board_scoped_keys": [
+                      "min_clearance_used"
+                    ],
+                    "env_knobs": {
+                      "KICAD_BARE_PAD_ESCAPE": "0",
+                      "KICAD_DYNAMIC_ITERATIONS": "0",
+                      "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+                      "KICAD_FINALIZE_RIP": "1",
+                      "KICAD_IMPEDANCE_NECKDOWN": "1",
+                      "KICAD_NET_RESCUE": "0",
+                      "KICAD_PLANE_FINALIZE": "0",
+                      "KICAD_RESCUE_CAP_MOVE": "0",
+                      "KICAD_RIP_PREEXISTING": "1",
+                      "KICAD_TERMINAL_ESCALATION": "0"
+                    }
+                  }
+                ],
+                "recovery": [
+                  {
+                    "routed_single": [],
+                    "failed_single": [],
+                    "open_single": [],
+                    "failed_multipoint": [
+                      {
+                        "net_name": "3V3_A",
+                        "failed_pads": [
+                          {
+                            "component_ref": "D9",
+                            "pad_number": "?",
+                            "x": 37.0231,
+                            "y": 30.9541
+                          },
+                          {
+                            "component_ref": "R37",
+                            "pad_number": "?",
+                            "x": 19.431,
+                            "y": 36.8141
+                          }
+                        ]
+                      },
+                      {
+                        "net_name": "CH3_SUM",
+                        "failed_pads": [
+                          {
+                            "component_ref": "R35",
+                            "pad_number": "?",
+                            "x": 38.8621,
+                            "y": 42.1801
+                          },
+                          {
+                            "component_ref": "U1",
+                            "pad_number": "?",
+                            "x": 36.1011,
+                            "y": 43.1801
+                          }
+                        ]
+                      },
+                      {
+                        "net_name": "CH2_SUM",
+                        "failed_pads": [
+                          {
+                            "component_ref": "R23",
+                            "pad_number": "?",
+                            "x": 43.6721,
+                            "y": 42.2911
+                          }
+                        ]
+                      }
+                    ],
+                    "multipoint_nets": 3,
+                    "multipoint_pads_connected": 17,
+                    "multipoint_pads_total": 22,
+                    "multipoint_edges_routed": 2,
+                    "multipoint_edges_failed": 4,
+                    "ripup_success_pairs": [],
+                    "rerouted_pairs": [],
+                    "single_ended_target_swaps": [],
+                    "layer_swaps": 0,
+                    "successful": 0,
+                    "failed": 3,
+                    "total_time": 0.43,
+                    "total_iterations": 452030,
+                    "total_vias": 0,
+                    "cleanup_disconnected": [],
+                    "min_clearance_used": 0.3,
+                    "rescue": {
+                      "attempted": 3,
+                      "recovered": [],
+                      "improved": [],
+                      "unchanged": [
+                        "3V3_A",
+                        "CH2_SUM",
+                        "CH3_SUM"
+                      ],
+                      "pads_reconnected": 0,
+                      "widths": {},
+                      "time": 0.05
+                    },
+                    "oracle_check": "disabled",
+                    "blockers": [
+                      {
+                        "net": "CH3_SUM",
+                        "stage": "phase3",
+                        "blocked_by": [
+                          {
+                            "net": "CH2_SUM",
+                            "blocked_count": 4,
+                            "unique_cells": 4,
+                            "track_cells": 4,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          }
+                        ]
+                      },
+                      {
+                        "net": "CH3_SUM",
+                        "stage": "preexisting",
+                        "blocked_by": [
+                          {
+                            "net": "VBIAS",
+                            "preexisting": true
+                          },
+                          {
+                            "net": "PC1",
+                            "preexisting": true
+                          },
+                          {
+                            "net": "CH3_ATT4",
+                            "preexisting": true
+                          },
+                          {
+                            "net": "CH3_ATT8",
+                            "preexisting": true
+                          },
+                          {
+                            "net": "PC2",
+                            "preexisting": true
+                          },
+                          {
+                            "net": "CH2_ATT8",
+                            "preexisting": true
+                          }
+                        ]
+                      }
+                    ],
+                    "pad_pairs_connected": 81,
+                    "pad_pairs_total": 85,
+                    "pad_pairs_open": [
+                      {
+                        "net": "3V3_A",
+                        "pairs_connected": 11,
+                        "pairs_total": 13,
+                        "outcome": "open",
+                        "open_subtype": "partial"
+                      },
+                      {
+                        "net": "CH2_SUM",
+                        "pairs_connected": 2,
+                        "pairs_total": 3,
+                        "outcome": "open",
+                        "open_subtype": "partial"
+                      },
+                      {
+                        "net": "CH3_SUM",
+                        "pairs_connected": 2,
+                        "pairs_total": 3,
+                        "outcome": "open",
+                        "open_subtype": "partial"
+                      }
+                    ],
+                    "scope": "reconciliation-subset",
+                    "board_scoped_keys": [
+                      "min_clearance_used"
+                    ],
+                    "env_knobs": {
+                      "KICAD_BARE_PAD_ESCAPE": "0",
+                      "KICAD_DYNAMIC_ITERATIONS": "0",
+                      "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+                      "KICAD_FINALIZE_RIP": "1",
+                      "KICAD_IMPEDANCE_NECKDOWN": "1",
+                      "KICAD_NET_RESCUE": "1",
+                      "KICAD_PLANE_FINALIZE": "0",
+                      "KICAD_RESCUE_CAP_MOVE": "0",
+                      "KICAD_RIP_PREEXISTING": "1",
+                      "KICAD_TERMINAL_ESCALATION": "0"
+                    }
+                  }
+                ],
+                "impedance": {
+                  "stackupPresent": true,
+                  "verifiedNets": [],
+                  "reports": [],
+                  "planeFillFieldSolverVerificationRequired": false
+                },
+                "repairs": [
+                  {
+                    "kind": "open",
+                    "accepted": false,
+                    "status": "completed",
+                    "elapsedMs": 5080.585100000026,
+                    "beforeOpenNets": [
+                      "3V3_A",
+                      "PC1",
+                      "VBIAS"
+                    ],
+                    "afterOpenNets": [
+                      "3V3_A",
+                      "CH2_SUM",
+                      "CH3_SUM"
+                    ],
+                    "beforeDrcViolations": 0,
+                    "afterDrcViolations": 0,
+                    "summary": {
+                      "routed_single": [],
+                      "failed_single": [],
+                      "open_single": [],
+                      "failed_multipoint": [
+                        {
+                          "net_name": "CH3_SUM",
+                          "failed_pads": [
+                            {
+                              "component_ref": "R35",
+                              "pad_number": "?",
+                              "x": 38.8621,
+                              "y": 42.1801
+                            },
+                            {
+                              "component_ref": "U1",
+                              "pad_number": "?",
+                              "x": 36.1011,
+                              "y": 43.1801
+                            }
+                          ]
+                        },
+                        {
+                          "net_name": "3V3_A",
+                          "failed_pads": [
+                            {
+                              "component_ref": "D9",
+                              "pad_number": "?",
+                              "x": 37.0231,
+                              "y": 30.9541
+                            },
+                            {
+                              "component_ref": "R37",
+                              "pad_number": "?",
+                              "x": 19.431,
+                              "y": 36.8141
+                            }
+                          ]
+                        },
+                        {
+                          "net_name": "CH2_SUM",
+                          "failed_pads": [
+                            {
+                              "component_ref": "R23",
+                              "pad_number": "?",
+                              "x": 43.6721,
+                              "y": 42.2911
+                            }
+                          ]
+                        }
+                      ],
+                      "multipoint_nets": 3,
+                      "multipoint_pads_connected": 17,
+                      "multipoint_pads_total": 22,
+                      "multipoint_edges_routed": 2,
+                      "multipoint_edges_failed": 4,
+                      "ripup_success_pairs": [],
+                      "rerouted_pairs": [],
+                      "single_ended_target_swaps": [],
+                      "layer_swaps": 0,
+                      "successful": 0,
+                      "failed": 3,
+                      "total_time": 0.42,
+                      "total_iterations": 452030,
+                      "total_vias": 0,
+                      "cleanup_disconnected": [],
+                      "min_clearance_used": 0.3,
+                      "oracle_check": "disabled",
+                      "blockers": [
+                        {
+                          "net": "CH3_SUM",
+                          "stage": "phase3",
+                          "blocked_by": [
+                            {
+                              "net": "CH2_SUM",
+                              "blocked_count": 4,
+                              "unique_cells": 4,
+                              "track_cells": 4,
+                              "via_cells": 0,
+                              "near_target_cells": 0,
+                              "near_source_cells": 0
+                            }
+                          ]
+                        },
+                        {
+                          "net": "CH3_SUM",
+                          "stage": "preexisting",
+                          "blocked_by": [
+                            {
+                              "net": "VBIAS",
+                              "preexisting": true
+                            },
+                            {
+                              "net": "PC1",
+                              "preexisting": true
+                            },
+                            {
+                              "net": "CH3_ATT4",
+                              "preexisting": true
+                            },
+                            {
+                              "net": "CH3_ATT8",
+                              "preexisting": true
+                            },
+                            {
+                              "net": "PC2",
+                              "preexisting": true
+                            },
+                            {
+                              "net": "CH2_ATT8",
+                              "preexisting": true
+                            }
+                          ]
+                        }
+                      ],
+                      "pad_pairs_connected": 81,
+                      "pad_pairs_total": 85,
+                      "pad_pairs_open": [
+                        {
+                          "net": "3V3_A",
+                          "pairs_connected": 11,
+                          "pairs_total": 13,
+                          "outcome": "open",
+                          "open_subtype": "partial"
+                        },
+                        {
+                          "net": "CH2_SUM",
+                          "pairs_connected": 2,
+                          "pairs_total": 3,
+                          "outcome": "open",
+                          "open_subtype": "partial"
+                        },
+                        {
+                          "net": "CH3_SUM",
+                          "pairs_connected": 2,
+                          "pairs_total": 3,
+                          "outcome": "open",
+                          "open_subtype": "partial"
+                        }
+                      ],
+                      "scope": "reconciliation-subset",
+                      "board_scoped_keys": [
+                        "min_clearance_used"
+                      ],
+                      "env_knobs": {
+                        "KICAD_BARE_PAD_ESCAPE": "0",
+                        "KICAD_DYNAMIC_ITERATIONS": "0",
+                        "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+                        "KICAD_FINALIZE_RIP": "1",
+                        "KICAD_IMPEDANCE_NECKDOWN": "1",
+                        "KICAD_NET_RESCUE": "0",
+                        "KICAD_PLANE_FINALIZE": "0",
+                        "KICAD_RESCUE_CAP_MOVE": "0",
+                        "KICAD_RIP_PREEXISTING": "1",
+                        "KICAD_TERMINAL_ESCALATION": "0"
+                      }
+                    }
+                  }
+                ],
+                "repairBudgetMs": 15000,
+                "repairElapsedMs": 6652.429100000067,
+                "phaseTimings": {
+                  "fanoutMs": 0,
+                  "specialMs": 0,
+                  "mainMs": 5229.624600000214,
+                  "rescueMs": 5306.804000000004,
+                  "targetedRepairMs": 6652.429100000067,
+                  "auditMs": 3225.3938999997918
+                },
+                "routingSubprocessCount": 2,
+                "expensiveRescueCount": 1,
+                "ordinaryRouteBatchCount": 1,
+                "ordinaryRouteBatchLimit": 32,
+                "finalConnectivityAuditMs": 373.8850000000093,
+                "finalDrc": {
+                  "drcViolationCount": 0,
+                  "shortViolationCount": 0,
+                  "byType": {},
+                  "contactsByType": {},
+                  "fingerprintCount": 0,
+                  "fingerprintSamples": [],
+                  "shortFingerprintSamples": []
+                },
+                "stageGateElapsedMs": 1921.1752999997698,
+                "fanout": []
+              }
+            }
+          }
+        },
+        "provisionalKrtCustody": {
+          "nets": [
+            "3V3_A",
+            "3V3_IN",
+            "CH1_ATT1",
+            "CH1_ATT2",
+            "CH1_ATT3",
+            "CH1_ATT4",
+            "CH1_ATT5",
+            "CH1_ATT6",
+            "CH1_ATT7",
+            "CH1_ATT8",
+            "CH1_BUF",
+            "CH1_DIRECT",
+            "CH1_HIGH",
+            "CH1_SUM",
+            "CH2_ATT1",
+            "CH2_ATT2",
+            "CH2_ATT3",
+            "CH2_ATT4",
+            "CH2_ATT5",
+            "CH2_ATT6",
+            "CH2_ATT7",
+            "CH2_ATT8",
+            "CH2_BUF",
+            "CH2_DIRECT",
+            "CH2_HIGH",
+            "CH2_SUM",
+            "CH3_ATT1",
+            "CH3_ATT2",
+            "CH3_ATT3",
+            "CH3_ATT4",
+            "CH3_ATT5",
+            "CH3_ATT6",
+            "CH3_ATT7",
+            "CH3_ATT8",
+            "CH3_BUF",
+            "CH3_DIRECT",
+            "CH3_HIGH",
+            "CH3_SUM",
+            "PA1",
+            "PA2",
+            "PA3",
+            "PC0",
+            "PC1",
+            "PC2",
+            "REF_MID",
+            "REF_RAW",
+            "VBIAS"
+          ],
+          "removed": {
+            "tracks": 28,
+            "vias": 9,
+            "zones": 0
+          },
+          "restoredIncoming": {
+            "tracks": 0,
+            "vias": 0,
+            "zones": 0
+          },
+          "retainedCompliantNets": [
+            "3V3_IN",
+            "CH1_ATT1",
+            "CH1_ATT2",
+            "CH1_ATT3",
+            "CH1_ATT4",
+            "CH1_ATT5",
+            "CH1_ATT6",
+            "CH1_ATT7",
+            "CH1_ATT8",
+            "CH1_BUF",
+            "CH1_DIRECT",
+            "CH1_HIGH",
+            "CH1_SUM",
+            "CH2_ATT1",
+            "CH2_ATT2",
+            "CH2_ATT3",
+            "CH2_ATT4",
+            "CH2_ATT5",
+            "CH2_ATT6",
+            "CH2_ATT7",
+            "CH2_ATT8",
+            "CH2_BUF",
+            "CH2_DIRECT",
+            "CH2_HIGH",
+            "CH2_SUM",
+            "CH3_ATT1",
+            "CH3_ATT2",
+            "CH3_ATT3",
+            "CH3_ATT4",
+            "CH3_ATT5",
+            "CH3_ATT6",
+            "CH3_ATT7",
+            "CH3_ATT8",
+            "CH3_BUF",
+            "CH3_DIRECT",
+            "CH3_HIGH",
+            "CH3_SUM",
+            "PA1",
+            "PA2",
+            "PA3",
+            "PC0",
+            "PC2",
+            "REF_MID",
+            "REF_RAW"
+          ]
+        }
+      },
+      "hybridInput": {
+        "openNets": [
+          "3V3_A",
+          "3V3_IN",
+          "CH1_ATT1",
+          "CH1_ATT2",
+          "CH1_ATT3",
+          "CH1_ATT4",
+          "CH1_ATT5",
+          "CH1_ATT6",
+          "CH1_ATT7",
+          "CH1_ATT8",
+          "CH1_BUF",
+          "CH1_DIRECT",
+          "CH1_HIGH",
+          "CH1_SUM",
+          "CH2_ATT1",
+          "CH2_ATT2",
+          "CH2_ATT3",
+          "CH2_ATT4",
+          "CH2_ATT5",
+          "CH2_ATT6",
+          "CH2_ATT7",
+          "CH2_ATT8",
+          "CH2_BUF",
+          "CH2_DIRECT",
+          "CH2_HIGH",
+          "CH2_SUM",
+          "CH3_ATT1",
+          "CH3_ATT2",
+          "CH3_ATT3",
+          "CH3_ATT4",
+          "CH3_ATT5",
+          "CH3_ATT6",
+          "CH3_ATT7",
+          "CH3_ATT8",
+          "CH3_BUF",
+          "CH3_DIRECT",
+          "CH3_HIGH",
+          "CH3_SUM",
+          "GND",
+          "PA1",
+          "PA2",
+          "PA3",
+          "PC0",
+          "PC1",
+          "PC2",
+          "REF_MID",
+          "REF_RAW",
+          "VBIAS"
+        ],
+        "connectivityComponentCount": 165
+      },
+      "copperPlanning": {
+        "compactPlans": 0,
+        "compactReady": 0,
+        "planeZones": 0,
+        "stitchingVias": 0
+      },
+      "planePlanning": {
+        "compactPlans": 0,
+        "compactReady": 0,
+        "planeZones": 1,
+        "stitchingVias": 0
+      },
+      "routePlan": {
+        "schemaVersion": 1,
+        "scopeNets": [
+          "3V3_A",
+          "3V3_IN",
+          "CH1_ATT1",
+          "CH1_ATT2",
+          "CH1_ATT3",
+          "CH1_ATT4",
+          "CH1_ATT5",
+          "CH1_ATT6",
+          "CH1_ATT7",
+          "CH1_ATT8",
+          "CH1_BUF",
+          "CH1_DIRECT",
+          "CH1_HIGH",
+          "CH1_SUM",
+          "CH2_ATT1",
+          "CH2_ATT2",
+          "CH2_ATT3",
+          "CH2_ATT4",
+          "CH2_ATT5",
+          "CH2_ATT6",
+          "CH2_ATT7",
+          "CH2_ATT8",
+          "CH2_BUF",
+          "CH2_DIRECT",
+          "CH2_HIGH",
+          "CH2_SUM",
+          "CH3_ATT1",
+          "CH3_ATT2",
+          "CH3_ATT3",
+          "CH3_ATT4",
+          "CH3_ATT5",
+          "CH3_ATT6",
+          "CH3_ATT7",
+          "CH3_ATT8",
+          "CH3_BUF",
+          "CH3_DIRECT",
+          "CH3_HIGH",
+          "CH3_SUM",
+          "GND",
+          "PA1",
+          "PA2",
+          "PA3",
+          "PC0",
+          "PC1",
+          "PC2",
+          "REF_MID",
+          "REF_RAW",
+          "VBIAS"
+        ],
+        "netPolicies": [
+          {
+            "net": "3V3_A",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "3V3_IN",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH1_ATT1",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH1_ATT2",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH1_ATT3",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH1_ATT4",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH1_ATT5",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH1_ATT6",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH1_ATT7",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH1_ATT8",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH1_BUF",
+            "priority": "high",
+            "viaPreference": "forbid",
+            "priorityWeight": 16,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH1_DIRECT",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH1_HIGH",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH1_SUM",
+            "priority": "high",
+            "viaPreference": "forbid",
+            "priorityWeight": 16,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH2_ATT1",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH2_ATT2",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH2_ATT3",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH2_ATT4",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH2_ATT5",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH2_ATT6",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH2_ATT7",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH2_ATT8",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH2_BUF",
+            "priority": "high",
+            "viaPreference": "forbid",
+            "priorityWeight": 16,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH2_DIRECT",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH2_HIGH",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH2_SUM",
+            "priority": "high",
+            "viaPreference": "forbid",
+            "priorityWeight": 16,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH3_ATT1",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH3_ATT2",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH3_ATT3",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH3_ATT4",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH3_ATT5",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH3_ATT6",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH3_ATT7",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH3_ATT8",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH3_BUF",
+            "priority": "high",
+            "viaPreference": "forbid",
+            "priorityWeight": 16,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH3_DIRECT",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH3_HIGH",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH3_SUM",
+            "priority": "high",
+            "viaPreference": "forbid",
+            "priorityWeight": 16,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "GND",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "PA1",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "PA2",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "PA3",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "PC0",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "PC1",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "PC2",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "REF_MID",
+            "priority": "normal",
+            "viaPreference": "forbid",
+            "priorityWeight": 4,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "REF_RAW",
+            "priority": "high",
+            "viaPreference": "forbid",
+            "priorityWeight": 16,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "VBIAS",
+            "priority": "high",
+            "viaPreference": "forbid",
+            "priorityWeight": 16,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          }
+        ],
+        "fanout": {
+          "enabled": false,
+          "targets": []
+        },
+        "groups": [],
+        "mainNets": [
+          "3V3_A",
+          "3V3_IN",
+          "CH1_ATT1",
+          "CH1_ATT2",
+          "CH1_ATT3",
+          "CH1_ATT4",
+          "CH1_ATT5",
+          "CH1_ATT6",
+          "CH1_ATT7",
+          "CH1_ATT8",
+          "CH1_BUF",
+          "CH1_DIRECT",
+          "CH1_HIGH",
+          "CH1_SUM",
+          "CH2_ATT1",
+          "CH2_ATT2",
+          "CH2_ATT3",
+          "CH2_ATT4",
+          "CH2_ATT5",
+          "CH2_ATT6",
+          "CH2_ATT7",
+          "CH2_ATT8",
+          "CH2_BUF",
+          "CH2_DIRECT",
+          "CH2_HIGH",
+          "CH2_SUM",
+          "CH3_ATT1",
+          "CH3_ATT2",
+          "CH3_ATT3",
+          "CH3_ATT4",
+          "CH3_ATT5",
+          "CH3_ATT6",
+          "CH3_ATT7",
+          "CH3_ATT8",
+          "CH3_BUF",
+          "CH3_DIRECT",
+          "CH3_HIGH",
+          "CH3_SUM",
+          "GND",
+          "PA1",
+          "PA2",
+          "PA3",
+          "PC0",
+          "PC1",
+          "PC2",
+          "REF_MID",
+          "REF_RAW",
+          "VBIAS"
+        ]
+      },
+      "candidateAudit": {
+        "selected": {
+          "label": "hybrid",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 24,
+          "openNetCount": 3,
+          "connectivityComponentCount": 67,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 334.561060834639,
+          "score": [
+            0,
+            0,
+            24,
+            3,
+            67,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            334.561060834639,
+            0
+          ]
+        },
+        "attempted": {
+          "label": "hybrid",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 24,
+          "openNetCount": 3,
+          "connectivityComponentCount": 67,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 334.561060834639,
+          "score": [
+            0,
+            0,
+            24,
+            3,
+            67,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            334.561060834639,
+            0
+          ]
+        },
+        "baseline": {
+          "label": "pre-route-checkpoint",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 284,
+          "openNetCount": 47,
+          "connectivityComponentCount": 132,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 0,
+          "score": [
+            0,
+            0,
+            284,
+            47,
+            132,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1
+          ]
+        }
+      }
+    },
+    "candidateCount": 1
+  },
+  "requiresNativeVerification": true
+}

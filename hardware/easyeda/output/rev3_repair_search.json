@@ -1,0 +1,720 @@
+[
+  {
+    "net": "3V3_A",
+    "score": 10,
+    "newSegments": 70,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 3
+      },
+      {
+        "net": "3V3_A",
+        "groups": 7
+      }
+    ]
+  },
+  {
+    "net": "PC1",
+    "score": 12,
+    "newSegments": 17,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 10
+      },
+      {
+        "net": "PC1",
+        "groups": 2
+      }
+    ]
+  },
+  {
+    "net": "CH3_ATT1",
+    "score": 13,
+    "newSegments": 1,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH2_ATT2",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH3_ATT3",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH1_ATT7",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH2_ATT6",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH1_ATT2",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH3_DIRECT",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH1_ATT6",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH2_ATT1",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH1_ATT5",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH2_DIRECT",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH1_ATT3",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH3_ATT6",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH2_ATT5",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH1_DIRECT",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH1_ATT4",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH3_ATT7",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH1_HIGH",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH2_HIGH",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH2_ATT7",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH3_ATT8",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "REF_MID",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 11
+      },
+      {
+        "net": "REF_MID",
+        "groups": 2
+      }
+    ]
+  },
+  {
+    "net": "CH1_ATT1",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH2_ATT8",
+    "score": 13,
+    "newSegments": 2,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 11
+      },
+      {
+        "net": "CH2_ATT8",
+        "groups": 2
+      }
+    ]
+  },
+  {
+    "net": "CH2_ATT3",
+    "score": 13,
+    "newSegments": 3,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH3_ATT2",
+    "score": 13,
+    "newSegments": 3,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH2_ATT4",
+    "score": 13,
+    "newSegments": 3,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH1_BUF",
+    "score": 13,
+    "newSegments": 3,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH2_BUF",
+    "score": 13,
+    "newSegments": 3,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH3_BUF",
+    "score": 13,
+    "newSegments": 3,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH3_ATT5",
+    "score": 13,
+    "newSegments": 4,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH1_ATT8",
+    "score": 13,
+    "newSegments": 4,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "3V3_IN",
+    "score": 13,
+    "newSegments": 4,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH3_HIGH",
+    "score": 13,
+    "newSegments": 4,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "PA3",
+    "score": 13,
+    "newSegments": 6,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "PC0",
+    "score": 13,
+    "newSegments": 6,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 11
+      },
+      {
+        "net": "PC0",
+        "groups": 2
+      }
+    ]
+  },
+  {
+    "net": "CH3_ATT4",
+    "score": 13,
+    "newSegments": 6,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "PA2",
+    "score": 13,
+    "newSegments": 9,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "PA1",
+    "score": 13,
+    "newSegments": 9,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH1_SUM",
+    "score": 13,
+    "newSegments": 9,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH3_SUM",
+    "score": 13,
+    "newSegments": 9,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "CH2_SUM",
+    "score": 13,
+    "newSegments": 10,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 11
+      },
+      {
+        "net": "CH2_SUM",
+        "groups": 2
+      }
+    ]
+  },
+  {
+    "net": "REF_RAW",
+    "score": 13,
+    "newSegments": 12,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ]
+  },
+  {
+    "net": "PC2",
+    "score": 13,
+    "newSegments": 13,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 11
+      },
+      {
+        "net": "PC2",
+        "groups": 2
+      }
+    ]
+  }
+]

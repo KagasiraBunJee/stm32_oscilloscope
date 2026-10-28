@@ -1,0 +1,24 @@
+{
+  "status": "ENGINEERING DRAFT / UNROUTED / NOT FOR FABRICATION",
+  "components": 67,
+  "nets": 48,
+  "pads": 161,
+  "checks_passed": [
+    "unique references",
+    "symbol-pin / footprint-pad coverage",
+    "pads within outline",
+    "pad bounding-box clearance >= 0.2mm",
+    "no single-pin nets"
+  ],
+  "not_checked": [
+    "EasyEDA Pro import",
+    "ERC",
+    "DRC",
+    "routing",
+    "body courtyard clearance",
+    "manufacturer land patterns",
+    "analog simulation",
+    "bench testing",
+    "enclosure fit"
+  ]
+}

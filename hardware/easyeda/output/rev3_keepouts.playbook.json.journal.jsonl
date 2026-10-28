@@ -1,0 +1,10 @@
+{"playbookSha256":"a383d72de3ee165efc0f8832cdbff70cbf18a6101d3977a19c98652ebaf2beea","name":"M3 hardware top copper exclusions","project":"58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c","startedAt":"2026-09-08T00:52:13+03:00"}
+{"idx":1,"id":"target0","status":"ok","ms":6}
+{"idx":2,"id":"keepout0","status":"ok","ms":23}
+{"idx":3,"id":"target1","status":"ok","ms":5}
+{"idx":4,"id":"keepout1","status":"ok","ms":12}
+{"idx":5,"id":"target2","status":"ok","ms":5}
+{"idx":6,"id":"keepout2","status":"ok","ms":11}
+{"idx":7,"id":"target3","status":"ok","ms":5}
+{"idx":8,"id":"keepout3","status":"ok","ms":12}
+{"idx":9,"id":"save","status":"ok","ms":37}

@@ -1,0 +1,14 @@
+{"playbookSha256":"2ba68bdb5552caca098b693069658a2af1f4289204a14441b2b042a844972d43","name":"Shorten distributed output placement","project":"58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c","startedAt":"2026-09-07T13:07:22+03:00"}
+{"idx":1,"id":"target_J9","status":"ok","ms":5}
+{"idx":2,"id":"refine_J9","status":"ok","ms":37}
+{"idx":3,"id":"target_J10","status":"ok","ms":4}
+{"idx":4,"id":"refine_J10","status":"ok","ms":42}
+{"idx":5,"id":"target_J11","status":"ok","ms":3}
+{"idx":6,"id":"refine_J11","status":"ok","ms":15}
+{"idx":7,"id":"target_J12","status":"ok","ms":4}
+{"idx":8,"id":"refine_J12","status":"ok","ms":14}
+{"idx":9,"id":"target_J13","status":"ok","ms":3}
+{"idx":10,"id":"refine_J13","status":"ok","ms":15}
+{"idx":11,"id":"target_J14","status":"ok","ms":3}
+{"idx":12,"id":"refine_J14","status":"ok","ms":14}
+{"idx":13,"id":"save","status":"ok","ms":11}

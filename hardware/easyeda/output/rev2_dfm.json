@@ -1,0 +1,1692 @@
+{
+  "passed": false,
+  "summary": {
+    "danglingEnds": 0,
+    "acuteAngles": 13,
+    "nonOrthogonal": 0,
+    "trackOverPad": 0,
+    "clearance": 0,
+    "silkscreenFlipped": 0,
+    "overlappingVias": 0,
+    "singleLayerVias": 0,
+    "widthMismatches": 1,
+    "duplicateSegments": 0,
+    "parallelCoupling": 20,
+    "antennaKeepout": 0,
+    "netlessPours": 0,
+    "viaCrossesPlane": 0,
+    "floatingIslands": 0,
+    "powerNotPoured": 0,
+    "netlessViaInPad": 0,
+    "widthUnderSpec": 0,
+    "silkOverPad": 81,
+    "decapTooFar": 0,
+    "viaInPad": 0,
+    "copperNearEdge": 0,
+    "fiducialMissing": 1,
+    "zoneViolation": 0,
+    "internalOnEdge": 0,
+    "connectorPlugClearance": 1,
+    "connectorMatingBlocked": 0,
+    "errors": 0,
+    "warnings": 115,
+    "total": 117
+  },
+  "trackCount": 267,
+  "viaCount": 0,
+  "padCount": 165,
+  "findings": [
+    {
+      "type": "acute-angle",
+      "level": "WARN",
+      "net": "3V3_A",
+      "layer": 1,
+      "primitives": [
+        "31bb0539931c857a",
+        "de2881c12f9607bf"
+      ],
+      "angleDeg": 45,
+      "message": "trace bends 45° (<90°) — acid-trap acute angle [规范 §4.1 转角禁直角/锐角 — pcb-design-rules.md]",
+      "at": {
+        "x": 1090,
+        "y": -1432.5
+      }
+    },
+    {
+      "type": "acute-angle",
+      "level": "WARN",
+      "net": "3V3_A",
+      "layer": 1,
+      "primitives": [
+        "75ff23af58a9eb97",
+        "b7cea8e792547beb"
+      ],
+      "angleDeg": 45,
+      "message": "trace bends 45° (<90°) — acid-trap acute angle [规范 §4.1 转角禁直角/锐角 — pcb-design-rules.md]",
+      "at": {
+        "x": 1142.4,
+        "y": -2298.7
+      }
+    },
+    {
+      "type": "acute-angle",
+      "level": "WARN",
+      "net": "3V3_A",
+      "layer": 1,
+      "primitives": [
+        "31bb0539931c857a",
+        "c6fd9e426ffe7cb6"
+      ],
+      "angleDeg": 45,
+      "message": "trace bends 45° (<90°) — acid-trap acute angle [规范 §4.1 转角禁直角/锐角 — pcb-design-rules.md]",
+      "at": {
+        "x": 1158.1,
+        "y": -1364.4
+      }
+    },
+    {
+      "type": "acute-angle",
+      "level": "WARN",
+      "net": "3V3_A",
+      "layer": 1,
+      "primitives": [
+        "d98cc97417a40cf1",
+        "9022a123e34bcb4f"
+      ],
+      "angleDeg": 45,
+      "message": "trace bends 45° (<90°) — acid-trap acute angle [规范 §4.1 转角禁直角/锐角 — pcb-design-rules.md]",
+      "at": {
+        "x": 1212.5,
+        "y": -1707.5
+      }
+    },
+    {
+      "type": "acute-angle",
+      "level": "WARN",
+      "net": "3V3_A",
+      "layer": 1,
+      "primitives": [
+        "ed87503dfaa4982a",
+        "21d386f134715b9f"
+      ],
+      "angleDeg": 45,
+      "message": "trace bends 45° (<90°) — acid-trap acute angle [规范 §4.1 转角禁直角/锐角 — pcb-design-rules.md]",
+      "at": {
+        "x": 1227.5,
+        "y": -1335
+      }
+    },
+    {
+      "type": "acute-angle",
+      "level": "WARN",
+      "net": "3V3_A",
+      "layer": 1,
+      "primitives": [
+        "34eb82e04d0cf4bb",
+        "afb9b234e79bc0d4"
+      ],
+      "angleDeg": 45,
+      "message": "trace bends 45° (<90°) — acid-trap acute angle [规范 §4.1 转角禁直角/锐角 — pcb-design-rules.md]",
+      "at": {
+        "x": 1262.4,
+        "y": -1452.4
+      }
+    },
+    {
+      "type": "acute-angle",
+      "level": "WARN",
+      "net": "3V3_A",
+      "layer": 1,
+      "primitives": [
+        "b032ef4a3ac94567",
+        "551cc1e4c92224d6"
+      ],
+      "angleDeg": 45,
+      "message": "trace bends 45° (<90°) — acid-trap acute angle [规范 §4.1 转角禁直角/锐角 — pcb-design-rules.md]",
+      "at": {
+        "x": 1307.5,
+        "y": -1335
+      }
+    },
+    {
+      "type": "acute-angle",
+      "level": "WARN",
+      "net": "3V3_A",
+      "layer": 1,
+      "primitives": [
+        "55cce79d07cb0c0a",
+        "9c1bae4e386b4894"
+      ],
+      "angleDeg": 45,
+      "message": "trace bends 45° (<90°) — acid-trap acute angle [规范 §4.1 转角禁直角/锐角 — pcb-design-rules.md]",
+      "at": {
+        "x": 707.5,
+        "y": -1530
+      }
+    },
+    {
+      "type": "acute-angle",
+      "level": "WARN",
+      "net": "3V3_A",
+      "layer": 1,
+      "primitives": [
+        "b95914132c0c0d7f",
+        "55cce79d07cb0c0a"
+      ],
+      "angleDeg": 45,
+      "message": "trace bends 45° (<90°) — acid-trap acute angle [规范 §4.1 转角禁直角/锐角 — pcb-design-rules.md]",
+      "at": {
+        "x": 765,
+        "y": -1472.5
+      }
+    },
+    {
+      "type": "acute-angle",
+      "level": "WARN",
+      "net": "3V3_A",
+      "layer": 1,
+      "primitives": [
+        "4f9eb6bdc37243d3",
+        "9d93441a801e277e"
+      ],
+      "angleDeg": 45,
+      "message": "trace bends 45° (<90°) — acid-trap acute angle [规范 §4.1 转角禁直角/锐角 — pcb-design-rules.md]",
+      "at": {
+        "x": 860.5,
+        "y": -1707.5
+      }
+    },
+    {
+      "type": "acute-angle",
+      "level": "WARN",
+      "net": "3V3_A",
+      "layer": 1,
+      "primitives": [
+        "3accf08f3e5f728e",
+        "842cd132c515416f"
+      ],
+      "angleDeg": 45,
+      "message": "trace bends 45° (<90°) — acid-trap acute angle [规范 §4.1 转角禁直角/锐角 — pcb-design-rules.md]",
+      "at": {
+        "x": 893.7,
+        "y": -1982.4
+      }
+    },
+    {
+      "type": "acute-angle",
+      "level": "WARN",
+      "net": "PA1",
+      "layer": 1,
+      "primitives": [
+        "002637ca6a5353b7",
+        "2398ec1cf2060fd3"
+      ],
+      "angleDeg": 45,
+      "message": "trace bends 45° (<90°) — acid-trap acute angle [规范 §4.1 转角禁直角/锐角 — pcb-design-rules.md]",
+      "at": {
+        "x": 1490,
+        "y": -2914.4
+      }
+    },
+    {
+      "type": "acute-angle",
+      "level": "WARN",
+      "net": "VBIAS",
+      "layer": 1,
+      "primitives": [
+        "4f7135a5f2c61c43",
+        "30dbbfe09d1eaa57"
+      ],
+      "angleDeg": 45,
+      "message": "trace bends 45° (<90°) — acid-trap acute angle [规范 §4.1 转角禁直角/锐角 — pcb-design-rules.md]",
+      "at": {
+        "x": 1352.5,
+        "y": -1706.5
+      }
+    },
+    {
+      "type": "width-mismatch",
+      "level": "INFO",
+      "net": "3V3_A",
+      "designator": "R37",
+      "widths": [
+        23.62,
+        15.75
+      ],
+      "message": "2-pin part R37: entering track widths differ (23.6 vs 15.7 mil) [规范 §1.2 推荐线宽 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "3V3_A",
+        "REF_MID"
+      ],
+      "layer": 1,
+      "primitives": [
+        "02ffe6f968d016b2",
+        "9d93441a801e277e"
+      ],
+      "message": "parallel traces 68.1 mil apart over 47 mil (< 70.9 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "3V3_A",
+        "REF_MID"
+      ],
+      "layer": 1,
+      "primitives": [
+        "02ffe6f968d016b2",
+        "9022a123e34bcb4f"
+      ],
+      "message": "parallel traces 68.1 mil apart over 190 mil (< 70.9 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "3V3_A",
+        "REF_RAW"
+      ],
+      "layer": 1,
+      "primitives": [
+        "97dc835a11016745",
+        "9c5e97a90dc1a665"
+      ],
+      "message": "parallel traces 50.0 mil apart over 49 mil (< 70.9 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "CH3_SUM",
+        "VBIAS"
+      ],
+      "layer": 1,
+      "primitives": [
+        "1cee4338b70ff849",
+        "c68f31b7696e2249"
+      ],
+      "message": "parallel traces 30.0 mil apart over 105 mil (< 47.2 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "3V3_A",
+        "VBIAS"
+      ],
+      "layer": 1,
+      "primitives": [
+        "1cee4338b70ff849",
+        "52b157c5c8eee15a"
+      ],
+      "message": "parallel traces 65.0 mil apart over 105 mil (< 70.9 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "CH3_SUM",
+        "VBIAS"
+      ],
+      "layer": 1,
+      "primitives": [
+        "05b703034b82b7b4",
+        "8e231861bb88b1a4"
+      ],
+      "message": "parallel traces 30.1 mil apart over 25 mil (< 47.2 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "3V3_A",
+        "VBIAS"
+      ],
+      "layer": 1,
+      "primitives": [
+        "05b703034b82b7b4",
+        "c3afa62c8cf95ebb"
+      ],
+      "message": "parallel traces 65.4 mil apart over 25 mil (< 70.9 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "3V3_A",
+        "CH1_SUM"
+      ],
+      "layer": 1,
+      "primitives": [
+        "3cb1a8091cadf85c",
+        "9c5e97a90dc1a665"
+      ],
+      "message": "parallel traces 50.0 mil apart over 49 mil (< 70.9 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "3V3_A",
+        "CH1_SUM"
+      ],
+      "layer": 1,
+      "primitives": [
+        "6fe7df41e874243d",
+        "d98cc97417a40cf1"
+      ],
+      "message": "parallel traces 38.9 mil apart over 24 mil (< 70.9 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "3V3_A",
+        "CH1_SUM"
+      ],
+      "layer": 1,
+      "primitives": [
+        "cd86345085ae02de",
+        "9022a123e34bcb4f"
+      ],
+      "message": "parallel traces 70.0 mil apart over 98 mil (< 70.9 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "3V3_A",
+        "CH3_SUM"
+      ],
+      "layer": 1,
+      "primitives": [
+        "c68f31b7696e2249",
+        "52b157c5c8eee15a"
+      ],
+      "message": "parallel traces 35.0 mil apart over 130 mil (< 70.9 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "3V3_A",
+        "CH3_SUM"
+      ],
+      "layer": 1,
+      "primitives": [
+        "8e231861bb88b1a4",
+        "b032ef4a3ac94567"
+      ],
+      "message": "parallel traces 63.6 mil apart over 79 mil (< 70.9 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "3V3_A",
+        "CH3_SUM"
+      ],
+      "layer": 1,
+      "primitives": [
+        "8e231861bb88b1a4",
+        "c3afa62c8cf95ebb"
+      ],
+      "message": "parallel traces 35.4 mil apart over 74 mil (< 70.9 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "3V3_A",
+        "CH1_ATT5"
+      ],
+      "layer": 1,
+      "primitives": [
+        "52aad430f9eac27c",
+        "0f70ab229b17e1da"
+      ],
+      "message": "parallel traces 53.1 mil apart over 320 mil (< 70.9 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "CH2_ATT1",
+        "CH2_ATT6"
+      ],
+      "layer": 1,
+      "primitives": [
+        "f03e39bc16c88cce",
+        "d373fd0d27054d37"
+      ],
+      "message": "parallel traces 34.4 mil apart over 65 mil (< 47.2 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "3V3_A",
+        "CH2_ATT3"
+      ],
+      "layer": 1,
+      "primitives": [
+        "9e4a8026cea2812a",
+        "f3bf379bce859127"
+      ],
+      "message": "parallel traces 40.0 mil apart over 142 mil (< 70.9 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "3V3_A",
+        "CH2_ATT5"
+      ],
+      "layer": 1,
+      "primitives": [
+        "4748377adb9ec8a2",
+        "53e62f077110ba8b"
+      ],
+      "message": "parallel traces 35.0 mil apart over 175 mil (< 70.9 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "3V3_A",
+        "CH2_ATT5"
+      ],
+      "layer": 1,
+      "primitives": [
+        "7c2cc2e2c30afabf",
+        "f3bf379bce859127"
+      ],
+      "message": "parallel traces 35.0 mil apart over 105 mil (< 70.9 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "3V3_A",
+        "PA1"
+      ],
+      "layer": 1,
+      "primitives": [
+        "0c0a57c9822d5c13",
+        "7841c43647a7eb9f"
+      ],
+      "message": "parallel traces 51.2 mil apart over 54 mil (< 70.9 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "parallel-coupling",
+      "level": "WARN",
+      "nets": [
+        "3V3_A",
+        "PC0"
+      ],
+      "layer": 1,
+      "primitives": [
+        "2537366346db4708",
+        "75ff23af58a9eb97"
+      ],
+      "message": "parallel traces 62.8 mil apart over 42 mil (< 70.9 mil = 3×W) — crosstalk/3W risk [规范 §4.2 减少串扰 — pcb-design-rules.md]"
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "C1",
+      "primitives": [
+        "b2b1b4fd4a0b678ee0"
+      ],
+      "message": "silk text package \"C0805\" overlaps pad C1.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1490,
+        "y": -2835.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "C2",
+      "primitives": [
+        "cf232b18f3b958e9e0"
+      ],
+      "message": "silk text package \"C0805\" overlaps pad C2.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1265,
+        "y": -2230.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "C2",
+      "primitives": [
+        "cf232b18f3b958e9e1"
+      ],
+      "message": "silk text Designator \"C2\" overlaps pad C2.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1265,
+        "y": -2230.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "C3",
+      "primitives": [
+        "6eac66c541e516a8e0"
+      ],
+      "message": "silk text package \"C0805\" overlaps pad C3.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1579.4,
+        "y": -3215
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "C3",
+      "primitives": [
+        "6eac66c541e516a8e1"
+      ],
+      "message": "silk text Designator \"C3\" overlaps pad C3.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1579.4,
+        "y": -3215
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "C4",
+      "primitives": [
+        "a44f539f8109ed8ce0"
+      ],
+      "message": "silk text package \"C0805\" overlaps pad C4.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1780,
+        "y": -2295.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "C5",
+      "primitives": [
+        "11a99b89f3164fbce0"
+      ],
+      "message": "silk text package \"C0805\" overlaps pad C5.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 655,
+        "y": -875.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "C5",
+      "primitives": [
+        "11a99b89f3164fbce1"
+      ],
+      "message": "silk text Designator \"C5\" overlaps pad C5.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 655,
+        "y": -875.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "C6",
+      "primitives": [
+        "77789bb259d9df66e0"
+      ],
+      "message": "silk text package \"C0805\" overlaps pad C6.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1115,
+        "y": -665.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "C7",
+      "primitives": [
+        "868569cd41b972b7e0"
+      ],
+      "message": "silk text package \"C0805\" overlaps pad C7.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1035,
+        "y": -1285.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "C8",
+      "primitives": [
+        "8f97d6456b10f8b6e0"
+      ],
+      "message": "silk text package \"C0805\" overlaps pad C8.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1155,
+        "y": -1655.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "C9",
+      "primitives": [
+        "8f97d6456b10f8b6e1"
+      ],
+      "message": "silk text Designator \"C8\" overlaps pad C9.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 954.4,
+        "y": -1550
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "C9",
+      "primitives": [
+        "45655b9f051b8794e0"
+      ],
+      "message": "silk text package \"C0805\" overlaps pad C9.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 954.4,
+        "y": -1550
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "D4",
+      "primitives": [
+        "ad1544cdf985436ce0"
+      ],
+      "message": "silk text package \"SOT23\" overlaps pad D4.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1942.4,
+        "y": -2663.7
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "D5",
+      "primitives": [
+        "1398d08409daf0e7e0"
+      ],
+      "message": "silk text package \"SOT23\" overlaps pad D5.3 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1650,
+        "y": -1793.7
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "C4",
+      "primitives": [
+        "0dac4831d2550510e0"
+      ],
+      "message": "silk text package \"SOT23\" overlaps pad C4.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1780,
+        "y": -2374.4
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "D8",
+      "primitives": [
+        "afa5f2eb77877e39e0"
+      ],
+      "message": "silk text package \"SOT23\" overlaps pad D8.3 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1361.3,
+        "y": -1415
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "D8",
+      "primitives": [
+        "afa5f2eb77877e39e1"
+      ],
+      "message": "silk text Designator \"D8\" overlaps pad D8.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1278.7,
+        "y": -1377.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "D9",
+      "primitives": [
+        "a762feee64631991e0"
+      ],
+      "message": "silk text package \"SOT23\" overlaps pad D9.3 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1335,
+        "y": -1168.7
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "FB1",
+      "primitives": [
+        "c92162944a318d7be0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad FB1.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 389.4,
+        "y": -1630
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "J1",
+      "primitives": [
+        "25ecc03ab8af11b3e0"
+      ],
+      "message": "silk text package \"HDR1X2\" overlaps pad J1.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1750,
+        "y": -2865
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "J1",
+      "primitives": [
+        "25ecc03ab8af11b3e1"
+      ],
+      "message": "silk text Designator \"J1\" overlaps pad J1.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1750,
+        "y": -2865
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "J3",
+      "primitives": [
+        "2102bf6cca6cb455e0"
+      ],
+      "message": "silk text package \"HDR1X2\" overlaps pad J3.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2070,
+        "y": -3090
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "J3",
+      "primitives": [
+        "2102bf6cca6cb455e1"
+      ],
+      "message": "silk text Designator \"J3\" overlaps pad J3.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2070,
+        "y": -3090
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "J4",
+      "primitives": [
+        "8c674fec0aa274aee0"
+      ],
+      "message": "silk text package \"HDR1X2\" overlaps pad J4.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2410,
+        "y": -2885
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "J5",
+      "primitives": [
+        "c279f28675b1ea75e0"
+      ],
+      "message": "silk text package \"HDR1X2\" overlaps pad J5.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 320,
+        "y": -810
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "J6",
+      "primitives": [
+        "d77e4baf62c36867e1"
+      ],
+      "message": "silk text Designator \"J6\" overlaps pad J6.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1985,
+        "y": -575
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "J7",
+      "primitives": [
+        "d198185de54f7340e0"
+      ],
+      "message": "silk text package \"HDR1X2\" overlaps pad J7.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 150,
+        "y": -1740
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "J7",
+      "primitives": [
+        "d198185de54f7340e1"
+      ],
+      "message": "silk text Designator \"J7\" overlaps pad J7.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 150,
+        "y": -1740
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "J9",
+      "primitives": [
+        "a5ebd07d6db032c3e9"
+      ],
+      "message": "silk text Designator \"J9\" overlaps pad J9.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1400,
+        "y": -2610
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R1",
+      "primitives": [
+        "82839869a974f1f5e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R1.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1519.4,
+        "y": -3020
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R1",
+      "primitives": [
+        "82839869a974f1f5e1"
+      ],
+      "message": "silk text Designator \"R1\" overlaps pad R1.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1440.6,
+        "y": -3020
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R4",
+      "primitives": [
+        "a0e86af9cf7c9a40e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R4.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 244.4,
+        "y": -2490
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R6",
+      "primitives": [
+        "0da714ef4c31996ae0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R6.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 220,
+        "y": -2870.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R7",
+      "primitives": [
+        "823e79bed1c137b7e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R7.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 575,
+        "y": -2905.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R7",
+      "primitives": [
+        "823e79bed1c137b7e1"
+      ],
+      "message": "silk text Designator \"R7\" overlaps pad R7.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 575,
+        "y": -2905.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R8",
+      "primitives": [
+        "58682bc2a5340e69e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R8.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 785,
+        "y": -2700.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R9",
+      "primitives": [
+        "aede456cc2b6e77be0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R9.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 849.4,
+        "y": -2605
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "D2",
+      "primitives": [
+        "c3ee709b5a858079e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad D2.3 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 976.3,
+        "y": -1945
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "D3",
+      "primitives": [
+        "c3ee709b5a858079e1"
+      ],
+      "message": "silk text Designator \"R10\" overlaps pad D3.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1067.6,
+        "y": -2286.3
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "C8",
+      "primitives": [
+        "dd17683fdf47f845e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad C8.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1155,
+        "y": -1734.4
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R11",
+      "primitives": [
+        "dd17683fdf47f845e1"
+      ],
+      "message": "silk text Designator \"R11\" overlaps pad R11.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1045.6,
+        "y": -1830
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R13",
+      "primitives": [
+        "ff632a7e60353701e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R13.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1959.4,
+        "y": -2970
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "J3",
+      "primitives": [
+        "ff632a7e60353701e1"
+      ],
+      "message": "silk text Designator \"R13\" overlaps pad J3.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2070,
+        "y": -3090
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R14",
+      "primitives": [
+        "3511b76adb8a0356e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R14.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2374.4,
+        "y": -2500
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R14",
+      "primitives": [
+        "3511b76adb8a0356e1"
+      ],
+      "message": "silk text Designator \"R14\" overlaps pad R14.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2374.4,
+        "y": -2500
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R15",
+      "primitives": [
+        "81e30e916b035d92e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R15.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2030,
+        "y": -1910.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R15",
+      "primitives": [
+        "81e30e916b035d92e1"
+      ],
+      "message": "silk text Designator \"R15\" overlaps pad R15.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2030,
+        "y": -1910.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R16",
+      "primitives": [
+        "03a0dbed4f7d9681e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R16.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2379.4,
+        "y": -1930
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R16",
+      "primitives": [
+        "4339d08e1e0dea3be0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R16.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2379.4,
+        "y": -1930
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R17",
+      "primitives": [
+        "4339d08e1e0dea3be1"
+      ],
+      "message": "silk text Designator \"R17\" overlaps pad R17.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2365,
+        "y": -2139.4
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R18",
+      "primitives": [
+        "cb931d2176c50ab3e1"
+      ],
+      "message": "silk text Designator \"R18\" overlaps pad R18.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2120,
+        "y": -2085.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R19",
+      "primitives": [
+        "bde509d487725104e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R19.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2074.4,
+        "y": -2285
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R19",
+      "primitives": [
+        "bde509d487725104e1"
+      ],
+      "message": "silk text Designator \"R19\" overlaps pad R19.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1995.6,
+        "y": -2285
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R20",
+      "primitives": [
+        "d18e1759bab07a27e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R20.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1895,
+        "y": -1930.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R21",
+      "primitives": [
+        "7943938c9d986142e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R21.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1850,
+        "y": -1615.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R21",
+      "primitives": [
+        "7943938c9d986142e1"
+      ],
+      "message": "silk text Designator \"R21\" overlaps pad R21.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1850,
+        "y": -1694.4
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R22",
+      "primitives": [
+        "94aa4b59265d6852e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R22.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1849.4,
+        "y": -1800
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R21",
+      "primitives": [
+        "13cbb235664a477ce0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R21.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1850,
+        "y": -1694.4
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R25",
+      "primitives": [
+        "7e27c39c0ac8419ce0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R25.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 504.4,
+        "y": -745
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R26",
+      "primitives": [
+        "9205d2ea597eabc5e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R26.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2049.4,
+        "y": -750
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R27",
+      "primitives": [
+        "18b5d75fe1bab7f9e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R27.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2284.4,
+        "y": -715
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R28",
+      "primitives": [
+        "4ae8f907657d2b4fe0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R28.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2425,
+        "y": -740.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R29",
+      "primitives": [
+        "5bdaaa42fc55d33fe1"
+      ],
+      "message": "silk text Designator \"R29\" overlaps pad R29.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2445,
+        "y": -1170.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R30",
+      "primitives": [
+        "1cf7f80afd3190f2e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R30.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2619.4,
+        "y": -1455
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R31",
+      "primitives": [
+        "81c529b163f44043e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R31.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2684.4,
+        "y": -1615
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R31",
+      "primitives": [
+        "81c529b163f44043e1"
+      ],
+      "message": "silk text Designator \"R31\" overlaps pad R31.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2605.6,
+        "y": -1615
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R32",
+      "primitives": [
+        "cba5bf9bdcd9b180e1"
+      ],
+      "message": "silk text Designator \"R32\" overlaps pad R32.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2384.4,
+        "y": -1720
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R32",
+      "primitives": [
+        "3ebdb296c219d4d3e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R32.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2384.4,
+        "y": -1720
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R32",
+      "primitives": [
+        "3ebdb296c219d4d3e1"
+      ],
+      "message": "silk text Designator \"R33\" overlaps pad R32.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 2305.6,
+        "y": -1720
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R34",
+      "primitives": [
+        "8db05fb0222d31efe0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R34.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1679.4,
+        "y": -1530
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R21",
+      "primitives": [
+        "8db05fb0222d31efe1"
+      ],
+      "message": "silk text Designator \"R34\" overlaps pad R21.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1850,
+        "y": -1615.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R35",
+      "primitives": [
+        "f3dd23d0dd26a487e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R35.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1674.4,
+        "y": -1430
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R36",
+      "primitives": [
+        "995437a20f638b7be0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R36.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1490,
+        "y": -1385.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R36",
+      "primitives": [
+        "995437a20f638b7be1"
+      ],
+      "message": "silk text Designator \"R36\" overlaps pad R36.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1490,
+        "y": -1385.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "C9",
+      "primitives": [
+        "53014db9e335ad85e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad C9.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 875.6,
+        "y": -1550
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R38",
+      "primitives": [
+        "14497e6e032f9557e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R38.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1050,
+        "y": -1560.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R38",
+      "primitives": [
+        "14497e6e032f9557e1"
+      ],
+      "message": "silk text Designator \"R38\" overlaps pad R38.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1050,
+        "y": -1560.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R39",
+      "primitives": [
+        "804caf3a679651e4e0"
+      ],
+      "message": "silk text package \"R0805\" overlaps pad R39.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1150,
+        "y": -1485.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R39",
+      "primitives": [
+        "804caf3a679651e4e1"
+      ],
+      "message": "silk text Designator \"R39\" overlaps pad R39.2 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1150,
+        "y": -1485.6
+      }
+    },
+    {
+      "type": "silk-over-pad",
+      "level": "WARN",
+      "layer": 3,
+      "designator": "R23",
+      "primitives": [
+        "cc77e6e605bb1b56e0"
+      ],
+      "message": "silk text package \"SOIC14\" overlaps pad R23.1 — fab clips silk on exposed copper; move it (`pcb silk-align` / `pcb silk-set`) [规范 §11.2 丝印不压焊盘 — pcb-design-rules.md]",
+      "at": {
+        "x": 1595.6,
+        "y": -1700
+      }
+    },
+    {
+      "type": "fiducial-missing",
+      "level": "INFO",
+      "message": "board has 139 top-layer pads (SMT-scale) but only 0 fiducial(s) (FID*/MARK*) — SMT wants ≥3 non-collinear 1mm marks (JLC panel rails add their own; local marks needed for fine-pitch) [规范 §9 Mark点设计 — pcb-design-rules.md]"
+    },
+    {
+      "type": "connector-plug-clearance",
+      "level": "WARN",
+      "designator": "J1",
+      "primitives": [
+        "25ecc03ab8af11b3",
+        "df8c1298de751ae8"
+      ],
+      "message": "J1 ↔ J11 center distance 6.60mm (260mil) < 6.84mm required by their plug envelopes (J1 6.34mm[fallback], J11 7.33mm[fallback]) — the receptacle footprints may clear, but the plugs/overmolds will collide [plug-width=fallback — no envelope table entry, estimated from the rendered bbox] [规范 §3.5 插头护套包络 ≠ 母座本体宽 — pcb-design-rules.md]",
+      "at": {
+        "x": 1735,
+        "y": -2977.5
+      }
+    }
+  ]
+}

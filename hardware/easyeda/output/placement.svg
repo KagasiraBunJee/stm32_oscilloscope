@@ -1,0 +1,260 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="980" viewBox="-2 -6 74 103">
+<rect x="0" y="0" width="70" height="90" fill="#16382e" stroke="black" stroke-width=".2"/>
+<g fill="white" font-family="sans-serif" font-size="1.6">
+<text x="0" y="-3">A0: 70 x 90 mm — PLACEMENT ONLY / UNROUTED</text>
+<circle cx="3.5" cy="3.5" r="1.6" fill="white" stroke="#bbb"/>
+<circle cx="66.5" cy="3.5" r="1.6" fill="white" stroke="#bbb"/>
+<circle cx="3.5" cy="86.5" r="1.6" fill="white" stroke="#bbb"/>
+<circle cx="66.5" cy="86.5" r="1.6" fill="white" stroke="#bbb"/>
+<text x="5" y="7.5">J1</text>
+<rect x="6.1" y="9.1" width="1.8" height="1.8" fill="#dcb66d"><title>J1:1 CH1_DIRECT</title></rect>
+<circle cx="7" cy="10.0" r="0.5" fill="#222"/>
+<rect x="6.1" y="11.639999999999999" width="1.8" height="1.8" fill="#dcb66d"><title>J1:2 GND</title></rect>
+<circle cx="7" cy="12.54" r="0.5" fill="#222"/>
+<text x="5" y="17.5">J2</text>
+<rect x="6.1" y="19.1" width="1.8" height="1.8" fill="#dcb66d"><title>J2:1 CH1_HIGH</title></rect>
+<circle cx="7" cy="20.0" r="0.5" fill="#222"/>
+<rect x="6.1" y="21.64" width="1.8" height="1.8" fill="#dcb66d"><title>J2:2 GND</title></rect>
+<circle cx="7" cy="22.54" r="0.5" fill="#222"/>
+<text x="13" y="7.5">R1</text>
+<rect x="13.4" y="9.3" width="1.2" height="1.4" fill="#dcb66d"><title>R1:1 CH1_DIRECT</title></rect>
+<rect x="15.4" y="9.3" width="1.2" height="1.4" fill="#dcb66d"><title>R1:2 PA1</title></rect>
+<text x="19" y="7.5">C1</text>
+<rect x="19.4" y="9.3" width="1.2" height="1.4" fill="#dcb66d"><title>C1:1 PA1</title></rect>
+<rect x="21.4" y="9.3" width="1.2" height="1.4" fill="#dcb66d"><title>C1:2 GND</title></rect>
+<text x="25" y="7.5">D1</text>
+<rect x="25.725" y="10.5" width="0.65" height="1.1" fill="#dcb66d"><title>D1:1 GND</title></rect>
+<rect x="27.625" y="10.5" width="0.65" height="1.1" fill="#dcb66d"><title>D1:2 3V3_A</title></rect>
+<rect x="26.675" y="8.399999999999999" width="0.65" height="1.1" fill="#dcb66d"><title>D1:3 PA1</title></rect>
+<text x="13" y="15.5">R2</text>
+<rect x="13.4" y="17.3" width="1.2" height="1.4" fill="#dcb66d"><title>R2:1 CH1_HIGH</title></rect>
+<rect x="15.4" y="17.3" width="1.2" height="1.4" fill="#dcb66d"><title>R2:2 CH1_ATT1</title></rect>
+<text x="19" y="15.5">R3</text>
+<rect x="19.4" y="17.3" width="1.2" height="1.4" fill="#dcb66d"><title>R3:1 CH1_ATT1</title></rect>
+<rect x="21.4" y="17.3" width="1.2" height="1.4" fill="#dcb66d"><title>R3:2 CH1_ATT2</title></rect>
+<text x="25" y="15.5">R4</text>
+<rect x="25.4" y="17.3" width="1.2" height="1.4" fill="#dcb66d"><title>R4:1 CH1_ATT2</title></rect>
+<rect x="27.4" y="17.3" width="1.2" height="1.4" fill="#dcb66d"><title>R4:2 CH1_ATT3</title></rect>
+<text x="31" y="15.5">R5</text>
+<rect x="31.4" y="17.3" width="1.2" height="1.4" fill="#dcb66d"><title>R5:1 CH1_ATT3</title></rect>
+<rect x="33.4" y="17.3" width="1.2" height="1.4" fill="#dcb66d"><title>R5:2 CH1_ATT4</title></rect>
+<text x="37" y="15.5">R6</text>
+<rect x="37.4" y="17.3" width="1.2" height="1.4" fill="#dcb66d"><title>R6:1 CH1_ATT4</title></rect>
+<rect x="39.4" y="17.3" width="1.2" height="1.4" fill="#dcb66d"><title>R6:2 CH1_ATT5</title></rect>
+<text x="13" y="20.5">R7</text>
+<rect x="13.4" y="22.3" width="1.2" height="1.4" fill="#dcb66d"><title>R7:1 CH1_ATT5</title></rect>
+<rect x="15.4" y="22.3" width="1.2" height="1.4" fill="#dcb66d"><title>R7:2 CH1_ATT6</title></rect>
+<text x="19" y="20.5">R8</text>
+<rect x="19.4" y="22.3" width="1.2" height="1.4" fill="#dcb66d"><title>R8:1 CH1_ATT6</title></rect>
+<rect x="21.4" y="22.3" width="1.2" height="1.4" fill="#dcb66d"><title>R8:2 CH1_ATT7</title></rect>
+<text x="25" y="20.5">R9</text>
+<rect x="25.4" y="22.3" width="1.2" height="1.4" fill="#dcb66d"><title>R9:1 CH1_ATT7</title></rect>
+<rect x="27.4" y="22.3" width="1.2" height="1.4" fill="#dcb66d"><title>R9:2 CH1_ATT8</title></rect>
+<text x="31" y="20.5">R10</text>
+<rect x="31.4" y="22.3" width="1.2" height="1.4" fill="#dcb66d"><title>R10:1 CH1_ATT8</title></rect>
+<rect x="33.4" y="22.3" width="1.2" height="1.4" fill="#dcb66d"><title>R10:2 CH1_SUM</title></rect>
+<text x="40" y="20.5">R11</text>
+<rect x="40.4" y="22.3" width="1.2" height="1.4" fill="#dcb66d"><title>R11:1 CH1_SUM</title></rect>
+<rect x="42.4" y="22.3" width="1.2" height="1.4" fill="#dcb66d"><title>R11:2 VBIAS</title></rect>
+<text x="41" y="14.5">D2</text>
+<rect x="41.724999999999994" y="17.5" width="0.65" height="1.1" fill="#dcb66d"><title>D2:1 GND</title></rect>
+<rect x="43.625" y="17.5" width="0.65" height="1.1" fill="#dcb66d"><title>D2:2 3V3_A</title></rect>
+<rect x="42.675" y="15.399999999999999" width="0.65" height="1.1" fill="#dcb66d"><title>D2:3 CH1_SUM</title></rect>
+<text x="55" y="8.5">R12</text>
+<rect x="55.4" y="10.3" width="1.2" height="1.4" fill="#dcb66d"><title>R12:1 CH1_BUF</title></rect>
+<rect x="57.4" y="10.3" width="1.2" height="1.4" fill="#dcb66d"><title>R12:2 PC0</title></rect>
+<text x="61" y="8.5">C2</text>
+<rect x="61.4" y="10.3" width="1.2" height="1.4" fill="#dcb66d"><title>C2:1 PC0</title></rect>
+<rect x="63.4" y="10.3" width="1.2" height="1.4" fill="#dcb66d"><title>C2:2 GND</title></rect>
+<text x="59" y="15.5">D3</text>
+<rect x="59.724999999999994" y="18.5" width="0.65" height="1.1" fill="#dcb66d"><title>D3:1 GND</title></rect>
+<rect x="61.625" y="18.5" width="0.65" height="1.1" fill="#dcb66d"><title>D3:2 3V3_A</title></rect>
+<rect x="60.675" y="16.4" width="0.65" height="1.1" fill="#dcb66d"><title>D3:3 PC0</title></rect>
+<text x="5" y="29.5">J3</text>
+<rect x="6.1" y="31.1" width="1.8" height="1.8" fill="#dcb66d"><title>J3:1 CH2_DIRECT</title></rect>
+<circle cx="7" cy="32.0" r="0.5" fill="#222"/>
+<rect x="6.1" y="33.64" width="1.8" height="1.8" fill="#dcb66d"><title>J3:2 GND</title></rect>
+<circle cx="7" cy="34.54" r="0.5" fill="#222"/>
+<text x="5" y="39.5">J4</text>
+<rect x="6.1" y="41.1" width="1.8" height="1.8" fill="#dcb66d"><title>J4:1 CH2_HIGH</title></rect>
+<circle cx="7" cy="42.0" r="0.5" fill="#222"/>
+<rect x="6.1" y="43.64" width="1.8" height="1.8" fill="#dcb66d"><title>J4:2 GND</title></rect>
+<circle cx="7" cy="44.54" r="0.5" fill="#222"/>
+<text x="13" y="29.5">R13</text>
+<rect x="13.4" y="31.3" width="1.2" height="1.4" fill="#dcb66d"><title>R13:1 CH2_DIRECT</title></rect>
+<rect x="15.4" y="31.3" width="1.2" height="1.4" fill="#dcb66d"><title>R13:2 PA2</title></rect>
+<text x="19" y="29.5">C3</text>
+<rect x="19.4" y="31.3" width="1.2" height="1.4" fill="#dcb66d"><title>C3:1 PA2</title></rect>
+<rect x="21.4" y="31.3" width="1.2" height="1.4" fill="#dcb66d"><title>C3:2 GND</title></rect>
+<text x="25" y="29.5">D4</text>
+<rect x="25.725" y="32.5" width="0.65" height="1.1" fill="#dcb66d"><title>D4:1 GND</title></rect>
+<rect x="27.625" y="32.5" width="0.65" height="1.1" fill="#dcb66d"><title>D4:2 3V3_A</title></rect>
+<rect x="26.675" y="30.4" width="0.65" height="1.1" fill="#dcb66d"><title>D4:3 PA2</title></rect>
+<text x="13" y="37.5">R14</text>
+<rect x="13.4" y="39.3" width="1.2" height="1.4" fill="#dcb66d"><title>R14:1 CH2_HIGH</title></rect>
+<rect x="15.4" y="39.3" width="1.2" height="1.4" fill="#dcb66d"><title>R14:2 CH2_ATT1</title></rect>
+<text x="19" y="37.5">R15</text>
+<rect x="19.4" y="39.3" width="1.2" height="1.4" fill="#dcb66d"><title>R15:1 CH2_ATT1</title></rect>
+<rect x="21.4" y="39.3" width="1.2" height="1.4" fill="#dcb66d"><title>R15:2 CH2_ATT2</title></rect>
+<text x="25" y="37.5">R16</text>
+<rect x="25.4" y="39.3" width="1.2" height="1.4" fill="#dcb66d"><title>R16:1 CH2_ATT2</title></rect>
+<rect x="27.4" y="39.3" width="1.2" height="1.4" fill="#dcb66d"><title>R16:2 CH2_ATT3</title></rect>
+<text x="31" y="37.5">R17</text>
+<rect x="31.4" y="39.3" width="1.2" height="1.4" fill="#dcb66d"><title>R17:1 CH2_ATT3</title></rect>
+<rect x="33.4" y="39.3" width="1.2" height="1.4" fill="#dcb66d"><title>R17:2 CH2_ATT4</title></rect>
+<text x="37" y="37.5">R18</text>
+<rect x="37.4" y="39.3" width="1.2" height="1.4" fill="#dcb66d"><title>R18:1 CH2_ATT4</title></rect>
+<rect x="39.4" y="39.3" width="1.2" height="1.4" fill="#dcb66d"><title>R18:2 CH2_ATT5</title></rect>
+<text x="13" y="42.5">R19</text>
+<rect x="13.4" y="44.3" width="1.2" height="1.4" fill="#dcb66d"><title>R19:1 CH2_ATT5</title></rect>
+<rect x="15.4" y="44.3" width="1.2" height="1.4" fill="#dcb66d"><title>R19:2 CH2_ATT6</title></rect>
+<text x="19" y="42.5">R20</text>
+<rect x="19.4" y="44.3" width="1.2" height="1.4" fill="#dcb66d"><title>R20:1 CH2_ATT6</title></rect>
+<rect x="21.4" y="44.3" width="1.2" height="1.4" fill="#dcb66d"><title>R20:2 CH2_ATT7</title></rect>
+<text x="25" y="42.5">R21</text>
+<rect x="25.4" y="44.3" width="1.2" height="1.4" fill="#dcb66d"><title>R21:1 CH2_ATT7</title></rect>
+<rect x="27.4" y="44.3" width="1.2" height="1.4" fill="#dcb66d"><title>R21:2 CH2_ATT8</title></rect>
+<text x="31" y="42.5">R22</text>
+<rect x="31.4" y="44.3" width="1.2" height="1.4" fill="#dcb66d"><title>R22:1 CH2_ATT8</title></rect>
+<rect x="33.4" y="44.3" width="1.2" height="1.4" fill="#dcb66d"><title>R22:2 CH2_SUM</title></rect>
+<text x="40" y="42.5">R23</text>
+<rect x="40.4" y="44.3" width="1.2" height="1.4" fill="#dcb66d"><title>R23:1 CH2_SUM</title></rect>
+<rect x="42.4" y="44.3" width="1.2" height="1.4" fill="#dcb66d"><title>R23:2 VBIAS</title></rect>
+<text x="41" y="36.5">D5</text>
+<rect x="41.724999999999994" y="39.5" width="0.65" height="1.1" fill="#dcb66d"><title>D5:1 GND</title></rect>
+<rect x="43.625" y="39.5" width="0.65" height="1.1" fill="#dcb66d"><title>D5:2 3V3_A</title></rect>
+<rect x="42.675" y="37.400000000000006" width="0.65" height="1.1" fill="#dcb66d"><title>D5:3 CH2_SUM</title></rect>
+<text x="55" y="30.5">R24</text>
+<rect x="55.4" y="32.3" width="1.2" height="1.4" fill="#dcb66d"><title>R24:1 CH2_BUF</title></rect>
+<rect x="57.4" y="32.3" width="1.2" height="1.4" fill="#dcb66d"><title>R24:2 PC1</title></rect>
+<text x="61" y="30.5">C4</text>
+<rect x="61.4" y="32.3" width="1.2" height="1.4" fill="#dcb66d"><title>C4:1 PC1</title></rect>
+<rect x="63.4" y="32.3" width="1.2" height="1.4" fill="#dcb66d"><title>C4:2 GND</title></rect>
+<text x="59" y="37.5">D6</text>
+<rect x="59.724999999999994" y="40.5" width="0.65" height="1.1" fill="#dcb66d"><title>D6:1 GND</title></rect>
+<rect x="61.625" y="40.5" width="0.65" height="1.1" fill="#dcb66d"><title>D6:2 3V3_A</title></rect>
+<rect x="60.675" y="38.400000000000006" width="0.65" height="1.1" fill="#dcb66d"><title>D6:3 PC1</title></rect>
+<text x="5" y="51.5">J5</text>
+<rect x="6.1" y="53.1" width="1.8" height="1.8" fill="#dcb66d"><title>J5:1 CH3_DIRECT</title></rect>
+<circle cx="7" cy="54.0" r="0.5" fill="#222"/>
+<rect x="6.1" y="55.64" width="1.8" height="1.8" fill="#dcb66d"><title>J5:2 GND</title></rect>
+<circle cx="7" cy="56.54" r="0.5" fill="#222"/>
+<text x="5" y="61.5">J6</text>
+<rect x="6.1" y="63.1" width="1.8" height="1.8" fill="#dcb66d"><title>J6:1 CH3_HIGH</title></rect>
+<circle cx="7" cy="64.0" r="0.5" fill="#222"/>
+<rect x="6.1" y="65.64" width="1.8" height="1.8" fill="#dcb66d"><title>J6:2 GND</title></rect>
+<circle cx="7" cy="66.54" r="0.5" fill="#222"/>
+<text x="13" y="51.5">R25</text>
+<rect x="13.4" y="53.3" width="1.2" height="1.4" fill="#dcb66d"><title>R25:1 CH3_DIRECT</title></rect>
+<rect x="15.4" y="53.3" width="1.2" height="1.4" fill="#dcb66d"><title>R25:2 PA3</title></rect>
+<text x="19" y="51.5">C5</text>
+<rect x="19.4" y="53.3" width="1.2" height="1.4" fill="#dcb66d"><title>C5:1 PA3</title></rect>
+<rect x="21.4" y="53.3" width="1.2" height="1.4" fill="#dcb66d"><title>C5:2 GND</title></rect>
+<text x="25" y="51.5">D7</text>
+<rect x="25.725" y="54.5" width="0.65" height="1.1" fill="#dcb66d"><title>D7:1 GND</title></rect>
+<rect x="27.625" y="54.5" width="0.65" height="1.1" fill="#dcb66d"><title>D7:2 3V3_A</title></rect>
+<rect x="26.675" y="52.400000000000006" width="0.65" height="1.1" fill="#dcb66d"><title>D7:3 PA3</title></rect>
+<text x="13" y="59.5">R26</text>
+<rect x="13.4" y="61.3" width="1.2" height="1.4" fill="#dcb66d"><title>R26:1 CH3_HIGH</title></rect>
+<rect x="15.4" y="61.3" width="1.2" height="1.4" fill="#dcb66d"><title>R26:2 CH3_ATT1</title></rect>
+<text x="19" y="59.5">R27</text>
+<rect x="19.4" y="61.3" width="1.2" height="1.4" fill="#dcb66d"><title>R27:1 CH3_ATT1</title></rect>
+<rect x="21.4" y="61.3" width="1.2" height="1.4" fill="#dcb66d"><title>R27:2 CH3_ATT2</title></rect>
+<text x="25" y="59.5">R28</text>
+<rect x="25.4" y="61.3" width="1.2" height="1.4" fill="#dcb66d"><title>R28:1 CH3_ATT2</title></rect>
+<rect x="27.4" y="61.3" width="1.2" height="1.4" fill="#dcb66d"><title>R28:2 CH3_ATT3</title></rect>
+<text x="31" y="59.5">R29</text>
+<rect x="31.4" y="61.3" width="1.2" height="1.4" fill="#dcb66d"><title>R29:1 CH3_ATT3</title></rect>
+<rect x="33.4" y="61.3" width="1.2" height="1.4" fill="#dcb66d"><title>R29:2 CH3_ATT4</title></rect>
+<text x="37" y="59.5">R30</text>
+<rect x="37.4" y="61.3" width="1.2" height="1.4" fill="#dcb66d"><title>R30:1 CH3_ATT4</title></rect>
+<rect x="39.4" y="61.3" width="1.2" height="1.4" fill="#dcb66d"><title>R30:2 CH3_ATT5</title></rect>
+<text x="13" y="64.5">R31</text>
+<rect x="13.4" y="66.3" width="1.2" height="1.4" fill="#dcb66d"><title>R31:1 CH3_ATT5</title></rect>
+<rect x="15.4" y="66.3" width="1.2" height="1.4" fill="#dcb66d"><title>R31:2 CH3_ATT6</title></rect>
+<text x="19" y="64.5">R32</text>
+<rect x="19.4" y="66.3" width="1.2" height="1.4" fill="#dcb66d"><title>R32:1 CH3_ATT6</title></rect>
+<rect x="21.4" y="66.3" width="1.2" height="1.4" fill="#dcb66d"><title>R32:2 CH3_ATT7</title></rect>
+<text x="25" y="64.5">R33</text>
+<rect x="25.4" y="66.3" width="1.2" height="1.4" fill="#dcb66d"><title>R33:1 CH3_ATT7</title></rect>
+<rect x="27.4" y="66.3" width="1.2" height="1.4" fill="#dcb66d"><title>R33:2 CH3_ATT8</title></rect>
+<text x="31" y="64.5">R34</text>
+<rect x="31.4" y="66.3" width="1.2" height="1.4" fill="#dcb66d"><title>R34:1 CH3_ATT8</title></rect>
+<rect x="33.4" y="66.3" width="1.2" height="1.4" fill="#dcb66d"><title>R34:2 CH3_SUM</title></rect>
+<text x="40" y="64.5">R35</text>
+<rect x="40.4" y="66.3" width="1.2" height="1.4" fill="#dcb66d"><title>R35:1 CH3_SUM</title></rect>
+<rect x="42.4" y="66.3" width="1.2" height="1.4" fill="#dcb66d"><title>R35:2 VBIAS</title></rect>
+<text x="41" y="58.5">D8</text>
+<rect x="41.724999999999994" y="61.5" width="0.65" height="1.1" fill="#dcb66d"><title>D8:1 GND</title></rect>
+<rect x="43.625" y="61.5" width="0.65" height="1.1" fill="#dcb66d"><title>D8:2 3V3_A</title></rect>
+<rect x="42.675" y="59.400000000000006" width="0.65" height="1.1" fill="#dcb66d"><title>D8:3 CH3_SUM</title></rect>
+<text x="55" y="52.5">R36</text>
+<rect x="55.4" y="54.3" width="1.2" height="1.4" fill="#dcb66d"><title>R36:1 CH3_BUF</title></rect>
+<rect x="57.4" y="54.3" width="1.2" height="1.4" fill="#dcb66d"><title>R36:2 PC2</title></rect>
+<text x="61" y="52.5">C6</text>
+<rect x="61.4" y="54.3" width="1.2" height="1.4" fill="#dcb66d"><title>C6:1 PC2</title></rect>
+<rect x="63.4" y="54.3" width="1.2" height="1.4" fill="#dcb66d"><title>C6:2 GND</title></rect>
+<text x="59" y="59.5">D9</text>
+<rect x="59.724999999999994" y="62.5" width="0.65" height="1.1" fill="#dcb66d"><title>D9:1 GND</title></rect>
+<rect x="61.625" y="62.5" width="0.65" height="1.1" fill="#dcb66d"><title>D9:2 3V3_A</title></rect>
+<rect x="60.675" y="60.400000000000006" width="0.65" height="1.1" fill="#dcb66d"><title>D9:3 PC2</title></rect>
+<text x="6" y="76.5">J7</text>
+<rect x="7.1" y="78.1" width="1.8" height="1.8" fill="#dcb66d"><title>J7:1 3V3_IN</title></rect>
+<circle cx="8" cy="79.0" r="0.5" fill="#222"/>
+<rect x="7.1" y="80.64" width="1.8" height="1.8" fill="#dcb66d"><title>J7:2 GND</title></rect>
+<circle cx="8" cy="81.54" r="0.5" fill="#222"/>
+<text x="58" y="71.42">J8</text>
+<rect x="59.1" y="73.02" width="1.8" height="1.8" fill="#dcb66d"><title>J8:1 PA1</title></rect>
+<circle cx="60.0" cy="73.92" r="0.5" fill="#222"/>
+<rect x="61.64" y="73.02" width="1.8" height="1.8" fill="#dcb66d"><title>J8:2 PC0</title></rect>
+<circle cx="62.54" cy="73.92" r="0.5" fill="#222"/>
+<rect x="59.1" y="75.56" width="1.8" height="1.8" fill="#dcb66d"><title>J8:3 PA2</title></rect>
+<circle cx="60.0" cy="76.46000000000001" r="0.5" fill="#222"/>
+<rect x="61.64" y="75.56" width="1.8" height="1.8" fill="#dcb66d"><title>J8:4 PC1</title></rect>
+<circle cx="62.54" cy="76.46000000000001" r="0.5" fill="#222"/>
+<rect x="59.1" y="78.1" width="1.8" height="1.8" fill="#dcb66d"><title>J8:5 PA3</title></rect>
+<circle cx="60.0" cy="79.0" r="0.5" fill="#222"/>
+<rect x="61.64" y="78.1" width="1.8" height="1.8" fill="#dcb66d"><title>J8:6 PC2</title></rect>
+<circle cx="62.54" cy="79.0" r="0.5" fill="#222"/>
+<rect x="59.1" y="80.64" width="1.8" height="1.8" fill="#dcb66d"><title>J8:7 GND</title></rect>
+<circle cx="60.0" cy="81.54" r="0.5" fill="#222"/>
+<rect x="61.64" y="80.64" width="1.8" height="1.8" fill="#dcb66d"><title>J8:8 GND</title></rect>
+<circle cx="62.54" cy="81.54" r="0.5" fill="#222"/>
+<text x="13" y="76.5">FB1</text>
+<rect x="13.4" y="78.3" width="1.2" height="1.4" fill="#dcb66d"><title>FB1:1 3V3_IN</title></rect>
+<rect x="15.4" y="78.3" width="1.2" height="1.4" fill="#dcb66d"><title>FB1:2 3V3_A</title></rect>
+<text x="19" y="76.5">C7</text>
+<rect x="19.4" y="78.3" width="1.2" height="1.4" fill="#dcb66d"><title>C7:1 3V3_A</title></rect>
+<rect x="21.4" y="78.3" width="1.2" height="1.4" fill="#dcb66d"><title>C7:2 GND</title></rect>
+<text x="48" y="35.5">C8</text>
+<rect x="48.4" y="37.3" width="1.2" height="1.4" fill="#dcb66d"><title>C8:1 3V3_A</title></rect>
+<rect x="50.4" y="37.3" width="1.2" height="1.4" fill="#dcb66d"><title>C8:2 GND</title></rect>
+<text x="26" y="75.5">R37</text>
+<rect x="26.4" y="77.3" width="1.2" height="1.4" fill="#dcb66d"><title>R37:1 3V3_A</title></rect>
+<rect x="28.4" y="77.3" width="1.2" height="1.4" fill="#dcb66d"><title>R37:2 REF_MID</title></rect>
+<text x="32" y="75.5">R38</text>
+<rect x="32.4" y="77.3" width="1.2" height="1.4" fill="#dcb66d"><title>R38:1 REF_MID</title></rect>
+<rect x="34.4" y="77.3" width="1.2" height="1.4" fill="#dcb66d"><title>R38:2 REF_RAW</title></rect>
+<text x="38" y="75.5">R39</text>
+<rect x="38.4" y="77.3" width="1.2" height="1.4" fill="#dcb66d"><title>R39:1 REF_RAW</title></rect>
+<rect x="40.4" y="77.3" width="1.2" height="1.4" fill="#dcb66d"><title>R39:2 GND</title></rect>
+<text x="44" y="75.5">C9</text>
+<rect x="44.4" y="77.3" width="1.2" height="1.4" fill="#dcb66d"><title>C9:1 REF_RAW</title></rect>
+<rect x="46.4" y="77.3" width="1.2" height="1.4" fill="#dcb66d"><title>C9:2 GND</title></rect>
+<text x="49" y="43.5">U1</text>
+<rect x="47.4" y="41.89" width="1.8" height="0.6" fill="#dcb66d"><title>U1:1 VBIAS</title></rect>
+<rect x="47.4" y="43.160000000000004" width="1.8" height="0.6" fill="#dcb66d"><title>U1:2 VBIAS</title></rect>
+<rect x="47.4" y="44.43" width="1.8" height="0.6" fill="#dcb66d"><title>U1:3 REF_RAW</title></rect>
+<rect x="47.4" y="45.7" width="1.8" height="0.6" fill="#dcb66d"><title>U1:4 3V3_A</title></rect>
+<rect x="47.4" y="46.970000000000006" width="1.8" height="0.6" fill="#dcb66d"><title>U1:5 CH1_SUM</title></rect>
+<rect x="47.4" y="48.24" width="1.8" height="0.6" fill="#dcb66d"><title>U1:6 CH1_BUF</title></rect>
+<rect x="47.4" y="49.510000000000005" width="1.8" height="0.6" fill="#dcb66d"><title>U1:7 CH1_BUF</title></rect>
+<rect x="52.800000000000004" y="41.89" width="1.8" height="0.6" fill="#dcb66d"><title>U1:14 CH3_BUF</title></rect>
+<rect x="52.800000000000004" y="43.160000000000004" width="1.8" height="0.6" fill="#dcb66d"><title>U1:13 CH3_BUF</title></rect>
+<rect x="52.800000000000004" y="44.43" width="1.8" height="0.6" fill="#dcb66d"><title>U1:12 CH3_SUM</title></rect>
+<rect x="52.800000000000004" y="45.7" width="1.8" height="0.6" fill="#dcb66d"><title>U1:11 GND</title></rect>
+<rect x="52.800000000000004" y="46.970000000000006" width="1.8" height="0.6" fill="#dcb66d"><title>U1:10 CH2_SUM</title></rect>
+<rect x="52.800000000000004" y="48.24" width="1.8" height="0.6" fill="#dcb66d"><title>U1:9 CH2_BUF</title></rect>
+<rect x="52.800000000000004" y="49.510000000000005" width="1.8" height="0.6" fill="#dcb66d"><title>U1:8 CH2_BUF</title></rect>
+<text x="0" y="94" fill="black">Draft footprints. No copper routes. Not a fabrication preview.</text>
+</g></svg>

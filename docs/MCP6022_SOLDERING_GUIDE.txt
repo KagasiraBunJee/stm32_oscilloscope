@@ -1,0 +1,111 @@
+MCP6022-I/SN TWO-CHANNEL INTERCOM MEASUREMENT BUFFER
+Assembly guide - 2026-10-26; revised for four 1N4148 diodes
+
+PURPOSE AND LIMITS
+Proposed bench prototype for positive 0-15 V measurements on the ML-20HD monitor-side wiring. It is not isolated, mains-rated, surge-qualified, or a complete Raspberry Pi intercom interface. No physical build or transient/bandwidth validation has been performed. It reduces the oscilloscope's loading of the audio line; it does not amplify audio or drive a speaker.
+CH1 = white audio/control -> PC0. CH3 = red panel supply -> PC2.
+Supply = STM32 3.3 V, never panel red. Common ground = STM32 GND and ML-20HD black; never assume the building adapter LN- is ground.
+Keep intercom disconnected throughout assembly and bench tests. Power off before soldering or altering wiring. Disconnect applied input voltages before removing buffer power.
+
+PARTS (TWO CHANNELS)
+1 MCP6022-I/SN, SOIC-8
+1 SOIC-8 to DIP-8 adapter with headers
+4 1N4148 signal diodes, two per channel
+2 each: 1 Mohm, 33 kohm, 1 kohm, 220 kohm, 100 ohm resistors, 1%
+1 100 nF ceramic supply capacitor; a second is a spare
+1 1 uF supply capacitor, electrolytic 6.3 V or higher is suitable
+2 1 nF ceramic ADC capacitors
+Prototyping board with isolated pads, wire, terminals, solder, flux, solder wick, multimeter, magnification.
+This revision uses discrete 1N4148 silicon diodes. Their striped end is the cathode. They clamp less tightly than BAS70 Schottky diodes; this is a bench prototype, not equivalent surge-qualified protection.
+
+PINOUT: TOP VIEW OF MCP6022 CHIP
+Pin-1 dot/notch end at the top; 1 and 8 are at the top corners.
+
+             MCP6022
+          +---- U ----+
+ OUT A  1 |           | 8  3.3 V
+  - A   2 |           | 7  OUT B
+  + A   3 |           | 6  - B
+  GND   4 |           | 5  + B
+          +-----------+
+
+The underside is mirrored. Identify adapter pads by continuity to actual chip legs, not by assuming header orientation. A dot near a corner normally marks pin 1; a circular molding mark elsewhere may not. Check the package drawing if uncertain.
+
+ASSEMBLY ORDER
+1. Solder the unpowered chip to its adapter. Align pin 1, tack one corner, inspect alignment, then solder the opposite corner and remaining legs. Use flux, inspect for bridges, and remove excess solder with wick. Fit headers. Clean flux residue using a product appropriate for the flux and let the board dry. Leakage at the high-resistance input nodes affects measurements.
+2. Create GND and 3V3 buses. All GND points below are electrically common.
+3. Pin 8 -> 3V3. Pin 4 -> GND.
+4. Solder 100 nF ceramic directly across the local pin-8/pin-4 supply connections with short leads. It has no polarity.
+5. Solder 1 uF in parallel: positive to 3V3, negative/striped lead to GND. The two capacitors share the same two nets. They are not in series.
+6. Short pin 1 to pin 2. Short pin 7 to pin 6. Keep feedback wires short. Do not short outputs to non-inverting inputs 3/5.
+7. Build WHITE input: WHITE_IN -> 1 Mohm -> 33 kohm -> 1 kohm -> node A. Connect 220 kohm from node A to GND. Connect node A to pin 3. No wire bypasses any series resistor.
+8. Build RED input identically: RED_IN -> 1 Mohm -> 33 kohm -> 1 kohm -> node B. Connect 220 kohm from node B to GND. Connect node B to pin 5.
+9. Add two 1N4148 diodes to each node (four total). At node A: D1 unstriped end/anode -> GND, striped end/cathode -> node A; D2 unstriped end/anode -> node A, striped end/cathode -> 3V3. At node B: D3 unstriped end/anode -> GND, striped end/cathode -> node B; D4 unstriped end/anode -> node B, striped end/cathode -> 3V3. These are parallel branches at the divider nodes, not series elements in the signal wires. Keep the full input resistor chains in place. The stripes on D2 and D4 face 3V3; the stripes on D1 and D3 face the input nodes.
+10. Output A: MCP pin 1 -> 100 ohm -> OUT_WHITE terminal. Add 1 nF from OUT_WHITE to GND, near the eventual PC0 connection.
+11. Output B: MCP pin 7 -> 100 ohm -> OUT_RED terminal. Add 1 nF from OUT_RED to GND, near the eventual PC2 connection.
+12. Keep the input divider nodes and feedback wiring short. Keep the high-value input nodes away from SD/display wiring. Do not put a 100 nF or 1 uF capacitor from node A/B to ground: this would strongly attenuate voice. Only the stated 220 kohm resistor, clamp, and op-amp input connect to each node.
+
+ONE CHANNEL, REPEATED TWICE
+
+IN -- 1M -- 33k -- 1k --+---- op-amp + input
+                        |
+                       220k
+                        |
+                       GND
+
+At each divider junction add two 1N4148 clamps:
+GND -> diode anode; diode cathode/STRIPE -> junction.
+Junction -> second diode anode; second diode cathode/STRIPE -> 3V3.
+Op-amp OUT is shorted to its - input before the 100 ohm resistor.
+Op-amp OUT -- 100 ohm -- OUT_TO_ADC
+                              |
+                             1 nF
+                              |
+                             GND
+
+UNPOWERED CHECKS
+Leave intercom and ADC signal connections disconnected. Inspect every joint, resistor value and capacitor polarity. Check continuity of pin1-pin2 and pin7-pin6. Check all GND connections. Check there is no sustained near-zero resistance between 3V3 and GND; a short initial beep can be capacitor charging. Test diode polarity with the meter if needed. Never use resistance/diode/continuity mode on a powered circuit.
+
+POWERED BENCH TEST - NO INTERCOM OR ADC SIGNAL CONNECTIONS
+Connect STM32 GND to buffer GND and STM32 3.3 V to 3V3. Verify pin8 relative to pin4 is about +3.3 V. If polarity is wrong, supply collapses, or chip warms, disconnect and inspect.
+Temporarily connect WHITE_IN and RED_IN to GND. Outputs should be near ground; tens of mV near the output rail can occur. Then test one channel at a time with a known DC source sharing GND. The source connects to IN, never directly to pins3/5.
+
+Input V       Expected output V (nominal)
+0             near 0
+1.5           0.263
+3.3           0.579
+5.0           0.877
+12.0          2.105
+13.6          2.386
+15.0          2.632
+
+Vout = Vin / 5.7. Measure both actual input and output with the multimeter. A repeatable error greater than about 5% away from zero should be investigated before continuing. Test both channels independently. Do not intentionally test negative voltage or overload clamping with the intercom. Verify outputs stay below 3.3 V for all intended normal inputs. DC tests alone do not prove absence of oscillation or correct audio frequency response.
+
+CONNECTING TO THE EXISTING OSCILLOSCOPE
+Only after bench checks, power off all equipment and disconnect all intercom signals. Document the original divider wiring first.
+Remove both original 47 kohm/10 kohm divider networks associated with PC0 and PC2. Their input wires must no longer connect to the intercom. Do not retain the old 10 kohm shunt on those ADC nodes or feed the new outputs into the original 47 kohm resistors. Leave PC1/CH2 unchanged.
+OUT_WHITE (after its 100 ohm) -> PC0, CH1.
+OUT_RED (after its 100 ohm) -> PC2, CH3.
+Buffer GND -> STM32 GND.
+Repeat known-voltage tests and compare multimeter, on-screen voltage, and a saved file. The nominal x5.7 conversion matches existing firmware, so no nominal multiplier change is required; calibrate actual assembled channels. Do not assume the screen is correct until this test passes.
+
+FINAL ML-20HD CONNECTIONS
+Power off before attaching wiring. Existing monitor and panel connections remain intact.
+ML-20HD black -> shared measurement GND.
+ML-20HD white -> WHITE_IN resistor chain.
+ML-20HD red -> RED_IN resistor chain, not the buffer supply.
+Yellow is not connected to this board.
+Power the scope/buffer before enabling the intercom signals; disconnect intercom signals before powering the scope down. Keep this prototype away from mains wiring.
+Compare white-to-black multimeter voltage with and without the new input connected in exactly the same operating state. Loading should be much smaller than the previous 4.81 -> 2.64 V change. With a simple ~47 kohm source model, 1.254 Mohm loading predicts about 4.64 V from an unloaded 4.81 V; this is an estimate, not a required exact result. Investigate a large drop rather than compensating it in firmware.
+Make a short simultaneous CH1/CH3 recording and compare against multimeter readings. Validate startup/shutdown behaviour and transient response before relying on further unlock testing. The clamps limit small input excursions; they are not a certified surge protector.
+
+DESIGN NOTES
+Top resistor total = 1,034,000 ohm. Bottom = 220,000 ohm.
+Input resistance = 1,254,000 ohm; nominal attenuation = 5.7.
+This is DC-coupled to retain call/unlock levels and audio together. It does not increase audio sensitivity, provide galvanic isolation, or include a sharp anti-alias filter.
+
+REFERENCES
+Microchip MCP6022 pinout, power, bypassing and capacitive load guidance:
+https://ww1.microchip.com/downloads/en/DeviceDoc/20001685E.pdf
+Nexperia/NXP 1N4148 specifications:
+https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf

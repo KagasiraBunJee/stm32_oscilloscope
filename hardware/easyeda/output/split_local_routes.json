@@ -1,0 +1,112 @@
+{
+  "routes": [
+    {
+      "net": "PA1",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1840,
+      "startY": -1265,
+      "endX": 1850.6,
+      "endY": -1275.6
+    },
+    {
+      "net": "PA1",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1850.6,
+      "startY": -1275.6,
+      "endX": 1970,
+      "endY": -1275.6
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1840,
+      "startY": -1365,
+      "endX": 1850.6,
+      "endY": -1354.4
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1850.6,
+      "startY": -1354.4,
+      "endX": 1970,
+      "endY": -1354.4
+    },
+    {
+      "net": "PC0",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1695,
+      "startY": -2950,
+      "endX": 1703.6999999999998,
+      "endY": -2958.7
+    },
+    {
+      "net": "PC0",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1703.6999999999998,
+      "startY": -2958.7,
+      "endX": 1845,
+      "endY": -2958.7
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1695,
+      "startY": -3050,
+      "endX": 1703.6999999999998,
+      "endY": -3041.3
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1703.6999999999998,
+      "startY": -3041.3,
+      "endX": 1807.6,
+      "endY": -3041.3
+    },
+    {
+      "net": "PC1",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 2030,
+      "startY": -2235,
+      "endX": 2019.4,
+      "endY": -2224.4
+    },
+    {
+      "net": "PC1",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 2019.4,
+      "startY": -2224.4,
+      "endX": 1900,
+      "endY": -2224.4
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2030,
+      "startY": -2135,
+      "endX": 2019.4,
+      "endY": -2145.6
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2019.4,
+      "startY": -2145.6,
+      "endX": 1900,
+      "endY": -2145.6
+    }
+  ]
+}

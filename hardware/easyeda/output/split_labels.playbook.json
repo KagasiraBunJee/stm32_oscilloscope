@@ -1,0 +1,410 @@
+{
+  "version": 1,
+  "meta": {
+    "project": "58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c",
+    "doc": "52caa9452ee66dee",
+    "name": "Label distributed STM32 terminals"
+  },
+  "defaults": {
+    "retry": 0,
+    "continueOnError": false
+  },
+  "steps": [
+    {
+      "id": "target0",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label0",
+      "action": "pcb.silk.add",
+      "payload": {
+        "layer": 3,
+        "text": "GND",
+        "x": 1800,
+        "y": -1475,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "target1",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label1",
+      "action": "pcb.silk.set",
+      "payload": {
+        "primitiveIds": [
+          "a51dd1ccf4c661f3"
+        ],
+        "text": "PA1",
+        "x": 1800,
+        "y": -1195,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "target2",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label2",
+      "action": "pcb.silk.add",
+      "payload": {
+        "layer": 3,
+        "text": "GND",
+        "x": 1655,
+        "y": -3160,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "target3",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label3",
+      "action": "pcb.silk.add",
+      "payload": {
+        "layer": 3,
+        "text": "PC0",
+        "x": 1655,
+        "y": -2880,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "target4",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label4",
+      "action": "pcb.silk.add",
+      "payload": {
+        "layer": 3,
+        "text": "GND",
+        "x": 995,
+        "y": -2150,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "target5",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label5",
+      "action": "pcb.silk.add",
+      "payload": {
+        "layer": 3,
+        "text": "PA2",
+        "x": 895,
+        "y": -2360,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "target6",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label6",
+      "action": "pcb.silk.add",
+      "payload": {
+        "layer": 3,
+        "text": "GND",
+        "x": 1990,
+        "y": -2065,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "target7",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label7",
+      "action": "pcb.silk.add",
+      "payload": {
+        "layer": 3,
+        "text": "PC1",
+        "x": 1990,
+        "y": -2345,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "target8",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label8",
+      "action": "pcb.silk.add",
+      "payload": {
+        "layer": 3,
+        "text": "GND",
+        "x": 1395,
+        "y": -3240,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "target9",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label9",
+      "action": "pcb.silk.add",
+      "payload": {
+        "layer": 3,
+        "text": "PA3",
+        "x": 1295,
+        "y": -3430,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "target10",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label10",
+      "action": "pcb.silk.add",
+      "payload": {
+        "layer": 3,
+        "text": "GND",
+        "x": 2350,
+        "y": -2150,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "target11",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label11",
+      "action": "pcb.silk.add",
+      "payload": {
+        "layer": 3,
+        "text": "PC2",
+        "x": 2350,
+        "y": -1870,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "target12",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label12",
+      "action": "pcb.silk.set",
+      "payload": {
+        "primitiveIds": [
+          "951eb9406107a896e9"
+        ],
+        "text": "J9",
+        "x": 1720,
+        "y": -1335,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "target13",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label13",
+      "action": "pcb.silk.set",
+      "payload": {
+        "primitiveIds": [
+          "d623ad2cf0ee0455e9"
+        ],
+        "text": "J10",
+        "x": 1555,
+        "y": -3020,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "target14",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label14",
+      "action": "pcb.silk.set",
+      "payload": {
+        "primitiveIds": [
+          "2d7d49ff8d1d5d69e9"
+        ],
+        "text": "J11",
+        "x": 1105,
+        "y": -2260,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "target15",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label15",
+      "action": "pcb.silk.set",
+      "payload": {
+        "primitiveIds": [
+          "1c271fbb3e47c4b9e9"
+        ],
+        "text": "J12",
+        "x": 2100,
+        "y": -2205,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "target16",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label16",
+      "action": "pcb.silk.set",
+      "payload": {
+        "primitiveIds": [
+          "1f07f48d6d21c795e9"
+        ],
+        "text": "J13",
+        "x": 1505,
+        "y": -3380,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "target17",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "label17",
+      "action": "pcb.silk.set",
+      "payload": {
+        "primitiveIds": [
+          "e209eefa02aacb06e9"
+        ],
+        "text": "J14",
+        "x": 2250,
+        "y": -2010,
+        "fontSize": 36,
+        "lineWidth": 6,
+        "rotation": 0
+      }
+    },
+    {
+      "id": "save",
+      "action": "pcb.save"
+    }
+  ]
+}

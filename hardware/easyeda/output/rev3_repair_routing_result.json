@@ -1,0 +1,5562 @@
+{
+  "status": "partial",
+  "operation": "all",
+  "rules": {
+    "default": {
+      "clearanceMm": 0.3,
+      "edgeClearanceMm": 0.75,
+      "minTrackWidthMm": 0.3,
+      "preferredTrackWidthMm": 0.4,
+      "via": {
+        "minDiameterMm": 0.6,
+        "preferredDiameterMm": 0.6,
+        "minDrillMm": 0.3,
+        "preferredDrillMm": 0.3
+      },
+      "allowedLayers": [
+        "TOP"
+      ]
+    },
+    "nets": [
+      {
+        "net": "3V3_A",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.6,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "3V3_IN",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT3",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT4",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT5",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT6",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT7",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT8",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_BUF",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_DIRECT",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_HIGH",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_SUM",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT3",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT4",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT5",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT6",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT7",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT8",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_BUF",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_DIRECT",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_HIGH",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_SUM",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT3",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT4",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT5",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT6",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT7",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT8",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_BUF",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_DIRECT",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_HIGH",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_SUM",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "GND",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PA1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PA2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PA3",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PC0",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PC1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PC2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "REF_MID",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "REF_RAW",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "VBIAS",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      }
+    ]
+  },
+  "clearRouting": {
+    "tracks": [
+      "3V3_A",
+      "PC1",
+      "VBIAS",
+      "CH2_SUM",
+      "CH3_SUM"
+    ]
+  },
+  "copper": {
+    "tracks": [
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 37.9571,
+            "y": 50.4191
+          },
+          {
+            "x": 38,
+            "y": 50.4
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 38,
+            "y": 50.4
+          },
+          {
+            "x": 44,
+            "y": 56.4
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 44,
+            "y": 56.4
+          },
+          {
+            "x": 44,
+            "y": 60.1
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 44,
+            "y": 60.1
+          },
+          {
+            "x": 54,
+            "y": 70.1
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 54,
+            "y": 70.1
+          },
+          {
+            "x": 61.5,
+            "y": 70.1
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 65.1,
+            "y": 57.4
+          },
+          {
+            "x": 51.6,
+            "y": 43.9
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 51.6,
+            "y": 43.9
+          },
+          {
+            "x": 50.5,
+            "y": 43.9
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 49.1,
+            "y": 42
+          },
+          {
+            "x": 49.1151,
+            "y": 42.0371
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 40.4,
+            "y": 52.8
+          },
+          {
+            "x": 38.7,
+            "y": 54.5
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 38.7,
+            "y": 54.5
+          },
+          {
+            "x": 38.7,
+            "y": 54.6
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 38.7,
+            "y": 54.6
+          },
+          {
+            "x": 38.7351,
+            "y": 54.6101
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 44,
+            "y": 57.7
+          },
+          {
+            "x": 43.2,
+            "y": 57.7
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 43.2,
+            "y": 57.7
+          },
+          {
+            "x": 43.1961,
+            "y": 57.6581
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 61.5,
+            "y": 70.1
+          },
+          {
+            "x": 61.8,
+            "y": 69.8
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 61.8,
+            "y": 69.8
+          },
+          {
+            "x": 61.8,
+            "y": 66.8
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 61.8,
+            "y": 66.8
+          },
+          {
+            "x": 65.1,
+            "y": 63.5
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 65.1,
+            "y": 63.5
+          },
+          {
+            "x": 65.1,
+            "y": 57.4
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 50.5,
+            "y": 43.9
+          },
+          {
+            "x": 49.1,
+            "y": 42.5
+          }
+        ]
+      },
+      {
+        "net": "PC1",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 49.1,
+            "y": 42.5
+          },
+          {
+            "x": 49.1,
+            "y": 42
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 41.9101,
+            "y": 46.8971
+          },
+          {
+            "x": 41.9,
+            "y": 46.9
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 41.9,
+            "y": 46.9
+          },
+          {
+            "x": 42.9,
+            "y": 45.9
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 42.9,
+            "y": 45.9
+          },
+          {
+            "x": 44.2,
+            "y": 45.9
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 44.2,
+            "y": 45.9
+          },
+          {
+            "x": 45,
+            "y": 45.1
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 45,
+            "y": 45.1
+          },
+          {
+            "x": 44.9741,
+            "y": 45.0851
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 40.8601,
+            "y": 39.2431
+          },
+          {
+            "x": 40.9,
+            "y": 39.2
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 40.9,
+            "y": 39.2
+          },
+          {
+            "x": 40.5,
+            "y": 38.8
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 40.5,
+            "y": 38.8
+          },
+          {
+            "x": 40.5,
+            "y": 36.2
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 40.5,
+            "y": 36.2
+          },
+          {
+            "x": 40.5291,
+            "y": 36.1951
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 30.7011,
+            "y": 44.4501
+          },
+          {
+            "x": 30.7,
+            "y": 44.5
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 30.7,
+            "y": 44.5
+          },
+          {
+            "x": 30.8,
+            "y": 44.6
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 30.8,
+            "y": 44.6
+          },
+          {
+            "x": 31.7,
+            "y": 44.6
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 31.7,
+            "y": 44.6
+          },
+          {
+            "x": 31.8,
+            "y": 44.7
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 31.8,
+            "y": 44.7
+          },
+          {
+            "x": 31.9,
+            "y": 44.7
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 31.9,
+            "y": 44.7
+          },
+          {
+            "x": 33.8,
+            "y": 46.6
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 33.8,
+            "y": 46.6
+          },
+          {
+            "x": 33.8,
+            "y": 57.5
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 33.8,
+            "y": 57.5
+          },
+          {
+            "x": 33.8161,
+            "y": 57.4701
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 33.8,
+            "y": 57.5
+          },
+          {
+            "x": 35.3,
+            "y": 59
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 35.3,
+            "y": 59
+          },
+          {
+            "x": 35.3,
+            "y": 65.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 35.3,
+            "y": 65.1
+          },
+          {
+            "x": 33.9,
+            "y": 66.5
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 33.9,
+            "y": 66.5
+          },
+          {
+            "x": 33.9,
+            "y": 66.7
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 33.9,
+            "y": 66.7
+          },
+          {
+            "x": 34,
+            "y": 66.8
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 34,
+            "y": 66.8
+          },
+          {
+            "x": 34,
+            "y": 67.2
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 34,
+            "y": 67.2
+          },
+          {
+            "x": 33.9,
+            "y": 67.3
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 33.9,
+            "y": 67.3
+          },
+          {
+            "x": 33.9,
+            "y": 67.4
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 33.9,
+            "y": 67.4
+          },
+          {
+            "x": 34,
+            "y": 67.5
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 34,
+            "y": 67.5
+          },
+          {
+            "x": 34,
+            "y": 67.6
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 34,
+            "y": 67.6
+          },
+          {
+            "x": 35.3,
+            "y": 68.9
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 35.3,
+            "y": 68.9
+          },
+          {
+            "x": 35.2721,
+            "y": 68.8951
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 35.3,
+            "y": 65.1
+          },
+          {
+            "x": 47.011538,
+            "y": 65.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.5666666666666667,
+        "points": [
+          {
+            "x": 47.011538,
+            "y": 65.1
+          },
+          {
+            "x": 47.111538,
+            "y": 65.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.5333333333333333,
+        "points": [
+          {
+            "x": 47.111538,
+            "y": 65.1
+          },
+          {
+            "x": 47.211538,
+            "y": 65.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.5,
+        "points": [
+          {
+            "x": 47.211538,
+            "y": 65.1
+          },
+          {
+            "x": 47.311538,
+            "y": 65.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4666666666666667,
+        "points": [
+          {
+            "x": 47.311538,
+            "y": 65.1
+          },
+          {
+            "x": 47.411538,
+            "y": 65.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.43333333333333335,
+        "points": [
+          {
+            "x": 47.411538,
+            "y": 65.1
+          },
+          {
+            "x": 47.511538,
+            "y": 65.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 47.511538,
+            "y": 65.1
+          },
+          {
+            "x": 48,
+            "y": 65.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 48,
+            "y": 65.1
+          },
+          {
+            "x": 53.8,
+            "y": 70.9
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 53.8,
+            "y": 70.9
+          },
+          {
+            "x": 61.7,
+            "y": 70.9
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 61.7,
+            "y": 70.9
+          },
+          {
+            "x": 62.75,
+            "y": 69.85
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.43333333333333335,
+        "points": [
+          {
+            "x": 62.75,
+            "y": 69.85
+          },
+          {
+            "x": 62.820711,
+            "y": 69.779289
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4666666666666667,
+        "points": [
+          {
+            "x": 62.820711,
+            "y": 69.779289
+          },
+          {
+            "x": 62.891421,
+            "y": 69.708579
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.5,
+        "points": [
+          {
+            "x": 62.891421,
+            "y": 69.708579
+          },
+          {
+            "x": 62.962132,
+            "y": 69.637868
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.5333333333333333,
+        "points": [
+          {
+            "x": 62.962132,
+            "y": 69.637868
+          },
+          {
+            "x": 63.032843,
+            "y": 69.567157
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.5666666666666667,
+        "points": [
+          {
+            "x": 63.032843,
+            "y": 69.567157
+          },
+          {
+            "x": 63.103553,
+            "y": 69.496447
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 63.103553,
+            "y": 69.496447
+          },
+          {
+            "x": 65.9,
+            "y": 66.7
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 65.9,
+            "y": 66.7
+          },
+          {
+            "x": 65.9,
+            "y": 63.736842
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.5666666666666667,
+        "points": [
+          {
+            "x": 65.9,
+            "y": 63.736842
+          },
+          {
+            "x": 65.9,
+            "y": 63.636842
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.5333333333333333,
+        "points": [
+          {
+            "x": 65.9,
+            "y": 63.636842
+          },
+          {
+            "x": 65.9,
+            "y": 63.536842
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.5,
+        "points": [
+          {
+            "x": 65.9,
+            "y": 63.536842
+          },
+          {
+            "x": 65.9,
+            "y": 63.436842
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4666666666666667,
+        "points": [
+          {
+            "x": 65.9,
+            "y": 63.436842
+          },
+          {
+            "x": 65.9,
+            "y": 63.336842
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.43333333333333335,
+        "points": [
+          {
+            "x": 65.9,
+            "y": 63.336842
+          },
+          {
+            "x": 65.9,
+            "y": 63.236842
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 65.9,
+            "y": 63.236842
+          },
+          {
+            "x": 65.9,
+            "y": 57.3
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 65.9,
+            "y": 57.3
+          },
+          {
+            "x": 65.8,
+            "y": 57.2
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 65.8,
+            "y": 57.2
+          },
+          {
+            "x": 65.8,
+            "y": 57.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 65.8,
+            "y": 57.1
+          },
+          {
+            "x": 52.4,
+            "y": 43.7
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 52.4,
+            "y": 43.7
+          },
+          {
+            "x": 52.4,
+            "y": 42.5
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 52.4,
+            "y": 42.5
+          },
+          {
+            "x": 52,
+            "y": 42.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 52,
+            "y": 42.1
+          },
+          {
+            "x": 50.9,
+            "y": 42.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 50.9,
+            "y": 42.1
+          },
+          {
+            "x": 50,
+            "y": 41.2
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 50,
+            "y": 41.2
+          },
+          {
+            "x": 49.9,
+            "y": 41.2
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 49.9,
+            "y": 41.2
+          },
+          {
+            "x": 49.8,
+            "y": 41.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 49.8,
+            "y": 41.1
+          },
+          {
+            "x": 47.88,
+            "y": 41.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.43333333333333335,
+        "points": [
+          {
+            "x": 47.88,
+            "y": 41.1
+          },
+          {
+            "x": 47.78,
+            "y": 41.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4666666666666667,
+        "points": [
+          {
+            "x": 47.78,
+            "y": 41.1
+          },
+          {
+            "x": 47.68,
+            "y": 41.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.5,
+        "points": [
+          {
+            "x": 47.68,
+            "y": 41.1
+          },
+          {
+            "x": 47.58,
+            "y": 41.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.5333333333333333,
+        "points": [
+          {
+            "x": 47.58,
+            "y": 41.1
+          },
+          {
+            "x": 47.48,
+            "y": 41.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.5666666666666667,
+        "points": [
+          {
+            "x": 47.48,
+            "y": 41.1
+          },
+          {
+            "x": 47.38,
+            "y": 41.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 47.38,
+            "y": 41.1
+          },
+          {
+            "x": 45,
+            "y": 41.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.5599999999999999,
+        "points": [
+          {
+            "x": 45,
+            "y": 41.1
+          },
+          {
+            "x": 44.975,
+            "y": 41.125
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.52,
+        "points": [
+          {
+            "x": 44.975,
+            "y": 41.125
+          },
+          {
+            "x": 44.95,
+            "y": 41.15
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.48,
+        "points": [
+          {
+            "x": 44.95,
+            "y": 41.15
+          },
+          {
+            "x": 44.925,
+            "y": 41.175
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.44,
+        "points": [
+          {
+            "x": 44.925,
+            "y": 41.175
+          },
+          {
+            "x": 44.9,
+            "y": 41.2
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 44.9,
+            "y": 41.2
+          },
+          {
+            "x": 44.9,
+            "y": 43.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 44.9,
+            "y": 43.1
+          },
+          {
+            "x": 44.8,
+            "y": 43.2
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 44.8,
+            "y": 43.2
+          },
+          {
+            "x": 44.8,
+            "y": 43.3
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 44.8,
+            "y": 43.3
+          },
+          {
+            "x": 44.3,
+            "y": 43.8
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 44.3,
+            "y": 43.8
+          },
+          {
+            "x": 43.6,
+            "y": 43.8
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 43.6,
+            "y": 43.8
+          },
+          {
+            "x": 43.5,
+            "y": 43.7
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 43.5,
+            "y": 43.7
+          },
+          {
+            "x": 43.3,
+            "y": 43.7
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 43.3,
+            "y": 43.7
+          },
+          {
+            "x": 43.2,
+            "y": 43.6
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 43.2,
+            "y": 43.6
+          },
+          {
+            "x": 42.2,
+            "y": 43.6
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 42.2,
+            "y": 43.6
+          },
+          {
+            "x": 41,
+            "y": 44.8
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 41,
+            "y": 44.8
+          },
+          {
+            "x": 40.9601,
+            "y": 44.7971
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 45,
+            "y": 41.1
+          },
+          {
+            "x": 44.3,
+            "y": 40.4
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 44.3,
+            "y": 40.4
+          },
+          {
+            "x": 44.3,
+            "y": 39.7
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 44.3,
+            "y": 39.7
+          },
+          {
+            "x": 44.2,
+            "y": 39.6
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 44.2,
+            "y": 39.6
+          },
+          {
+            "x": 44.2,
+            "y": 39.5
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 44.2,
+            "y": 39.5
+          },
+          {
+            "x": 43,
+            "y": 38.3
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 43,
+            "y": 38.3
+          },
+          {
+            "x": 42.9601,
+            "y": 38.2931
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 50.525,
+            "y": 41.725
+          },
+          {
+            "x": 50.5,
+            "y": 41.7
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 50.5,
+            "y": 41.7
+          },
+          {
+            "x": 51.1,
+            "y": 41.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 51.1,
+            "y": 41.1
+          },
+          {
+            "x": 51.2,
+            "y": 41.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 51.2,
+            "y": 41.1
+          },
+          {
+            "x": 51.2151,
+            "y": 41.0871
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 35.3,
+            "y": 68.9
+          },
+          {
+            "x": 33.9,
+            "y": 70.3
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 33.9,
+            "y": 70.3
+          },
+          {
+            "x": 33.9,
+            "y": 72.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 33.9,
+            "y": 72.1
+          },
+          {
+            "x": 33.9431,
+            "y": 72.0751
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 30.7,
+            "y": 44.5
+          },
+          {
+            "x": 30.5,
+            "y": 44.7
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 30.5,
+            "y": 44.7
+          },
+          {
+            "x": 29.9,
+            "y": 44.7
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 29.9,
+            "y": 44.7
+          },
+          {
+            "x": 29.8,
+            "y": 44.6
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 29.8,
+            "y": 44.6
+          },
+          {
+            "x": 28.7,
+            "y": 44.6
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 28.7,
+            "y": 44.6
+          },
+          {
+            "x": 27.8,
+            "y": 45.5
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 27.8,
+            "y": 45.5
+          },
+          {
+            "x": 27.6,
+            "y": 45.5
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 27.6,
+            "y": 45.5
+          },
+          {
+            "x": 27.5591,
+            "y": 45.4501
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 33.9,
+            "y": 71.9
+          },
+          {
+            "x": 31.1,
+            "y": 71.9
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 31.1,
+            "y": 71.9
+          },
+          {
+            "x": 30.9,
+            "y": 72.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 30.9,
+            "y": 72.1
+          },
+          {
+            "x": 19.5,
+            "y": 72.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 19.5,
+            "y": 72.1
+          },
+          {
+            "x": 17.6,
+            "y": 74
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 17.6,
+            "y": 74
+          },
+          {
+            "x": 14.5,
+            "y": 74
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 14.5,
+            "y": 74
+          },
+          {
+            "x": 14.1,
+            "y": 74.4
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 14.1,
+            "y": 74.4
+          },
+          {
+            "x": 9.3,
+            "y": 74.4
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 9.3,
+            "y": 74.4
+          },
+          {
+            "x": 9.2,
+            "y": 74.3
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 9.2,
+            "y": 74.3
+          },
+          {
+            "x": 9.1,
+            "y": 74.3
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 9.1,
+            "y": 74.3
+          },
+          {
+            "x": 6.9,
+            "y": 72.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 6.9,
+            "y": 72.1
+          },
+          {
+            "x": 6.9,
+            "y": 71.3
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 6.9,
+            "y": 71.3
+          },
+          {
+            "x": 5.9,
+            "y": 70.3
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 5.9,
+            "y": 70.3
+          },
+          {
+            "x": 5.9,
+            "y": 58.2
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 5.9,
+            "y": 58.2
+          },
+          {
+            "x": 20.7,
+            "y": 43.4
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 20.7,
+            "y": 43.4
+          },
+          {
+            "x": 20.9,
+            "y": 43.4
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 20.7,
+            "y": 43.4
+          },
+          {
+            "x": 13.3,
+            "y": 36
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 13.3,
+            "y": 36
+          },
+          {
+            "x": 13.3,
+            "y": 28.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 13.3,
+            "y": 28.1
+          },
+          {
+            "x": 13.335,
+            "y": 28.0511
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 13.3,
+            "y": 28.1
+          },
+          {
+            "x": 12.6,
+            "y": 27.4
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 12.6,
+            "y": 27.4
+          },
+          {
+            "x": 12.4,
+            "y": 27.4
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 12.4,
+            "y": 27.4
+          },
+          {
+            "x": 9.1,
+            "y": 24.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 9.1,
+            "y": 24.1
+          },
+          {
+            "x": 9.1,
+            "y": 22.4
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 9.1,
+            "y": 22.4
+          },
+          {
+            "x": 9.128,
+            "y": 22.352
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 9.1,
+            "y": 22.4
+          },
+          {
+            "x": 10.9,
+            "y": 20.6
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 10.9,
+            "y": 20.6
+          },
+          {
+            "x": 10.9,
+            "y": 18.7
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 10.9,
+            "y": 18.7
+          },
+          {
+            "x": 10.888,
+            "y": 18.73
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 36.1011,
+            "y": 45.7201
+          },
+          {
+            "x": 36.1,
+            "y": 45.7
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 36.1,
+            "y": 45.7
+          },
+          {
+            "x": 40.2,
+            "y": 45.7
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 40.2,
+            "y": 45.7
+          },
+          {
+            "x": 40.4,
+            "y": 45.9
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 40.4,
+            "y": 45.9
+          },
+          {
+            "x": 41.7,
+            "y": 45.9
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 41.7,
+            "y": 45.9
+          },
+          {
+            "x": 42.3,
+            "y": 46.5
+          }
+        ]
+      },
+      {
+        "net": "CH2_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 42.3,
+            "y": 46.5
+          },
+          {
+            "x": 42.257143,
+            "y": 46.542857
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 36.1011,
+            "y": 43.1801
+          },
+          {
+            "x": 36.1,
+            "y": 43.2
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 36.1,
+            "y": 43.2
+          },
+          {
+            "x": 36.5,
+            "y": 42.8
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 36.5,
+            "y": 42.8
+          },
+          {
+            "x": 38.3,
+            "y": 42.8
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 38.3,
+            "y": 42.8
+          },
+          {
+            "x": 38.9,
+            "y": 42.2
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 38.9,
+            "y": 42.2
+          },
+          {
+            "x": 38.8621,
+            "y": 42.1801
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 38.9,
+            "y": 42.2
+          },
+          {
+            "x": 40.9,
+            "y": 40.2
+          }
+        ]
+      },
+      {
+        "net": "CH3_SUM",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 40.9,
+            "y": 40.2
+          },
+          {
+            "x": 40.9,
+            "y": 39.2
+          }
+        ]
+      },
+      {
+        "net": "VBIAS",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 24.892,
+            "y": 43.5771
+          },
+          {
+            "x": 24.9,
+            "y": 43.6
+          }
+        ]
+      },
+      {
+        "net": "VBIAS",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 24.9,
+            "y": 43.6
+          },
+          {
+            "x": 26.6,
+            "y": 41.9
+          }
+        ]
+      },
+      {
+        "net": "VBIAS",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 26.6,
+            "y": 41.9
+          },
+          {
+            "x": 30.7,
+            "y": 41.9
+          }
+        ]
+      },
+      {
+        "net": "VBIAS",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 30.7,
+            "y": 41.9
+          },
+          {
+            "x": 30.7011,
+            "y": 41.9101
+          }
+        ]
+      },
+      {
+        "net": "VBIAS",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 30.7,
+            "y": 41.9
+          },
+          {
+            "x": 30.7,
+            "y": 40.6
+          }
+        ]
+      },
+      {
+        "net": "VBIAS",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 30.7,
+            "y": 40.6
+          },
+          {
+            "x": 30.7011,
+            "y": 40.6401
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 19.431,
+            "y": 36.8141
+          },
+          {
+            "x": 19.4,
+            "y": 36.8
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 18.8,
+            "y": 36.2
+          },
+          {
+            "x": 18.5,
+            "y": 36.2
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 18.5,
+            "y": 36.2
+          },
+          {
+            "x": 17.9,
+            "y": 35.6
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 17.9,
+            "y": 35.6
+          },
+          {
+            "x": 17.9,
+            "y": 34
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 17.9,
+            "y": 34
+          },
+          {
+            "x": 20.4,
+            "y": 31.5
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 20.4,
+            "y": 31.5
+          },
+          {
+            "x": 20.4,
+            "y": 27.7
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 32,
+            "y": 17.8
+          },
+          {
+            "x": 37,
+            "y": 22.8
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 37,
+            "y": 22.8
+          },
+          {
+            "x": 37,
+            "y": 31
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 37,
+            "y": 31
+          },
+          {
+            "x": 37.0231,
+            "y": 30.9541
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 18.05,
+            "y": 35.75
+          },
+          {
+            "x": 18,
+            "y": 35.8
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 18,
+            "y": 35.8
+          },
+          {
+            "x": 17.6,
+            "y": 36.2
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 17.6,
+            "y": 36.2
+          },
+          {
+            "x": 17.6,
+            "y": 37.1
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 17.6,
+            "y": 37.1
+          },
+          {
+            "x": 16,
+            "y": 38.7
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 20.4,
+            "y": 27.7
+          },
+          {
+            "x": 30.3,
+            "y": 17.8
+          }
+        ]
+      },
+      {
+        "net": "3V3_A",
+        "layer": "TOP",
+        "widthMm": 0.6,
+        "points": [
+          {
+            "x": 30.3,
+            "y": 17.8
+          },
+          {
+            "x": 32,
+            "y": 17.8
+          }
+        ]
+      },
+      {
+        "net": "VBIAS",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 38.8621,
+            "y": 44.1801
+          },
+          {
+            "x": 38.9,
+            "y": 44.2
+          }
+        ]
+      },
+      {
+        "net": "VBIAS",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 38.9,
+            "y": 44.2
+          },
+          {
+            "x": 39.8,
+            "y": 43.3
+          }
+        ]
+      },
+      {
+        "net": "VBIAS",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 39.8,
+            "y": 43.3
+          },
+          {
+            "x": 40.7,
+            "y": 43.3
+          }
+        ]
+      },
+      {
+        "net": "VBIAS",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 40.7,
+            "y": 43.3
+          },
+          {
+            "x": 41.7,
+            "y": 42.3
+          }
+        ]
+      },
+      {
+        "net": "VBIAS",
+        "layer": "TOP",
+        "widthMm": 0.4,
+        "points": [
+          {
+            "x": 41.7,
+            "y": 42.3
+          },
+          {
+            "x": 41.6721,
+            "y": 42.2911
+          }
+        ]
+      }
+    ],
+    "vias": [],
+    "zones": []
+  },
+  "diagnostics": [
+    {
+      "code": "HYBRID_ROUTE_MODE_SELECTED",
+      "severity": "info",
+      "message": "Hybrid routing selected hybrid.",
+      "details": {
+        "mode": "hybrid",
+        "fallback": false,
+        "krtNets": [
+          "3V3_A",
+          "CH2_SUM",
+          "CH3_SUM",
+          "PC1",
+          "VBIAS"
+        ],
+        "easyedaNets": [
+          "3V3_A",
+          "CH2_SUM",
+          "CH3_SUM",
+          "PC1",
+          "VBIAS"
+        ]
+      }
+    },
+    {
+      "code": "HYBRID_ROUTE_MODE_SELECTED",
+      "severity": "info",
+      "message": "Hybrid routing selected hybrid.",
+      "details": {
+        "mode": "hybrid",
+        "fallback": false
+      }
+    },
+    {
+      "code": "KRT_RECONCILIATION_SUMMARY_MERGED",
+      "severity": "info",
+      "message": "Consumed KRT's authoritative merged reconciliation summary.",
+      "details": {
+        "count": 2,
+        "path": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-ae40dbc8\\krt\\native-auto-post-easy\\remaining\\main\\ordinary-01\\krt-remaining-summary.json"
+      }
+    },
+    {
+      "code": "KRT_MULTIPOINT_INCOMPLETE",
+      "severity": "error",
+      "message": "KRT left one or more multi-point pads disconnected.",
+      "details": [
+        {
+          "net_name": "CH3_SUM",
+          "failed_pads": [
+            {
+              "component_ref": "R35",
+              "pad_number": "?",
+              "x": 38.8621,
+              "y": 42.1801
+            },
+            {
+              "component_ref": "U1",
+              "pad_number": "?",
+              "x": 36.1011,
+              "y": 43.1801
+            }
+          ]
+        },
+        {
+          "net_name": "3V3_A",
+          "failed_pads": [
+            {
+              "component_ref": "D9",
+              "pad_number": "?",
+              "x": 37.0231,
+              "y": 30.9541
+            },
+            {
+              "component_ref": "R37",
+              "pad_number": "?",
+              "x": 19.431,
+              "y": 36.8141
+            }
+          ]
+        },
+        {
+          "net_name": "CH2_SUM",
+          "failed_pads": [
+            {
+              "component_ref": "R23",
+              "pad_number": "?",
+              "x": 43.6721,
+              "y": 42.2911
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "KRT_PAD_PAIRS_OPEN",
+      "severity": "error",
+      "message": "KRT's final pad-pair report contains open nets.",
+      "details": [
+        {
+          "net": "3V3_A",
+          "pairs_connected": 11,
+          "pairs_total": 13,
+          "outcome": "open",
+          "open_subtype": "partial"
+        },
+        {
+          "net": "CH2_SUM",
+          "pairs_connected": 2,
+          "pairs_total": 3,
+          "outcome": "open",
+          "open_subtype": "partial"
+        },
+        {
+          "net": "CH3_SUM",
+          "pairs_connected": 2,
+          "pairs_total": 3,
+          "outcome": "open",
+          "open_subtype": "partial"
+        }
+      ]
+    },
+    {
+      "code": "KRT_STAGE_WEIGHTED_CONNECTIVITY_TRADEOFF_SELECTED",
+      "severity": "info",
+      "message": "Selected a stage that strictly improves weighted full-board connectivity while preserving every verified protected net.",
+      "details": {
+        "tag": "05-main-01",
+        "gate": "ordinary",
+        "evidenceComplete": true,
+        "hardConnectivityNonRegressing": true,
+        "weightedConnectivityImproved": true,
+        "baselinePriorityOpenPenalty": 48,
+        "candidatePriorityOpenPenalty": 48,
+        "baselineOpenNetCount": 3,
+        "candidateOpenNetCount": 3,
+        "baselineComponentExcess": 20,
+        "candidateComponentExcess": 4,
+        "newlyOpenedNets": [
+          "CH2_SUM",
+          "CH3_SUM"
+        ],
+        "newlyOpenedHardNets": [],
+        "newlyClosedNets": [
+          "PC1",
+          "VBIAS"
+        ]
+      }
+    },
+    {
+      "code": "KRT_RECONCILIATION_SUMMARY_MERGED",
+      "severity": "info",
+      "message": "Consumed KRT's authoritative merged reconciliation summary.",
+      "details": {
+        "count": 2,
+        "path": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-ae40dbc8\\krt\\native-auto-post-easy\\remaining\\main-fallback\\original-via-avoid\\krt-remaining-summary.json"
+      }
+    },
+    {
+      "code": "KRT_MULTIPOINT_INCOMPLETE",
+      "severity": "error",
+      "message": "KRT left one or more multi-point pads disconnected.",
+      "details": [
+        {
+          "net_name": "CH2_SUM",
+          "failed_pads": [
+            {
+              "component_ref": "R23",
+              "pad_number": "?",
+              "x": 43.6721,
+              "y": 42.2911
+            }
+          ]
+        },
+        {
+          "net_name": "VBIAS",
+          "failed_pads": [
+            {
+              "component_ref": "R23",
+              "pad_number": "?",
+              "x": 41.6721,
+              "y": 42.2911
+            },
+            {
+              "component_ref": "R35",
+              "pad_number": "?",
+              "x": 38.8621,
+              "y": 44.1801
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "KRT_PAD_PAIRS_OPEN",
+      "severity": "error",
+      "message": "KRT's final pad-pair report contains open nets.",
+      "details": [
+        {
+          "net": "CH2_SUM",
+          "pairs_connected": 2,
+          "pairs_total": 3,
+          "outcome": "open",
+          "open_subtype": "partial"
+        },
+        {
+          "net": "VBIAS",
+          "pairs_connected": 3,
+          "pairs_total": 4,
+          "outcome": "open",
+          "open_subtype": "partial"
+        }
+      ]
+    },
+    {
+      "code": "KRT_STAGE_WEIGHTED_CONNECTIVITY_TRADEOFF_SELECTED",
+      "severity": "info",
+      "message": "Selected a stage that strictly improves weighted full-board connectivity while preserving every verified protected net.",
+      "details": {
+        "tag": "05-main-fallback-original",
+        "gate": "ordinary",
+        "evidenceComplete": true,
+        "hardConnectivityNonRegressing": true,
+        "weightedConnectivityImproved": true,
+        "baselinePriorityOpenPenalty": 48,
+        "candidatePriorityOpenPenalty": 32,
+        "baselineOpenNetCount": 3,
+        "candidateOpenNetCount": 2,
+        "baselineComponentExcess": 4,
+        "candidateComponentExcess": 2,
+        "newlyOpenedNets": [
+          "VBIAS"
+        ],
+        "newlyOpenedHardNets": [],
+        "newlyClosedNets": [
+          "3V3_A",
+          "CH3_SUM"
+        ]
+      }
+    },
+    {
+      "code": "KRT_MONOLITHIC_FALLBACK_SELECTED",
+      "severity": "info",
+      "message": "Selected the bounded original-order monolithic fallback because it improved full-board connectivity without regressing DRC or protected copper.",
+      "details": {
+        "beforeOpenNets": [
+          "3V3_A",
+          "CH2_SUM",
+          "CH3_SUM"
+        ],
+        "afterOpenNets": [
+          "CH2_SUM",
+          "VBIAS"
+        ],
+        "routableNetCount": 3,
+        "selectorNetCount": 3,
+        "ordering": "original",
+        "viaCost": 300
+      }
+    },
+    {
+      "code": "KRT_RECONCILIATION_SUMMARY_MERGED",
+      "severity": "info",
+      "message": "Consumed KRT's authoritative merged reconciliation summary.",
+      "details": {
+        "count": 2,
+        "path": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-ae40dbc8\\krt\\native-auto-post-easy\\remaining\\repair\\01-open-ordinary-01\\krt-remaining-summary.json"
+      }
+    },
+    {
+      "code": "KRT_NETS_UNROUTED",
+      "severity": "warning",
+      "message": "KRT could not route every remaining net.",
+      "details": [
+        "VBIAS"
+      ]
+    },
+    {
+      "code": "KRT_MULTIPOINT_INCOMPLETE",
+      "severity": "warning",
+      "message": "KRT left one or more multi-point pads disconnected.",
+      "details": [
+        {
+          "net_name": "CH2_SUM",
+          "failed_pads": [
+            {
+              "component_ref": "R23",
+              "pad_number": "?",
+              "x": 43.6721,
+              "y": 42.2911
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "KRT_PAD_PAIRS_OPEN",
+      "severity": "warning",
+      "message": "KRT's final pad-pair report contains open nets.",
+      "details": [
+        {
+          "net": "CH2_SUM",
+          "pairs_connected": 2,
+          "pairs_total": 3,
+          "outcome": "open",
+          "open_subtype": "partial"
+        },
+        {
+          "net": "VBIAS",
+          "pairs_connected": 3,
+          "pairs_total": 4,
+          "outcome": "open",
+          "open_subtype": "unrouted"
+        }
+      ]
+    },
+    {
+      "code": "KRT_REPAIR_CANDIDATE_REJECTED",
+      "severity": "warning",
+      "message": "A targeted repair candidate was retained as an artifact but not applied because it did not improve its target or regressed a full-board safety gate.",
+      "details": {
+        "kind": "open",
+        "nets": [
+          "CH2_SUM",
+          "VBIAS"
+        ],
+        "blockerVictims": [],
+        "beforeOpenNets": [
+          "CH2_SUM",
+          "VBIAS"
+        ],
+        "afterOpenNets": [
+          "CH2_SUM",
+          "VBIAS"
+        ],
+        "beforeDrcViolations": 0,
+        "afterDrcViolations": 0,
+        "detourBounded": true,
+        "protectedDamage": false,
+        "protectionRestored": true,
+        "strictlyImproved": false
+      }
+    },
+    {
+      "code": "ROUTING_CANDIDATE_AUDITED",
+      "severity": "info",
+      "message": "Selected hybrid after semantic candidate audit.",
+      "details": {
+        "selected": {
+          "label": "hybrid",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 32,
+          "openNetCount": 2,
+          "connectivityComponentCount": 7,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 366.2778828017946,
+          "score": [
+            0,
+            0,
+            32,
+            2,
+            7,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            366.2778828017946,
+            0
+          ]
+        },
+        "attempted": {
+          "label": "hybrid",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 32,
+          "openNetCount": 2,
+          "connectivityComponentCount": 7,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 366.2778828017946,
+          "score": [
+            0,
+            0,
+            32,
+            2,
+            7,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            366.2778828017946,
+            0
+          ]
+        },
+        "baseline": {
+          "label": "pre-route-checkpoint",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 80,
+          "openNetCount": 5,
+          "connectivityComponentCount": 31,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 0,
+          "score": [
+            0,
+            0,
+            80,
+            5,
+            31,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1
+          ]
+        }
+      }
+    }
+  ],
+  "metrics": {
+    "elapsedMs": 17333.033000000054,
+    "routedNetCount": 3,
+    "openNetCount": 2,
+    "openNets": [
+      "CH2_SUM",
+      "VBIAS"
+    ],
+    "connectivityComponentCount": 7,
+    "viaCount": 0,
+    "trackLengthMm": 366.2778828017946,
+    "backend": "hybrid",
+    "details": {
+      "artifactsDirectory": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-ae40dbc8\\krt\\native-auto-post-easy\\remaining",
+      "runtime": {
+        "version": "0.21.3",
+        "source": "cache",
+        "cacheDirectory": "C:\\Users\\kagas\\AppData\\Local\\eda-copilot\\router"
+      },
+      "policy": "native-auto",
+      "workflowMode": "post-easy",
+      "preRouteConnectivity": {
+        "openNets": [
+          "3V3_A",
+          "CH2_SUM",
+          "CH3_SUM",
+          "PC1",
+          "VBIAS"
+        ],
+        "componentsByNet": {
+          "3V3_A": 14,
+          "CH2_SUM": 4,
+          "CH3_SUM": 4,
+          "PC1": 4,
+          "VBIAS": 5
+        },
+        "connectivityComponentCount": 31
+      },
+      "initialConnectivity": {
+        "openNets": [
+          "3V3_A",
+          "PC1",
+          "VBIAS"
+        ],
+        "componentsByNet": {
+          "3V3_A": 14,
+          "CH2_SUM": 1,
+          "CH3_SUM": 1,
+          "PC1": 4,
+          "VBIAS": 5
+        },
+        "connectivityComponentCount": 25
+      },
+      "finalConnectivity": {
+        "openNets": [
+          "CH2_SUM",
+          "VBIAS"
+        ],
+        "componentsByNet": {
+          "3V3_A": 1,
+          "CH2_SUM": 2,
+          "CH3_SUM": 1,
+          "PC1": 1,
+          "VBIAS": 2
+        },
+        "connectivityComponentCount": 7
+      },
+      "protectedNets": [],
+      "specialBatches": [],
+      "specialConstraintsDeferred": false,
+      "deferredSpecialNets": [],
+      "verifiedSpecialNets": [],
+      "ordinaryFallbackSpecialNets": [],
+      "rejectedSpecialNets": [],
+      "critical": [],
+      "early": [],
+      "main": [
+        {
+          "routed_single": [],
+          "failed_single": [],
+          "open_single": [],
+          "failed_multipoint": [
+            {
+              "net_name": "CH3_SUM",
+              "failed_pads": [
+                {
+                  "component_ref": "R35",
+                  "pad_number": "?",
+                  "x": 38.8621,
+                  "y": 42.1801
+                },
+                {
+                  "component_ref": "U1",
+                  "pad_number": "?",
+                  "x": 36.1011,
+                  "y": 43.1801
+                }
+              ]
+            },
+            {
+              "net_name": "3V3_A",
+              "failed_pads": [
+                {
+                  "component_ref": "D9",
+                  "pad_number": "?",
+                  "x": 37.0231,
+                  "y": 30.9541
+                },
+                {
+                  "component_ref": "R37",
+                  "pad_number": "?",
+                  "x": 19.431,
+                  "y": 36.8141
+                }
+              ]
+            },
+            {
+              "net_name": "CH2_SUM",
+              "failed_pads": [
+                {
+                  "component_ref": "R23",
+                  "pad_number": "?",
+                  "x": 43.6721,
+                  "y": 42.2911
+                }
+              ]
+            }
+          ],
+          "multipoint_nets": 3,
+          "multipoint_pads_connected": 17,
+          "multipoint_pads_total": 22,
+          "multipoint_edges_routed": 2,
+          "multipoint_edges_failed": 4,
+          "ripup_success_pairs": [],
+          "rerouted_pairs": [],
+          "single_ended_target_swaps": [],
+          "layer_swaps": 0,
+          "successful": 0,
+          "failed": 3,
+          "total_time": 0.42000000000000004,
+          "total_iterations": 451941,
+          "total_vias": 0,
+          "cleanup_disconnected": [],
+          "min_clearance_used": 0.3,
+          "stacked_copper": [
+            {
+              "category": "stacked-copper",
+              "net": "PC0",
+              "layer": "F.Cu",
+              "x": 30.48,
+              "y": 52.308,
+              "detail": "2 duplicate segments stacked on (30.480, 52.308)-(30.566, 52.394)",
+              "size": 0.12162236636408408
+            }
+          ],
+          "oracle_check": "disabled",
+          "blockers": [
+            {
+              "net": "CH3_SUM",
+              "stage": "phase3",
+              "blocked_by": [
+                {
+                  "net": "CH2_SUM",
+                  "blocked_count": 4,
+                  "unique_cells": 4,
+                  "track_cells": 4,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                }
+              ]
+            },
+            {
+              "net": "CH3_SUM",
+              "stage": "preexisting",
+              "blocked_by": [
+                {
+                  "net": "VBIAS",
+                  "preexisting": true
+                },
+                {
+                  "net": "PC1",
+                  "preexisting": true
+                },
+                {
+                  "net": "CH3_ATT4",
+                  "preexisting": true
+                },
+                {
+                  "net": "CH3_ATT8",
+                  "preexisting": true
+                },
+                {
+                  "net": "PC2",
+                  "preexisting": true
+                },
+                {
+                  "net": "CH2_ATT8",
+                  "preexisting": true
+                }
+              ]
+            }
+          ],
+          "pad_pairs_connected": 81,
+          "pad_pairs_total": 85,
+          "pad_pairs_open": [
+            {
+              "net": "3V3_A",
+              "pairs_connected": 11,
+              "pairs_total": 13,
+              "outcome": "open",
+              "open_subtype": "partial"
+            },
+            {
+              "net": "CH2_SUM",
+              "pairs_connected": 2,
+              "pairs_total": 3,
+              "outcome": "open",
+              "open_subtype": "partial"
+            },
+            {
+              "net": "CH3_SUM",
+              "pairs_connected": 2,
+              "pairs_total": 3,
+              "outcome": "open",
+              "open_subtype": "partial"
+            }
+          ],
+          "scope": "reconciliation-subset",
+          "board_scoped_keys": [
+            "stacked_copper",
+            "min_clearance_used"
+          ],
+          "env_knobs": {
+            "KICAD_BARE_PAD_ESCAPE": "0",
+            "KICAD_DYNAMIC_ITERATIONS": "0",
+            "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+            "KICAD_FINALIZE_RIP": "1",
+            "KICAD_IMPEDANCE_NECKDOWN": "1",
+            "KICAD_NET_RESCUE": "0",
+            "KICAD_PLANE_FINALIZE": "0",
+            "KICAD_RESCUE_CAP_MOVE": "0",
+            "KICAD_RIP_PREEXISTING": "1",
+            "KICAD_TERMINAL_ESCALATION": "0"
+          }
+        }
+      ],
+      "recovery": [
+        {
+          "routed_single": [],
+          "failed_single": [],
+          "open_single": [],
+          "failed_multipoint": [
+            {
+              "net_name": "CH2_SUM",
+              "failed_pads": [
+                {
+                  "component_ref": "R23",
+                  "pad_number": "?",
+                  "x": 43.6721,
+                  "y": 42.2911
+                }
+              ]
+            },
+            {
+              "net_name": "VBIAS",
+              "failed_pads": [
+                {
+                  "component_ref": "R23",
+                  "pad_number": "?",
+                  "x": 41.6721,
+                  "y": 42.2911
+                },
+                {
+                  "component_ref": "R35",
+                  "pad_number": "?",
+                  "x": 38.8621,
+                  "y": 44.1801
+                }
+              ]
+            }
+          ],
+          "multipoint_nets": 2,
+          "multipoint_pads_connected": 6,
+          "multipoint_pads_total": 9,
+          "multipoint_edges_routed": 1,
+          "multipoint_edges_failed": 2,
+          "ripup_success_pairs": [],
+          "rerouted_pairs": [],
+          "single_ended_target_swaps": [],
+          "layer_swaps": 0,
+          "successful": 0,
+          "failed": 2,
+          "total_time": 0.49,
+          "total_iterations": 393617,
+          "total_vias": 0,
+          "cleanup_disconnected": [],
+          "min_clearance_used": 0.3,
+          "rescue": {
+            "attempted": 2,
+            "recovered": [],
+            "improved": [],
+            "unchanged": [
+              "CH2_SUM",
+              "VBIAS"
+            ],
+            "pads_reconnected": 0,
+            "widths": {},
+            "time": 0.02
+          },
+          "stacked_copper": [
+            {
+              "category": "stacked-copper",
+              "net": "PC0",
+              "layer": "F.Cu",
+              "x": 30.48,
+              "y": 52.308,
+              "detail": "2 duplicate segments stacked on (30.480, 52.308)-(30.566, 52.394)",
+              "size": 0.12162236636408408
+            }
+          ],
+          "oracle_check": "disabled",
+          "pad_pairs_connected": 83,
+          "pad_pairs_total": 85,
+          "pad_pairs_open": [
+            {
+              "net": "CH2_SUM",
+              "pairs_connected": 2,
+              "pairs_total": 3,
+              "outcome": "open",
+              "open_subtype": "partial"
+            },
+            {
+              "net": "VBIAS",
+              "pairs_connected": 3,
+              "pairs_total": 4,
+              "outcome": "open",
+              "open_subtype": "partial"
+            }
+          ],
+          "scope": "reconciliation-subset",
+          "board_scoped_keys": [
+            "stacked_copper",
+            "min_clearance_used"
+          ],
+          "env_knobs": {
+            "KICAD_BARE_PAD_ESCAPE": "0",
+            "KICAD_DYNAMIC_ITERATIONS": "0",
+            "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+            "KICAD_FINALIZE_RIP": "1",
+            "KICAD_IMPEDANCE_NECKDOWN": "1",
+            "KICAD_NET_RESCUE": "1",
+            "KICAD_PLANE_FINALIZE": "0",
+            "KICAD_RESCUE_CAP_MOVE": "0",
+            "KICAD_RIP_PREEXISTING": "1",
+            "KICAD_TERMINAL_ESCALATION": "0"
+          },
+          "blockers": [
+            {
+              "net": "CH2_SUM",
+              "stage": "phase3",
+              "blocked_by": [
+                {
+                  "net": "PC1",
+                  "blocked_count": 6,
+                  "unique_cells": 6,
+                  "track_cells": 6,
+                  "via_cells": 0,
+                  "near_target_cells": 0,
+                  "near_source_cells": 0
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "impedance": {
+        "stackupPresent": true,
+        "verifiedNets": [],
+        "reports": [],
+        "planeFillFieldSolverVerificationRequired": false
+      },
+      "repairs": [
+        {
+          "kind": "open",
+          "accepted": false,
+          "status": "completed",
+          "elapsedMs": 2302.526199999964,
+          "beforeOpenNets": [
+            "CH2_SUM",
+            "VBIAS"
+          ],
+          "afterOpenNets": [
+            "CH2_SUM",
+            "VBIAS"
+          ],
+          "beforeDrcViolations": 0,
+          "afterDrcViolations": 0,
+          "summary": {
+            "routed_single": [],
+            "failed_single": [
+              "VBIAS"
+            ],
+            "open_single": [],
+            "failed_multipoint": [
+              {
+                "net_name": "CH2_SUM",
+                "failed_pads": [
+                  {
+                    "component_ref": "R23",
+                    "pad_number": "?",
+                    "x": 43.6721,
+                    "y": 42.2911
+                  }
+                ]
+              }
+            ],
+            "multipoint_nets": 1,
+            "multipoint_pads_connected": 3,
+            "multipoint_pads_total": 4,
+            "multipoint_edges_routed": 0,
+            "multipoint_edges_failed": 1,
+            "ripup_success_pairs": [],
+            "rerouted_pairs": [],
+            "single_ended_target_swaps": [],
+            "layer_swaps": 0,
+            "successful": 0,
+            "failed": 2,
+            "total_time": 0.32,
+            "total_iterations": 24182,
+            "total_vias": 0,
+            "cleanup_disconnected": [],
+            "min_clearance_used": 0.3,
+            "stacked_copper": [
+              {
+                "category": "stacked-copper",
+                "net": "PC0",
+                "layer": "F.Cu",
+                "x": 30.48,
+                "y": 52.308,
+                "detail": "2 duplicate segments stacked on (30.480, 52.308)-(30.566, 52.394)",
+                "size": 0.12162236636408408
+              }
+            ],
+            "oracle_check": "disabled",
+            "blockers": [
+              {
+                "net": "VBIAS",
+                "stage": "preexisting",
+                "blocked_by": [
+                  {
+                    "net": "CH3_SUM",
+                    "preexisting": true
+                  },
+                  {
+                    "net": "CH1_SUM",
+                    "preexisting": true
+                  },
+                  {
+                    "net": "3V3_A",
+                    "preexisting": true
+                  },
+                  {
+                    "net": "REF_RAW",
+                    "preexisting": true
+                  }
+                ]
+              }
+            ],
+            "boxed_in": [
+              {
+                "verdict": "boxed_in_static",
+                "iterations": 6747,
+                "geometry": {
+                  "grid_step": 0.1,
+                  "clearance": 0.3,
+                  "track_width": 0.4,
+                  "via_diameter": null
+                },
+                "net": "VBIAS"
+              }
+            ],
+            "pad_pairs_connected": 70,
+            "pad_pairs_total": 72,
+            "pad_pairs_open": [
+              {
+                "net": "CH2_SUM",
+                "pairs_connected": 2,
+                "pairs_total": 3,
+                "outcome": "open",
+                "open_subtype": "partial"
+              },
+              {
+                "net": "VBIAS",
+                "pairs_connected": 3,
+                "pairs_total": 4,
+                "outcome": "open",
+                "open_subtype": "unrouted"
+              }
+            ],
+            "scope": "reconciliation-subset",
+            "board_scoped_keys": [
+              "stacked_copper",
+              "min_clearance_used"
+            ],
+            "env_knobs": {
+              "KICAD_BARE_PAD_ESCAPE": "0",
+              "KICAD_DYNAMIC_ITERATIONS": "0",
+              "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+              "KICAD_FINALIZE_RIP": "1",
+              "KICAD_IMPEDANCE_NECKDOWN": "1",
+              "KICAD_NET_RESCUE": "0",
+              "KICAD_PLANE_FINALIZE": "0",
+              "KICAD_RESCUE_CAP_MOVE": "0",
+              "KICAD_RIP_PREEXISTING": "1",
+              "KICAD_TERMINAL_ESCALATION": "0"
+            }
+          }
+        }
+      ],
+      "repairBudgetMs": 15000,
+      "repairElapsedMs": 3737.0379999999423,
+      "phaseTimings": {
+        "fanoutMs": 0,
+        "specialMs": 0,
+        "mainMs": 4937.5158999999985,
+        "rescueMs": 2704.6765000000596,
+        "targetedRepairMs": 3737.0379999999423,
+        "auditMs": 3066.7507000004407
+      },
+      "routingSubprocessCount": 2,
+      "expensiveRescueCount": 1,
+      "ordinaryRouteBatchCount": 1,
+      "ordinaryRouteBatchLimit": 32,
+      "finalConnectivityAuditMs": 371.6014000000432,
+      "finalDrc": {
+        "drcViolationCount": 0,
+        "shortViolationCount": 0,
+        "byType": {},
+        "contactsByType": {},
+        "fingerprintCount": 0,
+        "fingerprintSamples": [],
+        "shortFingerprintSamples": []
+      },
+      "stageGateElapsedMs": 1796.0132000001613,
+      "fanout": [],
+      "hybrid": {
+        "mode": "hybrid",
+        "krtNets": [
+          "3V3_A",
+          "CH2_SUM",
+          "CH3_SUM",
+          "PC1",
+          "VBIAS"
+        ],
+        "easyedaNets": [
+          "3V3_A",
+          "CH2_SUM",
+          "CH3_SUM",
+          "PC1",
+          "VBIAS"
+        ],
+        "reasons": {
+          "3V3_A": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH2_SUM": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "CH3_SUM": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "PC1": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ],
+          "VBIAS": [
+            "via-forbid",
+            "per-net-layers",
+            "krt-dependent"
+          ]
+        },
+        "stages": {
+          "easyedaBulk": {
+            "status": "complete",
+            "metrics": {
+              "elapsedMs": 844.9528000000864,
+              "routedNetCount": 5,
+              "openNetCount": 0,
+              "openNets": [],
+              "connectivityComponentCount": 5,
+              "trackLengthMm": 187.5182256777447,
+              "viaCount": 9,
+              "details": {
+                "progress": 1,
+                "routability": 1,
+                "connectivityEvidence": "easyeda-wasm-routability",
+                "routeNets": [
+                  "3V3_A",
+                  "CH2_SUM",
+                  "CH3_SUM",
+                  "PC1",
+                  "VBIAS"
+                ]
+              }
+            }
+          },
+          "krtPostEasy": {
+            "status": "partial",
+            "metrics": {
+              "elapsedMs": 14525.981000000145,
+              "routedNetCount": 3,
+              "openNetCount": 2,
+              "openNets": [
+                "CH2_SUM",
+                "VBIAS"
+              ],
+              "connectivityComponentCount": 7,
+              "viaCount": 0,
+              "trackLengthMm": 366.2778828017946,
+              "backend": "krt",
+              "details": {
+                "artifactsDirectory": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-ae40dbc8\\krt\\native-auto-post-easy\\remaining",
+                "runtime": {
+                  "version": "0.21.3",
+                  "source": "cache",
+                  "cacheDirectory": "C:\\Users\\kagas\\AppData\\Local\\eda-copilot\\router"
+                },
+                "policy": "native-auto",
+                "workflowMode": "post-easy",
+                "preRouteConnectivity": {
+                  "openNets": [
+                    "3V3_A",
+                    "CH2_SUM",
+                    "CH3_SUM",
+                    "PC1",
+                    "VBIAS"
+                  ],
+                  "componentsByNet": {
+                    "3V3_A": 14,
+                    "CH2_SUM": 4,
+                    "CH3_SUM": 4,
+                    "PC1": 4,
+                    "VBIAS": 5
+                  },
+                  "connectivityComponentCount": 31
+                },
+                "initialConnectivity": {
+                  "openNets": [
+                    "3V3_A",
+                    "PC1",
+                    "VBIAS"
+                  ],
+                  "componentsByNet": {
+                    "3V3_A": 14,
+                    "CH2_SUM": 1,
+                    "CH3_SUM": 1,
+                    "PC1": 4,
+                    "VBIAS": 5
+                  },
+                  "connectivityComponentCount": 25
+                },
+                "finalConnectivity": {
+                  "openNets": [
+                    "CH2_SUM",
+                    "VBIAS"
+                  ],
+                  "componentsByNet": {
+                    "3V3_A": 1,
+                    "CH2_SUM": 2,
+                    "CH3_SUM": 1,
+                    "PC1": 1,
+                    "VBIAS": 2
+                  },
+                  "connectivityComponentCount": 7
+                },
+                "protectedNets": [],
+                "specialBatches": [],
+                "specialConstraintsDeferred": false,
+                "deferredSpecialNets": [],
+                "verifiedSpecialNets": [],
+                "ordinaryFallbackSpecialNets": [],
+                "rejectedSpecialNets": [],
+                "critical": [],
+                "early": [],
+                "main": [
+                  {
+                    "routed_single": [],
+                    "failed_single": [],
+                    "open_single": [],
+                    "failed_multipoint": [
+                      {
+                        "net_name": "CH3_SUM",
+                        "failed_pads": [
+                          {
+                            "component_ref": "R35",
+                            "pad_number": "?",
+                            "x": 38.8621,
+                            "y": 42.1801
+                          },
+                          {
+                            "component_ref": "U1",
+                            "pad_number": "?",
+                            "x": 36.1011,
+                            "y": 43.1801
+                          }
+                        ]
+                      },
+                      {
+                        "net_name": "3V3_A",
+                        "failed_pads": [
+                          {
+                            "component_ref": "D9",
+                            "pad_number": "?",
+                            "x": 37.0231,
+                            "y": 30.9541
+                          },
+                          {
+                            "component_ref": "R37",
+                            "pad_number": "?",
+                            "x": 19.431,
+                            "y": 36.8141
+                          }
+                        ]
+                      },
+                      {
+                        "net_name": "CH2_SUM",
+                        "failed_pads": [
+                          {
+                            "component_ref": "R23",
+                            "pad_number": "?",
+                            "x": 43.6721,
+                            "y": 42.2911
+                          }
+                        ]
+                      }
+                    ],
+                    "multipoint_nets": 3,
+                    "multipoint_pads_connected": 17,
+                    "multipoint_pads_total": 22,
+                    "multipoint_edges_routed": 2,
+                    "multipoint_edges_failed": 4,
+                    "ripup_success_pairs": [],
+                    "rerouted_pairs": [],
+                    "single_ended_target_swaps": [],
+                    "layer_swaps": 0,
+                    "successful": 0,
+                    "failed": 3,
+                    "total_time": 0.42000000000000004,
+                    "total_iterations": 451941,
+                    "total_vias": 0,
+                    "cleanup_disconnected": [],
+                    "min_clearance_used": 0.3,
+                    "stacked_copper": [
+                      {
+                        "category": "stacked-copper",
+                        "net": "PC0",
+                        "layer": "F.Cu",
+                        "x": 30.48,
+                        "y": 52.308,
+                        "detail": "2 duplicate segments stacked on (30.480, 52.308)-(30.566, 52.394)",
+                        "size": 0.12162236636408408
+                      }
+                    ],
+                    "oracle_check": "disabled",
+                    "blockers": [
+                      {
+                        "net": "CH3_SUM",
+                        "stage": "phase3",
+                        "blocked_by": [
+                          {
+                            "net": "CH2_SUM",
+                            "blocked_count": 4,
+                            "unique_cells": 4,
+                            "track_cells": 4,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          }
+                        ]
+                      },
+                      {
+                        "net": "CH3_SUM",
+                        "stage": "preexisting",
+                        "blocked_by": [
+                          {
+                            "net": "VBIAS",
+                            "preexisting": true
+                          },
+                          {
+                            "net": "PC1",
+                            "preexisting": true
+                          },
+                          {
+                            "net": "CH3_ATT4",
+                            "preexisting": true
+                          },
+                          {
+                            "net": "CH3_ATT8",
+                            "preexisting": true
+                          },
+                          {
+                            "net": "PC2",
+                            "preexisting": true
+                          },
+                          {
+                            "net": "CH2_ATT8",
+                            "preexisting": true
+                          }
+                        ]
+                      }
+                    ],
+                    "pad_pairs_connected": 81,
+                    "pad_pairs_total": 85,
+                    "pad_pairs_open": [
+                      {
+                        "net": "3V3_A",
+                        "pairs_connected": 11,
+                        "pairs_total": 13,
+                        "outcome": "open",
+                        "open_subtype": "partial"
+                      },
+                      {
+                        "net": "CH2_SUM",
+                        "pairs_connected": 2,
+                        "pairs_total": 3,
+                        "outcome": "open",
+                        "open_subtype": "partial"
+                      },
+                      {
+                        "net": "CH3_SUM",
+                        "pairs_connected": 2,
+                        "pairs_total": 3,
+                        "outcome": "open",
+                        "open_subtype": "partial"
+                      }
+                    ],
+                    "scope": "reconciliation-subset",
+                    "board_scoped_keys": [
+                      "stacked_copper",
+                      "min_clearance_used"
+                    ],
+                    "env_knobs": {
+                      "KICAD_BARE_PAD_ESCAPE": "0",
+                      "KICAD_DYNAMIC_ITERATIONS": "0",
+                      "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+                      "KICAD_FINALIZE_RIP": "1",
+                      "KICAD_IMPEDANCE_NECKDOWN": "1",
+                      "KICAD_NET_RESCUE": "0",
+                      "KICAD_PLANE_FINALIZE": "0",
+                      "KICAD_RESCUE_CAP_MOVE": "0",
+                      "KICAD_RIP_PREEXISTING": "1",
+                      "KICAD_TERMINAL_ESCALATION": "0"
+                    }
+                  }
+                ],
+                "recovery": [
+                  {
+                    "routed_single": [],
+                    "failed_single": [],
+                    "open_single": [],
+                    "failed_multipoint": [
+                      {
+                        "net_name": "CH2_SUM",
+                        "failed_pads": [
+                          {
+                            "component_ref": "R23",
+                            "pad_number": "?",
+                            "x": 43.6721,
+                            "y": 42.2911
+                          }
+                        ]
+                      },
+                      {
+                        "net_name": "VBIAS",
+                        "failed_pads": [
+                          {
+                            "component_ref": "R23",
+                            "pad_number": "?",
+                            "x": 41.6721,
+                            "y": 42.2911
+                          },
+                          {
+                            "component_ref": "R35",
+                            "pad_number": "?",
+                            "x": 38.8621,
+                            "y": 44.1801
+                          }
+                        ]
+                      }
+                    ],
+                    "multipoint_nets": 2,
+                    "multipoint_pads_connected": 6,
+                    "multipoint_pads_total": 9,
+                    "multipoint_edges_routed": 1,
+                    "multipoint_edges_failed": 2,
+                    "ripup_success_pairs": [],
+                    "rerouted_pairs": [],
+                    "single_ended_target_swaps": [],
+                    "layer_swaps": 0,
+                    "successful": 0,
+                    "failed": 2,
+                    "total_time": 0.49,
+                    "total_iterations": 393617,
+                    "total_vias": 0,
+                    "cleanup_disconnected": [],
+                    "min_clearance_used": 0.3,
+                    "rescue": {
+                      "attempted": 2,
+                      "recovered": [],
+                      "improved": [],
+                      "unchanged": [
+                        "CH2_SUM",
+                        "VBIAS"
+                      ],
+                      "pads_reconnected": 0,
+                      "widths": {},
+                      "time": 0.02
+                    },
+                    "stacked_copper": [
+                      {
+                        "category": "stacked-copper",
+                        "net": "PC0",
+                        "layer": "F.Cu",
+                        "x": 30.48,
+                        "y": 52.308,
+                        "detail": "2 duplicate segments stacked on (30.480, 52.308)-(30.566, 52.394)",
+                        "size": 0.12162236636408408
+                      }
+                    ],
+                    "oracle_check": "disabled",
+                    "pad_pairs_connected": 83,
+                    "pad_pairs_total": 85,
+                    "pad_pairs_open": [
+                      {
+                        "net": "CH2_SUM",
+                        "pairs_connected": 2,
+                        "pairs_total": 3,
+                        "outcome": "open",
+                        "open_subtype": "partial"
+                      },
+                      {
+                        "net": "VBIAS",
+                        "pairs_connected": 3,
+                        "pairs_total": 4,
+                        "outcome": "open",
+                        "open_subtype": "partial"
+                      }
+                    ],
+                    "scope": "reconciliation-subset",
+                    "board_scoped_keys": [
+                      "stacked_copper",
+                      "min_clearance_used"
+                    ],
+                    "env_knobs": {
+                      "KICAD_BARE_PAD_ESCAPE": "0",
+                      "KICAD_DYNAMIC_ITERATIONS": "0",
+                      "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+                      "KICAD_FINALIZE_RIP": "1",
+                      "KICAD_IMPEDANCE_NECKDOWN": "1",
+                      "KICAD_NET_RESCUE": "1",
+                      "KICAD_PLANE_FINALIZE": "0",
+                      "KICAD_RESCUE_CAP_MOVE": "0",
+                      "KICAD_RIP_PREEXISTING": "1",
+                      "KICAD_TERMINAL_ESCALATION": "0"
+                    },
+                    "blockers": [
+                      {
+                        "net": "CH2_SUM",
+                        "stage": "phase3",
+                        "blocked_by": [
+                          {
+                            "net": "PC1",
+                            "blocked_count": 6,
+                            "unique_cells": 6,
+                            "track_cells": 6,
+                            "via_cells": 0,
+                            "near_target_cells": 0,
+                            "near_source_cells": 0
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "impedance": {
+                  "stackupPresent": true,
+                  "verifiedNets": [],
+                  "reports": [],
+                  "planeFillFieldSolverVerificationRequired": false
+                },
+                "repairs": [
+                  {
+                    "kind": "open",
+                    "accepted": false,
+                    "status": "completed",
+                    "elapsedMs": 2302.526199999964,
+                    "beforeOpenNets": [
+                      "CH2_SUM",
+                      "VBIAS"
+                    ],
+                    "afterOpenNets": [
+                      "CH2_SUM",
+                      "VBIAS"
+                    ],
+                    "beforeDrcViolations": 0,
+                    "afterDrcViolations": 0,
+                    "summary": {
+                      "routed_single": [],
+                      "failed_single": [
+                        "VBIAS"
+                      ],
+                      "open_single": [],
+                      "failed_multipoint": [
+                        {
+                          "net_name": "CH2_SUM",
+                          "failed_pads": [
+                            {
+                              "component_ref": "R23",
+                              "pad_number": "?",
+                              "x": 43.6721,
+                              "y": 42.2911
+                            }
+                          ]
+                        }
+                      ],
+                      "multipoint_nets": 1,
+                      "multipoint_pads_connected": 3,
+                      "multipoint_pads_total": 4,
+                      "multipoint_edges_routed": 0,
+                      "multipoint_edges_failed": 1,
+                      "ripup_success_pairs": [],
+                      "rerouted_pairs": [],
+                      "single_ended_target_swaps": [],
+                      "layer_swaps": 0,
+                      "successful": 0,
+                      "failed": 2,
+                      "total_time": 0.32,
+                      "total_iterations": 24182,
+                      "total_vias": 0,
+                      "cleanup_disconnected": [],
+                      "min_clearance_used": 0.3,
+                      "stacked_copper": [
+                        {
+                          "category": "stacked-copper",
+                          "net": "PC0",
+                          "layer": "F.Cu",
+                          "x": 30.48,
+                          "y": 52.308,
+                          "detail": "2 duplicate segments stacked on (30.480, 52.308)-(30.566, 52.394)",
+                          "size": 0.12162236636408408
+                        }
+                      ],
+                      "oracle_check": "disabled",
+                      "blockers": [
+                        {
+                          "net": "VBIAS",
+                          "stage": "preexisting",
+                          "blocked_by": [
+                            {
+                              "net": "CH3_SUM",
+                              "preexisting": true
+                            },
+                            {
+                              "net": "CH1_SUM",
+                              "preexisting": true
+                            },
+                            {
+                              "net": "3V3_A",
+                              "preexisting": true
+                            },
+                            {
+                              "net": "REF_RAW",
+                              "preexisting": true
+                            }
+                          ]
+                        }
+                      ],
+                      "boxed_in": [
+                        {
+                          "verdict": "boxed_in_static",
+                          "iterations": 6747,
+                          "geometry": {
+                            "grid_step": 0.1,
+                            "clearance": 0.3,
+                            "track_width": 0.4,
+                            "via_diameter": null
+                          },
+                          "net": "VBIAS"
+                        }
+                      ],
+                      "pad_pairs_connected": 70,
+                      "pad_pairs_total": 72,
+                      "pad_pairs_open": [
+                        {
+                          "net": "CH2_SUM",
+                          "pairs_connected": 2,
+                          "pairs_total": 3,
+                          "outcome": "open",
+                          "open_subtype": "partial"
+                        },
+                        {
+                          "net": "VBIAS",
+                          "pairs_connected": 3,
+                          "pairs_total": 4,
+                          "outcome": "open",
+                          "open_subtype": "unrouted"
+                        }
+                      ],
+                      "scope": "reconciliation-subset",
+                      "board_scoped_keys": [
+                        "stacked_copper",
+                        "min_clearance_used"
+                      ],
+                      "env_knobs": {
+                        "KICAD_BARE_PAD_ESCAPE": "0",
+                        "KICAD_DYNAMIC_ITERATIONS": "0",
+                        "KICAD_DYNAMIC_ITERATIONS_CLAMP": "200000",
+                        "KICAD_FINALIZE_RIP": "1",
+                        "KICAD_IMPEDANCE_NECKDOWN": "1",
+                        "KICAD_NET_RESCUE": "0",
+                        "KICAD_PLANE_FINALIZE": "0",
+                        "KICAD_RESCUE_CAP_MOVE": "0",
+                        "KICAD_RIP_PREEXISTING": "1",
+                        "KICAD_TERMINAL_ESCALATION": "0"
+                      }
+                    }
+                  }
+                ],
+                "repairBudgetMs": 15000,
+                "repairElapsedMs": 3737.0379999999423,
+                "phaseTimings": {
+                  "fanoutMs": 0,
+                  "specialMs": 0,
+                  "mainMs": 4937.5158999999985,
+                  "rescueMs": 2704.6765000000596,
+                  "targetedRepairMs": 3737.0379999999423,
+                  "auditMs": 3066.7507000004407
+                },
+                "routingSubprocessCount": 2,
+                "expensiveRescueCount": 1,
+                "ordinaryRouteBatchCount": 1,
+                "ordinaryRouteBatchLimit": 32,
+                "finalConnectivityAuditMs": 371.6014000000432,
+                "finalDrc": {
+                  "drcViolationCount": 0,
+                  "shortViolationCount": 0,
+                  "byType": {},
+                  "contactsByType": {},
+                  "fingerprintCount": 0,
+                  "fingerprintSamples": [],
+                  "shortFingerprintSamples": []
+                },
+                "stageGateElapsedMs": 1796.0132000001613,
+                "fanout": []
+              }
+            }
+          }
+        },
+        "provisionalKrtCustody": {
+          "nets": [
+            "3V3_A",
+            "CH2_SUM",
+            "CH3_SUM",
+            "PC1",
+            "VBIAS"
+          ],
+          "removed": {
+            "tracks": 28,
+            "vias": 9,
+            "zones": 0
+          },
+          "restoredIncoming": {
+            "tracks": 0,
+            "vias": 0,
+            "zones": 0
+          },
+          "retainedCompliantNets": [
+            "CH2_SUM",
+            "CH3_SUM"
+          ]
+        }
+      },
+      "hybridInput": {
+        "openNets": [
+          "3V3_A",
+          "CH2_SUM",
+          "CH3_SUM",
+          "PC1",
+          "VBIAS"
+        ],
+        "connectivityComponentCount": 31
+      },
+      "copperPlanning": {
+        "compactPlans": 0,
+        "compactReady": 0,
+        "planeZones": 0,
+        "stitchingVias": 0
+      },
+      "planePlanning": {
+        "compactPlans": 0,
+        "compactReady": 0,
+        "planeZones": 0,
+        "stitchingVias": 0
+      },
+      "routePlan": {
+        "schemaVersion": 1,
+        "scopeNets": [
+          "3V3_A",
+          "CH2_SUM",
+          "CH3_SUM",
+          "PC1",
+          "VBIAS"
+        ],
+        "netPolicies": [
+          {
+            "net": "3V3_A",
+            "priority": "high",
+            "viaPreference": "forbid",
+            "priorityWeight": 16,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH2_SUM",
+            "priority": "high",
+            "viaPreference": "forbid",
+            "priorityWeight": 16,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "CH3_SUM",
+            "priority": "high",
+            "viaPreference": "forbid",
+            "priorityWeight": 16,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "PC1",
+            "priority": "high",
+            "viaPreference": "forbid",
+            "priorityWeight": 16,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          },
+          {
+            "net": "VBIAS",
+            "priority": "high",
+            "viaPreference": "forbid",
+            "priorityWeight": 16,
+            "viaPenalty": 1000000,
+            "protectOnSuccess": false
+          }
+        ],
+        "fanout": {
+          "enabled": false,
+          "targets": []
+        },
+        "groups": [],
+        "mainNets": [
+          "3V3_A",
+          "CH2_SUM",
+          "CH3_SUM",
+          "PC1",
+          "VBIAS"
+        ]
+      },
+      "candidateAudit": {
+        "selected": {
+          "label": "hybrid",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 32,
+          "openNetCount": 2,
+          "connectivityComponentCount": 7,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 366.2778828017946,
+          "score": [
+            0,
+            0,
+            32,
+            2,
+            7,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            366.2778828017946,
+            0
+          ]
+        },
+        "attempted": {
+          "label": "hybrid",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 32,
+          "openNetCount": 2,
+          "connectivityComponentCount": 7,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 366.2778828017946,
+          "score": [
+            0,
+            0,
+            32,
+            2,
+            7,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            366.2778828017946,
+            0
+          ]
+        },
+        "baseline": {
+          "label": "pre-route-checkpoint",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 80,
+          "openNetCount": 5,
+          "connectivityComponentCount": 31,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 0,
+          "score": [
+            0,
+            0,
+            80,
+            5,
+            31,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1
+          ]
+        }
+      }
+    },
+    "candidateCount": 1
+  },
+  "requiresNativeVerification": true
+}

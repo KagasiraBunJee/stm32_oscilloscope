@@ -1,0 +1,1339 @@
+{
+  "components": [
+    {
+      "designator": "J1",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH1_DIRECT"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "CH1 DIRECT 0-3.3V",
+      "part_uuid": null
+    },
+    {
+      "designator": "J2",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH1_HIGH"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "CH1 HIGH +/-15V",
+      "part_uuid": null
+    },
+    {
+      "designator": "R1",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH1_DIRECT"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "PA1"
+        }
+      ],
+      "value": "100R",
+      "part_uuid": null
+    },
+    {
+      "designator": "R13",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH2_DIRECT"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "PA2"
+        }
+      ],
+      "value": "100R",
+      "part_uuid": null
+    },
+    {
+      "designator": "R25",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH3_DIRECT"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "PA3"
+        }
+      ],
+      "value": "100R",
+      "part_uuid": null
+    },
+    {
+      "designator": "C1",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "PA1"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "1nF",
+      "part_uuid": null
+    },
+    {
+      "designator": "C2",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "PC0"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "1nF",
+      "part_uuid": null
+    },
+    {
+      "designator": "C3",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "PA2"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "1nF",
+      "part_uuid": null
+    },
+    {
+      "designator": "C4",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "PC1"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "1nF",
+      "part_uuid": null
+    },
+    {
+      "designator": "C5",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "PA3"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "1nF",
+      "part_uuid": null
+    },
+    {
+      "designator": "C6",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "PC2"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "1nF",
+      "part_uuid": null
+    },
+    {
+      "designator": "D1",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "GND"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "3V3_A"
+        },
+        {
+          "pin_number": "3",
+          "name": "3",
+          "signal_name": "PA1"
+        }
+      ],
+      "value": "BAT54S",
+      "part_uuid": null
+    },
+    {
+      "designator": "D3",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "GND"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "3V3_A"
+        },
+        {
+          "pin_number": "3",
+          "name": "3",
+          "signal_name": "PC0"
+        }
+      ],
+      "value": "BAT54S",
+      "part_uuid": null
+    },
+    {
+      "designator": "D4",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "GND"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "3V3_A"
+        },
+        {
+          "pin_number": "3",
+          "name": "3",
+          "signal_name": "PA2"
+        }
+      ],
+      "value": "BAT54S",
+      "part_uuid": null
+    },
+    {
+      "designator": "D6",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "GND"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "3V3_A"
+        },
+        {
+          "pin_number": "3",
+          "name": "3",
+          "signal_name": "PC1"
+        }
+      ],
+      "value": "BAT54S",
+      "part_uuid": null
+    },
+    {
+      "designator": "D7",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "GND"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "3V3_A"
+        },
+        {
+          "pin_number": "3",
+          "name": "3",
+          "signal_name": "PA3"
+        }
+      ],
+      "value": "BAT54S",
+      "part_uuid": null
+    },
+    {
+      "designator": "D9",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "GND"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "3V3_A"
+        },
+        {
+          "pin_number": "3",
+          "name": "3",
+          "signal_name": "PC2"
+        }
+      ],
+      "value": "BAT54S",
+      "part_uuid": null
+    },
+    {
+      "designator": "R2",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH1_HIGH"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH1_ATT1"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R3",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH1_ATT1"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH1_ATT2"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R4",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH1_ATT2"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH1_ATT3"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R5",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH1_ATT3"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH1_ATT4"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R6",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH1_ATT4"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH1_ATT5"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R7",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH1_ATT5"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH1_ATT6"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R8",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH1_ATT6"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH1_ATT7"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R9",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH1_ATT7"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH1_ATT8"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R10",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH1_ATT8"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH1_SUM"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R11",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH1_SUM"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "VBIAS"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R14",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH2_HIGH"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH2_ATT1"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R15",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH2_ATT1"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH2_ATT2"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R16",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH2_ATT2"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH2_ATT3"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R17",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH2_ATT3"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH2_ATT4"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R18",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH2_ATT4"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH2_ATT5"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R19",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH2_ATT5"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH2_ATT6"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R20",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH2_ATT6"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH2_ATT7"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R21",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH2_ATT7"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH2_ATT8"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R22",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH2_ATT8"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH2_SUM"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R23",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH2_SUM"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "VBIAS"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R26",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH3_HIGH"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH3_ATT1"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R27",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH3_ATT1"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH3_ATT2"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R28",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH3_ATT2"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH3_ATT3"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R29",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH3_ATT3"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH3_ATT4"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R30",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH3_ATT4"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH3_ATT5"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R31",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH3_ATT5"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH3_ATT6"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R32",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH3_ATT6"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH3_ATT7"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R33",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH3_ATT7"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH3_ATT8"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R34",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH3_ATT8"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "CH3_SUM"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R35",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH3_SUM"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "VBIAS"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R39",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "REF_RAW"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "100k",
+      "part_uuid": null
+    },
+    {
+      "designator": "D2",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "GND"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "3V3_A"
+        },
+        {
+          "pin_number": "3",
+          "name": "3",
+          "signal_name": "CH1_SUM"
+        }
+      ],
+      "value": "BAS70-04",
+      "part_uuid": null
+    },
+    {
+      "designator": "D5",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "GND"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "3V3_A"
+        },
+        {
+          "pin_number": "3",
+          "name": "3",
+          "signal_name": "CH2_SUM"
+        }
+      ],
+      "value": "BAS70-04",
+      "part_uuid": null
+    },
+    {
+      "designator": "D8",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "GND"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "3V3_A"
+        },
+        {
+          "pin_number": "3",
+          "name": "3",
+          "signal_name": "CH3_SUM"
+        }
+      ],
+      "value": "BAS70-04",
+      "part_uuid": null
+    },
+    {
+      "designator": "R12",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH1_BUF"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "PC0"
+        }
+      ],
+      "value": "33R",
+      "part_uuid": null
+    },
+    {
+      "designator": "R24",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH2_BUF"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "PC1"
+        }
+      ],
+      "value": "33R",
+      "part_uuid": null
+    },
+    {
+      "designator": "R36",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH3_BUF"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "PC2"
+        }
+      ],
+      "value": "33R",
+      "part_uuid": null
+    },
+    {
+      "designator": "J3",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH2_DIRECT"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "CH2 DIRECT 0-3.3V",
+      "part_uuid": null
+    },
+    {
+      "designator": "J4",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH2_HIGH"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "CH2 HIGH +/-15V",
+      "part_uuid": null
+    },
+    {
+      "designator": "J5",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH3_DIRECT"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "CH3 DIRECT 0-3.3V",
+      "part_uuid": null
+    },
+    {
+      "designator": "J6",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "CH3_HIGH"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "CH3 HIGH +/-15V",
+      "part_uuid": null
+    },
+    {
+      "designator": "J7",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "3V3_IN"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "POWER 3.3V",
+      "part_uuid": null
+    },
+    {
+      "designator": "FB1",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "3V3_IN"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "3V3_A"
+        }
+      ],
+      "value": "Ferrite 600R@100MHz",
+      "part_uuid": null
+    },
+    {
+      "designator": "C7",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "3V3_A"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "10uF",
+      "part_uuid": null
+    },
+    {
+      "designator": "C8",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "3V3_A"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "100nF",
+      "part_uuid": null
+    },
+    {
+      "designator": "C9",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "REF_RAW"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "100nF",
+      "part_uuid": null
+    },
+    {
+      "designator": "R37",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "3V3_A"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "REF_MID"
+        }
+      ],
+      "value": "40k",
+      "part_uuid": null
+    },
+    {
+      "designator": "R38",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "REF_MID"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "REF_RAW"
+        }
+      ],
+      "value": "40k",
+      "part_uuid": null
+    },
+    {
+      "designator": "U1",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "VBIAS"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "VBIAS"
+        },
+        {
+          "pin_number": "3",
+          "name": "3",
+          "signal_name": "REF_RAW"
+        },
+        {
+          "pin_number": "4",
+          "name": "4",
+          "signal_name": "3V3_A"
+        },
+        {
+          "pin_number": "5",
+          "name": "5",
+          "signal_name": "CH1_SUM"
+        },
+        {
+          "pin_number": "6",
+          "name": "6",
+          "signal_name": "CH1_BUF"
+        },
+        {
+          "pin_number": "7",
+          "name": "7",
+          "signal_name": "CH1_BUF"
+        },
+        {
+          "pin_number": "8",
+          "name": "8",
+          "signal_name": "CH2_BUF"
+        },
+        {
+          "pin_number": "9",
+          "name": "9",
+          "signal_name": "CH2_BUF"
+        },
+        {
+          "pin_number": "10",
+          "name": "10",
+          "signal_name": "CH2_SUM"
+        },
+        {
+          "pin_number": "11",
+          "name": "11",
+          "signal_name": "GND"
+        },
+        {
+          "pin_number": "12",
+          "name": "12",
+          "signal_name": "CH3_SUM"
+        },
+        {
+          "pin_number": "13",
+          "name": "13",
+          "signal_name": "CH3_BUF"
+        },
+        {
+          "pin_number": "14",
+          "name": "14",
+          "signal_name": "CH3_BUF"
+        }
+      ],
+      "value": "TLV9064IDR",
+      "part_uuid": null
+    },
+    {
+      "designator": "J9",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "PA1"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "PA1 / GND",
+      "part_uuid": null,
+      "footprint_name": "排针"
+    },
+    {
+      "designator": "J10",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "PC0"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "PC0 / GND",
+      "part_uuid": null,
+      "footprint_name": "排针"
+    },
+    {
+      "designator": "J11",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "PA2"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "PA2 / GND",
+      "part_uuid": null,
+      "footprint_name": "排针"
+    },
+    {
+      "designator": "J12",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "PC1"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "PC1 / GND",
+      "part_uuid": null,
+      "footprint_name": "排针"
+    },
+    {
+      "designator": "J13",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "PA3"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "PA3 / GND",
+      "part_uuid": null,
+      "footprint_name": "排针"
+    },
+    {
+      "designator": "J14",
+      "pins": [
+        {
+          "pin_number": "1",
+          "name": "1",
+          "signal_name": "PC2"
+        },
+        {
+          "pin_number": "2",
+          "name": "2",
+          "signal_name": "GND"
+        }
+      ],
+      "value": "PC2 / GND",
+      "part_uuid": null,
+      "footprint_name": "排针"
+    }
+  ]
+}

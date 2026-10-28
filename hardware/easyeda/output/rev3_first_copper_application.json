@@ -1,0 +1,3027 @@
+{
+  "copperLayerCount": 2,
+  "tracks": [
+    {
+      "id": "easyeda-wasm-track-0",
+      "layer": 1,
+      "net": "CH2_ATT2",
+      "widthMm": 0.4,
+      "points": [
+        [
+          59.5471,
+          -59.8171
+        ],
+        [
+          60.595099999999995,
+          -59.8171
+        ],
+        [
+          61.9921,
+          -58.4201
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-1",
+      "layer": 1,
+      "net": "CH3_ATT3",
+      "widthMm": 0.4,
+      "points": [
+        [
+          39.3541,
+          -11.683999999999997
+        ],
+        [
+          41.8941,
+          -11.683999999999997
+        ],
+        [
+          41.9101,
+          -11.699999999999996
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-2",
+      "layer": 1,
+      "net": "CH1_ATT7",
+      "widthMm": 0.4,
+      "points": [
+        [
+          18.288,
+          -51.3241
+        ],
+        [
+          18.288,
+          -49.3871
+        ],
+        [
+          17.669,
+          -48.7681
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-3",
+      "layer": 1,
+      "net": "CH2_ATT6",
+      "widthMm": 0.4,
+      "points": [
+        [
+          54.7531,
+          -68.7071
+        ],
+        [
+          54.7531,
+          -66.7701
+        ],
+        [
+          55.4991,
+          -66.0241
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-4",
+      "layer": 1,
+      "net": "CH1_ATT2",
+      "widthMm": 0.4,
+      "points": [
+        [
+          10.16,
+          -71.0091
+        ],
+        [
+          8.921999999999997,
+          -71.0091
+        ],
+        [
+          7.366,
+          -69.4531
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-5",
+      "layer": 1,
+      "net": "CH3_ATT5",
+      "widthMm": 0.4,
+      "points": [
+        [
+          53.8481,
+          -16.113
+        ],
+        [
+          51.9111,
+          -16.113
+        ],
+        [
+          51.0541,
+          -15.256
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-6",
+      "layer": 1,
+      "net": "CH3_DIRECT",
+      "widthMm": 0.4,
+      "points": [
+        [
+          17.637,
+          -18.542
+        ],
+        [
+          19.177,
+          -18.542
+        ],
+        [
+          20.447,
+          -19.812
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-7",
+      "layer": 1,
+      "net": "CH1_ATT6",
+      "widthMm": 0.4,
+      "points": [
+        [
+          18.161,
+          -56.1501
+        ],
+        [
+          18.161,
+          -53.4511
+        ],
+        [
+          18.288,
+          -53.3241
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-8",
+      "layer": 1,
+      "net": "CH2_ATT1",
+      "widthMm": 0.4,
+      "points": [
+        [
+          58.1501,
+          -56.8961
+        ],
+        [
+          58.1501,
+          -59.2141
+        ],
+        [
+          57.5471,
+          -59.8171
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-9",
+      "layer": 1,
+      "net": "CH1_ATT5",
+      "widthMm": 0.4,
+      "points": [
+        [
+          14.859000000000002,
+          -61.2301
+        ],
+        [
+          15.081000000000003,
+          -61.2301
+        ],
+        [
+          18.161,
+          -58.1501
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-10",
+      "layer": 1,
+      "net": "CH2_DIRECT",
+      "widthMm": 0.4,
+      "points": [
+        [
+          46.4821,
+          -78.3592
+        ],
+        [
+          45.863099999999996,
+          -78.3592
+        ],
+        [
+          43.1801,
+          -81.0422
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-11",
+      "layer": 1,
+      "net": "PA3",
+      "widthMm": 0.4,
+      "points": [
+        [
+          12.988,
+          -17.78
+        ],
+        [
+          14.138001270002537,
+          -17.78
+        ],
+        [
+          14.900001270002537,
+          -18.542
+        ],
+        [
+          15.637,
+          -18.542
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-12",
+      "layer": 1,
+      "net": "PA3",
+      "widthMm": 0.4,
+      "points": [
+        [
+          14.900001270002537,
+          -18.542
+        ],
+        [
+          14.900001270002537,
+          -21.16799872999746
+        ],
+        [
+          14.097000000000001,
+          -21.971
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-13",
+      "layer": 1,
+      "net": "PA3",
+      "widthMm": 0.4,
+      "points": [
+        [
+          15.637,
+          -18.542
+        ],
+        [
+          15.637,
+          -16.54200000000001
+        ],
+        [
+          17.383,
+          -14.79600000000001
+        ],
+        [
+          17.383,
+          -14.605
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-14",
+      "layer": 1,
+      "net": "CH1_ATT3",
+      "widthMm": 0.4,
+      "points": [
+        [
+          7.366,
+          -67.4531
+        ],
+        [
+          8.222999999999999,
+          -67.4531
+        ],
+        [
+          10.795000000000002,
+          -64.8811
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-15",
+      "layer": 1,
+      "net": "CH2_ATT3",
+      "widthMm": 0.4,
+      "points": [
+        [
+          63.9921,
+          -58.4201
+        ],
+        [
+          63.9921,
+          -58.82010000000001
+        ],
+        [
+          61.99210000000001,
+          -60.820100000000004
+        ],
+        [
+          61.99210000000001,
+          -61.84909999999999
+        ],
+        [
+          61.8651,
+          -61.9761
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-16",
+      "layer": 1,
+      "net": "CH3_ATT6",
+      "widthMm": 0.4,
+      "points": [
+        [
+          51.0541,
+          -17.256
+        ],
+        [
+          50.3241,
+          -17.256
+        ],
+        [
+          47.3711,
+          -20.209
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-17",
+      "layer": 1,
+      "net": "CH2_ATT5",
+      "widthMm": 0.4,
+      "points": [
+        [
+          60.5791,
+          -68.9451
+        ],
+        [
+          56.9911,
+          -68.9451
+        ],
+        [
+          56.7531,
+          -68.7071
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-18",
+      "layer": 1,
+      "net": "CH2_SUM",
+      "widthMm": 0.4,
+      "points": [
+        [
+          36.1011,
+          -45.7201
+        ],
+        [
+          39.20110127000254,
+          -45.7201
+        ],
+        [
+          40.40110127000254,
+          -46.920100000000005
+        ],
+        [
+          41.88709999999999,
+          -46.920100000000005
+        ],
+        [
+          41.9101,
+          -46.897099999999995
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-19",
+      "layer": 1,
+      "net": "CH2_SUM",
+      "widthMm": 0.4,
+      "points": [
+        [
+          41.9101,
+          -46.897099999999995
+        ],
+        [
+          42.36009872999746,
+          -46.897099999999995
+        ],
+        [
+          43.9101,
+          -45.347098729997455
+        ],
+        [
+          44.71210127000254,
+          -45.347098729997455
+        ],
+        [
+          44.9741,
+          -45.0851
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-20",
+      "layer": 1,
+      "net": "CH2_SUM",
+      "widthMm": 0.4,
+      "points": [
+        [
+          43.9101,
+          -45.347098729997455
+        ],
+        [
+          43.9101,
+          -42.5291
+        ],
+        [
+          43.6721,
+          -42.2911
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-21",
+      "layer": 1,
+      "net": "CH1_DIRECT",
+      "widthMm": 0.4,
+      "points": [
+        [
+          17.526,
+          -84.8362
+        ],
+        [
+          14.207999999999991,
+          -84.8362
+        ],
+        [
+          13.573,
+          -85.4712
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-22",
+      "layer": 1,
+      "net": "CH1_ATT4",
+      "widthMm": 0.4,
+      "points": [
+        [
+          10.795000000000002,
+          -62.8811
+        ],
+        [
+          14.510000000000005,
+          -62.8811
+        ],
+        [
+          14.859000000000002,
+          -63.2301
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-23",
+      "layer": 1,
+      "net": "CH3_ATT2",
+      "widthMm": 0.4,
+      "points": [
+        [
+          41.5451,
+          -9.143999999999998
+        ],
+        [
+          39.54509999999999,
+          -9.143999999999998
+        ],
+        [
+          37.3541,
+          -11.334999999999987
+        ],
+        [
+          37.3541,
+          -11.683999999999997
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-24",
+      "layer": 1,
+      "net": "CH3_ATT7",
+      "widthMm": 0.4,
+      "points": [
+        [
+          47.3711,
+          -22.209
+        ],
+        [
+          47.3711,
+          -25.670099999999998
+        ],
+        [
+          48.1331,
+          -26.4321
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-25",
+      "layer": 1,
+      "net": "CH1_ATT8",
+      "widthMm": 0.4,
+      "points": [
+        [
+          19.669,
+          -48.7681
+        ],
+        [
+          20.469,
+          -49.5681
+        ],
+        [
+          22.469,
+          -49.5681
+        ],
+        [
+          23.987,
+          -48.0501
+        ],
+        [
+          23.987,
+          -48.0061
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-26",
+      "layer": 1,
+      "net": "3V3_IN",
+      "widthMm": 0.6,
+      "points": [
+        [
+          13.335,
+          -26.0511
+        ],
+        [
+          13.935000000000002,
+          -26.0511
+        ],
+        [
+          16.129,
+          -28.2451
+        ],
+        [
+          16.129,
+          -30.4801
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-27",
+      "layer": 1,
+      "net": "CH1_HIGH",
+      "widthMm": 0.4,
+      "points": [
+        [
+          22.987,
+          -65.4051
+        ],
+        [
+          20.717000000000002,
+          -65.4051
+        ],
+        [
+          18.288,
+          -67.8341
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-28",
+      "layer": 1,
+      "net": "CH3_HIGH",
+      "widthMm": 0.4,
+      "points": [
+        [
+          51.6731,
+          -9.143999999999998
+        ],
+        [
+          51.6731,
+          -9.54399999999999
+        ],
+        [
+          50.0731,
+          -11.143999999999991
+        ],
+        [
+          47.022100000000016,
+          -11.143999999999991
+        ],
+        [
+          46.8631,
+          -11.303000000000004
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-29",
+      "layer": 1,
+      "net": "PC0",
+      "widthMm": 0.4,
+      "points": [
+        [
+          31.7161,
+          -58.4201
+        ],
+        [
+          31.7161,
+          -57.17010127000254
+        ],
+        [
+          30.56609872999746,
+          -56.0201
+        ],
+        [
+          30.56609872999746,
+          -52.39409872999747
+        ],
+        [
+          30.4801,
+          -52.3081
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-30",
+      "layer": 1,
+      "net": "PC0",
+      "widthMm": 0.4,
+      "points": [
+        [
+          30.56609872999746,
+          -54.02009999999999
+        ],
+        [
+          27.461099999999995,
+          -54.02009999999999
+        ],
+        [
+          27.3051,
+          -53.8641
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-31",
+      "layer": 1,
+      "net": "PC0",
+      "widthMm": 0.4,
+      "points": [
+        [
+          31.7161,
+          -58.4201
+        ],
+        [
+          31.7161,
+          -59.27009872999746
+        ],
+        [
+          32.86610127000254,
+          -60.4201
+        ],
+        [
+          32.86610127000254,
+          -63.65409872999746
+        ],
+        [
+          31.3691,
+          -65.1511
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-32",
+      "layer": 1,
+      "net": "CH2_ATT4",
+      "widthMm": 0.4,
+      "points": [
+        [
+          63.8651,
+          -61.9761
+        ],
+        [
+          63.8651,
+          -63.659099999999995
+        ],
+        [
+          60.5791,
+          -66.9451
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-33",
+      "layer": 1,
+      "net": "PA2",
+      "widthMm": 0.4,
+      "points": [
+        [
+          37.372099999999996,
+          -67.9451
+        ],
+        [
+          38.8461,
+          -69.4191
+        ],
+        [
+          38.8461,
+          -75.4382
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-34",
+      "layer": 1,
+      "net": "PA2",
+      "widthMm": 0.4,
+      "points": [
+        [
+          38.8461,
+          -75.4382
+        ],
+        [
+          38.8461,
+          -78.9782
+        ],
+        [
+          38.9891,
+          -79.1212
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-35",
+      "layer": 1,
+      "net": "PA2",
+      "widthMm": 0.4,
+      "points": [
+        [
+          38.9891,
+          -79.1212
+        ],
+        [
+          42.91009999999999,
+          -83.0422
+        ],
+        [
+          43.1801,
+          -83.0422
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-36",
+      "layer": 1,
+      "net": "CH2_HIGH",
+      "widthMm": 0.4,
+      "points": [
+        [
+          53.3401,
+          -51.6891
+        ],
+        [
+          53.3401,
+          -54.086099999999995
+        ],
+        [
+          56.1501,
+          -56.8961
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-37",
+      "layer": 1,
+      "net": "PC2",
+      "widthMm": 0.4,
+      "points": [
+        [
+          37.9731,
+          -33.0541
+        ],
+        [
+          37.9731,
+          -38.3701
+        ],
+        [
+          38.0841,
+          -38.4811
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-38",
+      "layer": 1,
+      "net": "PC2",
+      "widthMm": 0.4,
+      "points": [
+        [
+          37.9731,
+          -33.0541
+        ],
+        [
+          37.523101270002535,
+          -33.0541
+        ],
+        [
+          31.0991,
+          -26.630098729997464
+        ],
+        [
+          31.0991,
+          -25.2731
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-39",
+      "layer": 1,
+      "net": "PC2",
+      "widthMm": 0.4,
+      "points": [
+        [
+          31.0991,
+          -25.2731
+        ],
+        [
+          31.0991,
+          -22.241
+        ],
+        [
+          31.3691,
+          -21.971
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-40",
+      "layer": 1,
+      "net": "CH3_ATT1",
+      "widthMm": 0.4,
+      "points": [
+        [
+          49.6731,
+          -9.143999999999998
+        ],
+        [
+          43.5451,
+          -9.143999999999998
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-46",
+      "layer": 1,
+      "net": "CH2_ATT7",
+      "widthMm": 0.4,
+      "points": [
+        [
+          55.4991,
+          -64.0241
+        ],
+        [
+          55.4991,
+          -59.452099999999994
+        ],
+        [
+          53.3241,
+          -57.2771
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-47",
+      "layer": 1,
+      "net": "CH3_ATT8",
+      "widthMm": 0.4,
+      "points": [
+        [
+          48.1331,
+          -28.4321
+        ],
+        [
+          48.1331,
+          -30.591099999999997
+        ],
+        [
+          42.5291,
+          -36.1951
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-48",
+      "layer": 1,
+      "net": "REF_MID",
+      "widthMm": 0.4,
+      "points": [
+        [
+          19.431,
+          -34.8141
+        ],
+        [
+          24.631000000000007,
+          -34.8141
+        ],
+        [
+          27.5431,
+          -37.7262
+        ],
+        [
+          27.5431,
+          -37.8461
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-49",
+      "layer": 1,
+      "net": "CH1_ATT1",
+      "widthMm": 0.4,
+      "points": [
+        [
+          18.288,
+          -69.8341
+        ],
+        [
+          15.113000000000003,
+          -73.0091
+        ],
+        [
+          10.16,
+          -73.0091
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-50",
+      "layer": 1,
+      "net": "PA1",
+      "widthMm": 0.4,
+      "points": [
+        [
+          31.843099999999996,
+          -73.0251
+        ],
+        [
+          19.79610000000001,
+          -73.0251
+        ],
+        [
+          17.256,
+          -75.5652
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-51",
+      "layer": 1,
+      "net": "PA1",
+      "widthMm": 0.4,
+      "points": [
+        [
+          17.256,
+          -75.5652
+        ],
+        [
+          17.256,
+          -75.96520000000001
+        ],
+        [
+          13.719000000000001,
+          -79.5022
+        ],
+        [
+          13.081,
+          -79.5022
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-52",
+      "layer": 1,
+      "net": "PA1",
+      "widthMm": 0.4,
+      "points": [
+        [
+          13.081,
+          -79.5022
+        ],
+        [
+          11.573,
+          -81.0102
+        ],
+        [
+          11.573,
+          -85.4712
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-53",
+      "layer": 1,
+      "net": "CH3_ATT4",
+      "widthMm": 0.4,
+      "points": [
+        [
+          41.9101,
+          -13.7
+        ],
+        [
+          43.510099999999994,
+          -15.299999999999994
+        ],
+        [
+          47.51010000000001,
+          -15.299999999999994
+        ],
+        [
+          48.6971,
+          -14.113
+        ],
+        [
+          53.8481,
+          -14.113
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-54",
+      "layer": 1,
+      "net": "CH2_ATT8",
+      "widthMm": 0.4,
+      "points": [
+        [
+          51.3241,
+          -57.2771
+        ],
+        [
+          46.9741,
+          -52.927099999999996
+        ],
+        [
+          46.9741,
+          -45.0851
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-55",
+      "layer": 1,
+      "net": "CH1_BUF",
+      "widthMm": 0.4,
+      "points": [
+        [
+          30.7011,
+          -46.9901
+        ],
+        [
+          30.7011,
+          -48.2601
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-56",
+      "layer": 1,
+      "net": "CH1_BUF",
+      "widthMm": 0.4,
+      "points": [
+        [
+          30.7011,
+          -48.2601
+        ],
+        [
+          30.7011,
+          -50.08710000000001
+        ],
+        [
+          30.4801,
+          -50.3081
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-57",
+      "layer": 1,
+      "net": "CH2_BUF",
+      "widthMm": 0.4,
+      "points": [
+        [
+          36.1011,
+          -46.9901
+        ],
+        [
+          36.1011,
+          -48.2601
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-58",
+      "layer": 1,
+      "net": "CH2_BUF",
+      "widthMm": 0.4,
+      "points": [
+        [
+          36.1011,
+          -48.2601
+        ],
+        [
+          36.1011,
+          -50.275099999999995
+        ],
+        [
+          35.9571,
+          -50.4191
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-59",
+      "layer": 1,
+      "net": "CH3_BUF",
+      "widthMm": 0.4,
+      "points": [
+        [
+          36.1011,
+          -40.6401
+        ],
+        [
+          36.1011,
+          -41.9101
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-60",
+      "layer": 1,
+      "net": "CH3_BUF",
+      "widthMm": 0.4,
+      "points": [
+        [
+          36.1011,
+          -40.6401
+        ],
+        [
+          36.1011,
+          -38.4981
+        ],
+        [
+          36.0841,
+          -38.4811
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-61",
+      "layer": 1,
+      "net": "REF_RAW",
+      "widthMm": 0.4,
+      "points": [
+        [
+          30.7011,
+          -43.180099999999996
+        ],
+        [
+          31.401101270002542,
+          -43.180099999999996
+        ],
+        [
+          32.461101270002544,
+          -42.120099999999994
+        ],
+        [
+          32.461101270002544,
+          -40.2401
+        ],
+        [
+          32.06110127000254,
+          -39.84009999999999
+        ],
+        [
+          28.3431,
+          -39.84009999999999
+        ],
+        [
+          27.5431,
+          -40.6401
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-62",
+      "layer": 1,
+      "net": "REF_RAW",
+      "widthMm": 0.4,
+      "points": [
+        [
+          27.5431,
+          -40.6401
+        ],
+        [
+          27.5431,
+          -40.2401
+        ],
+        [
+          25.543099999999995,
+          -38.2401
+        ],
+        [
+          25.5431,
+          -37.8461
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-63",
+      "layer": 1,
+      "net": "REF_RAW",
+      "widthMm": 0.4,
+      "points": [
+        [
+          25.5431,
+          -37.8461
+        ],
+        [
+          23.224999999999998,
+          -37.8461
+        ],
+        [
+          23.114,
+          -37.9571
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-64",
+      "layer": 1,
+      "net": "CH3_SUM",
+      "widthMm": 0.4,
+      "points": [
+        [
+          36.1011,
+          -43.180099999999996
+        ],
+        [
+          37.20110127000254,
+          -43.180099999999996
+        ],
+        [
+          38.20110127000254,
+          -42.1801
+        ],
+        [
+          38.8621,
+          -42.1801
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-65",
+      "layer": 1,
+      "net": "CH3_SUM",
+      "widthMm": 0.4,
+      "points": [
+        [
+          38.8621,
+          -42.1801
+        ],
+        [
+          38.8621,
+          -41.2411
+        ],
+        [
+          40.8601,
+          -39.2431
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-66",
+      "layer": 1,
+      "net": "CH3_SUM",
+      "widthMm": 0.4,
+      "points": [
+        [
+          40.8601,
+          -39.2431
+        ],
+        [
+          40.8601,
+          -36.5261
+        ],
+        [
+          40.5291,
+          -36.1951
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-72",
+      "layer": 1,
+      "net": "CH1_SUM",
+      "widthMm": 0.4,
+      "points": [
+        [
+          30.7011,
+          -45.7201
+        ],
+        [
+          29.31509872999746,
+          -45.7201
+        ],
+        [
+          28.258098729997457,
+          -46.777100000000004
+        ],
+        [
+          26.092,
+          -46.777100000000004
+        ],
+        [
+          24.892,
+          -45.5771
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-73",
+      "layer": 1,
+      "net": "CH1_SUM",
+      "widthMm": 0.4,
+      "points": [
+        [
+          24.892,
+          -45.5771
+        ],
+        [
+          21.921000000000006,
+          -45.5771
+        ],
+        [
+          21.844,
+          -45.500099999999996
+        ]
+      ]
+    },
+    {
+      "id": "easyeda-wasm-track-74",
+      "layer": 1,
+      "net": "CH1_SUM",
+      "widthMm": 0.4,
+      "points": [
+        [
+          21.844,
+          -45.500099999999996
+        ],
+        [
+          21.844,
+          -47.8631
+        ],
+        [
+          21.987,
+          -48.0061
+        ]
+      ]
+    }
+  ],
+  "vias": [],
+  "zones": [
+    {
+      "id": "plane:0:GND",
+      "net": "GND",
+      "layers": [
+        1
+      ],
+      "outline": [
+        [
+          0,
+          0
+        ],
+        [
+          70.0001397002794,
+          0
+        ],
+        [
+          70.0001397002794,
+          -90.0001803403607
+        ],
+        [
+          0,
+          -90.0001803403607
+        ]
+      ],
+      "holes": [],
+      "priority": 0,
+      "minThicknessMm": 0.4,
+      "clearanceMm": 0.3,
+      "connection": "thermal",
+      "fill": {
+        "style": "solid"
+      },
+      "padConnection": {
+        "mode": "thermal",
+        "thermalGapMm": 0.3,
+        "spokeWidthMm": 0.6,
+        "spokeCount": 4
+      },
+      "removeIslandsBelowMm2": 1
+    }
+  ],
+  "rules": {
+    "default": {
+      "clearanceMm": 0.3,
+      "edgeClearanceMm": 0.75,
+      "minTrackWidthMm": 0.3,
+      "preferredTrackWidthMm": 0.4,
+      "via": {
+        "minDiameterMm": 0.6,
+        "preferredDiameterMm": 0.6,
+        "minDrillMm": 0.3,
+        "preferredDrillMm": 0.3
+      },
+      "allowedLayers": [
+        "TOP"
+      ]
+    },
+    "nets": [
+      {
+        "net": "3V3_A",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.6,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "3V3_IN",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.6,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT3",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT4",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT5",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT6",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT7",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_ATT8",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_BUF",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_DIRECT",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_HIGH",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH1_SUM",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT3",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT4",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT5",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT6",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT7",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_ATT8",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_BUF",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_DIRECT",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_HIGH",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH2_SUM",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT3",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT4",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT5",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT6",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT7",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_ATT8",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_BUF",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_DIRECT",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_HIGH",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "CH3_SUM",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "GND",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.6,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PA1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PA2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PA3",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PC0",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PC1",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "PC2",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "REF_MID",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "REF_RAW",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      },
+      {
+        "net": "VBIAS",
+        "values": {
+          "clearanceMm": 0.3,
+          "edgeClearanceMm": 0.75,
+          "minTrackWidthMm": 0.3,
+          "preferredTrackWidthMm": 0.4,
+          "via": {
+            "minDiameterMm": 0.6,
+            "preferredDiameterMm": 0.6,
+            "minDrillMm": 0.3,
+            "preferredDrillMm": 0.3
+          },
+          "allowedLayers": [
+            "TOP"
+          ]
+        }
+      }
+    ]
+  },
+  "diagnostics": [
+    {
+      "code": "KRT_GROUND_UNPLANNED",
+      "severity": "warning",
+      "message": "KRT excludes ground from maze routing, but no ground zone is present; these nets will not be routed or counted as open.",
+      "details": {
+        "hybridBackend": "krt",
+        "hybridStage": "krt-post-easy",
+        "originalDetails": {
+          "nets": [
+            {
+              "net": "GND",
+              "padCount": 33
+            }
+          ],
+          "remediation": "Declare plane(...), retain a verified existing ground zone, or explicitly ignoreNets(...)."
+        }
+      }
+    },
+    {
+      "code": "HYBRID_ROUTE_MODE_SELECTED",
+      "severity": "info",
+      "message": "Hybrid routing selected hybrid.",
+      "details": {
+        "mode": "hybrid",
+        "fallback": false,
+        "krtNets": [
+          "3V3_A",
+          "3V3_IN",
+          "CH1_ATT1",
+          "CH1_ATT2",
+          "CH1_ATT3",
+          "CH1_ATT4",
+          "CH1_ATT5",
+          "CH1_ATT6",
+          "CH1_ATT7",
+          "CH1_ATT8",
+          "CH1_BUF",
+          "CH1_DIRECT",
+          "CH1_HIGH",
+          "CH1_SUM",
+          "CH2_ATT1",
+          "CH2_ATT2",
+          "CH2_ATT3",
+          "CH2_ATT4",
+          "CH2_ATT5",
+          "CH2_ATT6",
+          "CH2_ATT7",
+          "CH2_ATT8",
+          "CH2_BUF",
+          "CH2_DIRECT",
+          "CH2_HIGH",
+          "CH2_SUM",
+          "CH3_ATT1",
+          "CH3_ATT2",
+          "CH3_ATT3",
+          "CH3_ATT4",
+          "CH3_ATT5",
+          "CH3_ATT6",
+          "CH3_ATT7",
+          "CH3_ATT8",
+          "CH3_BUF",
+          "CH3_DIRECT",
+          "CH3_HIGH",
+          "CH3_SUM",
+          "PA1",
+          "PA2",
+          "PA3",
+          "PC0",
+          "PC1",
+          "PC2",
+          "REF_MID",
+          "REF_RAW",
+          "VBIAS"
+        ],
+        "easyedaNets": [
+          "3V3_A",
+          "3V3_IN",
+          "CH1_ATT1",
+          "CH1_ATT2",
+          "CH1_ATT3",
+          "CH1_ATT4",
+          "CH1_ATT5",
+          "CH1_ATT6",
+          "CH1_ATT7",
+          "CH1_ATT8",
+          "CH1_BUF",
+          "CH1_DIRECT",
+          "CH1_HIGH",
+          "CH1_SUM",
+          "CH2_ATT1",
+          "CH2_ATT2",
+          "CH2_ATT3",
+          "CH2_ATT4",
+          "CH2_ATT5",
+          "CH2_ATT6",
+          "CH2_ATT7",
+          "CH2_ATT8",
+          "CH2_BUF",
+          "CH2_DIRECT",
+          "CH2_HIGH",
+          "CH2_SUM",
+          "CH3_ATT1",
+          "CH3_ATT2",
+          "CH3_ATT3",
+          "CH3_ATT4",
+          "CH3_ATT5",
+          "CH3_ATT6",
+          "CH3_ATT7",
+          "CH3_ATT8",
+          "CH3_BUF",
+          "CH3_DIRECT",
+          "CH3_HIGH",
+          "CH3_SUM",
+          "PA1",
+          "PA2",
+          "PA3",
+          "PC0",
+          "PC1",
+          "PC2",
+          "REF_MID",
+          "REF_RAW",
+          "VBIAS"
+        ]
+      }
+    },
+    {
+      "code": "KRT_GROUND_UNPLANNED",
+      "severity": "warning",
+      "message": "KRT excludes ground from maze routing, but no ground zone is present; these nets will not be routed or counted as open.",
+      "details": {
+        "hybridBackend": "krt",
+        "hybridStage": "krt-post-easy",
+        "originalDetails": {
+          "nets": [
+            {
+              "net": "GND",
+              "padCount": 33
+            }
+          ],
+          "remediation": "Declare plane(...), retain a verified existing ground zone, or explicitly ignoreNets(...)."
+        }
+      }
+    },
+    {
+      "code": "HYBRID_ROUTE_MODE_SELECTED",
+      "severity": "info",
+      "message": "Hybrid routing selected hybrid.",
+      "details": {
+        "mode": "hybrid",
+        "fallback": false
+      }
+    },
+    {
+      "code": "KRT_RECONCILIATION_SUMMARY_MERGED",
+      "severity": "info",
+      "message": "Consumed KRT's authoritative merged reconciliation summary.",
+      "details": {
+        "count": 2,
+        "path": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-87f0d16c\\krt\\native-auto-post-easy\\remaining\\main\\ordinary-01\\krt-remaining-summary.json"
+      }
+    },
+    {
+      "code": "KRT_MULTIPOINT_INCOMPLETE",
+      "severity": "warning",
+      "message": "KRT left one or more multi-point pads disconnected.",
+      "details": [
+        {
+          "net_name": "CH3_SUM",
+          "failed_pads": [
+            {
+              "component_ref": "R35",
+              "pad_number": "?",
+              "x": 38.8621,
+              "y": 42.1801
+            },
+            {
+              "component_ref": "U1",
+              "pad_number": "?",
+              "x": 36.1011,
+              "y": 43.1801
+            }
+          ]
+        },
+        {
+          "net_name": "3V3_A",
+          "failed_pads": [
+            {
+              "component_ref": "D9",
+              "pad_number": "?",
+              "x": 37.0231,
+              "y": 30.9541
+            },
+            {
+              "component_ref": "R37",
+              "pad_number": "?",
+              "x": 19.431,
+              "y": 36.8141
+            }
+          ]
+        },
+        {
+          "net_name": "CH2_SUM",
+          "failed_pads": [
+            {
+              "component_ref": "R23",
+              "pad_number": "?",
+              "x": 43.6721,
+              "y": 42.2911
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "KRT_PAD_PAIRS_OPEN",
+      "severity": "warning",
+      "message": "KRT's final pad-pair report contains open nets.",
+      "details": [
+        {
+          "net": "3V3_A",
+          "pairs_connected": 11,
+          "pairs_total": 13,
+          "outcome": "open",
+          "open_subtype": "partial"
+        },
+        {
+          "net": "CH2_SUM",
+          "pairs_connected": 2,
+          "pairs_total": 3,
+          "outcome": "open",
+          "open_subtype": "partial"
+        },
+        {
+          "net": "CH3_SUM",
+          "pairs_connected": 2,
+          "pairs_total": 3,
+          "outcome": "open",
+          "open_subtype": "partial"
+        }
+      ]
+    },
+    {
+      "code": "KRT_STAGE_CANDIDATE_REJECTED",
+      "severity": "warning",
+      "message": "A KRT stage artifact was retained for diagnosis but the workflow rolled back to its previous checkpoint because a full-board safety invariant regressed.",
+      "details": {
+        "tag": "05-main-01",
+        "outputExists": true,
+        "hardDamage": [],
+        "ruleErrors": [],
+        "impedance": [],
+        "beforeOpenNets": [
+          "3V3_A",
+          "PC1",
+          "VBIAS"
+        ],
+        "afterOpenNets": [
+          "3V3_A",
+          "CH2_SUM",
+          "CH3_SUM"
+        ],
+        "beforeDrcViolations": 0,
+        "afterDrcViolations": 0,
+        "connectivityNonRegressing": false,
+        "connectivityImproved": true,
+        "effectiveConnectivityImproved": true,
+        "allowWeightedTradeoff": true,
+        "connectivityTradeoff": {
+          "evidenceComplete": true,
+          "hardConnectivityNonRegressing": true,
+          "weightedConnectivityImproved": false,
+          "baselinePriorityOpenPenalty": 24,
+          "candidatePriorityOpenPenalty": 36,
+          "baselineOpenNetCount": 3,
+          "candidateOpenNetCount": 3,
+          "baselineComponentExcess": 20,
+          "candidateComponentExcess": 4,
+          "newlyOpenedNets": [
+            "CH2_SUM",
+            "CH3_SUM"
+          ],
+          "newlyOpenedHardNets": [],
+          "newlyClosedNets": [
+            "PC1",
+            "VBIAS"
+          ]
+        },
+        "requireConnectivityImprovement": false,
+        "shortsNonRegressing": true,
+        "drcNonRegressing": true,
+        "gate": "ordinary"
+      }
+    },
+    {
+      "code": "KRT_RECONCILIATION_SUMMARY_MERGED",
+      "severity": "info",
+      "message": "Consumed KRT's authoritative merged reconciliation summary.",
+      "details": {
+        "count": 2,
+        "path": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-87f0d16c\\krt\\native-auto-post-easy\\remaining\\main-fallback\\original-via-avoid\\krt-remaining-summary.json"
+      }
+    },
+    {
+      "code": "KRT_MULTIPOINT_INCOMPLETE",
+      "severity": "warning",
+      "message": "KRT left one or more multi-point pads disconnected.",
+      "details": [
+        {
+          "net_name": "3V3_A",
+          "failed_pads": [
+            {
+              "component_ref": "D9",
+              "pad_number": "?",
+              "x": 37.0231,
+              "y": 30.9541
+            },
+            {
+              "component_ref": "R37",
+              "pad_number": "?",
+              "x": 19.431,
+              "y": 36.8141
+            }
+          ]
+        },
+        {
+          "net_name": "CH3_SUM",
+          "failed_pads": [
+            {
+              "component_ref": "R35",
+              "pad_number": "?",
+              "x": 38.8621,
+              "y": 42.1801
+            },
+            {
+              "component_ref": "U1",
+              "pad_number": "?",
+              "x": 36.1011,
+              "y": 43.1801
+            }
+          ]
+        },
+        {
+          "net_name": "CH2_SUM",
+          "failed_pads": [
+            {
+              "component_ref": "R23",
+              "pad_number": "?",
+              "x": 43.6721,
+              "y": 42.2911
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "KRT_PAD_PAIRS_OPEN",
+      "severity": "warning",
+      "message": "KRT's final pad-pair report contains open nets.",
+      "details": [
+        {
+          "net": "3V3_A",
+          "pairs_connected": 11,
+          "pairs_total": 13,
+          "outcome": "open",
+          "open_subtype": "partial"
+        },
+        {
+          "net": "CH2_SUM",
+          "pairs_connected": 2,
+          "pairs_total": 3,
+          "outcome": "open",
+          "open_subtype": "partial"
+        },
+        {
+          "net": "CH3_SUM",
+          "pairs_connected": 2,
+          "pairs_total": 3,
+          "outcome": "open",
+          "open_subtype": "partial"
+        }
+      ]
+    },
+    {
+      "code": "KRT_STAGE_CANDIDATE_REJECTED",
+      "severity": "warning",
+      "message": "A KRT stage artifact was retained for diagnosis but the workflow rolled back to its previous checkpoint because a full-board safety invariant regressed.",
+      "details": {
+        "tag": "05-main-fallback-original",
+        "outputExists": true,
+        "hardDamage": [],
+        "ruleErrors": [],
+        "impedance": [],
+        "beforeOpenNets": [
+          "3V3_A",
+          "PC1",
+          "VBIAS"
+        ],
+        "afterOpenNets": [
+          "3V3_A",
+          "CH2_SUM",
+          "CH3_SUM"
+        ],
+        "beforeDrcViolations": 0,
+        "afterDrcViolations": 0,
+        "connectivityNonRegressing": false,
+        "connectivityImproved": true,
+        "effectiveConnectivityImproved": true,
+        "allowWeightedTradeoff": true,
+        "connectivityTradeoff": {
+          "evidenceComplete": true,
+          "hardConnectivityNonRegressing": true,
+          "weightedConnectivityImproved": false,
+          "baselinePriorityOpenPenalty": 24,
+          "candidatePriorityOpenPenalty": 36,
+          "baselineOpenNetCount": 3,
+          "candidateOpenNetCount": 3,
+          "baselineComponentExcess": 20,
+          "candidateComponentExcess": 4,
+          "newlyOpenedNets": [
+            "CH2_SUM",
+            "CH3_SUM"
+          ],
+          "newlyOpenedHardNets": [],
+          "newlyClosedNets": [
+            "PC1",
+            "VBIAS"
+          ]
+        },
+        "requireConnectivityImprovement": true,
+        "shortsNonRegressing": true,
+        "drcNonRegressing": true,
+        "gate": "ordinary"
+      }
+    },
+    {
+      "code": "KRT_RECONCILIATION_SUMMARY_MERGED",
+      "severity": "info",
+      "message": "Consumed KRT's authoritative merged reconciliation summary.",
+      "details": {
+        "count": 2,
+        "path": "C:\\Users\\kagas\\AppData\\Local\\Temp\\easyeda-copilot-mcp\\copilot-router\\pcb-dsl-87f0d16c\\krt\\native-auto-post-easy\\remaining\\repair\\01-open-ordinary-01\\krt-remaining-summary.json"
+      }
+    },
+    {
+      "code": "KRT_MULTIPOINT_INCOMPLETE",
+      "severity": "warning",
+      "message": "KRT left one or more multi-point pads disconnected.",
+      "details": [
+        {
+          "net_name": "CH3_SUM",
+          "failed_pads": [
+            {
+              "component_ref": "R35",
+              "pad_number": "?",
+              "x": 38.8621,
+              "y": 42.1801
+            },
+            {
+              "component_ref": "U1",
+              "pad_number": "?",
+              "x": 36.1011,
+              "y": 43.1801
+            }
+          ]
+        },
+        {
+          "net_name": "3V3_A",
+          "failed_pads": [
+            {
+              "component_ref": "D9",
+              "pad_number": "?",
+              "x": 37.0231,
+              "y": 30.9541
+            },
+            {
+              "component_ref": "R37",
+              "pad_number": "?",
+              "x": 19.431,
+              "y": 36.8141
+            }
+          ]
+        },
+        {
+          "net_name": "CH2_SUM",
+          "failed_pads": [
+            {
+              "component_ref": "R23",
+              "pad_number": "?",
+              "x": 43.6721,
+              "y": 42.2911
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "KRT_PAD_PAIRS_OPEN",
+      "severity": "warning",
+      "message": "KRT's final pad-pair report contains open nets.",
+      "details": [
+        {
+          "net": "3V3_A",
+          "pairs_connected": 11,
+          "pairs_total": 13,
+          "outcome": "open",
+          "open_subtype": "partial"
+        },
+        {
+          "net": "CH2_SUM",
+          "pairs_connected": 2,
+          "pairs_total": 3,
+          "outcome": "open",
+          "open_subtype": "partial"
+        },
+        {
+          "net": "CH3_SUM",
+          "pairs_connected": 2,
+          "pairs_total": 3,
+          "outcome": "open",
+          "open_subtype": "partial"
+        }
+      ]
+    },
+    {
+      "code": "KRT_REPAIR_CANDIDATE_REJECTED",
+      "severity": "warning",
+      "message": "A targeted repair candidate was retained as an artifact but not applied because it did not improve its target or regressed a full-board safety gate.",
+      "details": {
+        "kind": "open",
+        "nets": [
+          "3V3_A",
+          "PC1",
+          "VBIAS"
+        ],
+        "blockerVictims": [],
+        "beforeOpenNets": [
+          "3V3_A",
+          "PC1",
+          "VBIAS"
+        ],
+        "afterOpenNets": [
+          "3V3_A",
+          "CH2_SUM",
+          "CH3_SUM"
+        ],
+        "beforeDrcViolations": 0,
+        "afterDrcViolations": 0,
+        "detourBounded": true,
+        "protectedDamage": false,
+        "protectionRestored": true,
+        "strictlyImproved": true
+      }
+    },
+    {
+      "code": "ROUTING_CANDIDATE_AUDITED",
+      "severity": "info",
+      "message": "Selected hybrid after semantic candidate audit.",
+      "details": {
+        "selected": {
+          "label": "hybrid",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 24,
+          "openNetCount": 3,
+          "connectivityComponentCount": 67,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 334.561060834639,
+          "score": [
+            0,
+            0,
+            24,
+            3,
+            67,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            334.561060834639,
+            0
+          ]
+        },
+        "attempted": {
+          "label": "hybrid",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 24,
+          "openNetCount": 3,
+          "connectivityComponentCount": 67,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 334.561060834639,
+          "score": [
+            0,
+            0,
+            24,
+            3,
+            67,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            334.561060834639,
+            0
+          ]
+        },
+        "baseline": {
+          "label": "pre-route-checkpoint",
+          "status": "partial",
+          "structurallyUsable": true,
+          "criticalRegressionCount": 0,
+          "priorityOpenPenalty": 284,
+          "openNetCount": 47,
+          "connectivityComponentCount": 132,
+          "differentialViolationCount": 0,
+          "matchedViolationCount": 0,
+          "impedanceViolationCount": 0,
+          "drcViolationCount": 0,
+          "errorCount": 0,
+          "forbiddenViaCount": 0,
+          "shortAvoidViaPenalty": 0,
+          "avoidViaPenalty": 0,
+          "viaCount": 0,
+          "trackLengthMm": 0,
+          "score": [
+            0,
+            0,
+            284,
+            47,
+            132,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -1
+          ]
+        }
+      }
+    },
+    {
+      "code": "EASYEDA_STACKUP_LAYER_COUNT_ONLY",
+      "severity": "warning",
+      "message": "EasyEDA will apply the 2-layer copper count; physical thickness and material properties remain managed by the open board."
+    },
+    {
+      "code": "EASYEDA_RESULT_ZONE_ISLAND_THRESHOLD_APPROXIMATED",
+      "severity": "warning",
+      "message": "Zone plane:0:GND island area threshold cannot be expressed by the EasyEDA extension API; all isolated islands will be removed."
+    },
+    {
+      "code": "EASYEDA_RESULT_ZONE_SPOKE_COUNT_UNSUPPORTED",
+      "severity": "warning",
+      "message": "Zone plane:0:GND spoke count is not exposed by the EasyEDA Copper Zone rule API and will follow EasyEDA's native rule behavior."
+    }
+  ]
+}

@@ -1,0 +1,1438 @@
+[
+  {
+    "set": 0,
+    "seed": 3,
+    "score": 12,
+    "newSegments": 158,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 2
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "3V3_A",
+        "groups": 9
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_3.json"
+  },
+  {
+    "set": 0,
+    "seed": 5,
+    "score": 12,
+    "newSegments": 158,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 9
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_5.json"
+  },
+  {
+    "set": 0,
+    "seed": 7,
+    "score": 12,
+    "newSegments": 158,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 2
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "3V3_A",
+        "groups": 9
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_7.json"
+  },
+  {
+    "set": 0,
+    "seed": 11,
+    "score": 12,
+    "newSegments": 158,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 9
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_11.json"
+  },
+  {
+    "set": 0,
+    "seed": 15,
+    "score": 12,
+    "newSegments": 158,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 9
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_15.json"
+  },
+  {
+    "set": 0,
+    "seed": 16,
+    "score": 12,
+    "newSegments": 158,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 9
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_16.json"
+  },
+  {
+    "set": 1,
+    "seed": 3,
+    "score": 12,
+    "newSegments": 184,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 9
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_3.json"
+  },
+  {
+    "set": 1,
+    "seed": 11,
+    "score": 12,
+    "newSegments": 190,
+    "failed": [
+      {
+        "net": "CH2_SUM",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 9
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_11.json"
+  },
+  {
+    "set": 2,
+    "seed": 4,
+    "score": 12,
+    "newSegments": 256,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "GND",
+        "groups": 10
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_4.json"
+  },
+  {
+    "set": 1,
+    "seed": 16,
+    "score": 13,
+    "newSegments": 189,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "3V3_A",
+        "groups": 10
+      },
+      {
+        "net": "CH1_SUM",
+        "groups": 2
+      },
+      {
+        "net": "CH2_SUM",
+        "groups": 2
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_16.json"
+  },
+  {
+    "set": 2,
+    "seed": 12,
+    "score": 13,
+    "newSegments": 237,
+    "failed": [
+      {
+        "net": "PC1",
+        "groups": 2
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "GND",
+        "groups": 7
+      },
+      {
+        "net": "CH2_SUM",
+        "groups": 4
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_12.json"
+  },
+  {
+    "set": 0,
+    "seed": 1,
+    "score": 14,
+    "newSegments": 151,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 12
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_1.json"
+  },
+  {
+    "set": 0,
+    "seed": 2,
+    "score": 14,
+    "newSegments": 151,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_2.json"
+  },
+  {
+    "set": 0,
+    "seed": 4,
+    "score": 14,
+    "newSegments": 151,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_4.json"
+  },
+  {
+    "set": 0,
+    "seed": 9,
+    "score": 14,
+    "newSegments": 151,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 12
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_9.json"
+  },
+  {
+    "set": 0,
+    "seed": 12,
+    "score": 14,
+    "newSegments": 151,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_12.json"
+  },
+  {
+    "set": 0,
+    "seed": 13,
+    "score": 14,
+    "newSegments": 151,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 12
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_13.json"
+  },
+  {
+    "set": 0,
+    "seed": 17,
+    "score": 14,
+    "newSegments": 151,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_17.json"
+  },
+  {
+    "set": 1,
+    "seed": 1,
+    "score": 14,
+    "newSegments": 178,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 11
+      },
+      {
+        "net": "CH2_SUM",
+        "groups": 2
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_1.json"
+  },
+  {
+    "set": 1,
+    "seed": 8,
+    "score": 14,
+    "newSegments": 176,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 12
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_8.json"
+  },
+  {
+    "set": 1,
+    "seed": 9,
+    "score": 14,
+    "newSegments": 177,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 12
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_9.json"
+  },
+  {
+    "set": 1,
+    "seed": 13,
+    "score": 14,
+    "newSegments": 176,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 12
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_13.json"
+  },
+  {
+    "set": 1,
+    "seed": 17,
+    "score": 14,
+    "newSegments": 177,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_17.json"
+  },
+  {
+    "set": 1,
+    "seed": 18,
+    "score": 14,
+    "newSegments": 176,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_18.json"
+  },
+  {
+    "set": 2,
+    "seed": 7,
+    "score": 14,
+    "newSegments": 216,
+    "failed": [
+      {
+        "net": "CH2_SUM",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 6
+      },
+      {
+        "net": "PC2",
+        "groups": 2
+      },
+      {
+        "net": "REF_MID",
+        "groups": 2
+      },
+      {
+        "net": "PC1",
+        "groups": 3
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "PC0",
+        "groups": 2
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_7.json"
+  },
+  {
+    "set": 2,
+    "seed": 9,
+    "score": 14,
+    "newSegments": 233,
+    "failed": [
+      {
+        "net": "REF_MID",
+        "groups": 2
+      },
+      {
+        "net": "REF_RAW",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 7
+      },
+      {
+        "net": "PC1",
+        "groups": 2
+      },
+      {
+        "net": "CH2_SUM",
+        "groups": 3
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_9.json"
+  },
+  {
+    "set": 0,
+    "seed": 6,
+    "score": 15,
+    "newSegments": 158,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 13
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_6.json"
+  },
+  {
+    "set": 0,
+    "seed": 8,
+    "score": 15,
+    "newSegments": 158,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 13
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_8.json"
+  },
+  {
+    "set": 0,
+    "seed": 14,
+    "score": 15,
+    "newSegments": 158,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 13
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_14.json"
+  },
+  {
+    "set": 0,
+    "seed": 18,
+    "score": 15,
+    "newSegments": 158,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 13
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_18.json"
+  },
+  {
+    "set": 1,
+    "seed": 6,
+    "score": 15,
+    "newSegments": 186,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      },
+      {
+        "net": "CH2_SUM",
+        "groups": 2
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_6.json"
+  },
+  {
+    "set": 1,
+    "seed": 14,
+    "score": 15,
+    "newSegments": 184,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 13
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_14.json"
+  },
+  {
+    "set": 2,
+    "seed": 1,
+    "score": 15,
+    "newSegments": 234,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 8
+      },
+      {
+        "net": "PC1",
+        "groups": 4
+      },
+      {
+        "net": "PC2",
+        "groups": 3
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_1.json"
+  },
+  {
+    "set": 2,
+    "seed": 3,
+    "score": 15,
+    "newSegments": 208,
+    "failed": [
+      {
+        "net": "PC1",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 7
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "REF_MID",
+        "groups": 2
+      },
+      {
+        "net": "PC0",
+        "groups": 3
+      },
+      {
+        "net": "CH1_SUM",
+        "groups": 2
+      },
+      {
+        "net": "REF_RAW",
+        "groups": 2
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_3.json"
+  },
+  {
+    "set": 2,
+    "seed": 17,
+    "score": 15,
+    "newSegments": 237,
+    "failed": [
+      {
+        "net": "PC2",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 2
+      },
+      {
+        "net": "CH3_SUM",
+        "groups": 2
+      },
+      {
+        "net": "CH2_SUM",
+        "groups": 2
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "3V3_A",
+        "groups": 9
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_17.json"
+  },
+  {
+    "set": 0,
+    "seed": 10,
+    "score": 16,
+    "newSegments": 155,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 6
+      },
+      {
+        "net": "3V3_A",
+        "groups": 11
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_10.json"
+  },
+  {
+    "set": 0,
+    "seed": 19,
+    "score": 16,
+    "newSegments": 155,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 6
+      },
+      {
+        "net": "3V3_A",
+        "groups": 11
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_19.json"
+  },
+  {
+    "set": 0,
+    "seed": 20,
+    "score": 16,
+    "newSegments": 155,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 6
+      },
+      {
+        "net": "3V3_A",
+        "groups": 11
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_0_20.json"
+  },
+  {
+    "set": 1,
+    "seed": 10,
+    "score": 16,
+    "newSegments": 181,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 6
+      },
+      {
+        "net": "3V3_A",
+        "groups": 11
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_10.json"
+  },
+  {
+    "set": 1,
+    "seed": 19,
+    "score": 16,
+    "newSegments": 181,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 6
+      },
+      {
+        "net": "3V3_A",
+        "groups": 11
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_19.json"
+  },
+  {
+    "set": 1,
+    "seed": 20,
+    "score": 16,
+    "newSegments": 181,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 6
+      },
+      {
+        "net": "3V3_A",
+        "groups": 11
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_20.json"
+  },
+  {
+    "set": 2,
+    "seed": 5,
+    "score": 16,
+    "newSegments": 206,
+    "failed": [
+      {
+        "net": "PC0",
+        "groups": 3
+      },
+      {
+        "net": "PC1",
+        "groups": 2
+      },
+      {
+        "net": "REF_MID",
+        "groups": 2
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "3V3_A",
+        "groups": 9
+      },
+      {
+        "net": "CH1_SUM",
+        "groups": 2
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_5.json"
+  },
+  {
+    "set": 2,
+    "seed": 11,
+    "score": 16,
+    "newSegments": 207,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 6
+      },
+      {
+        "net": "PC2",
+        "groups": 2
+      },
+      {
+        "net": "PC0",
+        "groups": 2
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "PC1",
+        "groups": 4
+      },
+      {
+        "net": "CH2_SUM",
+        "groups": 3
+      },
+      {
+        "net": "REF_MID",
+        "groups": 2
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_11.json"
+  },
+  {
+    "set": 2,
+    "seed": 13,
+    "score": 16,
+    "newSegments": 215,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 8
+      },
+      {
+        "net": "CH2_SUM",
+        "groups": 3
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "REF_MID",
+        "groups": 2
+      },
+      {
+        "net": "PC1",
+        "groups": 4
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_13.json"
+  },
+  {
+    "set": 2,
+    "seed": 16,
+    "score": 16,
+    "newSegments": 220,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 9
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "PC1",
+        "groups": 4
+      },
+      {
+        "net": "PC2",
+        "groups": 3
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_16.json"
+  },
+  {
+    "set": 1,
+    "seed": 2,
+    "score": 17,
+    "newSegments": 187,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 3
+      },
+      {
+        "net": "CH1_SUM",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 14
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_2.json"
+  },
+  {
+    "set": 1,
+    "seed": 4,
+    "score": 17,
+    "newSegments": 187,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 3
+      },
+      {
+        "net": "CH1_SUM",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 14
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_4.json"
+  },
+  {
+    "set": 1,
+    "seed": 5,
+    "score": 17,
+    "newSegments": 187,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 4
+      },
+      {
+        "net": "3V3_A",
+        "groups": 12
+      },
+      {
+        "net": "CH1_SUM",
+        "groups": 2
+      },
+      {
+        "net": "CH2_SUM",
+        "groups": 2
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_5.json"
+  },
+  {
+    "set": 1,
+    "seed": 7,
+    "score": 17,
+    "newSegments": 187,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 4
+      },
+      {
+        "net": "CH2_SUM",
+        "groups": 2
+      },
+      {
+        "net": "CH1_SUM",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 12
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_7.json"
+  },
+  {
+    "set": 1,
+    "seed": 12,
+    "score": 17,
+    "newSegments": 187,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 3
+      },
+      {
+        "net": "CH1_SUM",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 14
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_12.json"
+  },
+  {
+    "set": 1,
+    "seed": 15,
+    "score": 17,
+    "newSegments": 187,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 4
+      },
+      {
+        "net": "3V3_A",
+        "groups": 12
+      },
+      {
+        "net": "CH2_SUM",
+        "groups": 2
+      },
+      {
+        "net": "CH1_SUM",
+        "groups": 2
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_1_15.json"
+  },
+  {
+    "set": 2,
+    "seed": 2,
+    "score": 17,
+    "newSegments": 248,
+    "failed": [
+      {
+        "net": "REF_MID",
+        "groups": 2
+      },
+      {
+        "net": "PC2",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 7
+      },
+      {
+        "net": "3V3_A",
+        "groups": 10
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_2.json"
+  },
+  {
+    "set": 2,
+    "seed": 6,
+    "score": 17,
+    "newSegments": 237,
+    "failed": [
+      {
+        "net": "REF_RAW",
+        "groups": 2
+      },
+      {
+        "net": "PC1",
+        "groups": 2
+      },
+      {
+        "net": "PC0",
+        "groups": 2
+      },
+      {
+        "net": "CH2_SUM",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 11
+      },
+      {
+        "net": "PC2",
+        "groups": 3
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_6.json"
+  },
+  {
+    "set": 2,
+    "seed": 10,
+    "score": 17,
+    "newSegments": 237,
+    "failed": [
+      {
+        "net": "3V3_A",
+        "groups": 2
+      },
+      {
+        "net": "REF_MID",
+        "groups": 2
+      },
+      {
+        "net": "PC1",
+        "groups": 3
+      },
+      {
+        "net": "GND",
+        "groups": 13
+      },
+      {
+        "net": "PC0",
+        "groups": 2
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_10.json"
+  },
+  {
+    "set": 2,
+    "seed": 18,
+    "score": 17,
+    "newSegments": 211,
+    "failed": [
+      {
+        "net": "CH3_SUM",
+        "groups": 2
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "CH2_SUM",
+        "groups": 2
+      },
+      {
+        "net": "PC2",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_18.json"
+  },
+  {
+    "set": 2,
+    "seed": 19,
+    "score": 17,
+    "newSegments": 213,
+    "failed": [
+      {
+        "net": "GND",
+        "groups": 2
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "PC0",
+        "groups": 3
+      },
+      {
+        "net": "CH1_SUM",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 11
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_19.json"
+  },
+  {
+    "set": 2,
+    "seed": 20,
+    "score": 17,
+    "newSegments": 225,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 2
+      },
+      {
+        "net": "REF_RAW",
+        "groups": 2
+      },
+      {
+        "net": "PC2",
+        "groups": 2
+      },
+      {
+        "net": "CH1_SUM",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 12
+      },
+      {
+        "net": "PC0",
+        "groups": 3
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_20.json"
+  },
+  {
+    "set": 2,
+    "seed": 14,
+    "score": 18,
+    "newSegments": 257,
+    "failed": [
+      {
+        "net": "PC1",
+        "groups": 2
+      },
+      {
+        "net": "PC0",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 4
+      },
+      {
+        "net": "GND",
+        "groups": 14
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_14.json"
+  },
+  {
+    "set": 2,
+    "seed": 15,
+    "score": 18,
+    "newSegments": 218,
+    "failed": [
+      {
+        "net": "PC0",
+        "groups": 3
+      },
+      {
+        "net": "VBIAS",
+        "groups": 4
+      },
+      {
+        "net": "REF_MID",
+        "groups": 2
+      },
+      {
+        "net": "3V3_A",
+        "groups": 8
+      },
+      {
+        "net": "PC2",
+        "groups": 2
+      },
+      {
+        "net": "PC1",
+        "groups": 2
+      },
+      {
+        "net": "CH2_SUM",
+        "groups": 3
+      },
+      {
+        "net": "CH1_SUM",
+        "groups": 2
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_15.json"
+  },
+  {
+    "set": 2,
+    "seed": 8,
+    "score": 19,
+    "newSegments": 224,
+    "failed": [
+      {
+        "net": "VBIAS",
+        "groups": 3
+      },
+      {
+        "net": "CH1_SUM",
+        "groups": 2
+      },
+      {
+        "net": "GND",
+        "groups": 16
+      },
+      {
+        "net": "REF_RAW",
+        "groups": 2
+      }
+    ],
+    "out": "hardware/easyeda/output/rev3_coupled_2_8.json"
+  }
+]

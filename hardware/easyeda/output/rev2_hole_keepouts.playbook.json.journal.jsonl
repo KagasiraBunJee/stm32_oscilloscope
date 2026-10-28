@@ -1,0 +1,10 @@
+{"playbookSha256":"07f3797f3b418bf3f90d4c000c03c6e5d123d7e0a3ab58d427ce88d51bf4fe7a","name":"M3 cutout copper clearance","project":"58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c","startedAt":"2026-09-07T13:44:48+03:00"}
+{"idx":1,"id":"assert0","status":"ok","ms":5}
+{"idx":2,"id":"keepout0","status":"ok","ms":20}
+{"idx":3,"id":"assert1","status":"ok","ms":5}
+{"idx":4,"id":"keepout1","status":"ok","ms":12}
+{"idx":5,"id":"assert2","status":"ok","ms":5}
+{"idx":6,"id":"keepout2","status":"ok","ms":11}
+{"idx":7,"id":"assert3","status":"ok","ms":4}
+{"idx":8,"id":"keepout3","status":"ok","ms":12}
+{"idx":9,"id":"save","status":"ok","ms":12}

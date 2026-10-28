@@ -1,0 +1,46 @@
+# Build output and local CMake configuration
+/build/
+/cmake-build-*/
+/CMakeUserPresets.json
+/compile_commands.json
+/mx.scratch/
+*.o
+*.obj
+*.elf
+*.hex
+*.map
+*.su
+
+# Local measurements and generated analysis (preserved on disk)
+/recordings/
+
+# Temporary files and tool/agent state
+/.tmp/
+/.easyeda/
+/.claude/settings.local.json
+/.codex/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+*.log
+*.tmp
+*.bak
+
+# Credentials and machine-local environment files
+.env
+.env.*
+!.env.example
+!.env.template
+*.pem
+*.key
+
+# OS/editor transient files; shared .settings and .vscode remain trackable
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~

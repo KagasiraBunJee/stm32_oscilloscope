@@ -1,0 +1,18 @@
+{"playbookSha256":"4e1045ff5b7d85b7aba02653659ec4f743b7fe9275ff8c76ce7e0fd41f982b9e","name":"Split grouped STM32 header into six local signal-ground pairs","project":"58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c","startedAt":"2026-09-07T13:05:14+03:00"}
+{"idx":1,"id":"target_delete","status":"ok","ms":5}
+{"idx":2,"id":"remove_replaced_headers","status":"ok","ms":61}
+{"idx":3,"id":"target_tracks","status":"ok","ms":5}
+{"idx":4,"id":"remove_old_header_leaves","status":"ok","ms":52}
+{"idx":5,"id":"target_0","status":"ok","ms":5}
+{"idx":6,"id":"header_0","status":"ok","ms":684,"captured":{"h0":"951eb9406107a896"}}
+{"idx":7,"id":"target_1","status":"ok","ms":6}
+{"idx":8,"id":"header_1","status":"ok","ms":645,"captured":{"h1":"d623ad2cf0ee0455"}}
+{"idx":9,"id":"target_2","status":"ok","ms":4}
+{"idx":10,"id":"header_2","status":"ok","ms":724,"captured":{"h2":"2d7d49ff8d1d5d69"}}
+{"idx":11,"id":"target_3","status":"ok","ms":4}
+{"idx":12,"id":"header_3","status":"ok","ms":709,"captured":{"h3":"1c271fbb3e47c4b9"}}
+{"idx":13,"id":"target_4","status":"ok","ms":4}
+{"idx":14,"id":"header_4","status":"ok","ms":662,"captured":{"h4":"1f07f48d6d21c795"}}
+{"idx":15,"id":"target_5","status":"ok","ms":4}
+{"idx":16,"id":"header_5","status":"ok","ms":660,"captured":{"h5":"e209eefa02aacb06"}}
+{"idx":17,"id":"save","status":"ok","ms":12}

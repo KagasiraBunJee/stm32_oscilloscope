@@ -1,0 +1,13 @@
+{"playbookSha256":"94156a4f9bb79c058392a3f7494970bb69240713680c92019026a2b60474972c","name":"Create distributed STM32 signal-ground connectors","project":"58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c","startedAt":"2026-09-07T12:59:24+03:00"}
+{"idx":1,"id":"label0","status":"ok","ms":50}
+{"idx":2,"id":"place1","status":"ok","ms":485,"captured":{"p1":"d2bffc6a6466b53c"}}
+{"idx":3,"id":"label1","status":"ok","ms":31}
+{"idx":4,"id":"place2","status":"ok","ms":505,"captured":{"p2":"3d19934edbfd48cf"}}
+{"idx":5,"id":"label2","status":"ok","ms":29}
+{"idx":6,"id":"place3","status":"ok","ms":561,"captured":{"p3":"68b8f4ed3ef01a78"}}
+{"idx":7,"id":"label3","status":"ok","ms":32}
+{"idx":8,"id":"place4","status":"ok","ms":599,"captured":{"p4":"40bc0b5f2483ad65"}}
+{"idx":9,"id":"label4","status":"ok","ms":25}
+{"idx":10,"id":"place5","status":"ok","ms":606,"captured":{"p5":"d9622b393f4434bf"}}
+{"idx":11,"id":"label5","status":"ok","ms":36}
+{"idx":12,"id":"save","status":"ok","ms":16}

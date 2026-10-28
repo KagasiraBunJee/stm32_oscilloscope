@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "meta": {
+    "project": "analog_front_end_import",
+    "doc": "30968987fbc1647d",
+    "name": "Retire grouped J8 after replacement pins verified"
+  },
+  "defaults": {
+    "retry": 0,
+    "continueOnError": false
+  },
+  "steps": [
+    {
+      "id": "retire_j8",
+      "action": "schematic.component.delete",
+      "payload": {
+        "primitiveIds": [
+          "e524"
+        ]
+      }
+    },
+    {
+      "id": "save",
+      "action": "schematic.save"
+    }
+  ]
+}

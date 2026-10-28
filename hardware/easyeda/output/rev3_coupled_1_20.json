@@ -1,0 +1,3137 @@
+{
+  "routes": [
+    {
+      "net": "CH1_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 865.6,
+      "startY": -1890,
+      "endX": 860,
+      "endY": -1884.4
+    },
+    {
+      "net": "CH1_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 860,
+      "startY": -1884.4,
+      "endX": 860,
+      "endY": -1791.3
+    },
+    {
+      "net": "CH1_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 980,
+      "startY": -1794.4,
+      "endX": 976.8999999999999,
+      "endY": -1791.3
+    },
+    {
+      "net": "CH1_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 976.8999999999999,
+      "startY": -1791.3,
+      "endX": 860,
+      "endY": -1791.3
+    },
+    {
+      "net": "CH1_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1208.7,
+      "startY": -1800,
+      "endX": 1160,
+      "endY": -1800
+    },
+    {
+      "net": "CH1_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1160,
+      "startY": -1800,
+      "endX": 1137.5,
+      "endY": -1822.5
+    },
+    {
+      "net": "CH1_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1137.5,
+      "startY": -1822.5,
+      "endX": 1137.5,
+      "endY": -1837.5
+    },
+    {
+      "net": "CH1_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1137.5,
+      "startY": -1837.5,
+      "endX": 1023.0999999999999,
+      "endY": -1837.5
+    },
+    {
+      "net": "CH1_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1023.0999999999999,
+      "startY": -1837.5,
+      "endX": 980,
+      "endY": -1794.4
+    },
+    {
+      "net": "CH3_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1421.3,
+      "startY": -1700,
+      "endX": 1431.3,
+      "endY": -1710
+    },
+    {
+      "net": "CH3_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1431.3,
+      "startY": -1710,
+      "endX": 1492.5,
+      "endY": -1710
+    },
+    {
+      "net": "CH3_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1492.5,
+      "startY": -1710,
+      "endX": 1521.9,
+      "endY": -1739.4
+    },
+    {
+      "net": "CH3_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1521.9,
+      "startY": -1739.4,
+      "endX": 1530,
+      "endY": -1739.4
+    },
+    {
+      "net": "CH3_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1595.6,
+      "startY": -1425,
+      "endX": 1608.7,
+      "endY": -1438.1000000000001
+    },
+    {
+      "net": "CH3_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1608.7,
+      "startY": -1438.1000000000001,
+      "endX": 1608.7,
+      "endY": -1545
+    },
+    {
+      "net": "CH3_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1492.5,
+      "startY": -1710,
+      "endX": 1582.5,
+      "endY": -1710
+    },
+    {
+      "net": "CH3_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1582.5,
+      "startY": -1710,
+      "endX": 1608.7,
+      "endY": -1683.8
+    },
+    {
+      "net": "CH3_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1608.7,
+      "startY": -1683.8,
+      "endX": 1608.7,
+      "endY": -1545
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1208.7,
+      "startY": -1650,
+      "endX": 1208.7,
+      "endY": -1600
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1208.7,
+      "startY": -1650,
+      "endX": 1206.2,
+      "endY": -1652.5
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1206.2,
+      "startY": -1652.5,
+      "endX": 1042.5,
+      "endY": -1652.5
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1042.5,
+      "startY": -1652.5,
+      "endX": 980,
+      "endY": -1715
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 980,
+      "startY": -1715,
+      "endX": 980,
+      "endY": -1715.6
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1530,
+      "startY": -1660.6,
+      "endX": 1547.5,
+      "endY": -1643.1
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1547.5,
+      "startY": -1643.1,
+      "endX": 1547.5,
+      "endY": -1287.5
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1547.5,
+      "startY": -1287.5,
+      "endX": 1570,
+      "endY": -1265
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1570,
+      "startY": -1265,
+      "endX": 1570,
+      "endY": -1172.5
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1570,
+      "startY": -1172.5,
+      "endX": 1295,
+      "endY": -897.5
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1295,
+      "startY": -897.5,
+      "endX": 1295,
+      "endY": -705
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1295,
+      "startY": -705,
+      "endX": 1175,
+      "endY": -705
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1175,
+      "startY": -705,
+      "endX": 1097.5,
+      "endY": -782.5
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1097.5,
+      "startY": -782.5,
+      "endX": 1097.5,
+      "endY": -957.5
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1097.5,
+      "startY": -957.5,
+      "endX": 732.5,
+      "endY": -1322.5
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 732.5,
+      "startY": -1322.5,
+      "endX": 712.5,
+      "endY": -1322.5
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 712.5,
+      "startY": -1322.5,
+      "endX": 712.5,
+      "endY": -1497.5
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 712.5,
+      "startY": -1497.5,
+      "endX": 867.5,
+      "endY": -1652.5
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 867.5,
+      "startY": -1652.5,
+      "endX": 1205,
+      "endY": -1652.5
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1205,
+      "startY": -1652.5,
+      "endX": 1207.5,
+      "endY": -1650
+    },
+    {
+      "net": "VBIAS",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1207.5,
+      "startY": -1650,
+      "endX": 1208.7,
+      "endY": -1650
+    },
+    {
+      "net": "CH2_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1770.6,
+      "startY": -1775,
+      "endX": 1699.3,
+      "endY": -1846.3
+    },
+    {
+      "net": "CH2_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1699.3,
+      "startY": -1846.3,
+      "endX": 1650,
+      "endY": -1846.3
+    },
+    {
+      "net": "CH2_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1719.4,
+      "startY": -2000,
+      "endX": 1699.3,
+      "endY": -1979.8999999999999
+    },
+    {
+      "net": "CH2_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1699.3,
+      "startY": -1979.8999999999999,
+      "endX": 1699.3,
+      "endY": -1846.3
+    },
+    {
+      "net": "CH2_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1421.3,
+      "startY": -1800,
+      "endX": 1557.5,
+      "endY": -1800
+    },
+    {
+      "net": "CH2_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1557.5,
+      "startY": -1800,
+      "endX": 1605,
+      "endY": -1847.5
+    },
+    {
+      "net": "CH2_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1605,
+      "startY": -1847.5,
+      "endX": 1606.2,
+      "endY": -1846.3
+    },
+    {
+      "net": "CH2_SUM",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1606.2,
+      "startY": -1846.3,
+      "endX": 1650,
+      "endY": -1846.3
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1336.3,
+      "startY": -2912.4,
+      "endX": 1393.8999999999999,
+      "endY": -2970
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1393.8999999999999,
+      "startY": -2970,
+      "endX": 1450.6,
+      "endY": -2970
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 655,
+      "startY": -865,
+      "endX": 670,
+      "endY": -880
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 670,
+      "startY": -880,
+      "endX": 805,
+      "endY": -880
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1235,
+      "startY": -2465,
+      "endX": 1200,
+      "endY": -2500
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1200,
+      "startY": -2500,
+      "endX": 1170,
+      "endY": -2500
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1170,
+      "startY": -2500,
+      "endX": 1170,
+      "endY": -2630
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1170,
+      "startY": -2630,
+      "endX": 1300,
+      "endY": -2630
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1300,
+      "startY": -2630,
+      "endX": 1331.3,
+      "endY": -2598.7
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1331.3,
+      "startY": -2598.7,
+      "endX": 1331.3,
+      "endY": -2337.4
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1388.7,
+      "startY": -2637.6,
+      "endX": 1349.8,
+      "endY": -2598.7
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1349.8,
+      "startY": -2598.7,
+      "endX": 1331.3,
+      "endY": -2598.7
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1005,
+      "startY": -2575,
+      "endX": 1015,
+      "endY": -2565
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1015,
+      "startY": -2565,
+      "endX": 1170,
+      "endY": -2565
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1691.3,
+      "startY": -1582.4,
+      "endX": 1687.4,
+      "endY": -1586.3
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1687.4,
+      "startY": -1586.3,
+      "endX": 1687.4,
+      "endY": -1763.7
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 428.7,
+      "startY": -662.6,
+      "endX": 516.3,
+      "endY": -575
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 516.3,
+      "startY": -575,
+      "endX": 605.6,
+      "endY": -575
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 910,
+      "startY": -1415.6,
+      "endX": 883.0999999999999,
+      "endY": -1442.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 883.0999999999999,
+      "startY": -1442.5,
+      "endX": 852.5,
+      "endY": -1442.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 852.5,
+      "startY": -1442.5,
+      "endX": 852.5,
+      "endY": -1547.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 852.5,
+      "startY": -1547.5,
+      "endX": 905,
+      "endY": -1600
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 905,
+      "startY": -1600,
+      "endX": 1005.6,
+      "endY": -1600
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1425,
+      "startY": -2150,
+      "endX": 1425,
+      "endY": -2260
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1425,
+      "startY": -2260,
+      "endX": 1347.6,
+      "endY": -2337.4
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1347.6,
+      "startY": -2337.4,
+      "endX": 1331.3,
+      "endY": -2337.4
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 415,
+      "startY": -3130,
+      "endX": 415,
+      "endY": -3100
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 415,
+      "startY": -3100,
+      "endX": 540,
+      "endY": -2975
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 540,
+      "startY": -2975,
+      "endX": 600.6,
+      "endY": -2975
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1235,
+      "startY": -765,
+      "endX": 1205,
+      "endY": -765
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1205,
+      "startY": -765,
+      "endX": 1145.6,
+      "endY": -824.4000000000001
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1145.6,
+      "startY": -824.4000000000001,
+      "endX": 1145.6,
+      "endY": -995
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1535,
+      "startY": -3215,
+      "endX": 1500,
+      "endY": -3180
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1500,
+      "startY": -3180,
+      "endX": 1470,
+      "endY": -3180
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1470,
+      "startY": -3180,
+      "endX": 1450.6,
+      "endY": -3160.6
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1450.6,
+      "startY": -3160.6,
+      "endX": 1450.6,
+      "endY": -2970
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 280.6,
+      "startY": -880,
+      "endX": 280.6,
+      "endY": -791.9
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 280.6,
+      "startY": -791.9,
+      "endX": 409.9,
+      "endY": -662.6
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 409.9,
+      "startY": -662.6,
+      "endX": 428.7,
+      "endY": -662.6
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1421.3,
+      "startY": -1750,
+      "endX": 1411.3,
+      "endY": -1760
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1411.3,
+      "startY": -1760,
+      "endX": 1357.5,
+      "endY": -1760
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1357.5,
+      "startY": -1760,
+      "endX": 1357.5,
+      "endY": -2112.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1357.5,
+      "startY": -2112.5,
+      "endX": 2040,
+      "endY": -2795
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2040,
+      "startY": -2795,
+      "endX": 2435,
+      "endY": -2795
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2435,
+      "startY": -2795,
+      "endX": 2597.5,
+      "endY": -2632.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2597.5,
+      "startY": -2632.5,
+      "endX": 2597.5,
+      "endY": -2105
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2597.5,
+      "startY": -2105,
+      "endX": 2067.5,
+      "endY": -1575
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2067.5,
+      "startY": -1575,
+      "endX": 1860,
+      "endY": -1575
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1860,
+      "startY": -1575,
+      "endX": 1687.4,
+      "endY": -1747.6
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1687.4,
+      "startY": -1747.6,
+      "endX": 1687.4,
+      "endY": -1763.7
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2016.3,
+      "startY": -1692.4,
+      "endX": 2048.7,
+      "endY": -1660
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2048.7,
+      "startY": -1660,
+      "endX": 2067.5,
+      "endY": -1660
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2067.5,
+      "startY": -1660,
+      "endX": 2067.5,
+      "endY": -1575
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2067.5,
+      "startY": -1575,
+      "endX": 1998.3333333333333,
+      "endY": -1575
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 690,
+      "startY": -3240,
+      "endX": 725,
+      "endY": -3275
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 725,
+      "startY": -3275,
+      "endX": 755,
+      "endY": -3275
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 755,
+      "startY": -3275,
+      "endX": 755,
+      "endY": -3405
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 755,
+      "startY": -3405,
+      "endX": 737.5,
+      "endY": -3422.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 737.5,
+      "startY": -3422.5,
+      "endX": 402.5,
+      "endY": -3422.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 402.5,
+      "startY": -3422.5,
+      "endX": 402.5,
+      "endY": -3115
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 402.5,
+      "startY": -3115,
+      "endX": 542.5,
+      "endY": -2975
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 542.5,
+      "startY": -2975,
+      "endX": 600.6,
+      "endY": -2975
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1388.7,
+      "startY": -2637.6,
+      "endX": 1356.3,
+      "endY": -2670
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1356.3,
+      "startY": -2670,
+      "endX": 1337.5,
+      "endY": -2670
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1337.5,
+      "startY": -2670,
+      "endX": 1337.5,
+      "endY": -2755
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1337.5,
+      "startY": -2755,
+      "endX": 1377.5,
+      "endY": -2795
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1377.5,
+      "startY": -2795,
+      "endX": 1387.5,
+      "endY": -2795
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1387.5,
+      "startY": -2795,
+      "endX": 1387.5,
+      "endY": -2877.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1387.5,
+      "startY": -2877.5,
+      "endX": 1352.6,
+      "endY": -2912.4
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1352.6,
+      "startY": -2912.4,
+      "endX": 1336.3,
+      "endY": -2912.4
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1830,
+      "startY": -2985,
+      "endX": 2020,
+      "endY": -2795
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2020,
+      "startY": -2795,
+      "endX": 2040,
+      "endY": -2795
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1331.3,
+      "startY": -2337.4,
+      "endX": 1331.3,
+      "endY": -2598.7
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1331.3,
+      "startY": -2598.7,
+      "endX": 1300,
+      "endY": -2630
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1300,
+      "startY": -2630,
+      "endX": 1170,
+      "endY": -2630
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1170,
+      "startY": -2630,
+      "endX": 1075,
+      "endY": -2535
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1075,
+      "startY": -2535,
+      "endX": 1075,
+      "endY": -2199.4
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 655,
+      "startY": -865,
+      "endX": 620,
+      "endY": -900
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 620,
+      "startY": -900,
+      "endX": 620,
+      "endY": -930
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 620,
+      "startY": -930,
+      "endX": 490,
+      "endY": -930
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 490,
+      "startY": -930,
+      "endX": 490,
+      "endY": -892.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 490,
+      "startY": -892.5,
+      "endX": 377.5,
+      "endY": -780
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 377.5,
+      "startY": -780,
+      "endX": 377.5,
+      "endY": -697.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 377.5,
+      "startY": -697.5,
+      "endX": 500,
+      "endY": -575
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 500,
+      "startY": -575,
+      "endX": 605.6,
+      "endY": -575
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 735,
+      "startY": -1200,
+      "endX": 735,
+      "endY": -1045
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 735,
+      "startY": -1045,
+      "endX": 620,
+      "endY": -930
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1145.6,
+      "startY": -909.7,
+      "endX": 1145.6,
+      "endY": -1403.1
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1145.6,
+      "startY": -1403.1,
+      "endX": 1312.5,
+      "endY": -1570
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1312.5,
+      "startY": -1570,
+      "endX": 1312.5,
+      "endY": -2150
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1312.5,
+      "startY": -2150,
+      "endX": 1382.5,
+      "endY": -2220
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1382.5,
+      "startY": -2220,
+      "endX": 1382.5,
+      "endY": -2547.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1382.5,
+      "startY": -2547.5,
+      "endX": 1127.5,
+      "endY": -2802.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1127.5,
+      "startY": -2802.5,
+      "endX": 717.5,
+      "endY": -2802.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 717.5,
+      "startY": -2802.5,
+      "endX": 592.5,
+      "endY": -2927.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 592.5,
+      "startY": -2927.5,
+      "endX": 342.5,
+      "endY": -2927.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 342.5,
+      "startY": -2927.5,
+      "endX": 232.5,
+      "endY": -2817.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 232.5,
+      "startY": -2817.5,
+      "endX": 232.5,
+      "endY": -1742.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 232.5,
+      "startY": -1742.5,
+      "endX": 805,
+      "endY": -1170
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 805,
+      "startY": -1170,
+      "endX": 805,
+      "endY": -880
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 592.5,
+      "startY": -2927.5,
+      "endX": 600.6,
+      "endY": -2935.6
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 600.6,
+      "startY": -2935.6,
+      "endX": 600.6,
+      "endY": -2975
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2000,
+      "startY": -2035,
+      "endX": 2000,
+      "endY": -1815
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2000,
+      "startY": -1815,
+      "endX": 1882.5,
+      "endY": -1697.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1882.5,
+      "startY": -1697.5,
+      "endX": 1882.5,
+      "endY": -1612.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1882.5,
+      "startY": -1612.5,
+      "endX": 1920,
+      "endY": -1575
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1920,
+      "startY": -1575,
+      "endX": 2067.5,
+      "endY": -1575
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2067.5,
+      "startY": -1575,
+      "endX": 2067.5,
+      "endY": -1660
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2067.5,
+      "startY": -1660,
+      "endX": 2035.1,
+      "endY": -1692.4
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2035.1,
+      "startY": -1692.4,
+      "endX": 2016.3,
+      "endY": -1692.4
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1845,
+      "startY": -545,
+      "endX": 1872.5,
+      "endY": -517.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1872.5,
+      "startY": -517.5,
+      "endX": 2047.5,
+      "endY": -517.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2047.5,
+      "startY": -517.5,
+      "endX": 2062.5,
+      "endY": -502.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2062.5,
+      "startY": -502.5,
+      "endX": 2177.5,
+      "endY": -502.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2177.5,
+      "startY": -502.5,
+      "endX": 2597.5,
+      "endY": -922.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2597.5,
+      "startY": -922.5,
+      "endX": 2597.5,
+      "endY": -2632.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2597.5,
+      "startY": -2632.5,
+      "endX": 2435,
+      "endY": -2795
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2435,
+      "startY": -2795,
+      "endX": 2040,
+      "endY": -2795
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2040,
+      "startY": -2795,
+      "endX": 1317.5,
+      "endY": -2072.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1317.5,
+      "startY": -2072.5,
+      "endX": 1317.5,
+      "endY": -1557.5
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1317.5,
+      "startY": -1557.5,
+      "endX": 1170,
+      "endY": -1410
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1170,
+      "startY": -1410,
+      "endX": 1170,
+      "endY": -800
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1170,
+      "startY": -800,
+      "endX": 1205,
+      "endY": -765
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1205,
+      "startY": -765,
+      "endX": 1235,
+      "endY": -765
+    },
+    {
+      "net": "3V3_A",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1208.7,
+      "startY": -1750,
+      "endX": 1155,
+      "endY": -1750
+    },
+    {
+      "net": "3V3_A",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1155,
+      "startY": -1750,
+      "endX": 1115.6,
+      "endY": -1789.4
+    },
+    {
+      "net": "3V3_A",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1115.6,
+      "startY": -1789.4,
+      "endX": 1085,
+      "endY": -1789.4
+    },
+    {
+      "net": "3V3_A",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 525,
+      "startY": -1104.4,
+      "endX": 494.4000000000001,
+      "endY": -1104.4
+    },
+    {
+      "net": "3V3_A",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 494.4000000000001,
+      "startY": -1104.4,
+      "endX": 359.4,
+      "endY": -969.4
+    },
+    {
+      "net": "3V3_A",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 359.4,
+      "startY": -969.4,
+      "endX": 359.4,
+      "endY": -880
+    },
+    {
+      "net": "3V3_A",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1331.3,
+      "startY": -2262.6,
+      "endX": 1272.5,
+      "endY": -2203.8
+    },
+    {
+      "net": "3V3_A",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1272.5,
+      "startY": -2203.8,
+      "endX": 1272.5,
+      "endY": -1760
+    },
+    {
+      "net": "3V3_A",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1272.5,
+      "startY": -1760,
+      "endX": 1145,
+      "endY": -1760
+    },
+    {
+      "net": "3V3_A",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1145,
+      "startY": -1760,
+      "endX": 1115.6,
+      "endY": -1789.4
+    }
+  ],
+  "failed": [
+    {
+      "net": "VBIAS",
+      "groups": 2,
+      "points": [
+        [
+          [
+            980,
+            -1715.6
+          ],
+          [
+            1530,
+            -1660.6
+          ],
+          [
+            1208.7,
+            -1600
+          ],
+          [
+            1208.7,
+            -1650
+          ],
+          [
+            1206.2,
+            -1652.5
+          ],
+          [
+            1042.5,
+            -1652.5
+          ],
+          [
+            980,
+            -1715
+          ],
+          [
+            1547.5,
+            -1643.1
+          ],
+          [
+            1547.5,
+            -1287.5
+          ],
+          [
+            1570,
+            -1265
+          ],
+          [
+            1570,
+            -1172.5
+          ],
+          [
+            1295,
+            -897.5
+          ],
+          [
+            1295,
+            -705
+          ],
+          [
+            1175,
+            -705
+          ],
+          [
+            1097.5,
+            -782.5
+          ],
+          [
+            1097.5,
+            -957.5
+          ],
+          [
+            732.5,
+            -1322.5
+          ],
+          [
+            712.5,
+            -1322.5
+          ],
+          [
+            712.5,
+            -1497.5
+          ],
+          [
+            867.5,
+            -1652.5
+          ],
+          [
+            1205,
+            -1652.5
+          ],
+          [
+            1207.5,
+            -1650
+          ],
+          [
+            1124.35,
+            -1652.5
+          ],
+          [
+            1547.5,
+            -1554.1999999999998
+          ],
+          [
+            1547.5,
+            -1465.3
+          ],
+          [
+            1547.5,
+            -1376.4
+          ],
+          [
+            1501.25,
+            -1103.75
+          ],
+          [
+            1432.5,
+            -1035
+          ],
+          [
+            1363.75,
+            -966.25
+          ],
+          [
+            1295,
+            -801.25
+          ],
+          [
+            1235,
+            -705
+          ],
+          [
+            1136.25,
+            -743.75
+          ],
+          [
+            1097.5,
+            -870
+          ],
+          [
+            1036.6666666666667,
+            -1018.3333333333334
+          ],
+          [
+            975.8333333333334,
+            -1079.1666666666667
+          ],
+          [
+            915,
+            -1140
+          ],
+          [
+            854.1666666666666,
+            -1200.8333333333333
+          ],
+          [
+            793.3333333333333,
+            -1261.6666666666667
+          ],
+          [
+            712.5,
+            -1410
+          ],
+          [
+            764.1666666666666,
+            -1549.1666666666667
+          ],
+          [
+            815.8333333333334,
+            -1600.8333333333333
+          ],
+          [
+            951.875,
+            -1652.5
+          ],
+          [
+            1036.25,
+            -1652.5
+          ],
+          [
+            1120.625,
+            -1652.5
+          ]
+        ],
+        [
+          [
+            1640.6,
+            -2000
+          ]
+        ]
+      ]
+    },
+    {
+      "net": "GND",
+      "groups": 6,
+      "points": [
+        [
+          [
+            600.6,
+            -2975
+          ],
+          [
+            1075,
+            -2199.4
+          ],
+          [
+            1450.6,
+            -2970
+          ],
+          [
+            605.6,
+            -575
+          ],
+          [
+            1145.6,
+            -995
+          ],
+          [
+            280.6,
+            -880
+          ],
+          [
+            1336.3,
+            -2912.4
+          ],
+          [
+            1331.3,
+            -2337.4
+          ],
+          [
+            1388.7,
+            -2637.6
+          ],
+          [
+            1687.4,
+            -1763.7
+          ],
+          [
+            2016.3,
+            -1692.4
+          ],
+          [
+            428.7,
+            -662.6
+          ],
+          [
+            1691.3,
+            -1582.4
+          ],
+          [
+            690,
+            -3240
+          ],
+          [
+            1005,
+            -2575
+          ],
+          [
+            1830,
+            -2985
+          ],
+          [
+            2000,
+            -2035
+          ],
+          [
+            805,
+            -880
+          ],
+          [
+            1845,
+            -545
+          ],
+          [
+            735,
+            -1200
+          ],
+          [
+            415,
+            -3130
+          ],
+          [
+            1235,
+            -2465
+          ],
+          [
+            1535,
+            -3215
+          ],
+          [
+            1425,
+            -2150
+          ],
+          [
+            655,
+            -865
+          ],
+          [
+            1235,
+            -765
+          ],
+          [
+            1421.3,
+            -1750
+          ],
+          [
+            1393.8999999999999,
+            -2970
+          ],
+          [
+            670,
+            -880
+          ],
+          [
+            1200,
+            -2500
+          ],
+          [
+            1170,
+            -2500
+          ],
+          [
+            1170,
+            -2630
+          ],
+          [
+            1300,
+            -2630
+          ],
+          [
+            1331.3,
+            -2598.7
+          ],
+          [
+            1349.8,
+            -2598.7
+          ],
+          [
+            1015,
+            -2565
+          ],
+          [
+            1170,
+            -2565
+          ],
+          [
+            1687.4,
+            -1586.3
+          ],
+          [
+            516.3,
+            -575
+          ],
+          [
+            1425,
+            -2260
+          ],
+          [
+            1347.6,
+            -2337.4
+          ],
+          [
+            415,
+            -3100
+          ],
+          [
+            540,
+            -2975
+          ],
+          [
+            1205,
+            -765
+          ],
+          [
+            1145.6,
+            -824.4000000000001
+          ],
+          [
+            1500,
+            -3180
+          ],
+          [
+            1470,
+            -3180
+          ],
+          [
+            1450.6,
+            -3160.6
+          ],
+          [
+            280.6,
+            -791.9
+          ],
+          [
+            409.9,
+            -662.6
+          ],
+          [
+            1411.3,
+            -1760
+          ],
+          [
+            1357.5,
+            -1760
+          ],
+          [
+            1357.5,
+            -2112.5
+          ],
+          [
+            2040,
+            -2795
+          ],
+          [
+            2435,
+            -2795
+          ],
+          [
+            2597.5,
+            -2632.5
+          ],
+          [
+            2597.5,
+            -2105
+          ],
+          [
+            2067.5,
+            -1575
+          ],
+          [
+            1860,
+            -1575
+          ],
+          [
+            1687.4,
+            -1747.6
+          ],
+          [
+            2048.7,
+            -1660
+          ],
+          [
+            2067.5,
+            -1660
+          ],
+          [
+            1998.3333333333333,
+            -1575
+          ],
+          [
+            725,
+            -3275
+          ],
+          [
+            755,
+            -3275
+          ],
+          [
+            755,
+            -3405
+          ],
+          [
+            737.5,
+            -3422.5
+          ],
+          [
+            402.5,
+            -3422.5
+          ],
+          [
+            402.5,
+            -3115
+          ],
+          [
+            542.5,
+            -2975
+          ],
+          [
+            1356.3,
+            -2670
+          ],
+          [
+            1337.5,
+            -2670
+          ],
+          [
+            1337.5,
+            -2755
+          ],
+          [
+            1377.5,
+            -2795
+          ],
+          [
+            1387.5,
+            -2795
+          ],
+          [
+            1387.5,
+            -2877.5
+          ],
+          [
+            1352.6,
+            -2912.4
+          ],
+          [
+            2020,
+            -2795
+          ],
+          [
+            1075,
+            -2535
+          ],
+          [
+            620,
+            -900
+          ],
+          [
+            620,
+            -930
+          ],
+          [
+            490,
+            -930
+          ],
+          [
+            490,
+            -892.5
+          ],
+          [
+            377.5,
+            -780
+          ],
+          [
+            377.5,
+            -697.5
+          ],
+          [
+            500,
+            -575
+          ],
+          [
+            735,
+            -1045
+          ],
+          [
+            1145.6,
+            -909.7
+          ],
+          [
+            1145.6,
+            -1403.1
+          ],
+          [
+            1312.5,
+            -1570
+          ],
+          [
+            1312.5,
+            -2150
+          ],
+          [
+            1382.5,
+            -2220
+          ],
+          [
+            1382.5,
+            -2547.5
+          ],
+          [
+            1127.5,
+            -2802.5
+          ],
+          [
+            717.5,
+            -2802.5
+          ],
+          [
+            592.5,
+            -2927.5
+          ],
+          [
+            342.5,
+            -2927.5
+          ],
+          [
+            232.5,
+            -2817.5
+          ],
+          [
+            232.5,
+            -1742.5
+          ],
+          [
+            805,
+            -1170
+          ],
+          [
+            600.6,
+            -2935.6
+          ],
+          [
+            2000,
+            -1815
+          ],
+          [
+            1882.5,
+            -1697.5
+          ],
+          [
+            1882.5,
+            -1612.5
+          ],
+          [
+            1920,
+            -1575
+          ],
+          [
+            2035.1,
+            -1692.4
+          ],
+          [
+            1872.5,
+            -517.5
+          ],
+          [
+            2047.5,
+            -517.5
+          ],
+          [
+            2062.5,
+            -502.5
+          ],
+          [
+            2177.5,
+            -502.5
+          ],
+          [
+            2597.5,
+            -922.5
+          ],
+          [
+            1317.5,
+            -2072.5
+          ],
+          [
+            1317.5,
+            -1557.5
+          ],
+          [
+            1170,
+            -1410
+          ],
+          [
+            1170,
+            -800
+          ],
+          [
+            737.5,
+            -880
+          ],
+          [
+            1235,
+            -2630
+          ],
+          [
+            1331.3,
+            -2511.6
+          ],
+          [
+            1331.3,
+            -2424.5
+          ],
+          [
+            1092.5,
+            -2565
+          ],
+          [
+            1687.4,
+            -1675
+          ],
+          [
+            472.5,
+            -618.8
+          ],
+          [
+            1425,
+            -2205
+          ],
+          [
+            1386.3,
+            -2298.7
+          ],
+          [
+            477.5,
+            -3037.5
+          ],
+          [
+            1450.6,
+            -3065.3
+          ],
+          [
+            345.25,
+            -727.25
+          ],
+          [
+            1357.5,
+            -1848.125
+          ],
+          [
+            1357.5,
+            -1936.25
+          ],
+          [
+            1357.5,
+            -2024.375
+          ],
+          [
+            1425.75,
+            -2180.75
+          ],
+          [
+            1494,
+            -2249
+          ],
+          [
+            1562.25,
+            -2317.25
+          ],
+          [
+            1630.5,
+            -2385.5
+          ],
+          [
+            1698.75,
+            -2453.75
+          ],
+          [
+            1767,
+            -2522
+          ],
+          [
+            1835.25,
+            -2590.25
+          ],
+          [
+            1903.5,
+            -2658.5
+          ],
+          [
+            1971.75,
+            -2726.75
+          ],
+          [
+            2138.75,
+            -2795
+          ],
+          [
+            2237.5,
+            -2795
+          ],
+          [
+            2336.25,
+            -2795
+          ],
+          [
+            2489.1666666666665,
+            -2740.8333333333335
+          ],
+          [
+            2543.3333333333335,
+            -2686.6666666666665
+          ],
+          [
+            2597.5,
+            -2544.5833333333335
+          ],
+          [
+            2597.5,
+            -2456.6666666666665
+          ],
+          [
+            2597.5,
+            -2368.75
+          ],
+          [
+            2597.5,
+            -2280.8333333333335
+          ],
+          [
+            2597.5,
+            -2192.9166666666665
+          ],
+          [
+            2531.25,
+            -2038.75
+          ],
+          [
+            2465,
+            -1972.5
+          ],
+          [
+            2398.75,
+            -1906.25
+          ],
+          [
+            2332.5,
+            -1840
+          ],
+          [
+            2266.25,
+            -1773.75
+          ],
+          [
+            2200,
+            -1707.5
+          ],
+          [
+            2133.75,
+            -1641.25
+          ],
+          [
+            1929.1666666666667,
+            -1575
+          ],
+          [
+            1802.4666666666667,
+            -1632.5333333333333
+          ],
+          [
+            1744.9333333333334,
+            -1690.0666666666666
+          ],
+          [
+            755,
+            -3340
+          ],
+          [
+            653.75,
+            -3422.5
+          ],
+          [
+            570,
+            -3422.5
+          ],
+          [
+            486.25,
+            -3422.5
+          ],
+          [
+            402.5,
+            -3345.625
+          ],
+          [
+            402.5,
+            -3268.75
+          ],
+          [
+            402.5,
+            -3191.875
+          ],
+          [
+            472.5,
+            -3045
+          ],
+          [
+            1893.3333333333333,
+            -2921.6666666666665
+          ],
+          [
+            1956.6666666666667,
+            -2858.3333333333335
+          ],
+          [
+            1122.5,
+            -2582.5
+          ],
+          [
+            1075,
+            -2451.1
+          ],
+          [
+            1075,
+            -2367.2
+          ],
+          [
+            1075,
+            -2283.3
+          ],
+          [
+            555,
+            -930
+          ],
+          [
+            433.75,
+            -836.25
+          ],
+          [
+            438.75,
+            -636.25
+          ],
+          [
+            552.8,
+            -575
+          ],
+          [
+            735,
+            -1122.5
+          ],
+          [
+            677.5,
+            -987.5
+          ],
+          [
+            1145.6,
+            -1008.38
+          ],
+          [
+            1145.6,
+            -1107.06
+          ],
+          [
+            1145.6,
+            -1205.74
+          ],
+          [
+            1145.6,
+            -1304.42
+          ],
+          [
+            1201.2333333333333,
+            -1458.7333333333333
+          ],
+          [
+            1256.8666666666666,
+            -1514.3666666666666
+          ],
+          [
+            1312.5,
+            -1666.6666666666667
+          ],
+          [
+            1312.5,
+            -1763.3333333333333
+          ],
+          [
+            1312.5,
+            -1860
+          ],
+          [
+            1312.5,
+            -1956.6666666666667
+          ],
+          [
+            1312.5,
+            -2053.3333333333335
+          ],
+          [
+            1382.5,
+            -2301.875
+          ],
+          [
+            1382.5,
+            -2383.75
+          ],
+          [
+            1382.5,
+            -2465.625
+          ],
+          [
+            1318.75,
+            -2611.25
+          ],
+          [
+            1255,
+            -2675
+          ],
+          [
+            1191.25,
+            -2738.75
+          ],
+          [
+            1045.5,
+            -2802.5
+          ],
+          [
+            963.5,
+            -2802.5
+          ],
+          [
+            881.5,
+            -2802.5
+          ],
+          [
+            799.5,
+            -2802.5
+          ],
+          [
+            655,
+            -2865
+          ],
+          [
+            509.1666666666667,
+            -2927.5
+          ],
+          [
+            425.83333333333337,
+            -2927.5
+          ],
+          [
+            287.5,
+            -2872.5
+          ],
+          [
+            232.5,
+            -2719.7727272727275
+          ],
+          [
+            232.5,
+            -2622.0454545454545
+          ],
+          [
+            232.5,
+            -2524.318181818182
+          ],
+          [
+            232.5,
+            -2426.590909090909
+          ],
+          [
+            232.5,
+            -2328.8636363636365
+          ],
+          [
+            232.5,
+            -2231.1363636363635
+          ],
+          [
+            232.5,
+            -2133.409090909091
+          ],
+          [
+            232.5,
+            -2035.681818181818
+          ],
+          [
+            232.5,
+            -1937.9545454545455
+          ],
+          [
+            232.5,
+            -1840.2272727272727
+          ],
+          [
+            296.1111111111111,
+            -1678.888888888889
+          ],
+          [
+            359.72222222222223,
+            -1615.2777777777778
+          ],
+          [
+            423.33333333333337,
+            -1551.6666666666667
+          ],
+          [
+            486.94444444444446,
+            -1488.0555555555557
+          ],
+          [
+            550.5555555555555,
+            -1424.4444444444443
+          ],
+          [
+            614.1666666666667,
+            -1360.8333333333333
+          ],
+          [
+            677.7777777777778,
+            -1297.2222222222222
+          ],
+          [
+            741.3888888888889,
+            -1233.611111111111
+          ],
+          [
+            805,
+            -1073.3333333333333
+          ],
+          [
+            805,
+            -976.6666666666666
+          ],
+          [
+            2000,
+            -1961.6666666666667
+          ],
+          [
+            2000,
+            -1888.3333333333333
+          ],
+          [
+            1941.25,
+            -1756.25
+          ],
+          [
+            1993.75,
+            -1575
+          ],
+          [
+            1960,
+            -517.5
+          ],
+          [
+            2120,
+            -502.5
+          ],
+          [
+            2247.5,
+            -572.5
+          ],
+          [
+            2317.5,
+            -642.5
+          ],
+          [
+            2387.5,
+            -712.5
+          ],
+          [
+            2457.5,
+            -782.5
+          ],
+          [
+            2527.5,
+            -852.5
+          ],
+          [
+            2597.5,
+            -1017.5
+          ],
+          [
+            2597.5,
+            -1112.5
+          ],
+          [
+            2597.5,
+            -1207.5
+          ],
+          [
+            2597.5,
+            -1302.5
+          ],
+          [
+            2597.5,
+            -1397.5
+          ],
+          [
+            2597.5,
+            -1492.5
+          ],
+          [
+            2597.5,
+            -1587.5
+          ],
+          [
+            2597.5,
+            -1682.5
+          ],
+          [
+            2597.5,
+            -1777.5
+          ],
+          [
+            2597.5,
+            -1872.5
+          ],
+          [
+            2597.5,
+            -1967.5
+          ],
+          [
+            2597.5,
+            -2062.5
+          ],
+          [
+            2597.5,
+            -2157.5
+          ],
+          [
+            2597.5,
+            -2252.5
+          ],
+          [
+            2597.5,
+            -2347.5
+          ],
+          [
+            2597.5,
+            -2442.5
+          ],
+          [
+            2597.5,
+            -2537.5
+          ],
+          [
+            1974.3181818181818,
+            -2729.318181818182
+          ],
+          [
+            1908.6363636363635,
+            -2663.6363636363635
+          ],
+          [
+            1842.9545454545455,
+            -2597.9545454545455
+          ],
+          [
+            1777.2727272727273,
+            -2532.272727272727
+          ],
+          [
+            1711.590909090909,
+            -2466.590909090909
+          ],
+          [
+            1645.909090909091,
+            -2400.909090909091
+          ],
+          [
+            1580.2272727272727,
+            -2335.227272727273
+          ],
+          [
+            1514.5454545454545,
+            -2269.5454545454545
+          ],
+          [
+            1448.8636363636365,
+            -2203.8636363636365
+          ],
+          [
+            1383.181818181818,
+            -2138.181818181818
+          ],
+          [
+            1317.5,
+            -1986.6666666666667
+          ],
+          [
+            1317.5,
+            -1900.8333333333333
+          ],
+          [
+            1317.5,
+            -1815
+          ],
+          [
+            1317.5,
+            -1729.1666666666667
+          ],
+          [
+            1317.5,
+            -1643.3333333333333
+          ],
+          [
+            1268.3333333333333,
+            -1508.3333333333333
+          ],
+          [
+            1219.1666666666667,
+            -1459.1666666666667
+          ],
+          [
+            1170,
+            -1322.857142857143
+          ],
+          [
+            1170,
+            -1235.7142857142858
+          ],
+          [
+            1170,
+            -1148.5714285714284
+          ],
+          [
+            1170,
+            -1061.4285714285716
+          ],
+          [
+            1170,
+            -974.2857142857142
+          ],
+          [
+            1170,
+            -887.1428571428571
+          ]
+        ],
+        [
+          [
+            1779.4,
+            -2270
+          ]
+        ],
+        [
+          [
+            1085,
+            -1710.6
+          ]
+        ],
+        [
+          [
+            1005.6,
+            -1600
+          ],
+          [
+            910,
+            -1415.6
+          ],
+          [
+            883.0999999999999,
+            -1442.5
+          ],
+          [
+            852.5,
+            -1442.5
+          ],
+          [
+            852.5,
+            -1547.5
+          ],
+          [
+            905,
+            -1600
+          ],
+          [
+            852.5,
+            -1495
+          ],
+          [
+            955.3,
+            -1600
+          ]
+        ],
+        [
+          [
+            897.4,
+            -1708.7
+          ]
+        ],
+        [
+          [
+            1532.4,
+            -1218.7
+          ]
+        ]
+      ]
+    },
+    {
+      "net": "3V3_A",
+      "groups": 11,
+      "points": [
+        [
+          [
+            359.4,
+            -880
+          ],
+          [
+            525,
+            -1104.4
+          ],
+          [
+            494.4000000000001,
+            -1104.4
+          ],
+          [
+            359.4,
+            -969.4
+          ],
+          [
+            426.90000000000003,
+            -1036.9
+          ]
+        ],
+        [
+          [
+            1085,
+            -1789.4
+          ],
+          [
+            1331.3,
+            -2262.6
+          ],
+          [
+            1208.7,
+            -1750
+          ],
+          [
+            1155,
+            -1750
+          ],
+          [
+            1115.6,
+            -1789.4
+          ],
+          [
+            1272.5,
+            -2203.8
+          ],
+          [
+            1272.5,
+            -1760
+          ],
+          [
+            1145,
+            -1760
+          ],
+          [
+            1272.5,
+            -2115.04
+          ],
+          [
+            1272.5,
+            -2026.2800000000002
+          ],
+          [
+            1272.5,
+            -1937.52
+          ],
+          [
+            1272.5,
+            -1848.76
+          ],
+          [
+            1208.75,
+            -1760
+          ]
+        ],
+        [
+          [
+            1336.3,
+            -2837.6
+          ]
+        ],
+        [
+          [
+            822.6,
+            -1708.7
+          ]
+        ],
+        [
+          [
+            1388.7,
+            -2712.4
+          ]
+        ],
+        [
+          [
+            1612.6,
+            -1763.7
+          ]
+        ],
+        [
+          [
+            2016.3,
+            -1617.6
+          ]
+        ],
+        [
+          [
+            428.7,
+            -737.4
+          ]
+        ],
+        [
+          [
+            1691.3,
+            -1507.6
+          ]
+        ],
+        [
+          [
+            1457.6,
+            -1218.7
+          ]
+        ],
+        [
+          [
+            765,
+            -1449.4
+          ]
+        ]
+      ]
+    }
+  ],
+  "trackCount": 335,
+  "fresh": false,
+  "removedNets": [
+    "GND",
+    "VBIAS",
+    "3V3_A",
+    "CH1_SUM",
+    "CH2_SUM",
+    "CH3_SUM"
+  ]
+}

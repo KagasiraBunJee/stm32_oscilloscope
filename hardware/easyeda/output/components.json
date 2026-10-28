@@ -1,0 +1,967 @@
+[
+  {
+    "ref": "J1",
+    "value": "CH1 DIRECT 0-3.3V",
+    "footprint": "HDR1X2",
+    "pins": {
+      "1": "CH1_DIRECT",
+      "2": "GND"
+    },
+    "x_mm": 7,
+    "y_mm": 10,
+    "specification": "",
+    "uuid": "676e80ef54075bc7b268469c8b34bed9",
+    "schematic_id": "gge12"
+  },
+  {
+    "ref": "J2",
+    "value": "CH1 HIGH +/-15V",
+    "footprint": "HDR1X2",
+    "pins": {
+      "1": "CH1_HIGH",
+      "2": "GND"
+    },
+    "x_mm": 7,
+    "y_mm": 20,
+    "specification": "",
+    "uuid": "2703321e59985c6e896b86998a76a5fd",
+    "schematic_id": "gge22"
+  },
+  {
+    "ref": "R1",
+    "value": "100R",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH1_DIRECT",
+      "2": "PA1"
+    },
+    "x_mm": 15,
+    "y_mm": 10,
+    "specification": "1%, >=0.125 W, >=50 V",
+    "uuid": "0dc401b83e5b55498c83cec899c6063d",
+    "schematic_id": "gge32"
+  },
+  {
+    "ref": "C1",
+    "value": "1nF",
+    "footprint": "C0805",
+    "pins": {
+      "1": "PA1",
+      "2": "GND"
+    },
+    "x_mm": 21,
+    "y_mm": 10,
+    "specification": "C0G, 5%, >=25 V",
+    "uuid": "3e99b3b1ebe95350b448ec2bfaae78fd",
+    "schematic_id": "gge42"
+  },
+  {
+    "ref": "D1",
+    "value": "BAT54S",
+    "footprint": "SOT23",
+    "pins": {
+      "1": "GND",
+      "2": "3V3_A",
+      "3": "PA1"
+    },
+    "x_mm": 27,
+    "y_mm": 10,
+    "specification": "Nexperia BAT54S, series pair; pin 3 midpoint",
+    "uuid": "75b4e4796c335bd986f12f64a14cdb5c",
+    "schematic_id": "gge55"
+  },
+  {
+    "ref": "R2",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH1_HIGH",
+      "2": "CH1_ATT1"
+    },
+    "x_mm": 15,
+    "y_mm": 18,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "593ca5e7df48527ba92743bea11ed484",
+    "schematic_id": "gge65"
+  },
+  {
+    "ref": "R3",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH1_ATT1",
+      "2": "CH1_ATT2"
+    },
+    "x_mm": 21,
+    "y_mm": 18,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "245ac0a2bdbe547c8d7555cab196621b",
+    "schematic_id": "gge75"
+  },
+  {
+    "ref": "R4",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH1_ATT2",
+      "2": "CH1_ATT3"
+    },
+    "x_mm": 27,
+    "y_mm": 18,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "3c667eb5190f511a9876539246a34a0c",
+    "schematic_id": "gge85"
+  },
+  {
+    "ref": "R5",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH1_ATT3",
+      "2": "CH1_ATT4"
+    },
+    "x_mm": 33,
+    "y_mm": 18,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "39a8e2198612589ba7891b39d3e9589d",
+    "schematic_id": "gge95"
+  },
+  {
+    "ref": "R6",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH1_ATT4",
+      "2": "CH1_ATT5"
+    },
+    "x_mm": 39,
+    "y_mm": 18,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "eea398a9b7e8500cabcd38c2686b055f",
+    "schematic_id": "gge105"
+  },
+  {
+    "ref": "R7",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH1_ATT5",
+      "2": "CH1_ATT6"
+    },
+    "x_mm": 15,
+    "y_mm": 23,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "7d7ccf7639d756ce9f636ad9f9bdfc53",
+    "schematic_id": "gge115"
+  },
+  {
+    "ref": "R8",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH1_ATT6",
+      "2": "CH1_ATT7"
+    },
+    "x_mm": 21,
+    "y_mm": 23,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "f8a573b14e955967b72d66afa6cf5d5b",
+    "schematic_id": "gge125"
+  },
+  {
+    "ref": "R9",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH1_ATT7",
+      "2": "CH1_ATT8"
+    },
+    "x_mm": 27,
+    "y_mm": 23,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "3109787342105e1695749d931371734a",
+    "schematic_id": "gge135"
+  },
+  {
+    "ref": "R10",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH1_ATT8",
+      "2": "CH1_SUM"
+    },
+    "x_mm": 33,
+    "y_mm": 23,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "88b0eb8a165b520eba0cf3b006ea244b",
+    "schematic_id": "gge145"
+  },
+  {
+    "ref": "R11",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH1_SUM",
+      "2": "VBIAS"
+    },
+    "x_mm": 42,
+    "y_mm": 23,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "7b02df85939350dfbdc97049a2f8d54d",
+    "schematic_id": "gge155"
+  },
+  {
+    "ref": "D2",
+    "value": "BAS70-04",
+    "footprint": "SOT23",
+    "pins": {
+      "1": "GND",
+      "2": "3V3_A",
+      "3": "CH1_SUM"
+    },
+    "x_mm": 43,
+    "y_mm": 17,
+    "specification": "Series-pair SOT23; verify chosen manufacturer pin 3 midpoint",
+    "uuid": "d418edbfc0025072b0e108b7bdd5c97f",
+    "schematic_id": "gge168"
+  },
+  {
+    "ref": "R12",
+    "value": "33R",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH1_BUF",
+      "2": "PC0"
+    },
+    "x_mm": 57,
+    "y_mm": 11,
+    "specification": "1%, >=0.125 W, >=50 V",
+    "uuid": "6e5dec7dd4b45e499aee12c82be871fa",
+    "schematic_id": "gge178"
+  },
+  {
+    "ref": "C2",
+    "value": "1nF",
+    "footprint": "C0805",
+    "pins": {
+      "1": "PC0",
+      "2": "GND"
+    },
+    "x_mm": 63,
+    "y_mm": 11,
+    "specification": "C0G, 5%, >=25 V",
+    "uuid": "bb84fb3b67af56f1a9ae2de926d37a62",
+    "schematic_id": "gge188"
+  },
+  {
+    "ref": "D3",
+    "value": "BAT54S",
+    "footprint": "SOT23",
+    "pins": {
+      "1": "GND",
+      "2": "3V3_A",
+      "3": "PC0"
+    },
+    "x_mm": 61,
+    "y_mm": 18,
+    "specification": "Nexperia BAT54S, series pair; pin 3 midpoint",
+    "uuid": "07962b6892b758088f6f6171e0e2ad85",
+    "schematic_id": "gge201"
+  },
+  {
+    "ref": "J3",
+    "value": "CH2 DIRECT 0-3.3V",
+    "footprint": "HDR1X2",
+    "pins": {
+      "1": "CH2_DIRECT",
+      "2": "GND"
+    },
+    "x_mm": 7,
+    "y_mm": 32,
+    "specification": "",
+    "uuid": "884a2f42ba815481b15febf0ff1e6cf4",
+    "schematic_id": "gge211"
+  },
+  {
+    "ref": "J4",
+    "value": "CH2 HIGH +/-15V",
+    "footprint": "HDR1X2",
+    "pins": {
+      "1": "CH2_HIGH",
+      "2": "GND"
+    },
+    "x_mm": 7,
+    "y_mm": 42,
+    "specification": "",
+    "uuid": "4a2fe22a8f90594b8af2fdc7dadfdd87",
+    "schematic_id": "gge221"
+  },
+  {
+    "ref": "R13",
+    "value": "100R",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH2_DIRECT",
+      "2": "PA2"
+    },
+    "x_mm": 15,
+    "y_mm": 32,
+    "specification": "1%, >=0.125 W, >=50 V",
+    "uuid": "4504d6b8146d51859c188f6f7f5295a5",
+    "schematic_id": "gge231"
+  },
+  {
+    "ref": "C3",
+    "value": "1nF",
+    "footprint": "C0805",
+    "pins": {
+      "1": "PA2",
+      "2": "GND"
+    },
+    "x_mm": 21,
+    "y_mm": 32,
+    "specification": "C0G, 5%, >=25 V",
+    "uuid": "b6d03ab5f0775541a3bc5de6e5e90c8b",
+    "schematic_id": "gge241"
+  },
+  {
+    "ref": "D4",
+    "value": "BAT54S",
+    "footprint": "SOT23",
+    "pins": {
+      "1": "GND",
+      "2": "3V3_A",
+      "3": "PA2"
+    },
+    "x_mm": 27,
+    "y_mm": 32,
+    "specification": "Nexperia BAT54S, series pair; pin 3 midpoint",
+    "uuid": "189b33b2f272570c939bbe12835ce23f",
+    "schematic_id": "gge254"
+  },
+  {
+    "ref": "R14",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH2_HIGH",
+      "2": "CH2_ATT1"
+    },
+    "x_mm": 15,
+    "y_mm": 40,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "3023a2e09bc55921a0911019bb7d3a3c",
+    "schematic_id": "gge264"
+  },
+  {
+    "ref": "R15",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH2_ATT1",
+      "2": "CH2_ATT2"
+    },
+    "x_mm": 21,
+    "y_mm": 40,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "8049a2dd87705c38a8a8b309ff73abcd",
+    "schematic_id": "gge274"
+  },
+  {
+    "ref": "R16",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH2_ATT2",
+      "2": "CH2_ATT3"
+    },
+    "x_mm": 27,
+    "y_mm": 40,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "a905ad8b9f6151ddbfb4e6ada2332260",
+    "schematic_id": "gge284"
+  },
+  {
+    "ref": "R17",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH2_ATT3",
+      "2": "CH2_ATT4"
+    },
+    "x_mm": 33,
+    "y_mm": 40,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "3f2aaf8015c65e0f968abb85afb8f94d",
+    "schematic_id": "gge294"
+  },
+  {
+    "ref": "R18",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH2_ATT4",
+      "2": "CH2_ATT5"
+    },
+    "x_mm": 39,
+    "y_mm": 40,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "803c174d1b3955dfaeb1a79ae346ec86",
+    "schematic_id": "gge304"
+  },
+  {
+    "ref": "R19",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH2_ATT5",
+      "2": "CH2_ATT6"
+    },
+    "x_mm": 15,
+    "y_mm": 45,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "87ea52d7c52159c2a9e5926d49241903",
+    "schematic_id": "gge314"
+  },
+  {
+    "ref": "R20",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH2_ATT6",
+      "2": "CH2_ATT7"
+    },
+    "x_mm": 21,
+    "y_mm": 45,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "5abeb17d6ec055378144d76eb1d52b80",
+    "schematic_id": "gge324"
+  },
+  {
+    "ref": "R21",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH2_ATT7",
+      "2": "CH2_ATT8"
+    },
+    "x_mm": 27,
+    "y_mm": 45,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "82da380a47c15442ac01211f97501250",
+    "schematic_id": "gge334"
+  },
+  {
+    "ref": "R22",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH2_ATT8",
+      "2": "CH2_SUM"
+    },
+    "x_mm": 33,
+    "y_mm": 45,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "754d3997019e5d488cb12ccfacbdddb0",
+    "schematic_id": "gge344"
+  },
+  {
+    "ref": "R23",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH2_SUM",
+      "2": "VBIAS"
+    },
+    "x_mm": 42,
+    "y_mm": 45,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "f4610ad73ec05e83b3a95243bb53ca5e",
+    "schematic_id": "gge354"
+  },
+  {
+    "ref": "D5",
+    "value": "BAS70-04",
+    "footprint": "SOT23",
+    "pins": {
+      "1": "GND",
+      "2": "3V3_A",
+      "3": "CH2_SUM"
+    },
+    "x_mm": 43,
+    "y_mm": 39,
+    "specification": "Series-pair SOT23; verify chosen manufacturer pin 3 midpoint",
+    "uuid": "f39bd7edbea85c34b77b6f492a41a654",
+    "schematic_id": "gge367"
+  },
+  {
+    "ref": "R24",
+    "value": "33R",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH2_BUF",
+      "2": "PC1"
+    },
+    "x_mm": 57,
+    "y_mm": 33,
+    "specification": "1%, >=0.125 W, >=50 V",
+    "uuid": "c0ecb4fbd38a5429b09be47f14e5e6ff",
+    "schematic_id": "gge377"
+  },
+  {
+    "ref": "C4",
+    "value": "1nF",
+    "footprint": "C0805",
+    "pins": {
+      "1": "PC1",
+      "2": "GND"
+    },
+    "x_mm": 63,
+    "y_mm": 33,
+    "specification": "C0G, 5%, >=25 V",
+    "uuid": "28b157676752556fab419f472bd831ce",
+    "schematic_id": "gge387"
+  },
+  {
+    "ref": "D6",
+    "value": "BAT54S",
+    "footprint": "SOT23",
+    "pins": {
+      "1": "GND",
+      "2": "3V3_A",
+      "3": "PC1"
+    },
+    "x_mm": 61,
+    "y_mm": 40,
+    "specification": "Nexperia BAT54S, series pair; pin 3 midpoint",
+    "uuid": "c96d86343bcb568ab77310fad8404478",
+    "schematic_id": "gge400"
+  },
+  {
+    "ref": "J5",
+    "value": "CH3 DIRECT 0-3.3V",
+    "footprint": "HDR1X2",
+    "pins": {
+      "1": "CH3_DIRECT",
+      "2": "GND"
+    },
+    "x_mm": 7,
+    "y_mm": 54,
+    "specification": "",
+    "uuid": "c1bb3189152a53089658d88e30898e21",
+    "schematic_id": "gge410"
+  },
+  {
+    "ref": "J6",
+    "value": "CH3 HIGH +/-15V",
+    "footprint": "HDR1X2",
+    "pins": {
+      "1": "CH3_HIGH",
+      "2": "GND"
+    },
+    "x_mm": 7,
+    "y_mm": 64,
+    "specification": "",
+    "uuid": "52c1667ada8b50c79f177e54e9123df1",
+    "schematic_id": "gge420"
+  },
+  {
+    "ref": "R25",
+    "value": "100R",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH3_DIRECT",
+      "2": "PA3"
+    },
+    "x_mm": 15,
+    "y_mm": 54,
+    "specification": "1%, >=0.125 W, >=50 V",
+    "uuid": "9f1928bfe6445ffa83449bfc614a3ed9",
+    "schematic_id": "gge430"
+  },
+  {
+    "ref": "C5",
+    "value": "1nF",
+    "footprint": "C0805",
+    "pins": {
+      "1": "PA3",
+      "2": "GND"
+    },
+    "x_mm": 21,
+    "y_mm": 54,
+    "specification": "C0G, 5%, >=25 V",
+    "uuid": "f1dacc0fe2d9566eb1864aa0951014bf",
+    "schematic_id": "gge440"
+  },
+  {
+    "ref": "D7",
+    "value": "BAT54S",
+    "footprint": "SOT23",
+    "pins": {
+      "1": "GND",
+      "2": "3V3_A",
+      "3": "PA3"
+    },
+    "x_mm": 27,
+    "y_mm": 54,
+    "specification": "Nexperia BAT54S, series pair; pin 3 midpoint",
+    "uuid": "cbb733d9c5675960974904a8d47de315",
+    "schematic_id": "gge453"
+  },
+  {
+    "ref": "R26",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH3_HIGH",
+      "2": "CH3_ATT1"
+    },
+    "x_mm": 15,
+    "y_mm": 62,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "bc81f97e0dcb5ff0a67200e236dbf82b",
+    "schematic_id": "gge463"
+  },
+  {
+    "ref": "R27",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH3_ATT1",
+      "2": "CH3_ATT2"
+    },
+    "x_mm": 21,
+    "y_mm": 62,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "dd0872f7eb725c79ab3aed2fd40e2c9f",
+    "schematic_id": "gge473"
+  },
+  {
+    "ref": "R28",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH3_ATT2",
+      "2": "CH3_ATT3"
+    },
+    "x_mm": 27,
+    "y_mm": 62,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "abb89db33f88537cb714ebe0efc16884",
+    "schematic_id": "gge483"
+  },
+  {
+    "ref": "R29",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH3_ATT3",
+      "2": "CH3_ATT4"
+    },
+    "x_mm": 33,
+    "y_mm": 62,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "9bdfdf526cde5298b73af5f5cd748b50",
+    "schematic_id": "gge493"
+  },
+  {
+    "ref": "R30",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH3_ATT4",
+      "2": "CH3_ATT5"
+    },
+    "x_mm": 39,
+    "y_mm": 62,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "989b491a69da5c9d8724ce2baead917c",
+    "schematic_id": "gge503"
+  },
+  {
+    "ref": "R31",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH3_ATT5",
+      "2": "CH3_ATT6"
+    },
+    "x_mm": 15,
+    "y_mm": 67,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "46335a962e415a8993019baec0f65e2d",
+    "schematic_id": "gge513"
+  },
+  {
+    "ref": "R32",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH3_ATT6",
+      "2": "CH3_ATT7"
+    },
+    "x_mm": 21,
+    "y_mm": 67,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "ed38a32033b352fc826ab864e1f23cfe",
+    "schematic_id": "gge523"
+  },
+  {
+    "ref": "R33",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH3_ATT7",
+      "2": "CH3_ATT8"
+    },
+    "x_mm": 27,
+    "y_mm": 67,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "d5e11f942c6456d3a18038ac559d303d",
+    "schematic_id": "gge533"
+  },
+  {
+    "ref": "R34",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH3_ATT8",
+      "2": "CH3_SUM"
+    },
+    "x_mm": 33,
+    "y_mm": 67,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "30aa852e8c075202813c6d2340e0d3aa",
+    "schematic_id": "gge543"
+  },
+  {
+    "ref": "R35",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH3_SUM",
+      "2": "VBIAS"
+    },
+    "x_mm": 42,
+    "y_mm": 67,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "bf0266b3aac7582e971b1d9b8161a00d",
+    "schematic_id": "gge553"
+  },
+  {
+    "ref": "D8",
+    "value": "BAS70-04",
+    "footprint": "SOT23",
+    "pins": {
+      "1": "GND",
+      "2": "3V3_A",
+      "3": "CH3_SUM"
+    },
+    "x_mm": 43,
+    "y_mm": 61,
+    "specification": "Series-pair SOT23; verify chosen manufacturer pin 3 midpoint",
+    "uuid": "eecfd8fa2d765434b17c5c5099a54274",
+    "schematic_id": "gge566"
+  },
+  {
+    "ref": "R36",
+    "value": "33R",
+    "footprint": "R0805",
+    "pins": {
+      "1": "CH3_BUF",
+      "2": "PC2"
+    },
+    "x_mm": 57,
+    "y_mm": 55,
+    "specification": "1%, >=0.125 W, >=50 V",
+    "uuid": "5d7e4c38b7cc572ea54f055736206115",
+    "schematic_id": "gge576"
+  },
+  {
+    "ref": "C6",
+    "value": "1nF",
+    "footprint": "C0805",
+    "pins": {
+      "1": "PC2",
+      "2": "GND"
+    },
+    "x_mm": 63,
+    "y_mm": 55,
+    "specification": "C0G, 5%, >=25 V",
+    "uuid": "5812893b5ede5ab5b493c899f66d59d2",
+    "schematic_id": "gge586"
+  },
+  {
+    "ref": "D9",
+    "value": "BAT54S",
+    "footprint": "SOT23",
+    "pins": {
+      "1": "GND",
+      "2": "3V3_A",
+      "3": "PC2"
+    },
+    "x_mm": 61,
+    "y_mm": 62,
+    "specification": "Nexperia BAT54S, series pair; pin 3 midpoint",
+    "uuid": "53fea2539cba5d7daf1365e031e97b2d",
+    "schematic_id": "gge599"
+  },
+  {
+    "ref": "J7",
+    "value": "POWER 3.3V",
+    "footprint": "HDR1X2",
+    "pins": {
+      "1": "3V3_IN",
+      "2": "GND"
+    },
+    "x_mm": 8,
+    "y_mm": 79,
+    "specification": "",
+    "uuid": "19718b2ed4415896aaa53f24fb832cce",
+    "schematic_id": "gge609"
+  },
+  {
+    "ref": "J8",
+    "value": "STM32 OUTPUTS",
+    "footprint": "HDR2X4",
+    "pins": {
+      "1": "PA1",
+      "2": "PC0",
+      "3": "PA2",
+      "4": "PC1",
+      "5": "PA3",
+      "6": "PC2",
+      "7": "GND",
+      "8": "GND"
+    },
+    "x_mm": 60,
+    "y_mm": 73.92,
+    "specification": "",
+    "uuid": "d1efd8d8db3c5b9e8fe3928b88313250",
+    "schematic_id": "gge637"
+  },
+  {
+    "ref": "FB1",
+    "value": "Ferrite 600R@100MHz",
+    "footprint": "R0805",
+    "pins": {
+      "1": "3V3_IN",
+      "2": "3V3_A"
+    },
+    "x_mm": 15,
+    "y_mm": 79,
+    "specification": ">=100 mA, DCR <=0.5 ohm; verify rail drop during test",
+    "uuid": "59a4e5b063905ea4a029fd45c34a994a",
+    "schematic_id": "gge647"
+  },
+  {
+    "ref": "C7",
+    "value": "10uF",
+    "footprint": "C0805",
+    "pins": {
+      "1": "3V3_A",
+      "2": "GND"
+    },
+    "x_mm": 21,
+    "y_mm": 79,
+    "specification": "X7R, 10%, >=16 V",
+    "uuid": "9a3bc01df30a5ddead813d8d4d7b04a1",
+    "schematic_id": "gge657"
+  },
+  {
+    "ref": "C8",
+    "value": "100nF",
+    "footprint": "C0805",
+    "pins": {
+      "1": "3V3_A",
+      "2": "GND"
+    },
+    "x_mm": 50,
+    "y_mm": 38,
+    "specification": "X7R, 10%, >=16 V",
+    "uuid": "97d4415cf3755451b1c650787c0298fe",
+    "schematic_id": "gge667"
+  },
+  {
+    "ref": "R37",
+    "value": "40k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "3V3_A",
+      "2": "REF_MID"
+    },
+    "x_mm": 28,
+    "y_mm": 78,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "ad7aa33de09055db8cbb0dcb30d8d509",
+    "schematic_id": "gge677"
+  },
+  {
+    "ref": "R38",
+    "value": "40k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "REF_MID",
+      "2": "REF_RAW"
+    },
+    "x_mm": 34,
+    "y_mm": 78,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "5a9621ae66985b7baafd6a1729d862f1",
+    "schematic_id": "gge687"
+  },
+  {
+    "ref": "R39",
+    "value": "100k",
+    "footprint": "R0805",
+    "pins": {
+      "1": "REF_RAW",
+      "2": "GND"
+    },
+    "x_mm": 40,
+    "y_mm": 78,
+    "specification": "0.1%, <=25 ppm/K, >=0.125 W, >=50 V",
+    "uuid": "96119b5f51da55609f85c871501157fa",
+    "schematic_id": "gge697"
+  },
+  {
+    "ref": "C9",
+    "value": "100nF",
+    "footprint": "C0805",
+    "pins": {
+      "1": "REF_RAW",
+      "2": "GND"
+    },
+    "x_mm": 46,
+    "y_mm": 78,
+    "specification": "X7R, 10%, >=16 V",
+    "uuid": "bee28cfeff125f8a8b61ed5c14530127",
+    "schematic_id": "gge707"
+  },
+  {
+    "ref": "U1",
+    "value": "TLV9064IDR",
+    "footprint": "SOIC14",
+    "pins": {
+      "1": "VBIAS",
+      "2": "VBIAS",
+      "3": "REF_RAW",
+      "4": "3V3_A",
+      "5": "CH1_SUM",
+      "6": "CH1_BUF",
+      "7": "CH1_BUF",
+      "8": "CH2_BUF",
+      "9": "CH2_BUF",
+      "10": "CH2_SUM",
+      "11": "GND",
+      "12": "CH3_SUM",
+      "13": "CH3_BUF",
+      "14": "CH3_BUF"
+    },
+    "x_mm": 51,
+    "y_mm": 46,
+    "specification": "TI TLV9064IDR, SOIC-14 D package; 3.3 V quad buffer",
+    "uuid": "4a7444937e39526fa5d7c61794cc6fcb",
+    "schematic_id": "gge753"
+  }
+]

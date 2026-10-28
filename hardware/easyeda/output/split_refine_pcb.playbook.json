@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "meta": {
+    "project": "58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c",
+    "doc": "52caa9452ee66dee",
+    "name": "Shorten distributed output placement"
+  },
+  "defaults": {
+    "retry": 0,
+    "continueOnError": false
+  },
+  "steps": [
+    {
+      "id": "target_J9",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "refine_J9",
+      "action": "pcb.component.modify",
+      "payload": {
+        "primitiveId": "951eb9406107a896",
+        "patch": {
+          "x": 1840,
+          "y": -1315,
+          "rotation": 270,
+          "name": "PA1 / GND"
+        }
+      }
+    },
+    {
+      "id": "target_J10",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "refine_J10",
+      "action": "pcb.component.modify",
+      "payload": {
+        "primitiveId": "d623ad2cf0ee0455",
+        "patch": {
+          "x": 1695,
+          "y": -3000,
+          "rotation": 270,
+          "name": "PC0 / GND"
+        }
+      }
+    },
+    {
+      "id": "target_J11",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "refine_J11",
+      "action": "pcb.component.modify",
+      "payload": {
+        "primitiveId": "2d7d49ff8d1d5d69",
+        "patch": {
+          "x": 1035,
+          "y": -2270,
+          "rotation": 90,
+          "name": "PA2 / GND"
+        }
+      }
+    },
+    {
+      "id": "target_J12",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "refine_J12",
+      "action": "pcb.component.modify",
+      "payload": {
+        "primitiveId": "1c271fbb3e47c4b9",
+        "patch": {
+          "x": 2030,
+          "y": -2185,
+          "rotation": 90,
+          "name": "PC1 / GND"
+        }
+      }
+    },
+    {
+      "id": "target_J13",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "refine_J13",
+      "action": "pcb.component.modify",
+      "payload": {
+        "primitiveId": "1f07f48d6d21c795",
+        "patch": {
+          "x": 1095,
+          "y": -3150,
+          "rotation": 0,
+          "name": "PA3 / GND"
+        }
+      }
+    },
+    {
+      "id": "target_J14",
+      "action": "document.current",
+      "assert": {
+        "$.uuid": "==52caa9452ee66dee",
+        "$.parentProjectUuid": "==58ec8001acbe89a2f5750486ad8f94acdda71271a34abf7950a7348875b90d8c"
+      }
+    },
+    {
+      "id": "refine_J14",
+      "action": "pcb.component.modify",
+      "payload": {
+        "primitiveId": "e209eefa02aacb06",
+        "patch": {
+          "x": 2390,
+          "y": -1990,
+          "rotation": 270,
+          "name": "PC2 / GND"
+        }
+      }
+    },
+    {
+      "id": "save",
+      "action": "pcb.save"
+    }
+  ]
+}

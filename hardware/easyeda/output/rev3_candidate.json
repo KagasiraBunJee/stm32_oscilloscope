@@ -1,0 +1,4819 @@
+{
+  "components": [
+    {
+      "primitiveId": "3fe6fb53688b601f",
+      "designator": "C1",
+      "name": "1nF",
+      "device": "1nF",
+      "layer": 1,
+      "x": 640,
+      "y": -2975,
+      "rotation": 180,
+      "bbox": {
+        "minX": 577.0079499999999,
+        "maxX": 702.99215,
+        "minY": -3002.55905,
+        "maxY": -2947.44095
+      },
+      "pads": [
+        {
+          "primitiveId": "3fe6fb53688b601fe2",
+          "padNumber": "1",
+          "net": "PA1",
+          "layer": 1,
+          "x": 679.3887999999981,
+          "y": -2975.04255,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "3fe6fb53688b601fe3",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 1,
+          "x": 600.5887999999981,
+          "y": -2975.04255,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "41465063135245e8",
+      "designator": "C2",
+      "name": "1nF",
+      "device": "1nF",
+      "layer": 1,
+      "x": 1075,
+      "y": -2160,
+      "rotation": 270,
+      "bbox": {
+        "minX": 1047.4409500000002,
+        "maxX": 1102.55905,
+        "minY": -2222.99205,
+        "maxY": -2097.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "41465063135245e8e2",
+          "padNumber": "1",
+          "net": "PC0",
+          "layer": 1,
+          "x": 1074.9589499999993,
+          "y": -2120.6292500000004,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "41465063135245e8e3",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 1,
+          "x": 1074.9589499999993,
+          "y": -2199.3292500000007,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "88d046d63ddcb33b",
+      "designator": "C3",
+      "name": "1nF",
+      "device": "1nF",
+      "layer": 1,
+      "x": 1490,
+      "y": -2970,
+      "rotation": 180,
+      "bbox": {
+        "minX": 1427.00795,
+        "maxX": 1552.99215,
+        "minY": -2997.55905,
+        "maxY": -2942.44095
+      },
+      "pads": [
+        {
+          "primitiveId": "88d046d63ddcb33be2",
+          "padNumber": "1",
+          "net": "PA2",
+          "layer": 1,
+          "x": 1529.3707499999994,
+          "y": -2970.028249999999,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "88d046d63ddcb33be3",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 1,
+          "x": 1450.6707499999993,
+          "y": -2970.028249999999,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "985cf77a3e174528",
+      "designator": "C4",
+      "name": "1nF",
+      "device": "1nF",
+      "layer": 1,
+      "x": 1740,
+      "y": -2270,
+      "rotation": 0,
+      "bbox": {
+        "minX": 1677.00785,
+        "maxX": 1802.99205,
+        "minY": -2297.55905,
+        "maxY": -2242.44095
+      },
+      "pads": [
+        {
+          "primitiveId": "985cf77a3e174528e2",
+          "padNumber": "1",
+          "net": "PC1",
+          "layer": 1,
+          "x": 1700.5985500000002,
+          "y": -2270.0222500000036,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "985cf77a3e174528e3",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 1,
+          "x": 1779.3985500000001,
+          "y": -2270.0222500000036,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "6c9251d214e68df1",
+      "designator": "C5",
+      "name": "1nF",
+      "device": "1nF",
+      "layer": 1,
+      "x": 645,
+      "y": -575,
+      "rotation": 180,
+      "bbox": {
+        "minX": 582.0079499999999,
+        "maxX": 707.99215,
+        "minY": -602.5590499999998,
+        "maxY": -547.4409500000002
+      },
+      "pads": [
+        {
+          "primitiveId": "6c9251d214e68df1e2",
+          "padNumber": "1",
+          "net": "PA3",
+          "layer": 1,
+          "x": 684.4014499999998,
+          "y": -575.0470499999983,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "6c9251d214e68df1e3",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 1,
+          "x": 605.6014499999999,
+          "y": -575.0470499999983,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "41e7fb94c1120e67",
+      "designator": "C6",
+      "name": "1nF",
+      "device": "1nF",
+      "layer": 1,
+      "x": 1185,
+      "y": -995,
+      "rotation": 180,
+      "bbox": {
+        "minX": 1122.00795,
+        "maxX": 1247.99215,
+        "minY": -1022.5590500000003,
+        "maxY": -967.4409500000002
+      },
+      "pads": [
+        {
+          "primitiveId": "41e7fb94c1120e67e2",
+          "padNumber": "1",
+          "net": "PC2",
+          "layer": 1,
+          "x": 1224.3921500000001,
+          "y": -995.030349999993,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "41e7fb94c1120e67e3",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 1,
+          "x": 1145.59215,
+          "y": -995.030349999993,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "9673eca50a19f800",
+      "designator": "C7",
+      "name": "10uF",
+      "device": "10uF",
+      "layer": 1,
+      "x": 320,
+      "y": -880,
+      "rotation": 180,
+      "bbox": {
+        "minX": 257.00795,
+        "maxX": 382.99215000000004,
+        "minY": -907.5590500000003,
+        "maxY": -852.4409500000002
+      },
+      "pads": [
+        {
+          "primitiveId": "9673eca50a19f800e2",
+          "padNumber": "1",
+          "net": "3V3_A",
+          "layer": 1,
+          "x": 359.39215,
+          "y": -880.0184499999921,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "9673eca50a19f800e3",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 1,
+          "x": 280.59215,
+          "y": -880.0184499999921,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "aa4ddfd0af7666e7",
+      "designator": "C8",
+      "name": "100nF",
+      "device": "100nF",
+      "layer": 1,
+      "x": 1085,
+      "y": -1750,
+      "rotation": 90,
+      "bbox": {
+        "minX": 1057.4409499999995,
+        "maxX": 1112.5590499999998,
+        "minY": -1812.99215,
+        "maxY": -1687.00795
+      },
+      "pads": [
+        {
+          "primitiveId": "aa4ddfd0af7666e7e2",
+          "padNumber": "1",
+          "net": "3V3_A",
+          "layer": 1,
+          "x": 1084.9815500000084,
+          "y": -1789.4014499999998,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "aa4ddfd0af7666e7e3",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 1,
+          "x": 1084.9815500000084,
+          "y": -1710.6014499999999,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "cc6587dacfb9be24",
+      "designator": "C9",
+      "name": "100nF",
+      "device": "100nF",
+      "layer": 1,
+      "x": 1060,
+      "y": -1600,
+      "rotation": 180,
+      "bbox": {
+        "minX": 997.0079499999999,
+        "maxX": 1122.99215,
+        "minY": -1627.5590500000008,
+        "maxY": -1572.4409500000002
+      },
+      "pads": [
+        {
+          "primitiveId": "cc6587dacfb9be24e2",
+          "padNumber": "1",
+          "net": "REF_RAW",
+          "layer": 1,
+          "x": 1099.3921500000001,
+          "y": -1599.9584999999884,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "cc6587dacfb9be24e3",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 1,
+          "x": 1020.5921500000001,
+          "y": -1599.9584999999884,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "6b3cd0ff85158555",
+      "designator": "D1",
+      "name": "BAT54S",
+      "device": "BAT54S",
+      "layer": 1,
+      "x": 1295,
+      "y": -2875,
+      "rotation": 90,
+      "bbox": {
+        "minX": 1232.00785,
+        "maxX": 1357.99215,
+        "minY": -2925.1967999999997,
+        "maxY": -2824.8031
+      },
+      "pads": [
+        {
+          "primitiveId": "6b3cd0ff85158555e2",
+          "padNumber": "1",
+          "net": "GND",
+          "layer": 1,
+          "x": 1336.35745,
+          "y": -2912.3587999999972,
+          "width": 43.3,
+          "height": 25.6
+        },
+        {
+          "primitiveId": "6b3cd0ff85158555e3",
+          "padNumber": "2",
+          "net": "3V3_A",
+          "layer": 1,
+          "x": 1336.35745,
+          "y": -2837.558799999997,
+          "width": 43.3,
+          "height": 25.6
+        },
+        {
+          "primitiveId": "6b3cd0ff85158555e4",
+          "padNumber": "3",
+          "net": "PA1",
+          "layer": 1,
+          "x": 1253.65745,
+          "y": -2874.958799999997,
+          "width": 43.3,
+          "height": 25.6
+        }
+      ]
+    },
+    {
+      "primitiveId": "7e58c2b8b715d5fc",
+      "designator": "D2",
+      "name": "BAS70-04",
+      "device": "BAS70-04",
+      "layer": 1,
+      "x": 860,
+      "y": -1750,
+      "rotation": 180,
+      "bbox": {
+        "minX": 809.8031000000001,
+        "maxX": 910.1968,
+        "minY": -1812.99215,
+        "maxY": -1687.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "7e58c2b8b715d5fce2",
+          "padNumber": "1",
+          "net": "GND",
+          "layer": 1,
+          "x": 897.39215,
+          "y": -1708.65895,
+          "width": 25.6,
+          "height": 43.3
+        },
+        {
+          "primitiveId": "7e58c2b8b715d5fce3",
+          "padNumber": "2",
+          "net": "3V3_A",
+          "layer": 1,
+          "x": 822.5921500000001,
+          "y": -1708.65895,
+          "width": 25.6,
+          "height": 43.3
+        },
+        {
+          "primitiveId": "7e58c2b8b715d5fce4",
+          "padNumber": "3",
+          "net": "CH1_SUM",
+          "layer": 1,
+          "x": 859.99215,
+          "y": -1791.3589499999998,
+          "width": 25.6,
+          "height": 43.3
+        }
+      ]
+    },
+    {
+      "primitiveId": "b30f0fa6563a8dcc",
+      "designator": "D3",
+      "name": "BAT54S",
+      "device": "BAT54S",
+      "layer": 1,
+      "x": 1290,
+      "y": -2300,
+      "rotation": 90,
+      "bbox": {
+        "minX": 1227.00785,
+        "maxX": 1352.99215,
+        "minY": -2350.1968,
+        "maxY": -2249.8031
+      },
+      "pads": [
+        {
+          "primitiveId": "b30f0fa6563a8dcce2",
+          "padNumber": "1",
+          "net": "GND",
+          "layer": 1,
+          "x": 1331.3410500000005,
+          "y": -2337.388799999998,
+          "width": 43.3,
+          "height": 25.6
+        },
+        {
+          "primitiveId": "b30f0fa6563a8dcce3",
+          "padNumber": "2",
+          "net": "3V3_A",
+          "layer": 1,
+          "x": 1331.3410500000005,
+          "y": -2262.588799999998,
+          "width": 43.3,
+          "height": 25.6
+        },
+        {
+          "primitiveId": "b30f0fa6563a8dcce4",
+          "padNumber": "3",
+          "net": "PC0",
+          "layer": 1,
+          "x": 1248.6410500000006,
+          "y": -2299.9887999999983,
+          "width": 43.3,
+          "height": 25.6
+        }
+      ]
+    },
+    {
+      "primitiveId": "5c4cc2c3163edf40",
+      "designator": "D4",
+      "name": "BAT54S",
+      "device": "BAT54S",
+      "layer": 1,
+      "x": 1430,
+      "y": -2675,
+      "rotation": 270,
+      "bbox": {
+        "minX": 1367.00785,
+        "maxX": 1492.99215,
+        "minY": -2725.1969,
+        "maxY": -2624.8032
+      },
+      "pads": [
+        {
+          "primitiveId": "5c4cc2c3163edf40e2",
+          "padNumber": "1",
+          "net": "GND",
+          "layer": 1,
+          "x": 1388.6282499999995,
+          "y": -2637.611200000002,
+          "width": 43.3,
+          "height": 25.6
+        },
+        {
+          "primitiveId": "5c4cc2c3163edf40e3",
+          "padNumber": "2",
+          "net": "3V3_A",
+          "layer": 1,
+          "x": 1388.6282499999995,
+          "y": -2712.411200000002,
+          "width": 43.3,
+          "height": 25.6
+        },
+        {
+          "primitiveId": "5c4cc2c3163edf40e4",
+          "padNumber": "3",
+          "net": "PA2",
+          "layer": 1,
+          "x": 1471.3282499999996,
+          "y": -2675.0112000000017,
+          "width": 43.3,
+          "height": 25.6
+        }
+      ]
+    },
+    {
+      "primitiveId": "475970e7df9592dc",
+      "designator": "D5",
+      "name": "BAS70-04",
+      "device": "BAS70-04",
+      "layer": 1,
+      "x": 1650,
+      "y": -1805,
+      "rotation": 180,
+      "bbox": {
+        "minX": 1599.8031,
+        "maxX": 1700.1968,
+        "minY": -1867.99215,
+        "maxY": -1742.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "475970e7df9592dce2",
+          "padNumber": "1",
+          "net": "GND",
+          "layer": 1,
+          "x": 1687.358799999997,
+          "y": -1763.6415499999973,
+          "width": 25.6,
+          "height": 43.3
+        },
+        {
+          "primitiveId": "475970e7df9592dce3",
+          "padNumber": "2",
+          "net": "3V3_A",
+          "layer": 1,
+          "x": 1612.558799999997,
+          "y": -1763.6415499999973,
+          "width": 25.6,
+          "height": 43.3
+        },
+        {
+          "primitiveId": "475970e7df9592dce4",
+          "padNumber": "3",
+          "net": "CH2_SUM",
+          "layer": 1,
+          "x": 1649.9587999999972,
+          "y": -1846.3415499999974,
+          "width": 25.6,
+          "height": 43.3
+        }
+      ]
+    },
+    {
+      "primitiveId": "9d29fa963f019064",
+      "designator": "D6",
+      "name": "BAT54S",
+      "device": "BAT54S",
+      "layer": 1,
+      "x": 1975,
+      "y": -1655,
+      "rotation": 90,
+      "bbox": {
+        "minX": 1912.00785,
+        "maxX": 2037.99215,
+        "minY": -1705.1968,
+        "maxY": -1604.8031
+      },
+      "pads": [
+        {
+          "primitiveId": "9d29fa963f019064e2",
+          "padNumber": "1",
+          "net": "GND",
+          "layer": 1,
+          "x": 2016.3222500000034,
+          "y": -1692.3707499999994,
+          "width": 43.3,
+          "height": 25.6
+        },
+        {
+          "primitiveId": "9d29fa963f019064e3",
+          "padNumber": "2",
+          "net": "3V3_A",
+          "layer": 1,
+          "x": 2016.3222500000034,
+          "y": -1617.5707499999994,
+          "width": 43.3,
+          "height": 25.6
+        },
+        {
+          "primitiveId": "9d29fa963f019064e4",
+          "padNumber": "3",
+          "net": "PC1",
+          "layer": 1,
+          "x": 1933.6222500000033,
+          "y": -1654.9707499999995,
+          "width": 43.3,
+          "height": 25.6
+        }
+      ]
+    },
+    {
+      "primitiveId": "9c4b3674f3dfdb44",
+      "designator": "D7",
+      "name": "BAT54S",
+      "device": "BAT54S",
+      "layer": 1,
+      "x": 470,
+      "y": -700,
+      "rotation": 270,
+      "bbox": {
+        "minX": 407.00784999999996,
+        "maxX": 532.99215,
+        "minY": -750.1968999999999,
+        "maxY": -649.8032000000001
+      },
+      "pads": [
+        {
+          "primitiveId": "9c4b3674f3dfdb44e2",
+          "padNumber": "1",
+          "net": "GND",
+          "layer": 1,
+          "x": 428.64704999999685,
+          "y": -662.6292500000006,
+          "width": 43.3,
+          "height": 25.6
+        },
+        {
+          "primitiveId": "9c4b3674f3dfdb44e3",
+          "padNumber": "2",
+          "net": "3V3_A",
+          "layer": 1,
+          "x": 428.64704999999685,
+          "y": -737.4292500000006,
+          "width": 43.3,
+          "height": 25.6
+        },
+        {
+          "primitiveId": "9c4b3674f3dfdb44e4",
+          "padNumber": "3",
+          "net": "PA3",
+          "layer": 1,
+          "x": 511.3470499999969,
+          "y": -700.0292500000006,
+          "width": 43.3,
+          "height": 25.6
+        }
+      ]
+    },
+    {
+      "primitiveId": "c2a5a17e9ea68ec3",
+      "designator": "D8",
+      "name": "BAS70-04",
+      "device": "BAS70-04",
+      "layer": 1,
+      "x": 1650,
+      "y": -1545,
+      "rotation": 90,
+      "bbox": {
+        "minX": 1587.00785,
+        "maxX": 1712.99215,
+        "minY": -1595.1968000000002,
+        "maxY": -1494.8031
+      },
+      "pads": [
+        {
+          "primitiveId": "c2a5a17e9ea68ec3e2",
+          "padNumber": "1",
+          "net": "GND",
+          "layer": 1,
+          "x": 1691.305850000006,
+          "y": -1582.3887999999981,
+          "width": 43.3,
+          "height": 25.6
+        },
+        {
+          "primitiveId": "c2a5a17e9ea68ec3e3",
+          "padNumber": "2",
+          "net": "3V3_A",
+          "layer": 1,
+          "x": 1691.305850000006,
+          "y": -1507.5887999999982,
+          "width": 43.3,
+          "height": 25.6
+        },
+        {
+          "primitiveId": "c2a5a17e9ea68ec3e4",
+          "padNumber": "3",
+          "net": "CH3_SUM",
+          "layer": 1,
+          "x": 1608.705850000006,
+          "y": -1544.988799999998,
+          "width": 43.3,
+          "height": 25.6
+        }
+      ]
+    },
+    {
+      "primitiveId": "470e08c14b4bb1da",
+      "designator": "D9",
+      "name": "BAT54S",
+      "device": "BAT54S",
+      "layer": 1,
+      "x": 1495,
+      "y": -1260,
+      "rotation": 180,
+      "bbox": {
+        "minX": 1444.8031,
+        "maxX": 1545.1968,
+        "minY": -1322.99215,
+        "maxY": -1197.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "470e08c14b4bb1dae2",
+          "padNumber": "1",
+          "net": "GND",
+          "layer": 1,
+          "x": 1532.4014499999998,
+          "y": -1218.6303499999933,
+          "width": 25.6,
+          "height": 43.3
+        },
+        {
+          "primitiveId": "470e08c14b4bb1dae3",
+          "padNumber": "2",
+          "net": "3V3_A",
+          "layer": 1,
+          "x": 1457.6014499999999,
+          "y": -1218.6303499999933,
+          "width": 25.6,
+          "height": 43.3
+        },
+        {
+          "primitiveId": "470e08c14b4bb1dae4",
+          "padNumber": "3",
+          "net": "PC2",
+          "layer": 1,
+          "x": 1495.0014499999997,
+          "y": -1301.3303499999934,
+          "width": 25.6,
+          "height": 43.3
+        }
+      ]
+    },
+    {
+      "primitiveId": "14637aaac5ee594b",
+      "designator": "FB1",
+      "name": "Ferrite 600R@100MHz",
+      "device": "Ferrite 600R@100MHz",
+      "layer": 1,
+      "x": 525,
+      "y": -1065,
+      "rotation": 270,
+      "bbox": {
+        "minX": 497.44095000000016,
+        "maxX": 552.5590500000001,
+        "minY": -1127.99215,
+        "maxY": -1002.0078500000001
+      },
+      "pads": [
+        {
+          "primitiveId": "14637aaac5ee594be2",
+          "padNumber": "1",
+          "net": "3V3_IN",
+          "layer": 1,
+          "x": 525.0303499999932,
+          "y": -1025.641200000003,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "14637aaac5ee594be3",
+          "padNumber": "2",
+          "net": "3V3_A",
+          "layer": 1,
+          "x": 525.0303499999932,
+          "y": -1104.341200000003,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "a5b5cb6b7bce9ba7",
+      "designator": "J1",
+      "name": "CH1 DIRECT 0-3.3V",
+      "device": "CH1 DIRECT 0-3.3V",
+      "layer": 1,
+      "x": 690,
+      "y": -3340,
+      "rotation": 180,
+      "bbox": {
+        "minX": 654.5669499999999,
+        "maxX": 725.4330500000001,
+        "minY": -3375.43305,
+        "maxY": -3204.56695
+      },
+      "pads": [
+        {
+          "primitiveId": "a5b5cb6b7bce9ba7e2",
+          "padNumber": "1",
+          "net": "CH1_DIRECT",
+          "layer": 12,
+          "x": 689.99215,
+          "y": -3340.04255,
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "primitiveId": "a5b5cb6b7bce9ba7e3",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 12,
+          "x": 689.99215,
+          "y": -3240.04255,
+          "width": 70.9,
+          "height": 70.9
+        }
+      ]
+    },
+    {
+      "primitiveId": "b619b47071755d12",
+      "designator": "J2",
+      "name": "CH1 HIGH +/-15V",
+      "device": "CH1 HIGH +/-15V",
+      "layer": 1,
+      "x": 905,
+      "y": -2575,
+      "rotation": 90,
+      "bbox": {
+        "minX": 869.5669499999999,
+        "maxX": 1040.43305,
+        "minY": -2610.43305,
+        "maxY": -2539.56695
+      },
+      "pads": [
+        {
+          "primitiveId": "b619b47071755d12e2",
+          "padNumber": "1",
+          "net": "CH1_HIGH",
+          "layer": 12,
+          "x": 904.9574499999999,
+          "y": -2575.0014499999997,
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "primitiveId": "b619b47071755d12e3",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 12,
+          "x": 1004.9574499999999,
+          "y": -2575.0014499999997,
+          "width": 70.9,
+          "height": 70.9
+        }
+      ]
+    },
+    {
+      "primitiveId": "2f19fff2c7533de4",
+      "designator": "J3",
+      "name": "CH2 DIRECT 0-3.3V",
+      "device": "CH2 DIRECT 0-3.3V",
+      "layer": 1,
+      "x": 1830,
+      "y": -3085,
+      "rotation": 180,
+      "bbox": {
+        "minX": 1794.56695,
+        "maxX": 1865.43305,
+        "minY": -3120.43305,
+        "maxY": -2949.56695
+      },
+      "pads": [
+        {
+          "primitiveId": "2f19fff2c7533de4e2",
+          "padNumber": "1",
+          "net": "CH2_DIRECT",
+          "layer": 12,
+          "x": 1829.9587999999972,
+          "y": -3084.9589499999993,
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "primitiveId": "2f19fff2c7533de4e3",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 12,
+          "x": 1829.9587999999972,
+          "y": -2984.9589499999993,
+          "width": 70.9,
+          "height": 70.9
+        }
+      ]
+    },
+    {
+      "primitiveId": "26fa539fdada1e5a",
+      "designator": "J4",
+      "name": "CH2 HIGH +/-15V",
+      "device": "CH2 HIGH +/-15V",
+      "layer": 1,
+      "x": 2100,
+      "y": -2035,
+      "rotation": 270,
+      "bbox": {
+        "minX": 1964.56695,
+        "maxX": 2135.43305,
+        "minY": -2070.43305,
+        "maxY": -1999.56695
+      },
+      "pads": [
+        {
+          "primitiveId": "26fa539fdada1e5ae2",
+          "padNumber": "1",
+          "net": "CH2_HIGH",
+          "layer": 12,
+          "x": 2100.028249999999,
+          "y": -2035.00785,
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "primitiveId": "26fa539fdada1e5ae3",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 12,
+          "x": 2000.028249999999,
+          "y": -2035.00785,
+          "width": 70.9,
+          "height": 70.9
+        }
+      ]
+    },
+    {
+      "primitiveId": "3a0c6b745d96a6c5",
+      "designator": "J5",
+      "name": "CH3 DIRECT 0-3.3V",
+      "device": "CH3 DIRECT 0-3.3V",
+      "layer": 1,
+      "x": 805,
+      "y": -780,
+      "rotation": 0,
+      "bbox": {
+        "minX": 769.5669499999999,
+        "maxX": 840.4330500000001,
+        "minY": -915.4330499999999,
+        "maxY": -744.5669499999999
+      },
+      "pads": [
+        {
+          "primitiveId": "3a0c6b745d96a6c5e2",
+          "padNumber": "1",
+          "net": "CH3_DIRECT",
+          "layer": 12,
+          "x": 805.011200000002,
+          "y": -780.0222500000039,
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "primitiveId": "3a0c6b745d96a6c5e3",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 12,
+          "x": 805.011200000002,
+          "y": -880.0222500000039,
+          "width": 70.9,
+          "height": 70.9
+        }
+      ]
+    },
+    {
+      "primitiveId": "6f8becf865f59256",
+      "designator": "J6",
+      "name": "CH3 HIGH +/-15V",
+      "device": "CH3 HIGH +/-15V",
+      "layer": 1,
+      "x": 1845,
+      "y": -445,
+      "rotation": 0,
+      "bbox": {
+        "minX": 1809.56695,
+        "maxX": 1880.43305,
+        "minY": -580.4330499999999,
+        "maxY": -409.5669499999999
+      },
+      "pads": [
+        {
+          "primitiveId": "6f8becf865f59256e2",
+          "padNumber": "1",
+          "net": "CH3_HIGH",
+          "layer": 12,
+          "x": 1845.0412000000028,
+          "y": -445.02225000000385,
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "primitiveId": "6f8becf865f59256e3",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 12,
+          "x": 1845.0412000000028,
+          "y": -545.0222500000039,
+          "width": 70.9,
+          "height": 70.9
+        }
+      ]
+    },
+    {
+      "primitiveId": "c9109d4377593ed8",
+      "designator": "J7",
+      "name": "POWER 3.3V",
+      "device": "POWER 3.3V",
+      "layer": 1,
+      "x": 635,
+      "y": -1200,
+      "rotation": 90,
+      "bbox": {
+        "minX": 599.5669499999995,
+        "maxX": 770.4330499999996,
+        "minY": -1235.43305,
+        "maxY": -1164.56695
+      },
+      "pads": [
+        {
+          "primitiveId": "c9109d4377593ed8e2",
+          "padNumber": "1",
+          "net": "3V3_IN",
+          "layer": 12,
+          "x": 634.969650000007,
+          "y": -1199.9707499999995,
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "primitiveId": "c9109d4377593ed8e3",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 12,
+          "x": 734.969650000007,
+          "y": -1199.9707499999995,
+          "width": 70.9,
+          "height": 70.9
+        }
+      ]
+    },
+    {
+      "primitiveId": "fd8c15c4a647aef8",
+      "designator": "J9",
+      "name": "PA1 / GND",
+      "device": "HDR1X2",
+      "layer": 1,
+      "x": 465,
+      "y": -3130,
+      "rotation": 180,
+      "bbox": {
+        "minX": 360,
+        "maxX": 570,
+        "minY": -3185,
+        "maxY": -3075
+      },
+      "pads": [
+        {
+          "primitiveId": "fd8c15c4a647aef8e6",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 12,
+          "x": 414.9887999999986,
+          "y": -3129.974399999993,
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "primitiveId": "fd8c15c4a647aef8e7",
+          "padNumber": "1",
+          "net": "PA1",
+          "layer": 12,
+          "x": 514.9887999999986,
+          "y": -3129.974399999993,
+          "width": 70.9,
+          "height": 70.9
+        }
+      ]
+    },
+    {
+      "primitiveId": "e4b1ab4bd71f8e04",
+      "designator": "J10",
+      "name": "PC0 / GND",
+      "device": "HDR1X2",
+      "layer": 1,
+      "x": 1235,
+      "y": -2515,
+      "rotation": 90,
+      "bbox": {
+        "minX": 1180,
+        "maxX": 1290,
+        "minY": -2620,
+        "maxY": -2410
+      },
+      "pads": [
+        {
+          "primitiveId": "e4b1ab4bd71f8e04e6",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 12,
+          "x": 1235.0256000000077,
+          "y": -2464.973799999999,
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "primitiveId": "e4b1ab4bd71f8e04e7",
+          "padNumber": "1",
+          "net": "PC0",
+          "layer": 12,
+          "x": 1235.0256000000077,
+          "y": -2564.973799999999,
+          "width": 70.9,
+          "height": 70.9
+        }
+      ]
+    },
+    {
+      "primitiveId": "f0e2d775132f024b",
+      "designator": "J11",
+      "name": "PA2 / GND",
+      "device": "HDR1X2",
+      "layer": 1,
+      "x": 1535,
+      "y": -3165,
+      "rotation": 270,
+      "bbox": {
+        "minX": 1480,
+        "maxX": 1590,
+        "minY": -3270,
+        "maxY": -3060
+      },
+      "pads": [
+        {
+          "primitiveId": "f0e2d775132f024be6",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 12,
+          "x": 1534.9743999999923,
+          "y": -3215.0412000000024,
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "primitiveId": "f0e2d775132f024be7",
+          "padNumber": "1",
+          "net": "PA2",
+          "layer": 12,
+          "x": 1534.9743999999923,
+          "y": -3115.0412000000024,
+          "width": 70.9,
+          "height": 70.9
+        }
+      ]
+    },
+    {
+      "primitiveId": "92fb598d5857897b",
+      "designator": "J12",
+      "name": "PC1 / GND",
+      "device": "HDR1X2",
+      "layer": 1,
+      "x": 1475,
+      "y": -2150,
+      "rotation": 180,
+      "bbox": {
+        "minX": 1370,
+        "maxX": 1580,
+        "minY": -2205,
+        "maxY": -2095
+      },
+      "pads": [
+        {
+          "primitiveId": "92fb598d5857897be6",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 12,
+          "x": 1424.988799999998,
+          "y": -2149.9624999999915,
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "primitiveId": "92fb598d5857897be7",
+          "padNumber": "1",
+          "net": "PC1",
+          "layer": 12,
+          "x": 1524.988799999998,
+          "y": -2149.9624999999915,
+          "width": 70.9,
+          "height": 70.9
+        }
+      ]
+    },
+    {
+      "primitiveId": "bba46f47ba25b6b2",
+      "designator": "J13",
+      "name": "PA3 / GND",
+      "device": "HDR1X2",
+      "layer": 1,
+      "x": 605,
+      "y": -865,
+      "rotation": 0,
+      "bbox": {
+        "minX": 500,
+        "maxX": 710,
+        "minY": -920,
+        "maxY": -810
+      },
+      "pads": [
+        {
+          "primitiveId": "bba46f47ba25b6b2e6",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 12,
+          "x": 655.0262000000024,
+          "y": -865.037500000009,
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "primitiveId": "bba46f47ba25b6b2e7",
+          "padNumber": "1",
+          "net": "PA3",
+          "layer": 12,
+          "x": 555.0262000000024,
+          "y": -865.037500000009,
+          "width": 70.9,
+          "height": 70.9
+        }
+      ]
+    },
+    {
+      "primitiveId": "f211d998b4b36a71",
+      "designator": "J14",
+      "name": "PC2 / GND",
+      "device": "HDR1X2",
+      "layer": 1,
+      "x": 1235,
+      "y": -815,
+      "rotation": 90,
+      "bbox": {
+        "minX": 1180,
+        "maxX": 1290,
+        "minY": -920,
+        "maxY": -710
+      },
+      "pads": [
+        {
+          "primitiveId": "f211d998b4b36a71e6",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 12,
+          "x": 1235.037500000009,
+          "y": -764.9587999999972,
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "primitiveId": "f211d998b4b36a71e7",
+          "padNumber": "1",
+          "net": "PC2",
+          "layer": 12,
+          "x": 1235.037500000009,
+          "y": -864.958799999997,
+          "width": 70.9,
+          "height": 70.9
+        }
+      ]
+    },
+    {
+      "primitiveId": "f34b8bc872089128",
+      "designator": "R1",
+      "name": "100R",
+      "device": "100R",
+      "layer": 1,
+      "x": 495,
+      "y": -3365,
+      "rotation": 180,
+      "bbox": {
+        "minX": 432.00785,
+        "maxX": 557.99215,
+        "minY": -3392.55905,
+        "maxY": -3337.44095
+      },
+      "pads": [
+        {
+          "primitiveId": "f34b8bc872089128e2",
+          "padNumber": "1",
+          "net": "CH1_DIRECT",
+          "layer": 1,
+          "x": 534.4116499999998,
+          "y": -3365.04255,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "f34b8bc872089128e3",
+          "padNumber": "2",
+          "net": "PA1",
+          "layer": 1,
+          "x": 455.61164999999977,
+          "y": -3365.04255,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "27af85b3ae2b7f90",
+      "designator": "R2",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 720,
+      "y": -2710,
+      "rotation": 270,
+      "bbox": {
+        "minX": 692.4409499999999,
+        "maxX": 747.55905,
+        "minY": -2772.99215,
+        "maxY": -2647.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "27af85b3ae2b7f90e2",
+          "padNumber": "1",
+          "net": "CH1_HIGH",
+          "layer": 1,
+          "x": 720.01965,
+          "y": -2670.60785,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "27af85b3ae2b7f90e3",
+          "padNumber": "2",
+          "net": "CH1_ATT1",
+          "layer": 1,
+          "x": 720.01965,
+          "y": -2749.40785,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "1794224bac2e73e9",
+      "designator": "R3",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 400,
+      "y": -2835,
+      "rotation": 90,
+      "bbox": {
+        "minX": 372.44095000000004,
+        "maxX": 427.55905,
+        "minY": -2897.99215,
+        "maxY": -2772.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "1794224bac2e73e9e2",
+          "padNumber": "1",
+          "net": "CH1_ATT1",
+          "layer": 1,
+          "x": 399.98035000000004,
+          "y": -2874.40145,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "1794224bac2e73e9e3",
+          "padNumber": "2",
+          "net": "CH1_ATT2",
+          "layer": 1,
+          "x": 399.98035000000004,
+          "y": -2795.60145,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "435197655830458a",
+      "designator": "R4",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 290,
+      "y": -2695,
+      "rotation": 90,
+      "bbox": {
+        "minX": 262.44095000000004,
+        "maxX": 317.55905,
+        "minY": -2757.99215,
+        "maxY": -2632.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "435197655830458ae2",
+          "padNumber": "1",
+          "net": "CH1_ATT2",
+          "layer": 1,
+          "x": 289.98035000000004,
+          "y": -2734.37075,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "435197655830458ae3",
+          "padNumber": "2",
+          "net": "CH1_ATT3",
+          "layer": 1,
+          "x": 289.98035000000004,
+          "y": -2655.67075,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "9676ef46e6b9c02b",
+      "designator": "R5",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 425,
+      "y": -2515,
+      "rotation": 90,
+      "bbox": {
+        "minX": 397.44095000000004,
+        "maxX": 452.5590500000002,
+        "minY": -2577.99215,
+        "maxY": -2452.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "9676ef46e6b9c02be2",
+          "padNumber": "1",
+          "net": "CH1_ATT3",
+          "layer": 1,
+          "x": 424.98035000000004,
+          "y": -2554.3887999999984,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "9676ef46e6b9c02be3",
+          "padNumber": "2",
+          "net": "CH1_ATT4",
+          "layer": 1,
+          "x": 424.98035000000004,
+          "y": -2475.588799999998,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "18f5fa1ea61a6428",
+      "designator": "R6",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 585,
+      "y": -2450,
+      "rotation": 90,
+      "bbox": {
+        "minX": 557.4409499999999,
+        "maxX": 612.5590500000002,
+        "minY": -2512.99215,
+        "maxY": -2387.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "18f5fa1ea61a6428e2",
+          "padNumber": "1",
+          "net": "CH1_ATT4",
+          "layer": 1,
+          "x": 584.98035,
+          "y": -2489.3587999999972,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "18f5fa1ea61a6428e3",
+          "padNumber": "2",
+          "net": "CH1_ATT5",
+          "layer": 1,
+          "x": 584.98035,
+          "y": -2410.658799999997,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "3a671e311d653e60",
+      "designator": "R7",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 715,
+      "y": -2250,
+      "rotation": 90,
+      "bbox": {
+        "minX": 687.4409499999999,
+        "maxX": 742.5590500000002,
+        "minY": -2312.99215,
+        "maxY": -2187.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "3a671e311d653e60e2",
+          "padNumber": "1",
+          "net": "CH1_ATT5",
+          "layer": 1,
+          "x": 714.9772500000003,
+          "y": -2289.39215,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "3a671e311d653e60e3",
+          "padNumber": "2",
+          "net": "CH1_ATT6",
+          "layer": 1,
+          "x": 714.9772500000003,
+          "y": -2210.59215,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "4dc0cc1c7b8b4b7d",
+      "designator": "R8",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 720,
+      "y": -2060,
+      "rotation": 90,
+      "bbox": {
+        "minX": 692.4409499999999,
+        "maxX": 747.5590500000002,
+        "minY": -2122.99215,
+        "maxY": -1997.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "4dc0cc1c7b8b4b7de2",
+          "padNumber": "1",
+          "net": "CH1_ATT6",
+          "layer": 1,
+          "x": 719.9772500000001,
+          "y": -2099.40145,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "4dc0cc1c7b8b4b7de3",
+          "padNumber": "2",
+          "net": "CH1_ATT7",
+          "layer": 1,
+          "x": 719.9772500000001,
+          "y": -2020.6014499999999,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "620c69ede4fae6d5",
+      "designator": "R9",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 735,
+      "y": -1920,
+      "rotation": 0,
+      "bbox": {
+        "minX": 672.00785,
+        "maxX": 797.99215,
+        "minY": -1947.5590500000003,
+        "maxY": -1892.44095
+      },
+      "pads": [
+        {
+          "primitiveId": "620c69ede4fae6d5e2",
+          "padNumber": "1",
+          "net": "CH1_ATT7",
+          "layer": 1,
+          "x": 695.6292500000005,
+          "y": -1919.9772500000001,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "620c69ede4fae6d5e3",
+          "padNumber": "2",
+          "net": "CH1_ATT8",
+          "layer": 1,
+          "x": 774.3292500000005,
+          "y": -1919.9772500000001,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "caca72093b41f9c2",
+      "designator": "R10",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 905,
+      "y": -1890,
+      "rotation": 180,
+      "bbox": {
+        "minX": 842.0078500000001,
+        "maxX": 967.99215,
+        "minY": -1917.55905,
+        "maxY": -1862.4409499999997
+      },
+      "pads": [
+        {
+          "primitiveId": "caca72093b41f9c2e2",
+          "padNumber": "1",
+          "net": "CH1_ATT8",
+          "layer": 1,
+          "x": 944.3887999999982,
+          "y": -1890.0227499999999,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "caca72093b41f9c2e3",
+          "padNumber": "2",
+          "net": "CH1_SUM",
+          "layer": 1,
+          "x": 865.5887999999982,
+          "y": -1890.0227499999999,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "78bab1ef1f24cbcf",
+      "designator": "R11",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 980,
+      "y": -1755,
+      "rotation": 90,
+      "bbox": {
+        "minX": 952.4409500000002,
+        "maxX": 1007.5590499999998,
+        "minY": -1817.99215,
+        "maxY": -1692.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "78bab1ef1f24cbcfe2",
+          "padNumber": "1",
+          "net": "CH1_SUM",
+          "layer": 1,
+          "x": 979.9772499999998,
+          "y": -1794.358799999997,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "78bab1ef1f24cbcfe3",
+          "padNumber": "2",
+          "net": "VBIAS",
+          "layer": 1,
+          "x": 979.9772499999998,
+          "y": -1715.658799999997,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "686bb22057b02ecf",
+      "designator": "R12",
+      "name": "33R",
+      "device": "33R",
+      "layer": 1,
+      "x": 1200,
+      "y": -2020,
+      "rotation": 270,
+      "bbox": {
+        "minX": 1172.4409500000002,
+        "maxX": 1227.5590499999998,
+        "minY": -2082.99215,
+        "maxY": -1957.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "686bb22057b02ecfe2",
+          "padNumber": "1",
+          "net": "CH1_BUF",
+          "layer": 1,
+          "x": 1199.9589499999995,
+          "y": -1980.5985500000002,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "686bb22057b02ecfe3",
+          "padNumber": "2",
+          "net": "PC0",
+          "layer": 1,
+          "x": 1199.9589499999995,
+          "y": -2059.39855,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "f3db999f78e91232",
+      "designator": "R13",
+      "name": "100R",
+      "device": "100R",
+      "layer": 1,
+      "x": 1700,
+      "y": -3230,
+      "rotation": 270,
+      "bbox": {
+        "minX": 1672.4409500000002,
+        "maxX": 1727.5590499999998,
+        "minY": -3292.99215,
+        "maxY": -3167.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "f3db999f78e91232e2",
+          "padNumber": "1",
+          "net": "CH2_DIRECT",
+          "layer": 1,
+          "x": 1700.028249999999,
+          "y": -3190.59855,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "f3db999f78e91232e3",
+          "padNumber": "2",
+          "net": "PA2",
+          "layer": 1,
+          "x": 1700.028249999999,
+          "y": -3269.39855,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "bc4aa1bc6ca2c49f",
+      "designator": "R14",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 2250,
+      "y": -2240,
+      "rotation": 0,
+      "bbox": {
+        "minX": 2187.00785,
+        "maxX": 2312.99215,
+        "minY": -2267.55905,
+        "maxY": -2212.44095
+      },
+      "pads": [
+        {
+          "primitiveId": "bc4aa1bc6ca2c49fe2",
+          "padNumber": "1",
+          "net": "CH2_HIGH",
+          "layer": 1,
+          "x": 2210.6412000000028,
+          "y": -2239.9639500000003,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "bc4aa1bc6ca2c49fe3",
+          "padNumber": "2",
+          "net": "CH2_ATT1",
+          "layer": 1,
+          "x": 2289.341200000003,
+          "y": -2239.9639500000003,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "b6d5014e33bdec80",
+      "designator": "R15",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 2305,
+      "y": -2355,
+      "rotation": 0,
+      "bbox": {
+        "minX": 2242.00785,
+        "maxX": 2367.99215,
+        "minY": -2382.55905,
+        "maxY": -2327.44095
+      },
+      "pads": [
+        {
+          "primitiveId": "b6d5014e33bdec80e2",
+          "padNumber": "1",
+          "net": "CH2_ATT1",
+          "layer": 1,
+          "x": 2265.60785,
+          "y": -2354.994650000002,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "b6d5014e33bdec80e3",
+          "padNumber": "2",
+          "net": "CH2_ATT2",
+          "layer": 1,
+          "x": 2344.40785,
+          "y": -2354.994650000002,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "3f68e0d1d7bb36a0",
+      "designator": "R16",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 2480,
+      "y": -2300,
+      "rotation": 0,
+      "bbox": {
+        "minX": 2417.00785,
+        "maxX": 2542.99215,
+        "minY": -2327.55905,
+        "maxY": -2272.44095
+      },
+      "pads": [
+        {
+          "primitiveId": "3f68e0d1d7bb36a0e2",
+          "padNumber": "1",
+          "net": "CH2_ATT2",
+          "layer": 1,
+          "x": 2440.59855,
+          "y": -2299.9946500000024,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "3f68e0d1d7bb36a0e3",
+          "padNumber": "2",
+          "net": "CH2_ATT3",
+          "layer": 1,
+          "x": 2519.39855,
+          "y": -2299.9946500000024,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "441af440fcc235ba",
+      "designator": "R17",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 2475,
+      "y": -2440,
+      "rotation": 0,
+      "bbox": {
+        "minX": 2412.00785,
+        "maxX": 2537.99215,
+        "minY": -2467.55905,
+        "maxY": -2412.44095
+      },
+      "pads": [
+        {
+          "primitiveId": "441af440fcc235bae2",
+          "padNumber": "1",
+          "net": "CH2_ATT3",
+          "layer": 1,
+          "x": 2435.6292500000004,
+          "y": -2439.9946500000024,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "441af440fcc235bae3",
+          "padNumber": "2",
+          "net": "CH2_ATT4",
+          "layer": 1,
+          "x": 2514.3292500000007,
+          "y": -2439.9946500000024,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "978f9f2b1602e550",
+      "designator": "R18",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 2385,
+      "y": -2675,
+      "rotation": 270,
+      "bbox": {
+        "minX": 2357.44095,
+        "maxX": 2412.55905,
+        "minY": -2737.99215,
+        "maxY": -2612.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "978f9f2b1602e550e2",
+          "padNumber": "1",
+          "net": "CH2_ATT4",
+          "layer": 1,
+          "x": 2385.0053499999976,
+          "y": -2635.6112000000016,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "978f9f2b1602e550e3",
+          "padNumber": "2",
+          "net": "CH2_ATT5",
+          "layer": 1,
+          "x": 2385.0053499999976,
+          "y": -2714.411200000002,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "ef823f38c0c6162d",
+      "designator": "R19",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 2195,
+      "y": -2705,
+      "rotation": 180,
+      "bbox": {
+        "minX": 2132.00785,
+        "maxX": 2257.99215,
+        "minY": -2732.55905,
+        "maxY": -2677.44095
+      },
+      "pads": [
+        {
+          "primitiveId": "ef823f38c0c6162de2",
+          "padNumber": "1",
+          "net": "CH2_ATT5",
+          "layer": 1,
+          "x": 2234.3587999999972,
+          "y": -2705.0053499999976,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "ef823f38c0c6162de3",
+          "padNumber": "2",
+          "net": "CH2_ATT6",
+          "layer": 1,
+          "x": 2155.658799999997,
+          "y": -2705.0053499999976,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "e1747681053e856b",
+      "designator": "R20",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 2185,
+      "y": -2560,
+      "rotation": 90,
+      "bbox": {
+        "minX": 2157.44095,
+        "maxX": 2212.55905,
+        "minY": -2622.99215,
+        "maxY": -2497.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "e1747681053e856be2",
+          "padNumber": "1",
+          "net": "CH2_ATT6",
+          "layer": 1,
+          "x": 2184.958450000003,
+          "y": -2599.39215,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "e1747681053e856be3",
+          "padNumber": "2",
+          "net": "CH2_ATT7",
+          "layer": 1,
+          "x": 2184.958450000003,
+          "y": -2520.59215,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "ea443eb206b013b3",
+      "designator": "R21",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 2060,
+      "y": -2255,
+      "rotation": 180,
+      "bbox": {
+        "minX": 1997.00785,
+        "maxX": 2122.99215,
+        "minY": -2282.55905,
+        "maxY": -2227.44095
+      },
+      "pads": [
+        {
+          "primitiveId": "ea443eb206b013b3e2",
+          "padNumber": "1",
+          "net": "CH2_ATT7",
+          "layer": 1,
+          "x": 2099.40145,
+          "y": -2255.041549999997,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "ea443eb206b013b3e3",
+          "padNumber": "2",
+          "net": "CH2_ATT8",
+          "layer": 1,
+          "x": 2020.6014499999999,
+          "y": -2255.041549999997,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "06868362c141780e",
+      "designator": "R22",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 1810,
+      "y": -1775,
+      "rotation": 180,
+      "bbox": {
+        "minX": 1747.00785,
+        "maxX": 1872.99215,
+        "minY": -1802.5590499999998,
+        "maxY": -1747.4409500000002
+      },
+      "pads": [
+        {
+          "primitiveId": "06868362c141780ee2",
+          "padNumber": "1",
+          "net": "CH2_ATT8",
+          "layer": 1,
+          "x": 1849.3707499999996,
+          "y": -1775.0415499999972,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "06868362c141780ee3",
+          "padNumber": "2",
+          "net": "CH2_SUM",
+          "layer": 1,
+          "x": 1770.6707499999995,
+          "y": -1775.0415499999972,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "d7a3ad1cd7aee558",
+      "designator": "R23",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 1680,
+      "y": -1665,
+      "rotation": 180,
+      "bbox": {
+        "minX": 1617.00785,
+        "maxX": 1742.99215,
+        "minY": -1692.5590499999998,
+        "maxY": -1637.4409500000002
+      },
+      "pads": [
+        {
+          "primitiveId": "d7a3ad1cd7aee558e2",
+          "padNumber": "1",
+          "net": "CH2_SUM",
+          "layer": 1,
+          "x": 1719.3887999999984,
+          "y": -1665.0415499999972,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "d7a3ad1cd7aee558e3",
+          "padNumber": "2",
+          "net": "VBIAS",
+          "layer": 1,
+          "x": 1640.5887999999982,
+          "y": -1665.0415499999972,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "8bcff45c214b325b",
+      "designator": "R24",
+      "name": "33R",
+      "device": "33R",
+      "layer": 1,
+      "x": 1455,
+      "y": -1985,
+      "rotation": 0,
+      "bbox": {
+        "minX": 1392.00785,
+        "maxX": 1517.99215,
+        "minY": -2012.5590499999998,
+        "maxY": -1957.4409500000002
+      },
+      "pads": [
+        {
+          "primitiveId": "8bcff45c214b325be2",
+          "padNumber": "1",
+          "net": "CH2_BUF",
+          "layer": 1,
+          "x": 1415.6078499999999,
+          "y": -1985.0222500000036,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "8bcff45c214b325be3",
+          "padNumber": "2",
+          "net": "PC1",
+          "layer": 1,
+          "x": 1494.4078499999998,
+          "y": -1985.0222500000036,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "3a97335f2800f4f6",
+      "designator": "R25",
+      "name": "100R",
+      "device": "100R",
+      "layer": 1,
+      "x": 655,
+      "y": -730,
+      "rotation": 180,
+      "bbox": {
+        "minX": 592.0078500000001,
+        "maxX": 717.9921499999999,
+        "minY": -757.5590499999998,
+        "maxY": -702.4409500000002
+      },
+      "pads": [
+        {
+          "primitiveId": "3a97335f2800f4f6e2",
+          "padNumber": "1",
+          "net": "CH3_DIRECT",
+          "layer": 1,
+          "x": 694.3921500000001,
+          "y": -730.0470499999983,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "3a97335f2800f4f6e3",
+          "padNumber": "2",
+          "net": "PA3",
+          "layer": 1,
+          "x": 615.5921500000001,
+          "y": -730.0470499999983,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "7cfe685bf0c6fd43",
+      "designator": "R26",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 1995,
+      "y": -360,
+      "rotation": 180,
+      "bbox": {
+        "minX": 1932.00785,
+        "maxX": 2057.99215,
+        "minY": -387.55904999999984,
+        "maxY": -332.44095000000016
+      },
+      "pads": [
+        {
+          "primitiveId": "7cfe685bf0c6fd43e2",
+          "padNumber": "1",
+          "net": "CH3_HIGH",
+          "layer": 1,
+          "x": 2034.3887999999984,
+          "y": -359.95484999999553,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "7cfe685bf0c6fd43e3",
+          "padNumber": "2",
+          "net": "CH3_ATT1",
+          "layer": 1,
+          "x": 1955.5887999999982,
+          "y": -359.95484999999553,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "37f0d351b7065dc0",
+      "designator": "R27",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 1675,
+      "y": -360,
+      "rotation": 180,
+      "bbox": {
+        "minX": 1612.00785,
+        "maxX": 1737.99215,
+        "minY": -387.55904999999984,
+        "maxY": -332.44095000000016
+      },
+      "pads": [
+        {
+          "primitiveId": "37f0d351b7065dc0e2",
+          "padNumber": "1",
+          "net": "CH3_ATT1",
+          "layer": 1,
+          "x": 1714.358799999997,
+          "y": -359.9548499999951,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "37f0d351b7065dc0e3",
+          "padNumber": "2",
+          "net": "CH3_ATT2",
+          "layer": 1,
+          "x": 1635.658799999997,
+          "y": -359.9548499999951,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "ddafee9ea11ff99c",
+      "designator": "R28",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 1510,
+      "y": -460,
+      "rotation": 0,
+      "bbox": {
+        "minX": 1447.00785,
+        "maxX": 1572.99215,
+        "minY": -487.55904999999984,
+        "maxY": -432.44095000000016
+      },
+      "pads": [
+        {
+          "primitiveId": "ddafee9ea11ff99ce2",
+          "padNumber": "1",
+          "net": "CH3_ATT2",
+          "layer": 1,
+          "x": 1470.6078499999999,
+          "y": -460.0420500000055,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "ddafee9ea11ff99ce3",
+          "padNumber": "2",
+          "net": "CH3_ATT3",
+          "layer": 1,
+          "x": 1549.4078499999998,
+          "y": -460.0420500000055,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "5ccb67dbc72d3899",
+      "designator": "R29",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 1650,
+      "y": -500,
+      "rotation": 270,
+      "bbox": {
+        "minX": 1622.4409500000002,
+        "maxX": 1677.5590499999998,
+        "minY": -562.99215,
+        "maxY": -437.0078500000001
+      },
+      "pads": [
+        {
+          "primitiveId": "5ccb67dbc72d3899e2",
+          "padNumber": "1",
+          "net": "CH3_ATT3",
+          "layer": 1,
+          "x": 1649.9579499999934,
+          "y": -460.5985500000001,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "5ccb67dbc72d3899e3",
+          "padNumber": "2",
+          "net": "CH3_ATT4",
+          "layer": 1,
+          "x": 1649.9579499999934,
+          "y": -539.3985500000001,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "06b8cdfd776b2210",
+      "designator": "R30",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 2120,
+      "y": -595,
+      "rotation": 270,
+      "bbox": {
+        "minX": 2092.44095,
+        "maxX": 2147.55905,
+        "minY": -657.99215,
+        "maxY": -532.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "06b8cdfd776b2210e2",
+          "padNumber": "1",
+          "net": "CH3_ATT4",
+          "layer": 1,
+          "x": 2119.9579499999936,
+          "y": -555.6292500000005,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "06b8cdfd776b2210e3",
+          "padNumber": "2",
+          "net": "CH3_ATT5",
+          "layer": 1,
+          "x": 2119.9579499999936,
+          "y": -634.3292500000005,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "c212afe9874aa97b",
+      "designator": "R31",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 2010,
+      "y": -640,
+      "rotation": 270,
+      "bbox": {
+        "minX": 1982.4409500000002,
+        "maxX": 2037.5590499999998,
+        "minY": -702.9921499999999,
+        "maxY": -577.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "c212afe9874aa97be2",
+          "padNumber": "1",
+          "net": "CH3_ATT5",
+          "layer": 1,
+          "x": 2009.9579499999934,
+          "y": -600.6112000000018,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "c212afe9874aa97be3",
+          "padNumber": "2",
+          "net": "CH3_ATT6",
+          "layer": 1,
+          "x": 2009.9579499999934,
+          "y": -679.4112000000018,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "759db64b23ae30b2",
+      "designator": "R32",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 1865,
+      "y": -835,
+      "rotation": 270,
+      "bbox": {
+        "minX": 1837.4409500000002,
+        "maxX": 1892.5590499999998,
+        "minY": -897.99215,
+        "maxY": -772.0078500000001
+      },
+      "pads": [
+        {
+          "primitiveId": "759db64b23ae30b2e2",
+          "padNumber": "1",
+          "net": "CH3_ATT6",
+          "layer": 1,
+          "x": 1864.9579499999934,
+          "y": -795.641200000003,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "759db64b23ae30b2e3",
+          "padNumber": "2",
+          "net": "CH3_ATT7",
+          "layer": 1,
+          "x": 1864.9579499999934,
+          "y": -874.341200000003,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "9438b3d807cdaa2b",
+      "designator": "R33",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 1895,
+      "y": -1080,
+      "rotation": 270,
+      "bbox": {
+        "minX": 1867.4409500000002,
+        "maxX": 1922.5590499999998,
+        "minY": -1142.99215,
+        "maxY": -1017.0078500000001
+      },
+      "pads": [
+        {
+          "primitiveId": "9438b3d807cdaa2be2",
+          "padNumber": "1",
+          "net": "CH3_ATT7",
+          "layer": 1,
+          "x": 1894.994149999993,
+          "y": -1040.6078499999999,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "9438b3d807cdaa2be3",
+          "padNumber": "2",
+          "net": "CH3_ATT8",
+          "layer": 1,
+          "x": 1894.994149999993,
+          "y": -1119.4078499999998,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "c2d3e70c1ff5f797",
+      "designator": "R34",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 1635,
+      "y": -1425,
+      "rotation": 180,
+      "bbox": {
+        "minX": 1572.00785,
+        "maxX": 1697.99215,
+        "minY": -1452.5590499999998,
+        "maxY": -1397.4409500000002
+      },
+      "pads": [
+        {
+          "primitiveId": "c2d3e70c1ff5f797e2",
+          "padNumber": "1",
+          "net": "CH3_ATT8",
+          "layer": 1,
+          "x": 1674.4014499999998,
+          "y": -1424.994149999993,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "c2d3e70c1ff5f797e3",
+          "padNumber": "2",
+          "net": "CH3_SUM",
+          "layer": 1,
+          "x": 1595.6014499999999,
+          "y": -1424.994149999993,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "772b7983cb0fb382",
+      "designator": "R35",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 1530,
+      "y": -1700,
+      "rotation": 270,
+      "bbox": {
+        "minX": 1502.4409500000002,
+        "maxX": 1557.5590499999998,
+        "minY": -1762.99215,
+        "maxY": -1637.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "772b7983cb0fb382e2",
+          "padNumber": "1",
+          "net": "CH3_SUM",
+          "layer": 1,
+          "x": 1529.994149999993,
+          "y": -1660.6292500000004,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "772b7983cb0fb382e3",
+          "padNumber": "2",
+          "net": "VBIAS",
+          "layer": 1,
+          "x": 1529.994149999993,
+          "y": -1739.3292500000005,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "729b236a0da6c827",
+      "designator": "R36",
+      "name": "33R",
+      "device": "33R",
+      "layer": 1,
+      "x": 1460,
+      "y": -1515,
+      "rotation": 0,
+      "bbox": {
+        "minX": 1397.00785,
+        "maxX": 1522.99215,
+        "minY": -1542.5590499999998,
+        "maxY": -1487.4409500000002
+      },
+      "pads": [
+        {
+          "primitiveId": "729b236a0da6c827e2",
+          "padNumber": "1",
+          "net": "CH3_BUF",
+          "layer": 1,
+          "x": 1420.641200000003,
+          "y": -1515.005850000007,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "729b236a0da6c827e3",
+          "padNumber": "2",
+          "net": "PC2",
+          "layer": 1,
+          "x": 1499.341200000003,
+          "y": -1515.005850000007,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "0765c547ed599725",
+      "designator": "R37",
+      "name": "40k",
+      "device": "40k",
+      "layer": 1,
+      "x": 765,
+      "y": -1410,
+      "rotation": 90,
+      "bbox": {
+        "minX": 737.4409500000002,
+        "maxX": 792.5590499999998,
+        "minY": -1472.99215,
+        "maxY": -1347.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "0765c547ed599725e2",
+          "padNumber": "1",
+          "net": "3V3_A",
+          "layer": 1,
+          "x": 764.9815500000091,
+          "y": -1449.3707499999996,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "0765c547ed599725e3",
+          "padNumber": "2",
+          "net": "REF_MID",
+          "layer": 1,
+          "x": 764.9815500000091,
+          "y": -1370.6707499999995,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "cc0bed3fe572419d",
+      "designator": "R38",
+      "name": "40k",
+      "device": "40k",
+      "layer": 1,
+      "x": 1045,
+      "y": -1490,
+      "rotation": 180,
+      "bbox": {
+        "minX": 982.0078500000001,
+        "maxX": 1107.99215,
+        "minY": -1517.5590499999998,
+        "maxY": -1462.4409500000002
+      },
+      "pads": [
+        {
+          "primitiveId": "cc0bed3fe572419de2",
+          "padNumber": "1",
+          "net": "REF_MID",
+          "layer": 1,
+          "x": 1084.3887999999984,
+          "y": -1490.018449999991,
+          "width": 47.2,
+          "height": 55.1
+        },
+        {
+          "primitiveId": "cc0bed3fe572419de3",
+          "padNumber": "2",
+          "net": "REF_RAW",
+          "layer": 1,
+          "x": 1005.5887999999982,
+          "y": -1490.018449999991,
+          "width": 47.2,
+          "height": 55.1
+        }
+      ]
+    },
+    {
+      "primitiveId": "2b5ca411d877aa3f",
+      "designator": "R39",
+      "name": "100k",
+      "device": "100k",
+      "layer": 1,
+      "x": 910,
+      "y": -1455,
+      "rotation": 90,
+      "bbox": {
+        "minX": 882.4409500000002,
+        "maxX": 937.5590499999998,
+        "minY": -1517.99215,
+        "maxY": -1392.00785
+      },
+      "pads": [
+        {
+          "primitiveId": "2b5ca411d877aa3fe2",
+          "padNumber": "1",
+          "net": "REF_RAW",
+          "layer": 1,
+          "x": 909.9815500000091,
+          "y": -1494.358799999997,
+          "width": 55.1,
+          "height": 47.2
+        },
+        {
+          "primitiveId": "2b5ca411d877aa3fe3",
+          "padNumber": "2",
+          "net": "GND",
+          "layer": 1,
+          "x": 909.9815500000091,
+          "y": -1415.658799999997,
+          "width": 55.1,
+          "height": 47.2
+        }
+      ]
+    },
+    {
+      "primitiveId": "f046becd981c5c63",
+      "designator": "U1",
+      "name": "TLV9064IDR",
+      "device": "TLV9064IDR",
+      "layer": 1,
+      "x": 1315,
+      "y": -1750,
+      "rotation": 0,
+      "bbox": {
+        "minX": 1173.26775,
+        "maxX": 1456.73225,
+        "minY": -1911.8109999999997,
+        "maxY": -1588.1889999999999
+      },
+      "pads": [
+        {
+          "primitiveId": "f046becd981c5c63e2",
+          "padNumber": "1",
+          "net": "VBIAS",
+          "layer": 1,
+          "x": 1208.6985499999998,
+          "y": -1600.0415000000112,
+          "width": 70.9,
+          "height": 23.6
+        },
+        {
+          "primitiveId": "f046becd981c5c63e3",
+          "padNumber": "2",
+          "net": "VBIAS",
+          "layer": 1,
+          "x": 1208.6985499999998,
+          "y": -1650.0415000000112,
+          "width": 70.9,
+          "height": 23.6
+        },
+        {
+          "primitiveId": "f046becd981c5c63e4",
+          "padNumber": "3",
+          "net": "REF_RAW",
+          "layer": 1,
+          "x": 1208.6985499999998,
+          "y": -1700.0415000000112,
+          "width": 70.9,
+          "height": 23.6
+        },
+        {
+          "primitiveId": "f046becd981c5c63e5",
+          "padNumber": "4",
+          "net": "3V3_A",
+          "layer": 1,
+          "x": 1208.6985499999998,
+          "y": -1750.0415000000112,
+          "width": 70.9,
+          "height": 23.6
+        },
+        {
+          "primitiveId": "f046becd981c5c63e6",
+          "padNumber": "5",
+          "net": "CH1_SUM",
+          "layer": 1,
+          "x": 1208.6985499999998,
+          "y": -1800.0415000000112,
+          "width": 70.9,
+          "height": 23.6
+        },
+        {
+          "primitiveId": "f046becd981c5c63e7",
+          "padNumber": "6",
+          "net": "CH1_BUF",
+          "layer": 1,
+          "x": 1208.6985499999998,
+          "y": -1850.0415000000112,
+          "width": 70.9,
+          "height": 23.6
+        },
+        {
+          "primitiveId": "f046becd981c5c63e8",
+          "padNumber": "7",
+          "net": "CH1_BUF",
+          "layer": 1,
+          "x": 1208.6985499999998,
+          "y": -1900.0415000000112,
+          "width": 70.9,
+          "height": 23.6
+        },
+        {
+          "primitiveId": "f046becd981c5c63e9",
+          "padNumber": "14",
+          "net": "CH3_BUF",
+          "layer": 1,
+          "x": 1421.29855,
+          "y": -1600.0415000000112,
+          "width": 70.9,
+          "height": 23.6
+        },
+        {
+          "primitiveId": "f046becd981c5c63e10",
+          "padNumber": "13",
+          "net": "CH3_BUF",
+          "layer": 1,
+          "x": 1421.29855,
+          "y": -1650.0415000000112,
+          "width": 70.9,
+          "height": 23.6
+        },
+        {
+          "primitiveId": "f046becd981c5c63e11",
+          "padNumber": "12",
+          "net": "CH3_SUM",
+          "layer": 1,
+          "x": 1421.29855,
+          "y": -1700.0415000000112,
+          "width": 70.9,
+          "height": 23.6
+        },
+        {
+          "primitiveId": "f046becd981c5c63e12",
+          "padNumber": "11",
+          "net": "GND",
+          "layer": 1,
+          "x": 1421.29855,
+          "y": -1750.0415000000112,
+          "width": 70.9,
+          "height": 23.6
+        },
+        {
+          "primitiveId": "f046becd981c5c63e13",
+          "padNumber": "10",
+          "net": "CH2_SUM",
+          "layer": 1,
+          "x": 1421.29855,
+          "y": -1800.0415000000112,
+          "width": 70.9,
+          "height": 23.6
+        },
+        {
+          "primitiveId": "f046becd981c5c63e14",
+          "padNumber": "9",
+          "net": "CH2_BUF",
+          "layer": 1,
+          "x": 1421.29855,
+          "y": -1850.0415000000112,
+          "width": 70.9,
+          "height": 23.6
+        },
+        {
+          "primitiveId": "f046becd981c5c63e15",
+          "padNumber": "8",
+          "net": "CH2_BUF",
+          "layer": 1,
+          "x": 1421.29855,
+          "y": -1900.0415000000112,
+          "width": 70.9,
+          "height": 23.6
+        }
+      ]
+    }
+  ],
+  "silk": [],
+  "copperLayers": 2,
+  "rules": {
+    "clearanceMil": 11.811023622047244,
+    "trackWidthMil": 15.748031496062994,
+    "powerWidthMil": 23.62204724409449,
+    "trackWidthMinMil": 11.811023622047244,
+    "copperToEdgeMil": 29.52755905511811,
+    "source": "user requirements"
+  },
+  "routedLines": 0,
+  "partial": [
+    "board outline unavailable (is the PCB the foreground document?) — edge/off-board dimensions skipped"
+  ],
+  "capturedAt": "2026-09-07T21:39:14Z",
+  "project": "analog_front_end_import",
+  "holes": [
+    [
+      137.7952755905512,
+      -137.7952755905512
+    ],
+    [
+      2618.1102362204724,
+      -137.7952755905512
+    ],
+    [
+      137.7952755905512,
+      -3405.511811023622
+    ],
+    [
+      2618.1102362204724,
+      -3405.511811023622
+    ]
+  ],
+  "edges": [
+    {
+      "net": "PA1",
+      "a": {
+        "primitiveId": "3fe6fb53688b601fe2",
+        "padNumber": "1",
+        "net": "PA1",
+        "layer": 1,
+        "x": 679.3887999999981,
+        "y": -2975.04255,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "C1"
+      },
+      "b": {
+        "primitiveId": "fd8c15c4a647aef8e7",
+        "padNumber": "1",
+        "net": "PA1",
+        "layer": 12,
+        "x": 514.9887999999986,
+        "y": -3129.974399999993,
+        "width": 70.9,
+        "height": 70.9,
+        "ref": "J9"
+      }
+    },
+    {
+      "net": "PA1",
+      "a": {
+        "primitiveId": "fd8c15c4a647aef8e7",
+        "padNumber": "1",
+        "net": "PA1",
+        "layer": 12,
+        "x": 514.9887999999986,
+        "y": -3129.974399999993,
+        "width": 70.9,
+        "height": 70.9,
+        "ref": "J9"
+      },
+      "b": {
+        "primitiveId": "f34b8bc872089128e3",
+        "padNumber": "2",
+        "net": "PA1",
+        "layer": 1,
+        "x": 455.61164999999977,
+        "y": -3365.04255,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R1"
+      }
+    },
+    {
+      "net": "PA1",
+      "a": {
+        "primitiveId": "3fe6fb53688b601fe2",
+        "padNumber": "1",
+        "net": "PA1",
+        "layer": 1,
+        "x": 679.3887999999981,
+        "y": -2975.04255,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "C1"
+      },
+      "b": {
+        "primitiveId": "6b3cd0ff85158555e4",
+        "padNumber": "3",
+        "net": "PA1",
+        "layer": 1,
+        "x": 1253.65745,
+        "y": -2874.958799999997,
+        "width": 43.3,
+        "height": 25.6,
+        "ref": "D1"
+      }
+    },
+    {
+      "net": "PC0",
+      "a": {
+        "primitiveId": "41465063135245e8e2",
+        "padNumber": "1",
+        "net": "PC0",
+        "layer": 1,
+        "x": 1074.9589499999993,
+        "y": -2120.6292500000004,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "C2"
+      },
+      "b": {
+        "primitiveId": "686bb22057b02ecfe3",
+        "padNumber": "2",
+        "net": "PC0",
+        "layer": 1,
+        "x": 1199.9589499999995,
+        "y": -2059.39855,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R12"
+      }
+    },
+    {
+      "net": "PC0",
+      "a": {
+        "primitiveId": "686bb22057b02ecfe3",
+        "padNumber": "2",
+        "net": "PC0",
+        "layer": 1,
+        "x": 1199.9589499999995,
+        "y": -2059.39855,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R12"
+      },
+      "b": {
+        "primitiveId": "b30f0fa6563a8dcce4",
+        "padNumber": "3",
+        "net": "PC0",
+        "layer": 1,
+        "x": 1248.6410500000006,
+        "y": -2299.9887999999983,
+        "width": 43.3,
+        "height": 25.6,
+        "ref": "D3"
+      }
+    },
+    {
+      "net": "PC0",
+      "a": {
+        "primitiveId": "b30f0fa6563a8dcce4",
+        "padNumber": "3",
+        "net": "PC0",
+        "layer": 1,
+        "x": 1248.6410500000006,
+        "y": -2299.9887999999983,
+        "width": 43.3,
+        "height": 25.6,
+        "ref": "D3"
+      },
+      "b": {
+        "primitiveId": "e4b1ab4bd71f8e04e7",
+        "padNumber": "1",
+        "net": "PC0",
+        "layer": 12,
+        "x": 1235.0256000000077,
+        "y": -2564.973799999999,
+        "width": 70.9,
+        "height": 70.9,
+        "ref": "J10"
+      }
+    },
+    {
+      "net": "PA2",
+      "a": {
+        "primitiveId": "88d046d63ddcb33be2",
+        "padNumber": "1",
+        "net": "PA2",
+        "layer": 1,
+        "x": 1529.3707499999994,
+        "y": -2970.028249999999,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "C3"
+      },
+      "b": {
+        "primitiveId": "f0e2d775132f024be7",
+        "padNumber": "1",
+        "net": "PA2",
+        "layer": 12,
+        "x": 1534.9743999999923,
+        "y": -3115.0412000000024,
+        "width": 70.9,
+        "height": 70.9,
+        "ref": "J11"
+      }
+    },
+    {
+      "net": "PA2",
+      "a": {
+        "primitiveId": "f0e2d775132f024be7",
+        "padNumber": "1",
+        "net": "PA2",
+        "layer": 12,
+        "x": 1534.9743999999923,
+        "y": -3115.0412000000024,
+        "width": 70.9,
+        "height": 70.9,
+        "ref": "J11"
+      },
+      "b": {
+        "primitiveId": "f3db999f78e91232e3",
+        "padNumber": "2",
+        "net": "PA2",
+        "layer": 1,
+        "x": 1700.028249999999,
+        "y": -3269.39855,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R13"
+      }
+    },
+    {
+      "net": "PA2",
+      "a": {
+        "primitiveId": "88d046d63ddcb33be2",
+        "padNumber": "1",
+        "net": "PA2",
+        "layer": 1,
+        "x": 1529.3707499999994,
+        "y": -2970.028249999999,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "C3"
+      },
+      "b": {
+        "primitiveId": "5c4cc2c3163edf40e4",
+        "padNumber": "3",
+        "net": "PA2",
+        "layer": 1,
+        "x": 1471.3282499999996,
+        "y": -2675.0112000000017,
+        "width": 43.3,
+        "height": 25.6,
+        "ref": "D4"
+      }
+    },
+    {
+      "net": "PC1",
+      "a": {
+        "primitiveId": "985cf77a3e174528e2",
+        "padNumber": "1",
+        "net": "PC1",
+        "layer": 1,
+        "x": 1700.5985500000002,
+        "y": -2270.0222500000036,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "C4"
+      },
+      "b": {
+        "primitiveId": "92fb598d5857897be7",
+        "padNumber": "1",
+        "net": "PC1",
+        "layer": 12,
+        "x": 1524.988799999998,
+        "y": -2149.9624999999915,
+        "width": 70.9,
+        "height": 70.9,
+        "ref": "J12"
+      }
+    },
+    {
+      "net": "PC1",
+      "a": {
+        "primitiveId": "92fb598d5857897be7",
+        "padNumber": "1",
+        "net": "PC1",
+        "layer": 12,
+        "x": 1524.988799999998,
+        "y": -2149.9624999999915,
+        "width": 70.9,
+        "height": 70.9,
+        "ref": "J12"
+      },
+      "b": {
+        "primitiveId": "8bcff45c214b325be3",
+        "padNumber": "2",
+        "net": "PC1",
+        "layer": 1,
+        "x": 1494.4078499999998,
+        "y": -1985.0222500000036,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R24"
+      }
+    },
+    {
+      "net": "PC1",
+      "a": {
+        "primitiveId": "8bcff45c214b325be3",
+        "padNumber": "2",
+        "net": "PC1",
+        "layer": 1,
+        "x": 1494.4078499999998,
+        "y": -1985.0222500000036,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R24"
+      },
+      "b": {
+        "primitiveId": "9d29fa963f019064e4",
+        "padNumber": "3",
+        "net": "PC1",
+        "layer": 1,
+        "x": 1933.6222500000033,
+        "y": -1654.9707499999995,
+        "width": 43.3,
+        "height": 25.6,
+        "ref": "D6"
+      }
+    },
+    {
+      "net": "PA3",
+      "a": {
+        "primitiveId": "6c9251d214e68df1e2",
+        "padNumber": "1",
+        "net": "PA3",
+        "layer": 1,
+        "x": 684.4014499999998,
+        "y": -575.0470499999983,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "C5"
+      },
+      "b": {
+        "primitiveId": "3a97335f2800f4f6e3",
+        "padNumber": "2",
+        "net": "PA3",
+        "layer": 1,
+        "x": 615.5921500000001,
+        "y": -730.0470499999983,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R25"
+      }
+    },
+    {
+      "net": "PA3",
+      "a": {
+        "primitiveId": "3a97335f2800f4f6e3",
+        "padNumber": "2",
+        "net": "PA3",
+        "layer": 1,
+        "x": 615.5921500000001,
+        "y": -730.0470499999983,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R25"
+      },
+      "b": {
+        "primitiveId": "9c4b3674f3dfdb44e4",
+        "padNumber": "3",
+        "net": "PA3",
+        "layer": 1,
+        "x": 511.3470499999969,
+        "y": -700.0292500000006,
+        "width": 43.3,
+        "height": 25.6,
+        "ref": "D7"
+      }
+    },
+    {
+      "net": "PA3",
+      "a": {
+        "primitiveId": "3a97335f2800f4f6e3",
+        "padNumber": "2",
+        "net": "PA3",
+        "layer": 1,
+        "x": 615.5921500000001,
+        "y": -730.0470499999983,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R25"
+      },
+      "b": {
+        "primitiveId": "bba46f47ba25b6b2e7",
+        "padNumber": "1",
+        "net": "PA3",
+        "layer": 12,
+        "x": 555.0262000000024,
+        "y": -865.037500000009,
+        "width": 70.9,
+        "height": 70.9,
+        "ref": "J13"
+      }
+    },
+    {
+      "net": "PC2",
+      "a": {
+        "primitiveId": "41e7fb94c1120e67e2",
+        "padNumber": "1",
+        "net": "PC2",
+        "layer": 1,
+        "x": 1224.3921500000001,
+        "y": -995.030349999993,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "C6"
+      },
+      "b": {
+        "primitiveId": "f211d998b4b36a71e7",
+        "padNumber": "1",
+        "net": "PC2",
+        "layer": 12,
+        "x": 1235.037500000009,
+        "y": -864.958799999997,
+        "width": 70.9,
+        "height": 70.9,
+        "ref": "J14"
+      }
+    },
+    {
+      "net": "PC2",
+      "a": {
+        "primitiveId": "41e7fb94c1120e67e2",
+        "padNumber": "1",
+        "net": "PC2",
+        "layer": 1,
+        "x": 1224.3921500000001,
+        "y": -995.030349999993,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "C6"
+      },
+      "b": {
+        "primitiveId": "470e08c14b4bb1dae4",
+        "padNumber": "3",
+        "net": "PC2",
+        "layer": 1,
+        "x": 1495.0014499999997,
+        "y": -1301.3303499999934,
+        "width": 25.6,
+        "height": 43.3,
+        "ref": "D9"
+      }
+    },
+    {
+      "net": "PC2",
+      "a": {
+        "primitiveId": "470e08c14b4bb1dae4",
+        "padNumber": "3",
+        "net": "PC2",
+        "layer": 1,
+        "x": 1495.0014499999997,
+        "y": -1301.3303499999934,
+        "width": 25.6,
+        "height": 43.3,
+        "ref": "D9"
+      },
+      "b": {
+        "primitiveId": "729b236a0da6c827e3",
+        "padNumber": "2",
+        "net": "PC2",
+        "layer": 1,
+        "x": 1499.341200000003,
+        "y": -1515.005850000007,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R36"
+      }
+    },
+    {
+      "net": "REF_RAW",
+      "a": {
+        "primitiveId": "cc6587dacfb9be24e2",
+        "padNumber": "1",
+        "net": "REF_RAW",
+        "layer": 1,
+        "x": 1099.3921500000001,
+        "y": -1599.9584999999884,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "C9"
+      },
+      "b": {
+        "primitiveId": "cc0bed3fe572419de3",
+        "padNumber": "2",
+        "net": "REF_RAW",
+        "layer": 1,
+        "x": 1005.5887999999982,
+        "y": -1490.018449999991,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R38"
+      }
+    },
+    {
+      "net": "REF_RAW",
+      "a": {
+        "primitiveId": "cc0bed3fe572419de3",
+        "padNumber": "2",
+        "net": "REF_RAW",
+        "layer": 1,
+        "x": 1005.5887999999982,
+        "y": -1490.018449999991,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R38"
+      },
+      "b": {
+        "primitiveId": "2b5ca411d877aa3fe2",
+        "padNumber": "1",
+        "net": "REF_RAW",
+        "layer": 1,
+        "x": 909.9815500000091,
+        "y": -1494.358799999997,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R39"
+      }
+    },
+    {
+      "net": "REF_RAW",
+      "a": {
+        "primitiveId": "cc6587dacfb9be24e2",
+        "padNumber": "1",
+        "net": "REF_RAW",
+        "layer": 1,
+        "x": 1099.3921500000001,
+        "y": -1599.9584999999884,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "C9"
+      },
+      "b": {
+        "primitiveId": "f046becd981c5c63e4",
+        "padNumber": "3",
+        "net": "REF_RAW",
+        "layer": 1,
+        "x": 1208.6985499999998,
+        "y": -1700.0415000000112,
+        "width": 70.9,
+        "height": 23.6,
+        "ref": "U1"
+      }
+    },
+    {
+      "net": "CH1_SUM",
+      "a": {
+        "primitiveId": "7e58c2b8b715d5fce4",
+        "padNumber": "3",
+        "net": "CH1_SUM",
+        "layer": 1,
+        "x": 859.99215,
+        "y": -1791.3589499999998,
+        "width": 25.6,
+        "height": 43.3,
+        "ref": "D2"
+      },
+      "b": {
+        "primitiveId": "caca72093b41f9c2e3",
+        "padNumber": "2",
+        "net": "CH1_SUM",
+        "layer": 1,
+        "x": 865.5887999999982,
+        "y": -1890.0227499999999,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R10"
+      }
+    },
+    {
+      "net": "CH1_SUM",
+      "a": {
+        "primitiveId": "7e58c2b8b715d5fce4",
+        "padNumber": "3",
+        "net": "CH1_SUM",
+        "layer": 1,
+        "x": 859.99215,
+        "y": -1791.3589499999998,
+        "width": 25.6,
+        "height": 43.3,
+        "ref": "D2"
+      },
+      "b": {
+        "primitiveId": "78bab1ef1f24cbcfe2",
+        "padNumber": "1",
+        "net": "CH1_SUM",
+        "layer": 1,
+        "x": 979.9772499999998,
+        "y": -1794.358799999997,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R11"
+      }
+    },
+    {
+      "net": "CH1_SUM",
+      "a": {
+        "primitiveId": "78bab1ef1f24cbcfe2",
+        "padNumber": "1",
+        "net": "CH1_SUM",
+        "layer": 1,
+        "x": 979.9772499999998,
+        "y": -1794.358799999997,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R11"
+      },
+      "b": {
+        "primitiveId": "f046becd981c5c63e6",
+        "padNumber": "5",
+        "net": "CH1_SUM",
+        "layer": 1,
+        "x": 1208.6985499999998,
+        "y": -1800.0415000000112,
+        "width": 70.9,
+        "height": 23.6,
+        "ref": "U1"
+      }
+    },
+    {
+      "net": "CH2_SUM",
+      "a": {
+        "primitiveId": "475970e7df9592dce4",
+        "padNumber": "3",
+        "net": "CH2_SUM",
+        "layer": 1,
+        "x": 1649.9587999999972,
+        "y": -1846.3415499999974,
+        "width": 25.6,
+        "height": 43.3,
+        "ref": "D5"
+      },
+      "b": {
+        "primitiveId": "06868362c141780ee3",
+        "padNumber": "2",
+        "net": "CH2_SUM",
+        "layer": 1,
+        "x": 1770.6707499999995,
+        "y": -1775.0415499999972,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R22"
+      }
+    },
+    {
+      "net": "CH2_SUM",
+      "a": {
+        "primitiveId": "06868362c141780ee3",
+        "padNumber": "2",
+        "net": "CH2_SUM",
+        "layer": 1,
+        "x": 1770.6707499999995,
+        "y": -1775.0415499999972,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R22"
+      },
+      "b": {
+        "primitiveId": "d7a3ad1cd7aee558e2",
+        "padNumber": "1",
+        "net": "CH2_SUM",
+        "layer": 1,
+        "x": 1719.3887999999984,
+        "y": -1665.0415499999972,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R23"
+      }
+    },
+    {
+      "net": "CH2_SUM",
+      "a": {
+        "primitiveId": "475970e7df9592dce4",
+        "padNumber": "3",
+        "net": "CH2_SUM",
+        "layer": 1,
+        "x": 1649.9587999999972,
+        "y": -1846.3415499999974,
+        "width": 25.6,
+        "height": 43.3,
+        "ref": "D5"
+      },
+      "b": {
+        "primitiveId": "f046becd981c5c63e13",
+        "padNumber": "10",
+        "net": "CH2_SUM",
+        "layer": 1,
+        "x": 1421.29855,
+        "y": -1800.0415000000112,
+        "width": 70.9,
+        "height": 23.6,
+        "ref": "U1"
+      }
+    },
+    {
+      "net": "CH3_SUM",
+      "a": {
+        "primitiveId": "c2a5a17e9ea68ec3e4",
+        "padNumber": "3",
+        "net": "CH3_SUM",
+        "layer": 1,
+        "x": 1608.705850000006,
+        "y": -1544.988799999998,
+        "width": 43.3,
+        "height": 25.6,
+        "ref": "D8"
+      },
+      "b": {
+        "primitiveId": "c2d3e70c1ff5f797e3",
+        "padNumber": "2",
+        "net": "CH3_SUM",
+        "layer": 1,
+        "x": 1595.6014499999999,
+        "y": -1424.994149999993,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R34"
+      }
+    },
+    {
+      "net": "CH3_SUM",
+      "a": {
+        "primitiveId": "c2a5a17e9ea68ec3e4",
+        "padNumber": "3",
+        "net": "CH3_SUM",
+        "layer": 1,
+        "x": 1608.705850000006,
+        "y": -1544.988799999998,
+        "width": 43.3,
+        "height": 25.6,
+        "ref": "D8"
+      },
+      "b": {
+        "primitiveId": "772b7983cb0fb382e2",
+        "padNumber": "1",
+        "net": "CH3_SUM",
+        "layer": 1,
+        "x": 1529.994149999993,
+        "y": -1660.6292500000004,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R35"
+      }
+    },
+    {
+      "net": "CH3_SUM",
+      "a": {
+        "primitiveId": "772b7983cb0fb382e2",
+        "padNumber": "1",
+        "net": "CH3_SUM",
+        "layer": 1,
+        "x": 1529.994149999993,
+        "y": -1660.6292500000004,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R35"
+      },
+      "b": {
+        "primitiveId": "f046becd981c5c63e11",
+        "padNumber": "12",
+        "net": "CH3_SUM",
+        "layer": 1,
+        "x": 1421.29855,
+        "y": -1700.0415000000112,
+        "width": 70.9,
+        "height": 23.6,
+        "ref": "U1"
+      }
+    },
+    {
+      "net": "3V3_IN",
+      "a": {
+        "primitiveId": "14637aaac5ee594be2",
+        "padNumber": "1",
+        "net": "3V3_IN",
+        "layer": 1,
+        "x": 525.0303499999932,
+        "y": -1025.641200000003,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "FB1"
+      },
+      "b": {
+        "primitiveId": "c9109d4377593ed8e2",
+        "padNumber": "1",
+        "net": "3V3_IN",
+        "layer": 12,
+        "x": 634.969650000007,
+        "y": -1199.9707499999995,
+        "width": 70.9,
+        "height": 70.9,
+        "ref": "J7"
+      }
+    },
+    {
+      "net": "CH1_DIRECT",
+      "a": {
+        "primitiveId": "a5b5cb6b7bce9ba7e2",
+        "padNumber": "1",
+        "net": "CH1_DIRECT",
+        "layer": 12,
+        "x": 689.99215,
+        "y": -3340.04255,
+        "width": 70.9,
+        "height": 70.9,
+        "ref": "J1"
+      },
+      "b": {
+        "primitiveId": "f34b8bc872089128e2",
+        "padNumber": "1",
+        "net": "CH1_DIRECT",
+        "layer": 1,
+        "x": 534.4116499999998,
+        "y": -3365.04255,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R1"
+      }
+    },
+    {
+      "net": "CH1_HIGH",
+      "a": {
+        "primitiveId": "b619b47071755d12e2",
+        "padNumber": "1",
+        "net": "CH1_HIGH",
+        "layer": 12,
+        "x": 904.9574499999999,
+        "y": -2575.0014499999997,
+        "width": 70.9,
+        "height": 70.9,
+        "ref": "J2"
+      },
+      "b": {
+        "primitiveId": "27af85b3ae2b7f90e2",
+        "padNumber": "1",
+        "net": "CH1_HIGH",
+        "layer": 1,
+        "x": 720.01965,
+        "y": -2670.60785,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R2"
+      }
+    },
+    {
+      "net": "CH2_DIRECT",
+      "a": {
+        "primitiveId": "2f19fff2c7533de4e2",
+        "padNumber": "1",
+        "net": "CH2_DIRECT",
+        "layer": 12,
+        "x": 1829.9587999999972,
+        "y": -3084.9589499999993,
+        "width": 70.9,
+        "height": 70.9,
+        "ref": "J3"
+      },
+      "b": {
+        "primitiveId": "f3db999f78e91232e2",
+        "padNumber": "1",
+        "net": "CH2_DIRECT",
+        "layer": 1,
+        "x": 1700.028249999999,
+        "y": -3190.59855,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R13"
+      }
+    },
+    {
+      "net": "CH2_HIGH",
+      "a": {
+        "primitiveId": "26fa539fdada1e5ae2",
+        "padNumber": "1",
+        "net": "CH2_HIGH",
+        "layer": 12,
+        "x": 2100.028249999999,
+        "y": -2035.00785,
+        "width": 70.9,
+        "height": 70.9,
+        "ref": "J4"
+      },
+      "b": {
+        "primitiveId": "bc4aa1bc6ca2c49fe2",
+        "padNumber": "1",
+        "net": "CH2_HIGH",
+        "layer": 1,
+        "x": 2210.6412000000028,
+        "y": -2239.9639500000003,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R14"
+      }
+    },
+    {
+      "net": "CH3_DIRECT",
+      "a": {
+        "primitiveId": "3a0c6b745d96a6c5e2",
+        "padNumber": "1",
+        "net": "CH3_DIRECT",
+        "layer": 12,
+        "x": 805.011200000002,
+        "y": -780.0222500000039,
+        "width": 70.9,
+        "height": 70.9,
+        "ref": "J5"
+      },
+      "b": {
+        "primitiveId": "3a97335f2800f4f6e2",
+        "padNumber": "1",
+        "net": "CH3_DIRECT",
+        "layer": 1,
+        "x": 694.3921500000001,
+        "y": -730.0470499999983,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R25"
+      }
+    },
+    {
+      "net": "CH3_HIGH",
+      "a": {
+        "primitiveId": "6f8becf865f59256e2",
+        "padNumber": "1",
+        "net": "CH3_HIGH",
+        "layer": 12,
+        "x": 1845.0412000000028,
+        "y": -445.02225000000385,
+        "width": 70.9,
+        "height": 70.9,
+        "ref": "J6"
+      },
+      "b": {
+        "primitiveId": "7cfe685bf0c6fd43e2",
+        "padNumber": "1",
+        "net": "CH3_HIGH",
+        "layer": 1,
+        "x": 2034.3887999999984,
+        "y": -359.95484999999553,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R26"
+      }
+    },
+    {
+      "net": "CH1_ATT1",
+      "a": {
+        "primitiveId": "27af85b3ae2b7f90e3",
+        "padNumber": "2",
+        "net": "CH1_ATT1",
+        "layer": 1,
+        "x": 720.01965,
+        "y": -2749.40785,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R2"
+      },
+      "b": {
+        "primitiveId": "1794224bac2e73e9e2",
+        "padNumber": "1",
+        "net": "CH1_ATT1",
+        "layer": 1,
+        "x": 399.98035000000004,
+        "y": -2874.40145,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R3"
+      }
+    },
+    {
+      "net": "CH1_ATT2",
+      "a": {
+        "primitiveId": "1794224bac2e73e9e3",
+        "padNumber": "2",
+        "net": "CH1_ATT2",
+        "layer": 1,
+        "x": 399.98035000000004,
+        "y": -2795.60145,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R3"
+      },
+      "b": {
+        "primitiveId": "435197655830458ae2",
+        "padNumber": "1",
+        "net": "CH1_ATT2",
+        "layer": 1,
+        "x": 289.98035000000004,
+        "y": -2734.37075,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R4"
+      }
+    },
+    {
+      "net": "CH1_ATT3",
+      "a": {
+        "primitiveId": "435197655830458ae3",
+        "padNumber": "2",
+        "net": "CH1_ATT3",
+        "layer": 1,
+        "x": 289.98035000000004,
+        "y": -2655.67075,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R4"
+      },
+      "b": {
+        "primitiveId": "9676ef46e6b9c02be2",
+        "padNumber": "1",
+        "net": "CH1_ATT3",
+        "layer": 1,
+        "x": 424.98035000000004,
+        "y": -2554.3887999999984,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R5"
+      }
+    },
+    {
+      "net": "CH1_ATT4",
+      "a": {
+        "primitiveId": "9676ef46e6b9c02be3",
+        "padNumber": "2",
+        "net": "CH1_ATT4",
+        "layer": 1,
+        "x": 424.98035000000004,
+        "y": -2475.588799999998,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R5"
+      },
+      "b": {
+        "primitiveId": "18f5fa1ea61a6428e2",
+        "padNumber": "1",
+        "net": "CH1_ATT4",
+        "layer": 1,
+        "x": 584.98035,
+        "y": -2489.3587999999972,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R6"
+      }
+    },
+    {
+      "net": "CH1_ATT5",
+      "a": {
+        "primitiveId": "18f5fa1ea61a6428e3",
+        "padNumber": "2",
+        "net": "CH1_ATT5",
+        "layer": 1,
+        "x": 584.98035,
+        "y": -2410.658799999997,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R6"
+      },
+      "b": {
+        "primitiveId": "3a671e311d653e60e2",
+        "padNumber": "1",
+        "net": "CH1_ATT5",
+        "layer": 1,
+        "x": 714.9772500000003,
+        "y": -2289.39215,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R7"
+      }
+    },
+    {
+      "net": "CH1_ATT6",
+      "a": {
+        "primitiveId": "3a671e311d653e60e3",
+        "padNumber": "2",
+        "net": "CH1_ATT6",
+        "layer": 1,
+        "x": 714.9772500000003,
+        "y": -2210.59215,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R7"
+      },
+      "b": {
+        "primitiveId": "4dc0cc1c7b8b4b7de2",
+        "padNumber": "1",
+        "net": "CH1_ATT6",
+        "layer": 1,
+        "x": 719.9772500000001,
+        "y": -2099.40145,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R8"
+      }
+    },
+    {
+      "net": "CH1_ATT7",
+      "a": {
+        "primitiveId": "4dc0cc1c7b8b4b7de3",
+        "padNumber": "2",
+        "net": "CH1_ATT7",
+        "layer": 1,
+        "x": 719.9772500000001,
+        "y": -2020.6014499999999,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R8"
+      },
+      "b": {
+        "primitiveId": "620c69ede4fae6d5e2",
+        "padNumber": "1",
+        "net": "CH1_ATT7",
+        "layer": 1,
+        "x": 695.6292500000005,
+        "y": -1919.9772500000001,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R9"
+      }
+    },
+    {
+      "net": "CH1_ATT8",
+      "a": {
+        "primitiveId": "620c69ede4fae6d5e3",
+        "padNumber": "2",
+        "net": "CH1_ATT8",
+        "layer": 1,
+        "x": 774.3292500000005,
+        "y": -1919.9772500000001,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R9"
+      },
+      "b": {
+        "primitiveId": "caca72093b41f9c2e2",
+        "padNumber": "1",
+        "net": "CH1_ATT8",
+        "layer": 1,
+        "x": 944.3887999999982,
+        "y": -1890.0227499999999,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R10"
+      }
+    },
+    {
+      "net": "VBIAS",
+      "a": {
+        "primitiveId": "78bab1ef1f24cbcfe3",
+        "padNumber": "2",
+        "net": "VBIAS",
+        "layer": 1,
+        "x": 979.9772499999998,
+        "y": -1715.658799999997,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R11"
+      },
+      "b": {
+        "primitiveId": "f046becd981c5c63e3",
+        "padNumber": "2",
+        "net": "VBIAS",
+        "layer": 1,
+        "x": 1208.6985499999998,
+        "y": -1650.0415000000112,
+        "width": 70.9,
+        "height": 23.6,
+        "ref": "U1"
+      }
+    },
+    {
+      "net": "VBIAS",
+      "a": {
+        "primitiveId": "f046becd981c5c63e3",
+        "padNumber": "2",
+        "net": "VBIAS",
+        "layer": 1,
+        "x": 1208.6985499999998,
+        "y": -1650.0415000000112,
+        "width": 70.9,
+        "height": 23.6,
+        "ref": "U1"
+      },
+      "b": {
+        "primitiveId": "f046becd981c5c63e2",
+        "padNumber": "1",
+        "net": "VBIAS",
+        "layer": 1,
+        "x": 1208.6985499999998,
+        "y": -1600.0415000000112,
+        "width": 70.9,
+        "height": 23.6,
+        "ref": "U1"
+      }
+    },
+    {
+      "net": "VBIAS",
+      "a": {
+        "primitiveId": "f046becd981c5c63e3",
+        "padNumber": "2",
+        "net": "VBIAS",
+        "layer": 1,
+        "x": 1208.6985499999998,
+        "y": -1650.0415000000112,
+        "width": 70.9,
+        "height": 23.6,
+        "ref": "U1"
+      },
+      "b": {
+        "primitiveId": "772b7983cb0fb382e3",
+        "padNumber": "2",
+        "net": "VBIAS",
+        "layer": 1,
+        "x": 1529.994149999993,
+        "y": -1739.3292500000005,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R35"
+      }
+    },
+    {
+      "net": "VBIAS",
+      "a": {
+        "primitiveId": "772b7983cb0fb382e3",
+        "padNumber": "2",
+        "net": "VBIAS",
+        "layer": 1,
+        "x": 1529.994149999993,
+        "y": -1739.3292500000005,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R35"
+      },
+      "b": {
+        "primitiveId": "d7a3ad1cd7aee558e3",
+        "padNumber": "2",
+        "net": "VBIAS",
+        "layer": 1,
+        "x": 1640.5887999999982,
+        "y": -1665.0415499999972,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R23"
+      }
+    },
+    {
+      "net": "CH1_BUF",
+      "a": {
+        "primitiveId": "686bb22057b02ecfe2",
+        "padNumber": "1",
+        "net": "CH1_BUF",
+        "layer": 1,
+        "x": 1199.9589499999995,
+        "y": -1980.5985500000002,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R12"
+      },
+      "b": {
+        "primitiveId": "f046becd981c5c63e8",
+        "padNumber": "7",
+        "net": "CH1_BUF",
+        "layer": 1,
+        "x": 1208.6985499999998,
+        "y": -1900.0415000000112,
+        "width": 70.9,
+        "height": 23.6,
+        "ref": "U1"
+      }
+    },
+    {
+      "net": "CH1_BUF",
+      "a": {
+        "primitiveId": "f046becd981c5c63e8",
+        "padNumber": "7",
+        "net": "CH1_BUF",
+        "layer": 1,
+        "x": 1208.6985499999998,
+        "y": -1900.0415000000112,
+        "width": 70.9,
+        "height": 23.6,
+        "ref": "U1"
+      },
+      "b": {
+        "primitiveId": "f046becd981c5c63e7",
+        "padNumber": "6",
+        "net": "CH1_BUF",
+        "layer": 1,
+        "x": 1208.6985499999998,
+        "y": -1850.0415000000112,
+        "width": 70.9,
+        "height": 23.6,
+        "ref": "U1"
+      }
+    },
+    {
+      "net": "CH2_ATT1",
+      "a": {
+        "primitiveId": "bc4aa1bc6ca2c49fe3",
+        "padNumber": "2",
+        "net": "CH2_ATT1",
+        "layer": 1,
+        "x": 2289.341200000003,
+        "y": -2239.9639500000003,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R14"
+      },
+      "b": {
+        "primitiveId": "b6d5014e33bdec80e2",
+        "padNumber": "1",
+        "net": "CH2_ATT1",
+        "layer": 1,
+        "x": 2265.60785,
+        "y": -2354.994650000002,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R15"
+      }
+    },
+    {
+      "net": "CH2_ATT2",
+      "a": {
+        "primitiveId": "b6d5014e33bdec80e3",
+        "padNumber": "2",
+        "net": "CH2_ATT2",
+        "layer": 1,
+        "x": 2344.40785,
+        "y": -2354.994650000002,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R15"
+      },
+      "b": {
+        "primitiveId": "3f68e0d1d7bb36a0e2",
+        "padNumber": "1",
+        "net": "CH2_ATT2",
+        "layer": 1,
+        "x": 2440.59855,
+        "y": -2299.9946500000024,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R16"
+      }
+    },
+    {
+      "net": "CH2_ATT3",
+      "a": {
+        "primitiveId": "3f68e0d1d7bb36a0e3",
+        "padNumber": "2",
+        "net": "CH2_ATT3",
+        "layer": 1,
+        "x": 2519.39855,
+        "y": -2299.9946500000024,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R16"
+      },
+      "b": {
+        "primitiveId": "441af440fcc235bae2",
+        "padNumber": "1",
+        "net": "CH2_ATT3",
+        "layer": 1,
+        "x": 2435.6292500000004,
+        "y": -2439.9946500000024,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R17"
+      }
+    },
+    {
+      "net": "CH2_ATT4",
+      "a": {
+        "primitiveId": "441af440fcc235bae3",
+        "padNumber": "2",
+        "net": "CH2_ATT4",
+        "layer": 1,
+        "x": 2514.3292500000007,
+        "y": -2439.9946500000024,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R17"
+      },
+      "b": {
+        "primitiveId": "978f9f2b1602e550e2",
+        "padNumber": "1",
+        "net": "CH2_ATT4",
+        "layer": 1,
+        "x": 2385.0053499999976,
+        "y": -2635.6112000000016,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R18"
+      }
+    },
+    {
+      "net": "CH2_ATT5",
+      "a": {
+        "primitiveId": "978f9f2b1602e550e3",
+        "padNumber": "2",
+        "net": "CH2_ATT5",
+        "layer": 1,
+        "x": 2385.0053499999976,
+        "y": -2714.411200000002,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R18"
+      },
+      "b": {
+        "primitiveId": "ef823f38c0c6162de2",
+        "padNumber": "1",
+        "net": "CH2_ATT5",
+        "layer": 1,
+        "x": 2234.3587999999972,
+        "y": -2705.0053499999976,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R19"
+      }
+    },
+    {
+      "net": "CH2_ATT6",
+      "a": {
+        "primitiveId": "ef823f38c0c6162de3",
+        "padNumber": "2",
+        "net": "CH2_ATT6",
+        "layer": 1,
+        "x": 2155.658799999997,
+        "y": -2705.0053499999976,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R19"
+      },
+      "b": {
+        "primitiveId": "e1747681053e856be2",
+        "padNumber": "1",
+        "net": "CH2_ATT6",
+        "layer": 1,
+        "x": 2184.958450000003,
+        "y": -2599.39215,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R20"
+      }
+    },
+    {
+      "net": "CH2_ATT7",
+      "a": {
+        "primitiveId": "e1747681053e856be3",
+        "padNumber": "2",
+        "net": "CH2_ATT7",
+        "layer": 1,
+        "x": 2184.958450000003,
+        "y": -2520.59215,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R20"
+      },
+      "b": {
+        "primitiveId": "ea443eb206b013b3e2",
+        "padNumber": "1",
+        "net": "CH2_ATT7",
+        "layer": 1,
+        "x": 2099.40145,
+        "y": -2255.041549999997,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R21"
+      }
+    },
+    {
+      "net": "CH2_ATT8",
+      "a": {
+        "primitiveId": "ea443eb206b013b3e3",
+        "padNumber": "2",
+        "net": "CH2_ATT8",
+        "layer": 1,
+        "x": 2020.6014499999999,
+        "y": -2255.041549999997,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R21"
+      },
+      "b": {
+        "primitiveId": "06868362c141780ee2",
+        "padNumber": "1",
+        "net": "CH2_ATT8",
+        "layer": 1,
+        "x": 1849.3707499999996,
+        "y": -1775.0415499999972,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R22"
+      }
+    },
+    {
+      "net": "CH2_BUF",
+      "a": {
+        "primitiveId": "8bcff45c214b325be2",
+        "padNumber": "1",
+        "net": "CH2_BUF",
+        "layer": 1,
+        "x": 1415.6078499999999,
+        "y": -1985.0222500000036,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R24"
+      },
+      "b": {
+        "primitiveId": "f046becd981c5c63e15",
+        "padNumber": "8",
+        "net": "CH2_BUF",
+        "layer": 1,
+        "x": 1421.29855,
+        "y": -1900.0415000000112,
+        "width": 70.9,
+        "height": 23.6,
+        "ref": "U1"
+      }
+    },
+    {
+      "net": "CH2_BUF",
+      "a": {
+        "primitiveId": "f046becd981c5c63e15",
+        "padNumber": "8",
+        "net": "CH2_BUF",
+        "layer": 1,
+        "x": 1421.29855,
+        "y": -1900.0415000000112,
+        "width": 70.9,
+        "height": 23.6,
+        "ref": "U1"
+      },
+      "b": {
+        "primitiveId": "f046becd981c5c63e14",
+        "padNumber": "9",
+        "net": "CH2_BUF",
+        "layer": 1,
+        "x": 1421.29855,
+        "y": -1850.0415000000112,
+        "width": 70.9,
+        "height": 23.6,
+        "ref": "U1"
+      }
+    },
+    {
+      "net": "CH3_ATT1",
+      "a": {
+        "primitiveId": "7cfe685bf0c6fd43e3",
+        "padNumber": "2",
+        "net": "CH3_ATT1",
+        "layer": 1,
+        "x": 1955.5887999999982,
+        "y": -359.95484999999553,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R26"
+      },
+      "b": {
+        "primitiveId": "37f0d351b7065dc0e2",
+        "padNumber": "1",
+        "net": "CH3_ATT1",
+        "layer": 1,
+        "x": 1714.358799999997,
+        "y": -359.9548499999951,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R27"
+      }
+    },
+    {
+      "net": "CH3_ATT2",
+      "a": {
+        "primitiveId": "37f0d351b7065dc0e3",
+        "padNumber": "2",
+        "net": "CH3_ATT2",
+        "layer": 1,
+        "x": 1635.658799999997,
+        "y": -359.9548499999951,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R27"
+      },
+      "b": {
+        "primitiveId": "ddafee9ea11ff99ce2",
+        "padNumber": "1",
+        "net": "CH3_ATT2",
+        "layer": 1,
+        "x": 1470.6078499999999,
+        "y": -460.0420500000055,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R28"
+      }
+    },
+    {
+      "net": "CH3_ATT3",
+      "a": {
+        "primitiveId": "ddafee9ea11ff99ce3",
+        "padNumber": "2",
+        "net": "CH3_ATT3",
+        "layer": 1,
+        "x": 1549.4078499999998,
+        "y": -460.0420500000055,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R28"
+      },
+      "b": {
+        "primitiveId": "5ccb67dbc72d3899e2",
+        "padNumber": "1",
+        "net": "CH3_ATT3",
+        "layer": 1,
+        "x": 1649.9579499999934,
+        "y": -460.5985500000001,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R29"
+      }
+    },
+    {
+      "net": "CH3_ATT4",
+      "a": {
+        "primitiveId": "5ccb67dbc72d3899e3",
+        "padNumber": "2",
+        "net": "CH3_ATT4",
+        "layer": 1,
+        "x": 1649.9579499999934,
+        "y": -539.3985500000001,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R29"
+      },
+      "b": {
+        "primitiveId": "06b8cdfd776b2210e2",
+        "padNumber": "1",
+        "net": "CH3_ATT4",
+        "layer": 1,
+        "x": 2119.9579499999936,
+        "y": -555.6292500000005,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R30"
+      }
+    },
+    {
+      "net": "CH3_ATT5",
+      "a": {
+        "primitiveId": "06b8cdfd776b2210e3",
+        "padNumber": "2",
+        "net": "CH3_ATT5",
+        "layer": 1,
+        "x": 2119.9579499999936,
+        "y": -634.3292500000005,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R30"
+      },
+      "b": {
+        "primitiveId": "c212afe9874aa97be2",
+        "padNumber": "1",
+        "net": "CH3_ATT5",
+        "layer": 1,
+        "x": 2009.9579499999934,
+        "y": -600.6112000000018,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R31"
+      }
+    },
+    {
+      "net": "CH3_ATT6",
+      "a": {
+        "primitiveId": "c212afe9874aa97be3",
+        "padNumber": "2",
+        "net": "CH3_ATT6",
+        "layer": 1,
+        "x": 2009.9579499999934,
+        "y": -679.4112000000018,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R31"
+      },
+      "b": {
+        "primitiveId": "759db64b23ae30b2e2",
+        "padNumber": "1",
+        "net": "CH3_ATT6",
+        "layer": 1,
+        "x": 1864.9579499999934,
+        "y": -795.641200000003,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R32"
+      }
+    },
+    {
+      "net": "CH3_ATT7",
+      "a": {
+        "primitiveId": "759db64b23ae30b2e3",
+        "padNumber": "2",
+        "net": "CH3_ATT7",
+        "layer": 1,
+        "x": 1864.9579499999934,
+        "y": -874.341200000003,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R32"
+      },
+      "b": {
+        "primitiveId": "9438b3d807cdaa2be2",
+        "padNumber": "1",
+        "net": "CH3_ATT7",
+        "layer": 1,
+        "x": 1894.994149999993,
+        "y": -1040.6078499999999,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R33"
+      }
+    },
+    {
+      "net": "CH3_ATT8",
+      "a": {
+        "primitiveId": "9438b3d807cdaa2be3",
+        "padNumber": "2",
+        "net": "CH3_ATT8",
+        "layer": 1,
+        "x": 1894.994149999993,
+        "y": -1119.4078499999998,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R33"
+      },
+      "b": {
+        "primitiveId": "c2d3e70c1ff5f797e2",
+        "padNumber": "1",
+        "net": "CH3_ATT8",
+        "layer": 1,
+        "x": 1674.4014499999998,
+        "y": -1424.994149999993,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R34"
+      }
+    },
+    {
+      "net": "CH3_BUF",
+      "a": {
+        "primitiveId": "729b236a0da6c827e2",
+        "padNumber": "1",
+        "net": "CH3_BUF",
+        "layer": 1,
+        "x": 1420.641200000003,
+        "y": -1515.005850000007,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R36"
+      },
+      "b": {
+        "primitiveId": "f046becd981c5c63e9",
+        "padNumber": "14",
+        "net": "CH3_BUF",
+        "layer": 1,
+        "x": 1421.29855,
+        "y": -1600.0415000000112,
+        "width": 70.9,
+        "height": 23.6,
+        "ref": "U1"
+      }
+    },
+    {
+      "net": "CH3_BUF",
+      "a": {
+        "primitiveId": "f046becd981c5c63e9",
+        "padNumber": "14",
+        "net": "CH3_BUF",
+        "layer": 1,
+        "x": 1421.29855,
+        "y": -1600.0415000000112,
+        "width": 70.9,
+        "height": 23.6,
+        "ref": "U1"
+      },
+      "b": {
+        "primitiveId": "f046becd981c5c63e10",
+        "padNumber": "13",
+        "net": "CH3_BUF",
+        "layer": 1,
+        "x": 1421.29855,
+        "y": -1650.0415000000112,
+        "width": 70.9,
+        "height": 23.6,
+        "ref": "U1"
+      }
+    },
+    {
+      "net": "REF_MID",
+      "a": {
+        "primitiveId": "0765c547ed599725e3",
+        "padNumber": "2",
+        "net": "REF_MID",
+        "layer": 1,
+        "x": 764.9815500000091,
+        "y": -1370.6707499999995,
+        "width": 55.1,
+        "height": 47.2,
+        "ref": "R37"
+      },
+      "b": {
+        "primitiveId": "cc0bed3fe572419de2",
+        "padNumber": "1",
+        "net": "REF_MID",
+        "layer": 1,
+        "x": 1084.3887999999984,
+        "y": -1490.018449999991,
+        "width": 47.2,
+        "height": 55.1,
+        "ref": "R38"
+      }
+    }
+  ],
+  "metrics": {
+    "cost": 10866.21861562147,
+    "crossings": 1,
+    "length": 17908.53113861405,
+    "violations": 0,
+    "criticalPenalty": 8433.536124532347
+  },
+  "outline": {
+    "points": [
+      [
+        0,
+        0
+      ],
+      [
+        2755.9055118110236,
+        0
+      ],
+      [
+        2755.9055118110236,
+        -3543.3070866141734
+      ],
+      [
+        0,
+        -3543.3070866141734
+      ]
+    ],
+    "bbox": {
+      "minX": 0,
+      "maxX": 2755.9055118110236,
+      "minY": -3543.3070866141734,
+      "maxY": 0
+    }
+  }
+}

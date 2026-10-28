@@ -1,0 +1,4 @@
+{"playbookSha256":"579ab1df55084d20f8fa336873f2c854f4370420b0bb37694b51dd75d2aaa7e6","name":"Retire grouped J8 after replacement pins verified","project":"analog_front_end_import","startedAt":"2026-09-07T13:00:48+03:00"}
+{"playbookSha256":"579ab1df55084d20f8fa336873f2c854f4370420b0bb37694b51dd75d2aaa7e6","name":"Retire grouped J8 after replacement pins verified","project":"analog_front_end_import","startedAt":"2026-09-07T13:01:08+03:00"}
+{"idx":1,"id":"retire_j8","status":"ok","ms":311}
+{"idx":2,"id":"save","status":"ok","ms":13}

@@ -1,0 +1,2459 @@
+{
+  "version": "2.0.0",
+  "components": {
+    "gge12": {
+      "props": {
+        "Designator": "J1",
+        "Footprint": "f2382a3a65e883d1",
+        "Description": "",
+        "Name": "HDR1X2",
+        "Add into BOM": "yes",
+        "Device": "11a5bdcf9520571e",
+        "Unique ID": "gge12",
+        "FootprintName": "HDR1X2",
+        "DeviceName": "HDR1X2",
+        "Group ID": "",
+        "Channel ID": "$2e2",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH1_DIRECT"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge22": {
+      "props": {
+        "Designator": "J2",
+        "Footprint": "f2382a3a65e883d1",
+        "Description": "",
+        "Name": "HDR1X2",
+        "Add into BOM": "yes",
+        "Device": "11a5bdcf9520571e",
+        "Unique ID": "gge22",
+        "FootprintName": "HDR1X2",
+        "DeviceName": "HDR1X2",
+        "Group ID": "",
+        "Channel ID": "$2e11",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH1_HIGH"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge32": {
+      "props": {
+        "Designator": "R1",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge32",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e20",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH1_DIRECT"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "PA1"
+        }
+      }
+    },
+    "gge42": {
+      "props": {
+        "Designator": "C1",
+        "Footprint": "0053beec1f9b605e",
+        "Description": "",
+        "Name": "C0805",
+        "Add into BOM": "yes",
+        "Device": "cd2af85f15b45a33",
+        "Unique ID": "gge42",
+        "FootprintName": "C0805",
+        "DeviceName": "C0805",
+        "Group ID": "",
+        "Channel ID": "$2e29",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "PA1"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge55": {
+      "props": {
+        "Designator": "D1",
+        "Footprint": "2eb7b89d891135ec",
+        "Description": "",
+        "Name": "SOT23",
+        "Add into BOM": "yes",
+        "Device": "3104244133e66ad8",
+        "Unique ID": "gge55",
+        "FootprintName": "SOT23",
+        "DeviceName": "SOT23",
+        "Group ID": "",
+        "Channel ID": "$2e38",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "GND"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "3V3_A"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "PA1"
+        }
+      }
+    },
+    "gge65": {
+      "props": {
+        "Designator": "R2",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge65",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e47",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH1_HIGH"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH1_ATT1"
+        }
+      }
+    },
+    "gge75": {
+      "props": {
+        "Designator": "R3",
+        "Footprint": "54d616aeae33209b",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "db25167b46abc30d",
+        "Unique ID": "gge75",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e56",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH1_ATT1"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH1_ATT2"
+        }
+      }
+    },
+    "gge85": {
+      "props": {
+        "Designator": "R4",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge85",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e65",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH1_ATT2"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH1_ATT3"
+        }
+      }
+    },
+    "gge95": {
+      "props": {
+        "Designator": "R5",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge95",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e74",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH1_ATT3"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH1_ATT4"
+        }
+      }
+    },
+    "gge105": {
+      "props": {
+        "Designator": "R6",
+        "Footprint": "54d616aeae33209b",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "db25167b46abc30d",
+        "Unique ID": "gge105",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e83",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH1_ATT4"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH1_ATT5"
+        }
+      }
+    },
+    "gge115": {
+      "props": {
+        "Designator": "R7",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge115",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e92",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH1_ATT5"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH1_ATT6"
+        }
+      }
+    },
+    "gge125": {
+      "props": {
+        "Designator": "R8",
+        "Footprint": "54d616aeae33209b",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "db25167b46abc30d",
+        "Unique ID": "gge125",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e101",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH1_ATT6"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH1_ATT7"
+        }
+      }
+    },
+    "gge135": {
+      "props": {
+        "Designator": "R9",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge135",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e110",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH1_ATT7"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH1_ATT8"
+        }
+      }
+    },
+    "gge145": {
+      "props": {
+        "Designator": "R10",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge145",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e119",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH1_ATT8"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH1_SUM"
+        }
+      }
+    },
+    "gge155": {
+      "props": {
+        "Designator": "R11",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge155",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e128",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH1_SUM"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "VBIAS"
+        }
+      }
+    },
+    "gge168": {
+      "props": {
+        "Designator": "D2",
+        "Footprint": "4ee42137ec565186",
+        "Description": "",
+        "Name": "SOT23",
+        "Add into BOM": "yes",
+        "Device": "f589c3b7a8ed831b",
+        "Unique ID": "gge168",
+        "FootprintName": "SOT23",
+        "DeviceName": "SOT23",
+        "Group ID": "",
+        "Channel ID": "$2e137",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "GND"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "3V3_A"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "CH1_SUM"
+        }
+      }
+    },
+    "gge178": {
+      "props": {
+        "Designator": "R12",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge178",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e146",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH1_BUF"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "PC0"
+        }
+      }
+    },
+    "gge188": {
+      "props": {
+        "Designator": "C2",
+        "Footprint": "0053beec1f9b605e",
+        "Description": "",
+        "Name": "C0805",
+        "Add into BOM": "yes",
+        "Device": "cd2af85f15b45a33",
+        "Unique ID": "gge188",
+        "FootprintName": "C0805",
+        "DeviceName": "C0805",
+        "Group ID": "",
+        "Channel ID": "$2e155",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "PC0"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge201": {
+      "props": {
+        "Designator": "D3",
+        "Footprint": "97ec37459fa64236",
+        "Description": "",
+        "Name": "SOT23",
+        "Add into BOM": "yes",
+        "Device": "8fdce71afbb8b7e4",
+        "Unique ID": "gge201",
+        "FootprintName": "SOT23",
+        "DeviceName": "SOT23",
+        "Group ID": "",
+        "Channel ID": "$2e164",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "GND"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "3V3_A"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "PC0"
+        }
+      }
+    },
+    "gge211": {
+      "props": {
+        "Designator": "J3",
+        "Footprint": "f2382a3a65e883d1",
+        "Description": "",
+        "Name": "HDR1X2",
+        "Add into BOM": "yes",
+        "Device": "11a5bdcf9520571e",
+        "Unique ID": "gge211",
+        "FootprintName": "HDR1X2",
+        "DeviceName": "HDR1X2",
+        "Group ID": "",
+        "Channel ID": "$2e173",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH2_DIRECT"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge221": {
+      "props": {
+        "Designator": "J4",
+        "Footprint": "f2382a3a65e883d1",
+        "Description": "",
+        "Name": "HDR1X2",
+        "Add into BOM": "yes",
+        "Device": "11a5bdcf9520571e",
+        "Unique ID": "gge221",
+        "FootprintName": "HDR1X2",
+        "DeviceName": "HDR1X2",
+        "Group ID": "",
+        "Channel ID": "$2e182",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH2_HIGH"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge231": {
+      "props": {
+        "Designator": "R13",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge231",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e191",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH2_DIRECT"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "PA2"
+        }
+      }
+    },
+    "gge241": {
+      "props": {
+        "Designator": "C3",
+        "Footprint": "0053beec1f9b605e",
+        "Description": "",
+        "Name": "C0805",
+        "Add into BOM": "yes",
+        "Device": "cd2af85f15b45a33",
+        "Unique ID": "gge241",
+        "FootprintName": "C0805",
+        "DeviceName": "C0805",
+        "Group ID": "",
+        "Channel ID": "$2e200",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "PA2"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge254": {
+      "props": {
+        "Designator": "D4",
+        "Footprint": "2eb7b89d891135ec",
+        "Description": "",
+        "Name": "SOT23",
+        "Add into BOM": "yes",
+        "Device": "3104244133e66ad8",
+        "Unique ID": "gge254",
+        "FootprintName": "SOT23",
+        "DeviceName": "SOT23",
+        "Group ID": "",
+        "Channel ID": "$2e209",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "GND"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "3V3_A"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "PA2"
+        }
+      }
+    },
+    "gge264": {
+      "props": {
+        "Designator": "R14",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge264",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e218",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH2_HIGH"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH2_ATT1"
+        }
+      }
+    },
+    "gge274": {
+      "props": {
+        "Designator": "R15",
+        "Footprint": "54d616aeae33209b",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "db25167b46abc30d",
+        "Unique ID": "gge274",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e227",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH2_ATT1"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH2_ATT2"
+        }
+      }
+    },
+    "gge284": {
+      "props": {
+        "Designator": "R16",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge284",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e236",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH2_ATT2"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH2_ATT3"
+        }
+      }
+    },
+    "gge294": {
+      "props": {
+        "Designator": "R17",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge294",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e245",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH2_ATT3"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH2_ATT4"
+        }
+      }
+    },
+    "gge304": {
+      "props": {
+        "Designator": "R18",
+        "Footprint": "54d616aeae33209b",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "db25167b46abc30d",
+        "Unique ID": "gge304",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e254",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH2_ATT4"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH2_ATT5"
+        }
+      }
+    },
+    "gge314": {
+      "props": {
+        "Designator": "R19",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge314",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e263",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH2_ATT5"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH2_ATT6"
+        }
+      }
+    },
+    "gge324": {
+      "props": {
+        "Designator": "R20",
+        "Footprint": "54d616aeae33209b",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "db25167b46abc30d",
+        "Unique ID": "gge324",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e272",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH2_ATT6"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH2_ATT7"
+        }
+      }
+    },
+    "gge334": {
+      "props": {
+        "Designator": "R21",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge334",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e281",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH2_ATT7"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH2_ATT8"
+        }
+      }
+    },
+    "gge344": {
+      "props": {
+        "Designator": "R22",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge344",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e290",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH2_ATT8"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH2_SUM"
+        }
+      }
+    },
+    "gge354": {
+      "props": {
+        "Designator": "R23",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge354",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e299",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH2_SUM"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "VBIAS"
+        }
+      }
+    },
+    "gge367": {
+      "props": {
+        "Designator": "D5",
+        "Footprint": "97ec37459fa64236",
+        "Description": "",
+        "Name": "SOT23",
+        "Add into BOM": "yes",
+        "Device": "8fdce71afbb8b7e4",
+        "Unique ID": "gge367",
+        "FootprintName": "SOT23",
+        "DeviceName": "SOT23",
+        "Group ID": "",
+        "Channel ID": "$2e308",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "GND"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "3V3_A"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "CH2_SUM"
+        }
+      }
+    },
+    "gge377": {
+      "props": {
+        "Designator": "R24",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge377",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e317",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH2_BUF"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "PC1"
+        }
+      }
+    },
+    "gge387": {
+      "props": {
+        "Designator": "C4",
+        "Footprint": "0053beec1f9b605e",
+        "Description": "",
+        "Name": "C0805",
+        "Add into BOM": "yes",
+        "Device": "cd2af85f15b45a33",
+        "Unique ID": "gge387",
+        "FootprintName": "C0805",
+        "DeviceName": "C0805",
+        "Group ID": "",
+        "Channel ID": "$2e326",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "PC1"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge400": {
+      "props": {
+        "Designator": "D6",
+        "Footprint": "4ee42137ec565186",
+        "Description": "",
+        "Name": "SOT23",
+        "Add into BOM": "yes",
+        "Device": "f589c3b7a8ed831b",
+        "Unique ID": "gge400",
+        "FootprintName": "SOT23",
+        "DeviceName": "SOT23",
+        "Group ID": "",
+        "Channel ID": "$2e335",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "GND"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "3V3_A"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "PC1"
+        }
+      }
+    },
+    "gge410": {
+      "props": {
+        "Designator": "J5",
+        "Footprint": "f2382a3a65e883d1",
+        "Description": "",
+        "Name": "HDR1X2",
+        "Add into BOM": "yes",
+        "Device": "11a5bdcf9520571e",
+        "Unique ID": "gge410",
+        "FootprintName": "HDR1X2",
+        "DeviceName": "HDR1X2",
+        "Group ID": "",
+        "Channel ID": "$2e344",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH3_DIRECT"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge420": {
+      "props": {
+        "Designator": "J6",
+        "Footprint": "f2382a3a65e883d1",
+        "Description": "",
+        "Name": "HDR1X2",
+        "Add into BOM": "yes",
+        "Device": "11a5bdcf9520571e",
+        "Unique ID": "gge420",
+        "FootprintName": "HDR1X2",
+        "DeviceName": "HDR1X2",
+        "Group ID": "",
+        "Channel ID": "$2e353",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH3_HIGH"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge430": {
+      "props": {
+        "Designator": "R25",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge430",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e362",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH3_DIRECT"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "PA3"
+        }
+      }
+    },
+    "gge440": {
+      "props": {
+        "Designator": "C5",
+        "Footprint": "0053beec1f9b605e",
+        "Description": "",
+        "Name": "C0805",
+        "Add into BOM": "yes",
+        "Device": "cd2af85f15b45a33",
+        "Unique ID": "gge440",
+        "FootprintName": "C0805",
+        "DeviceName": "C0805",
+        "Group ID": "",
+        "Channel ID": "$2e371",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "PA3"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge453": {
+      "props": {
+        "Designator": "D7",
+        "Footprint": "02a93bd6fb50955c",
+        "Description": "",
+        "Name": "SOT23",
+        "Add into BOM": "yes",
+        "Device": "5aa26eb979009c8b",
+        "Unique ID": "gge453",
+        "FootprintName": "SOT23",
+        "DeviceName": "SOT23",
+        "Group ID": "",
+        "Channel ID": "$2e380",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "GND"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "3V3_A"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "PA3"
+        }
+      }
+    },
+    "gge463": {
+      "props": {
+        "Designator": "R26",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge463",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e389",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH3_HIGH"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH3_ATT1"
+        }
+      }
+    },
+    "gge473": {
+      "props": {
+        "Designator": "R27",
+        "Footprint": "54d616aeae33209b",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "db25167b46abc30d",
+        "Unique ID": "gge473",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e398",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH3_ATT1"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH3_ATT2"
+        }
+      }
+    },
+    "gge483": {
+      "props": {
+        "Designator": "R28",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge483",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e407",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH3_ATT2"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH3_ATT3"
+        }
+      }
+    },
+    "gge493": {
+      "props": {
+        "Designator": "R29",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge493",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e416",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH3_ATT3"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH3_ATT4"
+        }
+      }
+    },
+    "gge503": {
+      "props": {
+        "Designator": "R30",
+        "Footprint": "54d616aeae33209b",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "db25167b46abc30d",
+        "Unique ID": "gge503",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e425",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH3_ATT4"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH3_ATT5"
+        }
+      }
+    },
+    "gge513": {
+      "props": {
+        "Designator": "R31",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge513",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e434",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH3_ATT5"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH3_ATT6"
+        }
+      }
+    },
+    "gge523": {
+      "props": {
+        "Designator": "R32",
+        "Footprint": "54d616aeae33209b",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "db25167b46abc30d",
+        "Unique ID": "gge523",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e443",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH3_ATT6"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH3_ATT7"
+        }
+      }
+    },
+    "gge533": {
+      "props": {
+        "Designator": "R33",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge533",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e452",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH3_ATT7"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH3_ATT8"
+        }
+      }
+    },
+    "gge543": {
+      "props": {
+        "Designator": "R34",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge543",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e461",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH3_ATT8"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "CH3_SUM"
+        }
+      }
+    },
+    "gge553": {
+      "props": {
+        "Designator": "R35",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge553",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e470",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH3_SUM"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "VBIAS"
+        }
+      }
+    },
+    "gge566": {
+      "props": {
+        "Designator": "D8",
+        "Footprint": "97ec37459fa64236",
+        "Description": "",
+        "Name": "SOT23",
+        "Add into BOM": "yes",
+        "Device": "8fdce71afbb8b7e4",
+        "Unique ID": "gge566",
+        "FootprintName": "SOT23",
+        "DeviceName": "SOT23",
+        "Group ID": "",
+        "Channel ID": "$2e479",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "GND"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "3V3_A"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "CH3_SUM"
+        }
+      }
+    },
+    "gge576": {
+      "props": {
+        "Designator": "R36",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge576",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e488",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "CH3_BUF"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "PC2"
+        }
+      }
+    },
+    "gge586": {
+      "props": {
+        "Designator": "C6",
+        "Footprint": "0053beec1f9b605e",
+        "Description": "",
+        "Name": "C0805",
+        "Add into BOM": "yes",
+        "Device": "cd2af85f15b45a33",
+        "Unique ID": "gge586",
+        "FootprintName": "C0805",
+        "DeviceName": "C0805",
+        "Group ID": "",
+        "Channel ID": "$2e497",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "PC2"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge599": {
+      "props": {
+        "Designator": "D9",
+        "Footprint": "97ec37459fa64236",
+        "Description": "",
+        "Name": "SOT23",
+        "Add into BOM": "yes",
+        "Device": "8fdce71afbb8b7e4",
+        "Unique ID": "gge599",
+        "FootprintName": "SOT23",
+        "DeviceName": "SOT23",
+        "Group ID": "",
+        "Channel ID": "$2e506",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "GND"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "3V3_A"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "PC2"
+        }
+      }
+    },
+    "gge609": {
+      "props": {
+        "Designator": "J7",
+        "Footprint": "f2382a3a65e883d1",
+        "Description": "",
+        "Name": "HDR1X2",
+        "Add into BOM": "yes",
+        "Device": "11a5bdcf9520571e",
+        "Unique ID": "gge609",
+        "FootprintName": "HDR1X2",
+        "DeviceName": "HDR1X2",
+        "Group ID": "",
+        "Channel ID": "$2e515",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "3V3_IN"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge637": {
+      "props": {
+        "Designator": "J8",
+        "Footprint": "92866978dfd9f852",
+        "Description": "",
+        "Name": "HDR2X4",
+        "Add into BOM": "yes",
+        "Device": "6e621e3b56ac95d1",
+        "Unique ID": "gge637",
+        "FootprintName": "HDR2X4",
+        "DeviceName": "HDR2X4",
+        "Group ID": "",
+        "Channel ID": "$2e524",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "PA1"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "PC0"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "PA2"
+        },
+        "4": {
+          "name": "",
+          "number": "4",
+          "net": "PC1"
+        },
+        "5": {
+          "name": "",
+          "number": "5",
+          "net": "PA3"
+        },
+        "6": {
+          "name": "",
+          "number": "6",
+          "net": "PC2"
+        },
+        "7": {
+          "name": "",
+          "number": "7",
+          "net": "GND"
+        },
+        "8": {
+          "name": "",
+          "number": "8",
+          "net": "GND"
+        }
+      }
+    },
+    "gge647": {
+      "props": {
+        "Designator": "FB1",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge647",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e533",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "3V3_IN"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "3V3_A"
+        }
+      }
+    },
+    "gge657": {
+      "props": {
+        "Designator": "C7",
+        "Footprint": "0053beec1f9b605e",
+        "Description": "",
+        "Name": "C0805",
+        "Add into BOM": "yes",
+        "Device": "cd2af85f15b45a33",
+        "Unique ID": "gge657",
+        "FootprintName": "C0805",
+        "DeviceName": "C0805",
+        "Group ID": "",
+        "Channel ID": "$2e542",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "3V3_A"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge667": {
+      "props": {
+        "Designator": "C8",
+        "Footprint": "6f3d185220f7d357",
+        "Description": "",
+        "Name": "C0805",
+        "Add into BOM": "yes",
+        "Device": "069d85104894c04b",
+        "Unique ID": "gge667",
+        "FootprintName": "C0805",
+        "DeviceName": "C0805",
+        "Group ID": "",
+        "Channel ID": "$2e551",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "3V3_A"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge677": {
+      "props": {
+        "Designator": "R37",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge677",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e560",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "3V3_A"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "REF_MID"
+        }
+      }
+    },
+    "gge687": {
+      "props": {
+        "Designator": "R38",
+        "Footprint": "840d5114b71a38b1",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "13b5da9b4e17d1ea",
+        "Unique ID": "gge687",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e569",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "REF_MID"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "REF_RAW"
+        }
+      }
+    },
+    "gge697": {
+      "props": {
+        "Designator": "R39",
+        "Footprint": "c9dfdb5aba9e1038",
+        "Description": "",
+        "Name": "R0805",
+        "Add into BOM": "yes",
+        "Device": "0c6538c7d5506e06",
+        "Unique ID": "gge697",
+        "FootprintName": "R0805",
+        "DeviceName": "R0805",
+        "Group ID": "",
+        "Channel ID": "$2e578",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "REF_RAW"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge707": {
+      "props": {
+        "Designator": "C9",
+        "Footprint": "70f4f5fcb23ea21a",
+        "Description": "",
+        "Name": "C0805",
+        "Add into BOM": "yes",
+        "Device": "1622b8186c7bcc24",
+        "Unique ID": "gge707",
+        "FootprintName": "C0805",
+        "DeviceName": "C0805",
+        "Group ID": "",
+        "Channel ID": "$2e587",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "REF_RAW"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "GND"
+        }
+      }
+    },
+    "gge753": {
+      "props": {
+        "Designator": "U1",
+        "Footprint": "41f10aa4d5b7be1d",
+        "Description": "",
+        "Name": "SOIC14",
+        "Add into BOM": "yes",
+        "Device": "7e90f5df9f16a5d1",
+        "Unique ID": "gge753",
+        "FootprintName": "SOIC14",
+        "DeviceName": "SOIC14",
+        "Group ID": "",
+        "Channel ID": "$2e596",
+        "Reuse Block": "",
+        "PCB Layer": "TopLayer",
+        "Convert to PCB": "yes"
+      },
+      "pinInfoMap": {
+        "1": {
+          "name": "",
+          "number": "1",
+          "net": "VBIAS"
+        },
+        "2": {
+          "name": "",
+          "number": "2",
+          "net": "VBIAS"
+        },
+        "3": {
+          "name": "",
+          "number": "3",
+          "net": "REF_RAW"
+        },
+        "4": {
+          "name": "",
+          "number": "4",
+          "net": "3V3_A"
+        },
+        "5": {
+          "name": "",
+          "number": "5",
+          "net": "CH1_SUM"
+        },
+        "6": {
+          "name": "",
+          "number": "6",
+          "net": "CH1_BUF"
+        },
+        "7": {
+          "name": "",
+          "number": "7",
+          "net": "CH1_BUF"
+        },
+        "8": {
+          "name": "",
+          "number": "8",
+          "net": "CH2_BUF"
+        },
+        "9": {
+          "name": "",
+          "number": "9",
+          "net": "CH2_BUF"
+        },
+        "10": {
+          "name": "",
+          "number": "10",
+          "net": "CH2_SUM"
+        },
+        "11": {
+          "name": "",
+          "number": "11",
+          "net": "GND"
+        },
+        "12": {
+          "name": "",
+          "number": "12",
+          "net": "CH3_SUM"
+        },
+        "13": {
+          "name": "",
+          "number": "13",
+          "net": "CH3_BUF"
+        },
+        "14": {
+          "name": "",
+          "number": "14",
+          "net": "CH3_BUF"
+        }
+      }
+    }
+  },
+  "designRule": {
+    "trackPhysics": {
+      "Default": {
+        "name": "Default",
+        "isDefault": true,
+        "unit": "mm",
+        "strokeValue": {
+          "1": {
+            "default": 0.24999949999999999,
+            "min": 0.24999949999999999,
+            "max": 25.4
+          }
+        }
+      }
+    },
+    "netRule": {
+      "CH1_DIRECT": {
+        "net": "CH1_DIRECT",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "GND": {
+        "net": "GND",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH1_HIGH": {
+        "net": "CH1_HIGH",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PA1": {
+        "net": "PA1",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "3V3_A": {
+        "net": "3V3_A",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH1_ATT1": {
+        "net": "CH1_ATT1",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH1_ATT2": {
+        "net": "CH1_ATT2",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH1_ATT3": {
+        "net": "CH1_ATT3",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH1_ATT4": {
+        "net": "CH1_ATT4",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH1_ATT5": {
+        "net": "CH1_ATT5",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH1_ATT6": {
+        "net": "CH1_ATT6",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH1_ATT7": {
+        "net": "CH1_ATT7",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH1_ATT8": {
+        "net": "CH1_ATT8",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH1_SUM": {
+        "net": "CH1_SUM",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "VBIAS": {
+        "net": "VBIAS",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH1_BUF": {
+        "net": "CH1_BUF",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PC0": {
+        "net": "PC0",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH2_DIRECT": {
+        "net": "CH2_DIRECT",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH2_HIGH": {
+        "net": "CH2_HIGH",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PA2": {
+        "net": "PA2",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH2_ATT1": {
+        "net": "CH2_ATT1",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH2_ATT2": {
+        "net": "CH2_ATT2",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH2_ATT3": {
+        "net": "CH2_ATT3",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH2_ATT4": {
+        "net": "CH2_ATT4",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH2_ATT5": {
+        "net": "CH2_ATT5",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH2_ATT6": {
+        "net": "CH2_ATT6",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH2_ATT7": {
+        "net": "CH2_ATT7",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH2_ATT8": {
+        "net": "CH2_ATT8",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH2_SUM": {
+        "net": "CH2_SUM",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH2_BUF": {
+        "net": "CH2_BUF",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PC1": {
+        "net": "PC1",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH3_DIRECT": {
+        "net": "CH3_DIRECT",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH3_HIGH": {
+        "net": "CH3_HIGH",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PA3": {
+        "net": "PA3",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH3_ATT1": {
+        "net": "CH3_ATT1",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH3_ATT2": {
+        "net": "CH3_ATT2",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH3_ATT3": {
+        "net": "CH3_ATT3",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH3_ATT4": {
+        "net": "CH3_ATT4",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH3_ATT5": {
+        "net": "CH3_ATT5",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH3_ATT6": {
+        "net": "CH3_ATT6",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH3_ATT7": {
+        "net": "CH3_ATT7",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH3_ATT8": {
+        "net": "CH3_ATT8",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH3_SUM": {
+        "net": "CH3_SUM",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "CH3_BUF": {
+        "net": "CH3_BUF",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "PC2": {
+        "net": "PC2",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "3V3_IN": {
+        "net": "3V3_IN",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "REF_MID": {
+        "net": "REF_MID",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      },
+      "REF_RAW": {
+        "net": "REF_RAW",
+        "ruleMap": {
+          "TrackPhysics": ""
+        }
+      }
+    }
+  },
+  "netClass": {},
+  "equalLengthNetGroup": {},
+  "differentialPair": {}
+}

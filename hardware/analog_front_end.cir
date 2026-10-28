@@ -1,0 +1,45 @@
+* STM32F407 oscilloscope input reference model (one direct + one +/-15 V path)
+* Generic op amps are ideal VCVS blocks here; replace with a vendor TLV9064 model
+* before PCB release and add measured source/probe capacitance.
+
+.param VINHI=0 VINDIR=1.65
+V3V3 3v3 0 3.3
+VHI in_hi 0 {VINHI} AC 1
+VDIR in_dir 0 {VINDIR}
+
+* 1.8333 V reference, idealized buffered output
+RREF_TOP 3v3 ref_raw 80k
+RREF_BOT ref_raw 0 100k
+CREF ref_raw 0 100n
+EREF ref 0 ref_raw 0 1
+
+* High range: the nine elements distribute input voltage and improve safety
+R1 in_hi n1 100k
+R2 n1 n2 100k
+R3 n2 n3 100k
+R4 n3 n4 100k
+R5 n4 n5 100k
+R6 n5 n6 100k
+R7 n6 n7 100k
+R8 n7 n8 100k
+R9 n8 sum 100k
+RBIAS ref sum 100k
+DSUM_UP sum 3v3 DCLAMP
+DSUM_DN 0 sum DCLAMP
+EBUF hi_buf 0 sum 0 1
+ROUT hi_buf adc_hi 33
+CHI adc_hi 0 1n
+DHI_UP adc_hi 3v3 DCLAMP
+DHI_DN 0 adc_hi DCLAMP
+
+* Direct 0-3.3 V route
+RDIR in_dir adc_direct 100
+CDIR adc_direct 0 1n
+DDIR_UP adc_direct 3v3 DCLAMP
+DDIR_DN 0 adc_direct DCLAMP
+
+.model DCLAMP D(Is=2u Rs=1 N=1.05 Cjo=10p)
+.dc VHI -18 18 0.1
+*.ac dec 100 10 20Meg
+.print dc V(ref) V(adc_hi)
+.end

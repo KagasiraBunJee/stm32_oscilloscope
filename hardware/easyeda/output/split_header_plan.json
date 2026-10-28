@@ -1,0 +1,648 @@
+{
+  "headers": [
+    {
+      "ref": "J9",
+      "net": "PA1",
+      "x": 1840,
+      "y": -1315,
+      "rotation": 270,
+      "bbox": {
+        "minX": 1785,
+        "maxX": 1895,
+        "minY": -1420,
+        "maxY": -1210
+      },
+      "pads": [
+        {
+          "x": 1840,
+          "y": -1265,
+          "net": "PA1",
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "x": 1840,
+          "y": -1365,
+          "net": "GND",
+          "width": 70.9,
+          "height": 70.9
+        }
+      ],
+      "signalPath": [
+        [
+          1840,
+          -1265
+        ],
+        [
+          1850.6,
+          -1275.6
+        ],
+        [
+          1970,
+          -1275.6
+        ]
+      ],
+      "groundPath": [
+        [
+          1840,
+          -1365
+        ],
+        [
+          1850.6,
+          -1354.4
+        ],
+        [
+          1970,
+          -1354.4
+        ]
+      ],
+      "score": 260.8628758562628
+    },
+    {
+      "ref": "J10",
+      "net": "PC0",
+      "x": 1695,
+      "y": -3000,
+      "rotation": 270,
+      "bbox": {
+        "minX": 1640,
+        "maxX": 1750,
+        "minY": -3105,
+        "maxY": -2895
+      },
+      "pads": [
+        {
+          "x": 1695,
+          "y": -2950,
+          "net": "PC0",
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "x": 1695,
+          "y": -3050,
+          "net": "GND",
+          "width": 70.9,
+          "height": 70.9
+        }
+      ],
+      "signalPath": [
+        [
+          1695,
+          -2950
+        ],
+        [
+          1703.6999999999998,
+          -2958.7
+        ],
+        [
+          1845,
+          -2958.7
+        ]
+      ],
+      "groundPath": [
+        [
+          1695,
+          -3050
+        ],
+        [
+          1703.6999999999998,
+          -3041.3
+        ],
+        [
+          1807.6,
+          -3041.3
+        ]
+      ],
+      "score": 263.18768929035883
+    },
+    {
+      "ref": "J11",
+      "net": "PA2",
+      "x": 1035,
+      "y": -2270,
+      "rotation": 90,
+      "bbox": {
+        "minX": 980,
+        "maxX": 1090,
+        "minY": -2375,
+        "maxY": -2165
+      },
+      "pads": [
+        {
+          "x": 1035,
+          "y": -2320,
+          "net": "PA2",
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "x": 1035,
+          "y": -2220,
+          "net": "GND",
+          "width": 70.9,
+          "height": 70.9
+        }
+      ],
+      "signalPath": [],
+      "groundPath": [],
+      "score": 1334.3193841188586,
+      "needsReroute": true
+    },
+    {
+      "ref": "J12",
+      "net": "PC1",
+      "x": 2030,
+      "y": -2185,
+      "rotation": 90,
+      "bbox": {
+        "minX": 1975,
+        "maxX": 2085,
+        "minY": -2290,
+        "maxY": -2080
+      },
+      "pads": [
+        {
+          "x": 2030,
+          "y": -2235,
+          "net": "PC1",
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "x": 2030,
+          "y": -2135,
+          "net": "GND",
+          "width": 70.9,
+          "height": 70.9
+        }
+      ],
+      "signalPath": [
+        [
+          2030,
+          -2235
+        ],
+        [
+          2019.4,
+          -2224.4
+        ],
+        [
+          1900,
+          -2224.4
+        ]
+      ],
+      "groundPath": [
+        [
+          2030,
+          -2135
+        ],
+        [
+          2019.4,
+          -2145.6
+        ],
+        [
+          1900,
+          -2145.6
+        ]
+      ],
+      "score": 260.8628758562628
+    },
+    {
+      "ref": "J13",
+      "net": "PA3",
+      "x": 1095,
+      "y": -3150,
+      "rotation": 0,
+      "bbox": {
+        "minX": 990,
+        "maxX": 1200,
+        "minY": -3205,
+        "maxY": -3095
+      },
+      "pads": [
+        {
+          "x": 1045,
+          "y": -3150,
+          "net": "PA3",
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "x": 1145,
+          "y": -3150,
+          "net": "GND",
+          "width": 70.9,
+          "height": 70.9
+        }
+      ],
+      "signalPath": [
+        [
+          1045,
+          -3150
+        ],
+        [
+          1235.6,
+          -3340.6
+        ],
+        [
+          1235.6,
+          -3345
+        ]
+      ],
+      "groundPath": [
+        [
+          1145,
+          -3150
+        ],
+        [
+          1314.4,
+          -3319.4
+        ],
+        [
+          1314.4,
+          -3345
+        ]
+      ],
+      "score": 530.9829064864505
+    },
+    {
+      "ref": "J14",
+      "net": "PC2",
+      "x": 2390,
+      "y": -1990,
+      "rotation": 270,
+      "bbox": {
+        "minX": 2335,
+        "maxX": 2445,
+        "minY": -2095,
+        "maxY": -1885
+      },
+      "pads": [
+        {
+          "x": 2390,
+          "y": -1940,
+          "net": "PC2",
+          "width": 70.9,
+          "height": 70.9
+        },
+        {
+          "x": 2390,
+          "y": -2040,
+          "net": "GND",
+          "width": 70.9,
+          "height": 70.9
+        }
+      ],
+      "signalPath": [],
+      "groundPath": [],
+      "score": 1260.8628758562627,
+      "needsReroute": true
+    }
+  ],
+  "removeTracks": [
+    {
+      "endX": 2334.5,
+      "endY": -2982.5,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PA2",
+      "primitiveId": "03e1ccaef0b98091",
+      "startX": 2362.2,
+      "startY": -3010.2
+    },
+    {
+      "endX": 2097.5,
+      "endY": -2982.5,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PA2",
+      "primitiveId": "674c8c052f0f93ee",
+      "startX": 2334.5,
+      "startY": -2982.5
+    },
+    {
+      "endX": 2082.5,
+      "endY": -2997.5,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PA2",
+      "primitiveId": "ba636fe477bf336f",
+      "startX": 2097.5,
+      "startY": -2982.5
+    },
+    {
+      "endX": 1782.5,
+      "endY": -2997.5,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PA2",
+      "primitiveId": "f37ae054f0a9bf53",
+      "startX": 2082.5,
+      "startY": -2997.5
+    },
+    {
+      "endX": 1595,
+      "endY": -3185,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PA2",
+      "primitiveId": "01a55c5e2ba1a1ec",
+      "startX": 1782.5,
+      "startY": -2997.5
+    },
+    {
+      "endX": 1360,
+      "endY": -3185,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PA2",
+      "primitiveId": "4a4a05bfed9c50a0",
+      "startX": 1595,
+      "startY": -3185
+    },
+    {
+      "endX": 1360,
+      "endY": -3160,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PA2",
+      "primitiveId": "524d57d104ff3c00",
+      "startX": 1360,
+      "startY": -3185
+    },
+    {
+      "endX": 1275.6,
+      "endY": -3075.6,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PA2",
+      "primitiveId": "8a9e9b9adfffd7a8",
+      "startX": 1360,
+      "startY": -3160
+    },
+    {
+      "endX": 1270,
+      "endY": -3075.6,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PA2",
+      "primitiveId": "0ac4530faa04357c",
+      "startX": 1275.6,
+      "startY": -3075.6
+    },
+    {
+      "endX": 2462.2,
+      "endY": -2702.2,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PC0",
+      "primitiveId": "3b71366c6a3f3341",
+      "startX": 2462.2,
+      "startY": -2910.2
+    },
+    {
+      "endX": 1945,
+      "endY": -2185,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PC0",
+      "primitiveId": "01b3cd3131781528",
+      "startX": 2462.2,
+      "startY": -2702.2
+    },
+    {
+      "endX": 1855,
+      "endY": -2185,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PC0",
+      "primitiveId": "4b2a49fc87d23d3f",
+      "startX": 1945,
+      "startY": -2185
+    },
+    {
+      "endX": 1845,
+      "endY": -2195,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PC0",
+      "primitiveId": "bc797b2a5c876bd1",
+      "startX": 1855,
+      "startY": -2185
+    },
+    {
+      "endX": 2037.3,
+      "endY": -3110.2,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PA3",
+      "primitiveId": "be2b2339744946bb",
+      "startX": 2362.2,
+      "startY": -3110.2
+    },
+    {
+      "endX": 1925,
+      "endY": -3222.5,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PA3",
+      "primitiveId": "49802fd74530e6b2",
+      "startX": 2037.3,
+      "startY": -3110.2
+    },
+    {
+      "endX": 1352.5,
+      "endY": -3222.5,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PA3",
+      "primitiveId": "85ddfcfb75c2f538",
+      "startX": 1925,
+      "startY": -3222.5
+    },
+    {
+      "endX": 1235.6,
+      "endY": -3339.4,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PA3",
+      "primitiveId": "ffc6b9f1feb79cc9",
+      "startX": 1352.5,
+      "startY": -3222.5
+    },
+    {
+      "endX": 1235.6,
+      "endY": -3345,
+      "layer": 1,
+      "lineWidth": 10,
+      "locked": false,
+      "net": "PA3",
+      "primitiveId": "9e6128c6359c27bc",
+      "startX": 1235.6,
+      "startY": -3339.4
+    }
+  ],
+  "routes": [
+    {
+      "net": "PA1",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1840,
+      "startY": -1265,
+      "endX": 1850.6,
+      "endY": -1275.6
+    },
+    {
+      "net": "PA1",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1850.6,
+      "startY": -1275.6,
+      "endX": 1970,
+      "endY": -1275.6
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1840,
+      "startY": -1365,
+      "endX": 1850.6,
+      "endY": -1354.4
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1850.6,
+      "startY": -1354.4,
+      "endX": 1970,
+      "endY": -1354.4
+    },
+    {
+      "net": "PC0",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1695,
+      "startY": -2950,
+      "endX": 1703.6999999999998,
+      "endY": -2958.7
+    },
+    {
+      "net": "PC0",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1703.6999999999998,
+      "startY": -2958.7,
+      "endX": 1845,
+      "endY": -2958.7
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1695,
+      "startY": -3050,
+      "endX": 1703.6999999999998,
+      "endY": -3041.3
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1703.6999999999998,
+      "startY": -3041.3,
+      "endX": 1807.6,
+      "endY": -3041.3
+    },
+    {
+      "net": "PC1",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 2030,
+      "startY": -2235,
+      "endX": 2019.4,
+      "endY": -2224.4
+    },
+    {
+      "net": "PC1",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 2019.4,
+      "startY": -2224.4,
+      "endX": 1900,
+      "endY": -2224.4
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2030,
+      "startY": -2135,
+      "endX": 2019.4,
+      "endY": -2145.6
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 2019.4,
+      "startY": -2145.6,
+      "endX": 1900,
+      "endY": -2145.6
+    },
+    {
+      "net": "PA3",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1045,
+      "startY": -3150,
+      "endX": 1235.6,
+      "endY": -3340.6
+    },
+    {
+      "net": "PA3",
+      "layer": 1,
+      "lineWidth": 15.748031496062994,
+      "startX": 1235.6,
+      "startY": -3340.6,
+      "endX": 1235.6,
+      "endY": -3345
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1145,
+      "startY": -3150,
+      "endX": 1314.4,
+      "endY": -3319.4
+    },
+    {
+      "net": "GND",
+      "layer": 1,
+      "lineWidth": 23.62204724409449,
+      "startX": 1314.4,
+      "startY": -3319.4,
+      "endX": 1314.4,
+      "endY": -3345
+    }
+  ]
+}
